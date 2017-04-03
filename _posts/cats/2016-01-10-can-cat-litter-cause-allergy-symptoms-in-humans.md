@@ -15,7 +15,7 @@ Think you're allergic to your cat? You might be allergic to the cat litter inste
 
 So what exactly are human allergies anyway? [According to Wikipedia](https://en.wikipedia.org/wiki/Allergy), allergies, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
-In other words, a substance called “allergen” will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
+In other words, a substance called "allergen" will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
 
 Allergies can develop with any person at any age. So even if you have been using a certain type of cat litter for a long time without it causing an allergic reaction, nothing is to say that at a certain moment, you could become allergic to it.
 
