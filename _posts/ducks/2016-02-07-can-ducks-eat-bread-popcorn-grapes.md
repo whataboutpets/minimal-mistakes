@@ -47,5 +47,26 @@ In short, don't feed popcorn to ducks and opt for some healthier choices as give
 
 ## Can Ducks Eat Grapes? - In Moderation
 
+Grapes are a type of fruit that come in a number of colors. They are grown all over the world and aside being used for wine production they are a popular between-meal snack for us humans.
 
+A grape is a great source of **natural sugar** and a great treat for ducks when given in moderation. Before feeding them to ducks, our advice is to **cut the grapes in half** as this will make consumption easier.
 
+When looking for a healthy alternative to bread, grapes are a good choice for feeding both domesticated and wild ducks. But remember to combine with other treats and **exercise portion control**!
+
+## Can Ducks Eat Chocolate? - Nope
+
+Chocolate is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery) or used as a flavoring ingredient in other foods.
+
+Chocolate contains substances called **theobromine and caffeine** which come from the cacao bean. The cocoa trees load up the cocoa beans with these substances in order to [protect the cacao bean from being eaten](http://www.amanochocolate.com/articles/how-much-caffeine-is-in-chocolate/). While our human body is capable of detoxifying and removing theobromine and caffeine, to insects and wildlife, these substances can actually be toxic.
+
+Theobromine and caffeine originate from the cacao bean. As a general rule, **the more cacao the chocolate contains** (typically the darker chocolate), **the more dangerous** it is for certain animals.
+
+Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/). But chocolate is also **toxic to livestock like calves, goats and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
+
+Bottom line, **never feed ducks chocolate**.
+
+## A Few Sources
+
+[http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements](http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements)
+[http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html](http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html)
+[http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm](http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm)
