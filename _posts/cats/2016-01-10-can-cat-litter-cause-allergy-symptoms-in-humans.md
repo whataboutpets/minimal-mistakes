@@ -6,7 +6,7 @@ categories: [Cats]
 tags: [Allergies, Cat, Humans, Litter, Symptoms]
 header:
   image: /assets/images/cats/allergies_sneezing.jpg
-  caption: "todo"
+  caption: "William Brawley – flickr.com (CC BY 2.0) / Cropped from original"
 ---
 
 Test
