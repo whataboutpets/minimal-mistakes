@@ -66,6 +66,11 @@ If for some reason it is not possible to switch the cat litter you are using, th
 * **Wash your hands** thoroughly after handling your cat.
 * **Clean the litter box** and surrounding area on a regular basis. This means scooping the litter at least once a day and changing all litter once a week.
 * Place the litter box in a well-ventilated area that has vents to the outside.
+* Don't put the litter box frequently trafficked areas or close to air ducts.
+* Make a habit of **ventilating your house/apartment** for about 5-10 minutes a day by opening all windows and doors (don't apply on pollution or high-pollen days).
 
+Some allergies can also be reduced with the help of medication. Always consult with your local physician regarding the different options treating allergies and asthma.
 
+> In short, yes cat litter can trigger allergies and their accompanying symptoms. The easiest way to treat them is by trying out a different kind of cat litter.
 
+Let me know if the above post was helpful to you. Do you know of any other signs that might indicate that someone is allergic to cat litter? And what has worked for you in solving your cat litter allergy?
