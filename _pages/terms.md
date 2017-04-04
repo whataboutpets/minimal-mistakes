@@ -3,7 +3,7 @@ permalink: /terms/
 title: "Terms and Policies"
 date: 2016-01-10
 last_modified_at: 2017-04-04T16:30:00-01:00
-excerpt: "WhatAboutPets terms & conditions, privacy policy and license."
+excerpt: "whataboutpets.com terms & conditions, privacy policy and license."
 share: false
 author: false
 ---
@@ -53,11 +53,9 @@ Google Analytics is a web analytics tool we use to help understand how visitors 
 
 We make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because we will get a percentage of that sale.
 
-Currently I'm an affiliate for Amazon and Google Adsense.
+Currently we are an affiliate for Amazon and Google Adsense.
 
-What this means for you:
-
-- We became an affiliate to earn revenue towards the costs of running and maintaining this website. Where we have direct control over which ads are served on this website we offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+What this means for you: we became an affiliate to earn revenue towards the costs of running and maintaining this website. Where we have direct control over which ads are served on this website we offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
 
 Just like this website, our Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
 
