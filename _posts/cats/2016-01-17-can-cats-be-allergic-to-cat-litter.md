@@ -71,6 +71,6 @@ When switching kitty litter, try to get a hypoallergenic type. This typically me
 
 As for your kitty, give her/him a bath or alternatively wipe the fur with hypoallergenic wipes to remove all old litter dust. Clean the litter box by thoroughly washing it down to get rid of any remaining allergens. Also, vacuum or wash the surrounding area, bedding, toys and other objects to make sure any remaining litter dust is gone.
 
-> It is important to note that your cat may be allergic to a number of different allergens that don’t all originate from the same source. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
+> It is important to note that your cat may be allergic to a number of different allergens that don't all originate from the same source. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
 
 What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy? Thanks for letting us know!
