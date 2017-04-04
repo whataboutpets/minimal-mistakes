@@ -42,7 +42,7 @@ In addition to the above, additional minerals or chemicals can be found in certa
 
 <figure>
     <img src="{{ site.url }}/assets/images/cats/cat-litter.png" alt="cat litter">
-    <figcaption>Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
+    <figcaption>test</figcaption>
 </figure>
 
 If you're allergic to cat litter, you might notice a **runny nose, sneezing, red eyes, shortness of breath or asthma**. In some cases, you can even develop **hives on your skin**. As previously mentioned, these symptoms are caused by our immune system because it considers some of the substances in the cat litter to be harmful and tries to get rid of them.
