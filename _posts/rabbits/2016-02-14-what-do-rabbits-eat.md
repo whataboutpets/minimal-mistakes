@@ -65,16 +65,63 @@ As far as portion size is concerned, typically **one stick of celery per bunny**
 
 In conclusion, rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
 
+## Can Rabbits Eat Grapes? - In Small Amounts
+
+Grapes are grown all over the world and aside from being used for wine production they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape) and come in many colors, including green, red, black, yellow, pink, and purple.
+
+Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
+
+Before offering the grapes, **rinse them thoroughly with running water** as many grape vineyards will rely on pesticides to keep their grapes safe from bugs. Then simply remove the grapes from the cluster and feed them as a whole.
+
+If it's the first time you are giving a grape to your rabbit then it might be a good idea to cut it up in half. This way it is easier for them to smell and taste the juice.
+
+Feeding to many grapes at a time could cause digestive problems with your rabbit. And in the long run, all that sugar will probably cause other problems like obesity. In other words, make sure to **offer grapes in small amounts**. As a simple rule of thumb feed **one grape per rabbit per day**.
+
+So sure, rabbits can eat grapes as an occasional treat. They are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
+
+## Can Rabbits Eat Tomatoes? - In Small Amounts
+
+Tomatoes are the edible fruit of the tomato plant which originates from Central and South America. Even though from a culinary point of view tomatoes are considered to be vegetables, [they are actually a fruit](https://en.wikipedia.org/wiki/Tomato).
+
+Tomatoes mostly consist of water, but they also contain **sugars** and dietary fiber. Like other fruits, they **should be considered as a treat** for you rabbit. This means that they should be offered in limited quantities as feeding too much will lead to digestive troubles.
+
+Make sure to rinse and discard any rotten fruits before presenting to your bunny. There is no need to peel the tomato as rabbits can also eat the skin and the seeds without a problem. We recommend feeding a rabbit **no more than a few slices of tomato per day**.
+
+Although rabbits can eat tomatoes, **they should not be fed stems, vines, leaves, and green unripe fruit of the tomato plant**. The reason for this is that the tomato plant is part of the [nightshade family](https://en.wikipedia.org/wiki/Solanaceae). Many members of this plant family contain potent alkaloids, and some are highly **toxic**.
+
+However, we are not able to conclude that by default the tomato plant is toxic for all rabbits. It really seems to depend on the tomato plant and on the rabbit. We even came across [accounts](http://rabbittalk.com/should-rabbits-eat-tomato-greens-t4411.html#p43266) where people state they have fed tomato plants to their rabbits without any problems. **Our advice is to not take the risk and only feed the actual fruit**.
+
+To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
+
+## Can Rabbits Eat Strawberries? - In Small Amounts
+
+Strawberries are cultivated worldwide and are known for their [bright red color, juicy texture, and sweetness](https://en.wikipedia.org/wiki/Strawberry). They are a popular fruit and not just among us humans. The low-lying strawberry plants are actually easy for wild rabbits to reach, something fruit and vegetable garden owners might know only too well.
+
+In addition to **sugar** and some dietary fibers, strawberries are an excellent source of vitamin C. The fact that they are rich in sugar also means they **are to be considered as a treat** for your fluffy friend. Too many strawberries may lead to stomach troubles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaBWS-M39hM" frameborder="0" allowfullscreen></iframe>
+
+If you're wondering whether your rabbit can also eat the **strawberry tops** or even the **strawberry leaves** then the answer is yes. **They can actually eat any part of the plant**, just make sure to clean with streaming water before feeding.
+
+As with all fruit, portion control is key in other to ensure a healthy diet. As a general rule of thumb, don't offer more than **a strawberry per day per rabbit** and alternate with other fruits. If it's the first time offering the treat to your bunny, then introduce slowly.
+
+Bottom line, strawberries are a great occasional treat for your rabbit.
+
+Can Rabbits Eat Watermelon? - In Small Amounts
+
+Watermelons originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries). They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
+
+A watermelon is more than 91 percent water. In addition to **sugar**, it also contains vitamin C in moderate quantity. Because of the sugar, watermelon **should be seen as a treat**.
+
+Aside from the interior flesh, the **watermelon rind is also safe** for bunnies to eat. When it comes to the watermelon seeds, we haven't come across any reference saying that they are poisonous for rabbits. Just to be on the safe side we advise that you **remove the seeds** before feeding.
+
+Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As watermelon juice is quite sticky, offer pieces they can easily eat in order to avoid their fur getting dirty. When offering for the first time be sure to start with a small amount to see your bunnies reaction.
+
+Rabbits can have watermelon but don't let them have too much.
 
 
 
-
-
-
-
-
-
- ## A Few Sources
+## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm)
 * [http://www.bio.miami.edu/hare/diet.html](http://www.bio.miami.edu/hare/diet.html)
 * [http://rabbit.org/faq-diet/](http://rabbit.org/faq-diet/)
