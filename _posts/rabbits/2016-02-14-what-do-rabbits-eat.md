@@ -33,6 +33,8 @@ So what can rabbits eat? Let's dive into the list!
 
 ## Can Rabbits Eat Apples? - In Small Amounts
 
+![image-left](/assets/images/icons/food/apples.jpg){: .align-left}
+
 Rabbits have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
 
 They are however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutrition) as they contain lots of sugar, so make sure to **keep the quantity of this treat to a minimum**. Note that if your rabbit already has a weight problem, it is best to avoid feeding any type of fruit, including apples.
