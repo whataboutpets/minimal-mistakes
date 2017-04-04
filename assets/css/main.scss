@@ -80,12 +80,16 @@ $susy: (
    whataboutpets
    ========================================================================== */
 
-a {
+h1 {
+  margin-top: 60px;
+}
+
+.page__content a {
   color: #f50057;
   font-weight: bold;
   text-decoration: underline;
 }
 
-h1 {
-  margin-top: 60px;
+blockquote {
+  border-left-color: #f50057;
 }
