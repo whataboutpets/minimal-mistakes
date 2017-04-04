@@ -19,7 +19,7 @@ Most of the food items mentioned below are to be considered as **treats and shou
 
 A last important item we want to mention is that [a duck's digestive system works quite different from our own](http://www.ducks.org/hunting/understanding-waterfowl-duck-digestion). Because of this, it is important for domesticated ducks to have access to **fresh drinking water and grit** (coarse dirt, pebbles or stones) as this helps them to digest their food.
 
-So what can ducks eat? Let’s dive into the list!
+So what can ducks eat? Let's dive into the list!
 
 ## Can Ducks Eat Bread? - Nope
 
