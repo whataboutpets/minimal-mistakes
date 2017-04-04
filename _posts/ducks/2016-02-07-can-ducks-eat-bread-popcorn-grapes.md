@@ -67,6 +67,6 @@ Bottom line, **never feed ducks chocolate**.
 
 ## A Few Sources
 
-[http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements](http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements)
-[http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html](http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html)
-[http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm](http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm)
+* [http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements](http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements)
+* [http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html](http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html)
+* [http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm](http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm)
