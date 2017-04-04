@@ -11,7 +11,7 @@ header:
 
 Ever wondered whether bread is bad for ducks? What about fish, vegetables, fruits, snacks or even food from other pets? In order to help you decide, we have compiled a list of different food items and whether it is a good idea to offer them to ducks or not.
 
-_Disclaimer_: the list below is by no means exhaustive. **If you're unsure** about feeding a duck a certain type of food, our best advice is to **just don't do it**. In addition, when doing our research, we noticed that a number of the below items are up for debate. So if you know something we haven't mentioned please let us know in the comments section below.
+Disclaimer: the list below is by no means exhaustive. **If you're unsure** about feeding a duck a certain type of food, our best advice is to **just don't do it**. In addition, when doing our research, we noticed that a number of the below items are up for debate. So if you know something we haven't mentioned please let us know in the comments section below.
 
 Before diving into specific food items, there are some basic duck feeding aspects we would like to mention. In general, the best foods for ducks are those that provide the **nutrients, minerals and vitamins** a duck needs for healthy growth and development. Most of these foods are actually similar to what [wild ducks will forage on their own](https://en.wikipedia.org/wiki/Duck#Feeding) (grasses, aquatic plants, fish, insects, ...).
 
@@ -23,7 +23,29 @@ So what can ducks eat? Let's dive into the list!
 
 ## Can Ducks Eat Bread? - Nope
 
+This is the most searched, but also one of the most debated questions we have encountered. And you might be surprised to see that we advise against feeding ducks bread.
 
+After all, haven't we all seen people giving leftover bread crumbs to ducks at a local river or pond. Chances are you've even done this yourself. So why is bread bad for ducks?
+
+Bread is actually a good source of carbohydrates but other than that it offers **little nutritional value** for ducks. Eating a lot of bread will make a duck overweight and can even lead to malnutrition. Offered in extreme moderation, bread is not harmful to ducks but especially for wild ducks that moderation is very hard to judge.
+
+Feeding ducks bread can also lead to a number of other problems. Uneaten bread in water can cause **algal blooms**, which in turn [can affect water life](https://en.wikipedia.org/wiki/Algal_bloom#Freshwater_algal_blooms) and cause plants and fish to die off. Moldy decayed bread can lead to **diseases** among ducks that in some cases can even be fatal. And young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
+
+Our advice is to **offer ducks healthier alternatives instead of bread**. If you are wondering what these alternatives might be, feel free to scroll down further on this page to discover some healthy duck treats.
+
+## Can Ducks Eat Popcorn? - Nope
+
+Sure ducks can eat popcorn, as long as you take them to the pictures first :-)
+
+All joking aside you won't be surprised to see that we are advising not to give ducks popcorn. The reason is actually very similar to the ones we mentioned for bread.
+
+For ducks, it's important to have a balanced diet in order to avoid **malnutrition and growth problems**. Most popcorn is produced in such a way that it doesn't contain any nutritional value other than carbohydrates. Manufactures add butter, sugar, salt and other chemicals to enhance flavor but this comes at the cost of extra calories.
+
+As wild ducks often feed in areas where they are threatened by predators, they have adapted to be able to "feed and run". As a consequence, they have extra storage capacity in the part between throat and stomach, called esophagus. Some people mention that [popcorn is harder for ducks to swallow](https://www.quora.com/Why-arent-you-supposed-to-feed-ducks-popcorn) as the kernels could get snagged in their esophagus and potentially lead to choking or abrasions.
+
+In short, don't feed popcorn to ducks and opt for some healthier choices as given below.
+
+## Can Ducks Eat Grapes? - In Moderation
 
 
 
