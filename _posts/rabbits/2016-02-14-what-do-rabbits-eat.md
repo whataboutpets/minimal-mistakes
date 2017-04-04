@@ -119,7 +119,45 @@ Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As wate
 
 Rabbits can have watermelon but don't let them have too much.
 
+## Can Rabbits Eat Bananas? - In Small Amounts
 
+The banana is an edible fruit, that from a botanical point of view, is actually a berry. While the [original wild bananas contain large seeds](https://en.wikipedia.org/wiki/Banana#Modern_cultivation), bananas for human consumption are grown asexually from offshoots and have tiny infertile black specks where the seeds used to be.
+
+Practically every banana consumed in the western world is directly descended from a plant that was grown in the Derbyshire estate's hothouse 180 years ago. They are commonly referred to as [Cavendish group bananas](https://en.wikipedia.org/wiki/Banana#Cavendish), named after William Cavendish, 6th Duke of Devonshire.
+
+Bananas contain quite **a lot of starch and sugar** in addition to being a good source of vitamin B. Because of their high sugar content they are to be seen as a **treat** that should **only be offered in very small quantities** to your rabbit.
+
+Contrary to what you might think, the peel of a banana is actually edible by both us humans and your rabbit. Our advice is to **only feed the peel of organic bananas** which are not treated with pesticides. This opposite to [industrial banana farming which is typically pesticide-intensive](http://www.ewg.org/enviroblog/2014/04/bananas) as bananas are grown in massive monocultures, without crop rotation.
+
+Offer your bunny **no more than 2 to 3 slices of banana per rabbit per day**. It is especially important to keep the quantities small as your long eared friends intestines are designed to digest grass and not food products high in carbohydrates (starch and sugar) like the banana.
+
+Even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities.
+
+## Can Rabbits Eat Cabbage? - In Small Amounts
+
+Cabbage is a [multi-layered vegetable](https://en.wikipedia.org/wiki/Cabbage), grown for its dense-leaved head. Within the cabbage family, there are three main cultivar groups: **savoy cabbage, red cabbage, and white cabbage**.
+
+In addition to dietary fiber, cabbage leaves are a good source of vitamin K and vitamin C.
+
+Although they qualify as leafy greens, cabbages should only be fed to your rabbit in limited quantities. The reason for this is that [studies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2062672/) have shown that **feeding rabbits daily rations of cabbage can cause enlargement of the thyroid**. This is a large ductless gland in the neck which secretes hormones that regulate growth and development.
+
+We also came across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/124444/Default.aspx) that mention cabbage might **cause gas with rabbits**. This assumption is probably based on the fact that [people often get gas from cruciferous vegetables](https://en.wikipedia.org/wiki/Flatulence#Cause) like cabbage. However, we were not able to find scientific evidence to support this statement in the case of rabbits and it looks like this has more to do with the fact that **some rabbits are more sensitive to certain vegetables** than others.
+
+Based on the above, we advise **to not feed cabbage on a daily basis and to keep portions limited**. If it's the first time, introduce in small amounts and make sure the leaves have been rinsed before offering.
+
+This was a tricky one, rabbits can eat cabbage leaves but only in small amounts.
+
+## Can Rabbits Eat Broccoli - In Small Amounts
+
+Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.org/wiki/Broccoli). It has large flower-heads which consist out of tight clusters of buds, usually green in color, with thick and edible stems. When sold, broccoli is often wrapped in cellophane as it deteriorates faster if it is in contact with the air.
+
+Broccoli is an excellent source of vitamin C and K. It also contains moderate amounts of several B vitamins and the [dietary mineral manganese](https://en.wikipedia.org/wiki/Broccoli#Nutrition). Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **smaller quantities** to your rabbit.
+
+Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the flowers and stalks. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
+
+When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html) that mention **higher amounts of calcium in broccoli leaves**. However in most cases this will not be a concern as **calcium is an essential part of your rabbit's diet** in addition to the fact that the amount of calcium in broccoli leaves is still relatively moderate. Our advice is to **consult with your veterinarian** if in doubt about your rabbits calcium intake.
+
+Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica) which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **cannot automatically assume that broccoli is a "gassy" vegetable**.
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm)
