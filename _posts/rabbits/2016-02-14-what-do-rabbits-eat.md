@@ -107,7 +107,7 @@ As with all fruit, portion control is key in other to ensure a healthy diet. As 
 
 Bottom line, strawberries are a great occasional treat for your rabbit.
 
-Can Rabbits Eat Watermelon? - In Small Amounts
+## Can Rabbits Eat Watermelon? - In Small Amounts
 
 Watermelons originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries). They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
 
