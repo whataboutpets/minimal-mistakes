@@ -31,6 +31,8 @@ Last but not least we want to stress the importance of providing your rabbit acc
 
 So what can rabbits eat? Let's dive into the list!
 
+## Can Rabbits Eat Apples? - In Small Amounts
+
 Rabbits have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
 
 They are however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutrition) as they contain lots of sugar, so make sure to **keep the quantity of this treat to a minimum**. Note that if your rabbit already has a weight problem, it is best to avoid feeding any type of fruit, including apples.
@@ -41,7 +43,7 @@ Before feeding the apple, make sure to **rinse it with clear running water** in 
 
 If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The **apple skin** actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html) that an apple contains. So next time you are making an apple pie, don't throw away those skins but keep them as a treat.
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=hpIXMkC91rI?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0" allowfullscreen></iframe>
 
 When offering apples, **make sure to remove the seeds**. The reason for this is that apple seeds contain [amygdalin](https://en.wikipedia.org/wiki/Apple#Toxicity_of_seeds), a sugar and cyanide compound. This toxic substance is only present in very small quantities and as such there is no reason to panic in case your rabbit has accidentally swallowed some seeds. The greater concern would be continuous consumption where the amygdalin was progressively building up in your rabbit's system to the point of reaching toxic levels.
 
