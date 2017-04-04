@@ -27,7 +27,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 <figure>
     <img src="{{ site.url }}/assets/images/cats/cat-litter.png" alt="cat litter">
-    <figcaption>mynikfoto – flickr.com (CC BY 2.0) / Cropped from original</figcaption>
+    <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
 </figure>
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
