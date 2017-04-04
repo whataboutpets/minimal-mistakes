@@ -9,6 +9,6 @@ header:
   caption: "William Brawley - flickr.com (CC BY 2.0) / Cropped from original"
 ---
 
-Test
+Think you're allergic to your cat? You might be allergic to the cat litter instead. Kitty litter comes in a variety of materials and may even contain additional additives or chemicals. As human allergies are triggered by substances in our surrounding environment, **the cat litter you are using could be the cause of the allergic reaction you are experiencing**.
 
-
+# What Are Human Allergies?
