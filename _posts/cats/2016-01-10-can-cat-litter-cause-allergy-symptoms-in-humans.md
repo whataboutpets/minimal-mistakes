@@ -11,7 +11,7 @@ header:
 
 Think you're allergic to your cat? You might be allergic to the cat litter instead. Kitty litter comes in a variety of materials and may even contain additional additives or chemicals. As human allergies are triggered by substances in our surrounding environment, **the cat litter you are using could be the cause of the allergic reaction you are experiencing**.
 
-# What Are Human Allergies?
+## What Are Human Allergies?
 
 So what exactly are human allergies anyway? [According to Wikipedia](https://en.wikipedia.org/wiki/Allergy), allergies, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
@@ -23,7 +23,7 @@ In addition, there is believed to be a strong **genetic correlation** in contrac
 
 What is also interesting to know is that, like people, [cats can also develop allergies to cat litter]({{ site.url }}/2016/01/can-cats-be-allergic-to-cat-litter.html). The causes, symptoms and treatment are actually very similar to each other.
 
-# What Causes an Allergic Reaction to Cat Litter?
+## What Causes an Allergic Reaction to Cat Litter?
 
 <figure>
     <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter">
@@ -38,7 +38,7 @@ In addition to the above, additional minerals or chemicals can be found in certa
 
 **Silicon dioxide**, also known as silica, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to silicosis, bronchitis, or cancer, as the dust becomes lodged in the lungs and continuously irritates them.
 
-# Cat Litter Allergy Symptoms to Look out for
+## Cat Litter Allergy Symptoms to Look out for
 
 <figure>
     <img src="{{ site.url }}/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes">
@@ -53,7 +53,7 @@ If you notice the above allergy symptoms **during or right after you clean the l
 
 If your not sure about whether the cat litter is the cause of your allergies, the best way to answer the question "Am I allergic to the cat litter?" is to have an **allergy test performed by a qualified medical professional**.
 
-# Reducing or Getting Rid of Cat Litter Allergies
+## Reducing or Getting Rid of Cat Litter Allergies
 
 The best way to help reduce or even completely get rid of allergies related to litter is to **change the kitty litter** you are using. There are a number of "**hypoallergenic**" varieties on the market which are relatively unlikely to cause an allergic reaction.
 
