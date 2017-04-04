@@ -63,8 +63,8 @@ In general, these are cat litters that are low on or even have no dust at all. E
 
 If for some reason it is not possible to switch the cat litter you are using, the basic rule is simple: _avoid contact with the litter material_. Below you can find some general tips on how to achieve this.
 
-* Wash your hands thoroughly after handling your cat.
-* Clean the litter box and surrounding area on a regular basis. This means scooping the litter at least once a day and changing all litter once a week.
+* **Wash your hands** thoroughly after handling your cat.
+* **Clean the litter box** and surrounding area on a regular basis. This means scooping the litter at least once a day and changing all litter once a week.
 * Place the litter box in a well-ventilated area that has vents to the outside.
 
 
