@@ -107,10 +107,6 @@ blockquote {
   background-color: #9e9e9e !important;
 }
 
-.masthead__menu-item a:hover {
-  text-decoration-color: #f50057 !important;
-}
-
 .greedy-nav .visible-links a::before {
-  text-decoration-color: #f50057 !important;
+  background: #f50057 !important;
 }
