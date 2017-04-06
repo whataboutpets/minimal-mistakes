@@ -110,3 +110,7 @@ blockquote {
 .masthead__menu-item a:hover {
   text-decoration-color: #f50057 !important;
 }
+
+.greedy-nav .visible-links a::before {
+  text-decoration-color: #f50057 !important;
+}
