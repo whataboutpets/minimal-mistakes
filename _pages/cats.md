@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "What About Cats?"
 permalink: /cats/
 author_profile: false
 ---
