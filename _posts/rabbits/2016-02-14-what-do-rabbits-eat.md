@@ -1,11 +1,13 @@
 ---
-title: What Do Rabbits Eat? - A List on What You Can Feed a Bunny
+title: "What Do Rabbits Eat? - A List on What You Can Feed a Bunny"
 permalink: /2016/02/what-do-rabbits-eat.html
-excerpt: An overview of different food items and whether they are healthy for rabbits or not.
-categories: [Ducks]
+excerpt: "An overview of different food items and whether they are healthy for rabbits or not."
+modified: 2017-04-07
+categories: [Rabbits]
 tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tomatoes]
 header:
   image: /assets/images/rabbits/rabbits-eating.jpg
+  teaser: /assets/images/rabbits/rabbits-eating-teaser.jpg
   caption: "Mathias Appel - flickr.com (CC0 1.0) / Cropped from original"
 ---
 
