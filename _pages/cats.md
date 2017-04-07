@@ -1,12 +1,12 @@
 ---
 layout: archive
+title: What About Cats2?
 permalink: /cats/
-title: What About Cats?
-date: 2016-01-10T21:00:00+01:00
-excerpt: ""
-pagination: 
-  enabled: true
-  category: Cats
+author_profile: false
 ---
 
-{% include paginator.html %}
+<div class="grid__wrapper">
+  {% for post in site.categories.cats %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
