@@ -83,30 +83,30 @@ $susy: (
 h2 {
   margin-top: 70px;
 }
-
 .page__content a {
   color: #03a9f4;
   font-weight: bold;
   text-decoration: underline;
 }
-
 blockquote {
   border-left-color: #03a9f4;
 }
-
 .underline {
   font-style: normal;
   text-decoration: underline;
 }
-
 .page__hero--overlay .btn:hover {
   background-color: #03a9f4 !important;
 }
-
 .feature__item .btn:hover {
   background-color: #03a9f4 !important;
 }
-
 .greedy-nav .visible-links a::before {
   background: #03a9f4 !important;
+}
+nav.pagination a.pagination--pager {
+  color: #03a9f4;
+}
+nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:active {
+  text-decoration: underline
 }
