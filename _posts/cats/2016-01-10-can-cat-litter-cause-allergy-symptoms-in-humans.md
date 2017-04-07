@@ -6,6 +6,7 @@ categories: [Cats]
 tags: [Allergy, Cat, Humans, Litter, Symptoms]
 header:
   image: /assets/images/cats/allergies-sneezing.jpg
+  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
   caption: "William Brawley - flickr.com (CC BY 2.0) / Cropped from original"
 ---
 
