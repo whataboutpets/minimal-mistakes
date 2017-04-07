@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: What About Cats3?
+title: ""
 permalink: /cats/
 author_profile: false
 ---
