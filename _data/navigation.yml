@@ -2,10 +2,10 @@
 main:
   - title: "Cats"
     url: https://whataboutpets.github.io/cats/
-  - title: "Ducks"
-    url: https://whataboutpets.github.io/ducks/
   - title: "Rabbits"
     url: https://whataboutpets.github.io/rabbits/
+  - title: "Ducks"
+    url: https://whataboutpets.github.io/ducks/
   - title: "Terms and Privacy Policy"
     url: https://whataboutpets.github.io/terms/
   # - title: "About"
