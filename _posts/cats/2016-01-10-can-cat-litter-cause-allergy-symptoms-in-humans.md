@@ -2,7 +2,7 @@
 title: "Can Cat Litter Cause Allergy Symptoms in Humans?"
 permalink: /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
 excerpt: "Ever wondered if humans could be allergic to cat litter and what the symptoms would be?"
-modified: 2017-04-07
+modified: 2017-04-09
 categories: [Cats]
 tags: [Allergy, Cat, Humans, Litter, Symptoms]
 header:
@@ -27,10 +27,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 ## What Causes an Allergic Reaction to Cat Litter?
 
-<figure>
-    <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter">
-    <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
-</figure>
+{% include figure image_path="/assets/images/cats/cat-litter.jpg" alt="cat litter" caption="mynikfoto - flickr.com (CC BY 2.0) / Cropped from original" %}
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
@@ -42,10 +39,7 @@ In addition to the above, additional minerals or chemicals can be found in certa
 
 ## Cat Litter Allergy Symptoms to Look out for
 
-<figure>
-    <img src="{{ site.url }}/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes">
-    <figcaption>Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
-</figure>
+{% include figure image_path="/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes" caption="Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original" %}
 
 If you're allergic to cat litter, you might notice a **runny nose, sneezing, red eyes, shortness of breath or asthma**. In some cases, you can even develop **hives on your skin**. As previously mentioned, these symptoms are caused by our immune system because it considers some of the substances in the cat litter to be harmful and tries to get rid of them.
 
