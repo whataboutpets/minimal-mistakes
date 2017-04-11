@@ -53,9 +53,9 @@ When offering apples, **make sure to remove the seeds**. The reason for this is 
 
 So yes rabbits can eat apples, but not the seeds!
 
-## Can Rabbits Eat Celery? - In Moderation
+## Can Rabbits Eat Celery? - *In Moderation*{:.blue}
 
-![image-left](/assets/images/icons/food/celery-green.jpg){: .align-left}
+![image-left](/assets/images/icons/food/celery-blue.jpg){: .align-left}
 
 Celery is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition). It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
 
@@ -71,7 +71,7 @@ As far as portion size is concerned, typically **one stick of celery per bunny**
 
 In conclusion, rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
 
-## Can Rabbits Eat Grapes? - In Small Amounts
+## Can Rabbits Eat Grapes? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/grape-orange.jpg){: .align-left}
 
