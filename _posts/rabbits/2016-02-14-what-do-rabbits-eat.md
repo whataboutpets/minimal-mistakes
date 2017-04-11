@@ -20,7 +20,7 @@ We'll dive into the details below, but to help you get an overview we've also pu
 {% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat" %}
 
 ## Share this Infographic on Your Site
-``` plaintext
+``` html
 <p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong>
 <br /><br /><a href="https://www.whataboutpets.com/2016/02/what-do-rabbits-eat.html">
 <img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat.jpg" 
