@@ -19,6 +19,11 @@ We'll dive into the details below, but to help you get an overview we've also pu
 
 {% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat infographic" %}
 
+## Share this Infographic on Your Site
+``` plaintext
+<p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong><br /><br /><a href='https://www.whataboutpets.com/2016/02/what-do-rabbits-eat.html'><img src='https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat.jpg' alt='what do rabbits eat infographic' width='730' border='0' /></a></p>
+```
+
 ## What Does a Rabbit Eat?
 
 Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits) (grass, forbs, and leafy weeds).
