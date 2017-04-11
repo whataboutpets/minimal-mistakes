@@ -17,11 +17,14 @@ Looking for healthy treats for your pet rabbit? Or are you not sure whether your
 
 We'll dive into the details below, but to help you get an overview we've also put the information in a helpful infographic.
 
-{% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat infographic" %}
+{% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat" %}
 
 ## Share this Infographic on Your Site
 ``` plaintext
-<p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong><br /><br /><a href='https://www.whataboutpets.com/2016/02/what-do-rabbits-eat.html'><img src='https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat.jpg' alt='what do rabbits eat infographic' width='730' border='0' /></a></p>
+<p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong>
+<br /><br /><a href="https://www.whataboutpets.com/2016/02/what-do-rabbits-eat.html">
+<img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat.jpg" 
+alt="what do rabbits eat" width="730" border="0" /></a></p>
 ```
 
 ## What Does a Rabbit Eat?

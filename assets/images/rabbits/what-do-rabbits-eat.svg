@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="what-do-rabbits-eat.svg"
-   inkscape:export-filename="C:\blogs\whataboutpets\posts\what-do-rabbits-eat\what-do-rabbits-eat.png"
+   inkscape:export-filename="C:\code\st\whataboutpets\assets\images\rabbits\what-do-rabbits-eat.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -40,8 +40,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4364922"
-     inkscape:cx="329.1213"
-     inkscape:cy="3177.4618"
+     inkscape:cx="223.0913"
+     inkscape:cy="3277.8733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,6 +102,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,2377.6367)">
+    <rect
+       style="fill:#eceff1;fill-opacity:1"
+       id="rect4183"
+       width="730"
+       height="3430"
+       x="0"
+       y="-2377.637" />
     <rect
        style="opacity:1;fill:#027a91;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4218-4-6-2-47"
@@ -270,16 +277,16 @@
        style="opacity:1;fill:#a11425;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4218-4-6-2-47-2-3"
        width="730"
-       height="40"
+       height="32.342457"
        x="0"
        y="740.49854" />
     <rect
        style="opacity:1;fill:#85e3d3;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4218-4"
        width="730"
-       height="418.41125"
+       height="419.10739"
        x="0.031018257"
-       y="-2106.3848" />
+       y="-2107.0808" />
     <path
        style="opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 20.468559,-2257.7598 150.000011,0 0,60 -150.000011,0 16.803648,-31.283 z"
@@ -1604,13 +1611,6 @@
        cy="-2056.7419"
        rx="140"
        ry="4" />
-    <rect
-       style="fill:#ffffff"
-       id="rect4183"
-       width="730"
-       height="279.24774"
-       x="0"
-       y="773.1153" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1626,15 +1626,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="570.1601"
+       x="574.1601"
        y="-2264.6748"
        id="text5970"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5972"
-         x="570.1601"
+         x="574.1601"
          y="-2264.6748"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1">whataboutpets.com</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#546e7a;fill-opacity:1">whataboutpets.com</tspan></text>
     <g
        id="g5774"
        transform="translate(0.0310182,-460.5046)">
