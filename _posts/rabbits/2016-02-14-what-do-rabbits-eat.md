@@ -33,7 +33,7 @@ Last but not least we want to stress the importance of providing your rabbit acc
 
 So what can rabbits eat? Let's dive into the list!
 
-## Can Rabbits Eat Apples? - In Small Amounts
+## Can Rabbits Eat Apples? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/apple-orange.jpg){: .align-left}
 
