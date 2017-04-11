@@ -2,7 +2,7 @@
 title: "What Do Rabbits Eat? - A List on What You Can Feed a Bunny"
 permalink: /2016/02/what-do-rabbits-eat.html
 excerpt: "An overview of different food items and whether they are healthy for rabbits or not."
-modified: 2017-04-07
+modified: 2017-04-11
 categories: [Rabbits]
 tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tomatoes]
 header:
@@ -35,7 +35,7 @@ So what can rabbits eat? Let's dive into the list!
 
 ## Can Rabbits Eat Apples? - In Small Amounts
 
-![image-left](/assets/images/icons/food/apple.png){: .align-left}
+![image-left](/assets/images/icons/food/apple-orange.jpg){: .align-left}
 
 Rabbits have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
 
@@ -55,6 +55,8 @@ So yes rabbits can eat apples, but not the seeds!
 
 ## Can Rabbits Eat Celery? - In Moderation
 
+![image-left](/assets/images/icons/food/celery-green.jpg){: .align-left}
+
 Celery is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition). It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
 
 Celery is definitely a vegetable we recommend offering to your rabbit. Make sure to introduce it in small quantities and don't be tempted to give it in large amounts in the beginning. For example start with one small piece and keep an eye on how your bunny reacts to it.
@@ -71,6 +73,8 @@ In conclusion, rabbits can have celery and from what we read, many bunnies seem 
 
 ## Can Rabbits Eat Grapes? - In Small Amounts
 
+![image-left](/assets/images/icons/food/grape-orange.jpg){: .align-left}
+
 Grapes are grown all over the world and aside from being used for wine production they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape) and come in many colors, including green, red, black, yellow, pink, and purple.
 
 Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
@@ -84,6 +88,8 @@ Feeding to many grapes at a time could cause digestive problems with your rabbit
 So sure, rabbits can eat grapes as an occasional treat. They are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
 
 ## Can Rabbits Eat Tomatoes? - In Small Amounts
+
+![image-left](/assets/images/icons/food/tomatoe-orange.jpg){: .align-left}
 
 Tomatoes are the edible fruit of the tomato plant which originates from Central and South America. Even though from a culinary point of view tomatoes are considered to be vegetables, [they are actually a fruit](https://en.wikipedia.org/wiki/Tomato).
 
@@ -99,6 +105,8 @@ To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amo
 
 ## Can Rabbits Eat Strawberries? - In Small Amounts
 
+![image-left](/assets/images/icons/food/strawberry-orange.jpg){: .align-left}
+
 Strawberries are cultivated worldwide and are known for their [bright red color, juicy texture, and sweetness](https://en.wikipedia.org/wiki/Strawberry). They are a popular fruit and not just among us humans. The low-lying strawberry plants are actually easy for wild rabbits to reach, something fruit and vegetable garden owners might know only too well.
 
 In addition to **sugar** and some dietary fibers, strawberries are an excellent source of vitamin C. The fact that they are rich in sugar also means they **are to be considered as a treat** for your fluffy friend. Too many strawberries may lead to stomach troubles.
@@ -113,6 +121,8 @@ Bottom line, strawberries are a great occasional treat for your rabbit.
 
 ## Can Rabbits Eat Watermelon? - In Small Amounts
 
+![image-left](/assets/images/icons/food/watermelon-orange.jpg){: .align-left}
+
 Watermelons originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries). They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
 
 A watermelon is more than 91 percent water. In addition to **sugar**, it also contains vitamin C in moderate quantity. Because of the sugar, watermelon **should be seen as a treat**.
@@ -124,6 +134,8 @@ Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As wate
 Rabbits can have watermelon but don't let them have too much.
 
 ## Can Rabbits Eat Bananas? - In Small Amounts
+
+![image-left](/assets/images/icons/food/banana-orange.jpg){: .align-left}
 
 The banana is an edible fruit, that from a botanical point of view, is actually a berry. While the [original wild bananas contain large seeds](https://en.wikipedia.org/wiki/Banana#Modern_cultivation), bananas for human consumption are grown asexually from offshoots and have tiny infertile black specks where the seeds used to be.
 
@@ -139,6 +151,8 @@ Even though your bunny will most likely go banana's over this treat, be careful 
 
 ## Can Rabbits Eat Cabbage? - In Small Amounts
 
+![image-left](/assets/images/icons/food/cabbage-orange.jpg){: .align-left}
+
 Cabbage is a [multi-layered vegetable](https://en.wikipedia.org/wiki/Cabbage), grown for its dense-leaved head. Within the cabbage family, there are three main cultivar groups: **savoy cabbage, red cabbage, and white cabbage**.
 
 In addition to dietary fiber, cabbage leaves are a good source of vitamin K and vitamin C.
@@ -152,6 +166,8 @@ Based on the above, we advise **to not feed cabbage on a daily basis and to keep
 This was a tricky one, rabbits can eat cabbage leaves but only in small amounts.
 
 ## Can Rabbits Eat Broccoli - In Small Amounts
+
+![image-left](/assets/images/icons/food/broccoli-orange.jpg){: .align-left}
 
 Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.org/wiki/Broccoli). It has large flower-heads which consist out of tight clusters of buds, usually green in color, with thick and edible stems. When sold, broccoli is often wrapped in cellophane as it deteriorates faster if it is in contact with the air.
 
