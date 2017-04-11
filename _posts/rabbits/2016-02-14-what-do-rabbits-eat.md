@@ -87,7 +87,7 @@ Feeding to many grapes at a time could cause digestive problems with your rabbit
 
 So sure, rabbits can eat grapes as an occasional treat. They are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
 
-## Can Rabbits Eat Tomatoes? - In Small Amounts
+## Can Rabbits Eat Tomatoes? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/tomatoe-orange.jpg){: .align-left}
 
@@ -103,7 +103,7 @@ However, we are not able to conclude that by default the tomato plant is toxic f
 
 To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
 
-## Can Rabbits Eat Strawberries? - In Small Amounts
+## Can Rabbits Eat Strawberries? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/strawberry-orange.jpg){: .align-left}
 
@@ -119,7 +119,7 @@ As with all fruit, portion control is key in other to ensure a healthy diet. As 
 
 Bottom line, strawberries are a great occasional treat for your rabbit.
 
-## Can Rabbits Eat Watermelon? - In Small Amounts
+## Can Rabbits Eat Watermelon? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/watermelon-orange.jpg){: .align-left}
 
@@ -133,7 +133,7 @@ Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As wate
 
 Rabbits can have watermelon but don't let them have too much.
 
-## Can Rabbits Eat Bananas? - In Small Amounts
+## Can Rabbits Eat Bananas? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/banana-orange.jpg){: .align-left}
 
@@ -149,7 +149,7 @@ Offer your bunny **no more than 2 to 3 slices of banana per rabbit per day**. It
 
 Even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities.
 
-## Can Rabbits Eat Cabbage? - In Small Amounts
+## Can Rabbits Eat Cabbage? - *In Small Amounts*{:.orange}
 
 ![image-left](/assets/images/icons/food/cabbage-orange.jpg){: .align-left}
 
@@ -165,9 +165,9 @@ Based on the above, we advise **to not feed cabbage on a daily basis and to keep
 
 This was a tricky one, rabbits can eat cabbage leaves but only in small amounts.
 
-## Can Rabbits Eat Broccoli - In Small Amounts
+## Can Rabbits Eat Broccoli - *In Moderation*{:.blue}
 
-![image-left](/assets/images/icons/food/broccoli-orange.jpg){: .align-left}
+![image-left](/assets/images/icons/food/broccoli-blue.jpg){: .align-left}
 
 Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.org/wiki/Broccoli). It has large flower-heads which consist out of tight clusters of buds, usually green in color, with thick and edible stems. When sold, broccoli is often wrapped in cellophane as it deteriorates faster if it is in contact with the air.
 
