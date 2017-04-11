@@ -11,7 +11,7 @@ header:
   caption: "Mathias Appel - flickr.com (CC0 1.0) / Cropped from original"
 ---
 
-Looking for healthy treats for your pet rabbit? Or are you not sure whether your bunny can eat a certain type of food like apples, celery, grapes, tomatoes or even carrots. In order to help you make a choice, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
+Looking for **healthy treats** for your pet rabbit? Or are you not sure whether your bunny can eat a certain type of food like apples, celery, grapes, tomatoes or even carrots. In order to help you make a choice, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
 
 *Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just don't do it**. While doing our research, we have tried to come up with a list with lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
 
@@ -28,17 +28,22 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 ```
 
 ## Can Rabbits Eat?
+
+If your are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
+
 * [Apples]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)
+* [Bananas]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
+* [Broccoli]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
+* [Cabbage]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
 * [Celery]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)
 * [Grapes]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)
-* [Tomatoes]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
 * [Strawberries]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)
+* [Tomatoes]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
 * [Watermelon]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)
-* [Bananas]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
-* [Cabbage]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
-* [Broccoli]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
 
 ## What Does a Rabbit Eat?
+
+{% include figure image_path="/assets/images/rabbits/wild-rabbit-eating.jpg" alt="wild rabbit eating" caption="Lee Dyer - flickr.com (CC BY-SA 2.0) / Cropped from original" %}
 
 Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits) (grass, forbs, and leafy weeds).
 
