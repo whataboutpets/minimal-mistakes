@@ -15,6 +15,10 @@ Looking for healthy treats for your pet rabbit? Or are you not sure whether your
 
 *Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just don't do it**. While doing our research, we have tried to come up with a list with lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
 
+We'll dive into the details below, but to help you get an overview we've also put the information in a helpful infographic.
+
+{% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat infographic" %}
+
 ## What Does a Rabbit Eat?
 
 Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits) (grass, forbs, and leafy weeds).
