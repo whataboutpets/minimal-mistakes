@@ -5,7 +5,7 @@ excerpt: "A selection of the best hypoallergenic wipes for cats."
 date: 2017-05-20
 modified: 2017-05-20
 header:
-  teaser: assets/images/cats/best-anti-allergy-wipes-teaser.jpg
+  teaser: assets/images/cats/anti-allergy-cat-wipes-teaser.jpg
 categories: [Cats]
 tags: [Allergy, Cat, Hypoallergenic, Wipes]
 published: true
@@ -16,6 +16,10 @@ If you or your cat is suffering from allergies, there are a number of things you
 There are special pet wipes on the market which are a convenient solution that help to remove dander, dust, cat litter and other dirt in no time. They are an easy, quick way to keep your pet clean and allergen free.
 
 # What Are Hypoallergenic Cat Wipes?
+
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/anti-allergy-cat-wipes.jpg" alt="anti allergy cat wipes">
+</figure>
 
 [Hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic) cat wipes are pre-moistened wipes that offer an easy alternative to a daily bath. They can clean, condition, and deodorize your cat's skin and coat with very little effort. In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer allergens** and as such are less likely to cause allergic reactions.
 
