@@ -70,7 +70,7 @@ Cat litters most know for causing allergic reactions with cats are those based o
 
 Scan through the **ingredients list located on your cat litter packaging** as it might help you in narrowing down the cause of your cat's allergy symptoms. What's more, this information will help you in comparing and selecting a different type of cat litter as recommended in the next section.
 
-## Best Way to Treat Cat Allergic to Litter Symptoms
+# Best Way to Treat Cat Allergic to Litter Symptoms
 
 The most efficient way to solve your cat's allergies is to remove the allergens from her or his environment. **In the case of cat litter, it means switching to a different type**.
 
