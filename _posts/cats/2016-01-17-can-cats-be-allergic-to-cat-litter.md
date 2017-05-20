@@ -15,7 +15,7 @@ published: true
 
 Like people, our feline friends can also develop allergies. And like people, the source of these allergies can be pretty much anything in their surrounding environment.
 
-After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **Can my cat be allergic to litter?**
+After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **"Can my cat be allergic to litter?"**
 
 # What Are Cat Litter Allergies?
 
