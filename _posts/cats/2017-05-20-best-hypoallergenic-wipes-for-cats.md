@@ -23,7 +23,7 @@ There are special pet wipes on the market which are a convenient solution that h
 
 | Ranking | Brand                                                     | Quantity  | Editor's Rating |
 | --------| --------------------------------------------------------- | --------- | --------------- |
-| #1      | Earthbath All Natural Cat Wipes                           | 100 Wipes | +++++           |
+| #1      | Earthbath All Natural Cat Wipes                           | 100 Wipes | {% include figure image_path="/assets/images/icons/rating/5-stars.png" alt="5 stars" %} |
 | #2      | Burts Bees Dander Reducing Cat Wipes                      | 50 Wipes  | ++++            |
 | #3      | Nature's Miracle Just for Cats Allergen Blocker Cat Wipes | 25 Wipes  | ++++            |
 
