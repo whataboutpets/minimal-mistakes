@@ -13,14 +13,14 @@ redirect_from:
 published: true
 ---
 
+Like people, our feline friends can also develop allergies. And like people, the source of these allergies can be pretty much anything in their surrounding environment. After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **Can my cat be allergic to litter?**
+
+# What Are Cat Litter Allergies?
+
 <figure>
   <img src="{{ site.url }}/assets/images/cats/cat-in-litter-box.jpg" alt="cat in litter box">
   <figcaption>Chris Murphy - flickr.com (Public domain) / Cropped from original</figcaption>
 </figure>
-
-Like people, our feline friends can also develop allergies. And like people, the source of these allergies can be pretty much anything in their surrounding environment. After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **Can my cat be allergic to litter?**
-
-# What Are Cat Litter Allergies?
 
 Cat allergies are caused by an **overreaction of their immune system to one or more substances, also known as allergens**. With most cats, allergens don't trigger an overreaction. However with some cats, their immune system aggressively tries to get rid of these allergens which results in a number of symptoms that we will discuss further below.
 
