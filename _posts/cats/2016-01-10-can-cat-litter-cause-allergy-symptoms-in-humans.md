@@ -45,7 +45,7 @@ Some litters have **perfumes** or other additives that are added in order to hel
 
 In addition to the above, additional minerals or chemicals can be found in certain cat litters that could trigger allergies and in some cases even more serious respiratory problems.
 
-**Silicon dioxide**, also known as silica, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma) or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis) as the dust becomes lodged in the lungs and continuously irritates them.
+**Silicon dioxide**, also known as [silica](https://en.wikipedia.org/wiki/Silicon_dioxide), is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma) or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis) as the dust becomes lodged in the lungs and continuously irritates them.
 
 # Cat Litter Allergy Symptoms to Look out for
 
