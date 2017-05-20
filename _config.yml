@@ -247,7 +247,7 @@ defaults:
       share: true
       related: true
       header:
-        overlay_color: "#e91e63"
+        overlay_color: "#2196f3"
   # _pages
   - scope:
       path: ""
