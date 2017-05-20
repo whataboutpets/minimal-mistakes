@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="28"
+   viewBox="0 0 128 28"
+   width="128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="3-stars.svg"
+   inkscape:export-filename="C:\code\st\whataboutpets\assets\images\icons\rating\3-stars.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="fill:#000000">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview10"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="55.726464"
+     inkscape:cy="12"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       position="-25.423729,12.508475"
+       orientation="0,1"
+       id="guide4157" />
+  </sodipodi:namedview>
+  <path
+     d="m 45,4 24,0 0,24 -24,0 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:none" />
+  <path
+     d="m 45,4 24,0 0,24 -24,0 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 14.000001,21.288421 21.416,26 19.448,17.12 26,11.145263 17.372001,10.374737 14.000001,2 10.627999,10.374737 2,11.145263 8.552,17.12 6.5839998,26 Z"
+     id="path6-8-8"
+     style="fill:#009688;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 39.000001,21.288421 46.416,26 44.448,17.12 51,11.145263 42.372001,10.374737 39.000001,1.9999997 35.627999,10.374737 27,11.145263 33.552,17.12 31.584,26 Z"
+     id="path6-8-8-7"
+     style="fill:#009688;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 64.000001,21.288421 71.416,26 69.448,17.12 76,11.145263 67.372001,10.374737 64.000001,1.9999996 60.627999,10.374737 52,11.145263 58.552,17.12 56.584,26 Z"
+     id="path6-8-8-7-0"
+     style="fill:#009688;fill-opacity:1" />
+</svg>
