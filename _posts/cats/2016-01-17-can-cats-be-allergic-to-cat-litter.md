@@ -39,7 +39,7 @@ In addition, it is useful to know that **if your cat is allergic to one allergen
   <figcaption>Rebecca Kahn - flickr.com (CC BY-SA 2.0) / Cropped from original</figcaption>
 </figure>
 
-When trying to assess whether your cat might be having an allergic reaction to the cat litter, there are a number of common symptoms that you can try to look for. [These cat litter allergy symptoms are often similar to the ones us humans would experience]({{ site.url }}/2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html), except maybe for the excessive fur licking :-)
+When trying to assess whether your cat might be having an allergic reaction to the cat litter, there are a number of common symptoms that you can try to look for. [These cat litter allergy symptoms are often similar to the ones us humans would experience]({{ site.url }}/can-cat-litter-cause-allergy-symptoms-in-humans.html), except maybe for the excessive fur licking :-)
 
 The first category of **symptoms are visual** ones and some of them are very similar to allergic reactions people can have. For example, your cat may experience respiratory problems like a **runny nose, sneezing or even wheezing and coughing** like somebody with asthma would do.
 
