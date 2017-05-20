@@ -34,7 +34,10 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-{% include figure image_path="/assets/images/cats/cat-litter.jpg" alt="cat litter" caption="mynikfoto - flickr.com (CC BY 2.0) / Cropped from original" %}
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter">
+  <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
+</figure>
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
@@ -42,11 +45,14 @@ Some litters have **perfumes** or other additives that are added in order to hel
 
 In addition to the above, additional minerals or chemicals can be found in certain cat litters that could trigger allergies and in some cases even more serious respiratory problems.
 
-**Silicon dioxide**, also known as silica, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to silicosis, bronchitis, or cancer, as the dust becomes lodged in the lungs and continuously irritates them.
+**Silicon dioxide**, also known as silica, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma) or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis) as the dust becomes lodged in the lungs and continuously irritates them.
 
 # Cat Litter Allergy Symptoms to Look out for
 
-{% include figure image_path="/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes" caption="Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original" %}
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes">
+  <figcaption>Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
+</figure>
 
 If you're allergic to cat litter, you might notice a **runny nose, sneezing, red eyes, shortness of breath or asthma**. In some cases, you can even develop **hives on your skin**. As previously mentioned, these symptoms are caused by our immune system because it considers some of the substances in the cat litter to be harmful and tries to get rid of them.
 
@@ -54,7 +60,7 @@ In other to help determine whether the source of your allergy is indeed the cat 
 
 If you notice the above allergy symptoms **during or right after you clean the litter box** then this is a good indication that the allergic reaction you are experiencing is probably caused by the cat litter. Same applies if you see that your allergies are at their worst **right after your feline friend used the litter box**.
 
-If your not sure about whether the cat litter is the cause of your allergies, the best way to answer the question "Am I allergic to the cat litter?" is to have an **allergy test performed by a qualified medical professional**.
+If your not sure about whether the cat litter is the cause of your allergies, the best way to answer the question _"Am I allergic to the cat litter?"_ is to have an **allergy test performed by a qualified medical professional**.
 
 # Reducing or Getting Rid of Cat Litter Allergies
 
