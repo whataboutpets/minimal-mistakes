@@ -29,5 +29,5 @@ There are special pet wipes on the market which are a convenient solution that h
 
 # #1 Burts Bees Dander Reducing Cat Wipes
 
-![image-left](/assets/images/cats/food/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
+![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
