@@ -21,13 +21,13 @@ There are special pet wipes on the market which are a convenient solution that h
 
 # Top 3 Anti Allergy Wipes for Cats
 
-| Ranking | Brand                                                     | # Wipes  | Editor's Rating |
+| Ranking | Brand                                                     | Number of Wipes | Editor's Rating |
 | --------| --------------------------------------------------------- | --------- | --------------- |
-| #1      | Burts Bees Dander Reducing Cat Wipes                      | 50  | ![five stars](/assets/images/icons/rating/five-stars.png) |
-| #2      | Earthbath All Natural Cat Wipes                           | 100 | ![four stars](/assets/images/icons/rating/four-stars.png) |
-| #3      | Nature's Miracle Just for Cats Allergen Blocker Cat Wipes | 25  | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| #1      | Burts Bees Dander Reducing Cat Wipes                      | 50              | ![five stars](/assets/images/icons/rating/five-stars.png) |
+| #2      | Earthbath All Natural Cat Wipes                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| #3      | Nature's Miracle Just for Cats Allergen Blocker Cat Wipes | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
 
 # #1 Burts Bees Dander Reducing Cat Wipes
 
-
+![image-left](/assets/images/cats/food/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
