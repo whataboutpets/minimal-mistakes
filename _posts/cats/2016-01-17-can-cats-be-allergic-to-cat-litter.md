@@ -13,9 +13,7 @@ redirect_from:
 published: true
 ---
 
-Like people, our feline friends can also develop allergies. And like people, the source of these allergies can be pretty much anything in their surrounding environment.
-
-After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **Can my cat be allergic to litter?**
+> Like people, our feline friends can also develop allergies. And like people, the source of these allergies can be pretty much anything in their surrounding environment. After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: **Can my cat be allergic to litter?**
 
 # What Are Cat Litter Allergies?
 
@@ -55,7 +53,8 @@ In some more serious cases, allergens can cause **vomiting and diarrhea** which 
 
 Allergies to cat litter may also be diagnosed through blood or intradermal testing. Contact your vet for more information on the subject.
 
-> Diagnosing allergies can be difficult as allergens in most cases are harmless substances and as such they can easily be overlooked. Luckily avoiding the allergic reaction from triggering can in most cases be achieved by simply removing the allergen from the vicinity of your cat. In the case of cat litter, it can be as simple as trying another litter type as we will see further below.
+Diagnosing allergies can be difficult as allergens in most cases are harmless substances and as such they can easily be overlooked. Luckily avoiding the allergic reaction from triggering can in most cases be achieved by simply removing the allergen from the vicinity of your cat. In the case of cat litter, it can be as simple as trying another litter type as we will see further below.
+{: .notice--primary}
 
 # What Causes Your Cat to Be Allergic to Kitty Litter?
 
@@ -82,6 +81,7 @@ When switching kitty litter, try to get a hypoallergenic type. This typically me
 
 As for your kitty, give her/him a bath or alternatively wipe the fur with hypoallergenic wipes to remove all old litter dust. Clean the litter box by thoroughly washing it down to get rid of any remaining allergens. Also, vacuum or wash the surrounding area, bedding, toys and other objects to make sure any remaining litter dust is gone.
 
-> It is important to note that your cat may be allergic to a number of different allergens that don't all originate from the same source. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
+It is important to note that your cat may be allergic to a number of different allergens that don't all originate from the same source. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
+{: .notice--primary}
 
 What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy? Thanks for letting us know!
