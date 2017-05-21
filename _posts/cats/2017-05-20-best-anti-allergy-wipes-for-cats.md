@@ -83,5 +83,8 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 
 # Conclusion
 
+The above cat allergy relief wipes are all excellent products with high user review scores on Amazon.
 
+As allergies are different for each person or cat its hard to say whether they will bring relief or not. Given the fact that they are not that expensive we recommend you give them a try and hopefully they will work out for you or your feline friend.
 
+What are your experiences with allergy reducing cat wipes? We'd love to here your feedback!
