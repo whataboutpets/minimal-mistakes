@@ -35,11 +35,11 @@ There are special pet wipes on the market which are a convenient solution that h
 
 Burt's Bees for cats Dander Reducing Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera) to moisturize dry skin and reduce flaking.
 
-The wipes are made with natural ingredients. They contain no sulfates or artificial fragrances and are safe for your furry little friend.
+The wipes are made with natural ingredients. They contain no sulfates, colorants or artificial fragrances and are safe for your furry little friend.
 
-The product is moist but not dripping wet, as such the wipes are wet enough to make an impact on your cat's coat. They are very effective at removing dandruff and other dirt and thus reducing potential allergens. The moisturizing effect of the wipes will additionally approve the appearance of your feline's coat leaving it soft and shiny.
+The product is damp but not dripping wet, as such the wipes are wet enough to make an impact on your cat's coat. They are very effective at removing dandruff and other dirt and thus reducing potential allergens. The moisturizing effect of the wipes will additionally approve the appearance of your feline's coat leaving it soft and shiny.
 
-The wipes are pH balanced for cats and will not wash off topical flea & tick treatment when following manufacturer's directions.
+The wipes are pH balanced for cats as their skin is much less acidic than humans. In addition they will not wash off topical flea & tick treatment when following manufacturer's directions.
 
 We highly recommended this natural made in the USA product for your peace of mind and a happy allergen free cat.
 
@@ -59,7 +59,7 @@ The wipes are not overly wet (more on the dry side) and their size can be consid
 
 This product is made in the USA, as indicated on the package label. It is alcohol free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
 
-One downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
+One potential downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
 
 <div class="align-center">
   <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
@@ -69,7 +69,13 @@ One downside of the product is the packaging. The top latch/button of the box is
 
 ![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
 
-TODO
+Nature's Miracle Just for Cats Allergen Blocker Cat Wipes claims to neutralize allergens by breaking down the structure of inanimate allergen proteins. This is done by  what the manufacturer calls an allergen blocker complex which is a proprietary formula that uses aluminum salts to deactivate pet dander. As it is very difficult to verify this claim we 
+
+The product has a very mild scent and deodorizes your cat's coat.
+
+The pre-moistened wipes do not leave your kitty sticky or soaking wet. In addition the alcohol-Free formula will not dry out your cat's skin and coat.
+
+The product is packaged as a roll in an cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases it is not that easy to get ahold of a center wipe. A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
 <div class="align-center">
   <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
