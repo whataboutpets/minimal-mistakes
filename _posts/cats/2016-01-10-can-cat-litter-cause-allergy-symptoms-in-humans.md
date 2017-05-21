@@ -22,7 +22,7 @@ Think you're allergic to your cat? You might be allergic to the cat litter inste
   <figcaption>William Brawley - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
 </figure>
 
-So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy), also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
+So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy){:target="_blank"}, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
 In other words, a substance called "**allergen**" will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
 
@@ -45,7 +45,7 @@ Some litters have **perfumes** or other additives that are added in order to hel
 
 In addition to the above, additional minerals or chemicals can be found in certain cat litters that could trigger allergies and in some cases even more serious respiratory problems.
 
-**Silicon dioxide**, also known as [silica](https://en.wikipedia.org/wiki/Silicon_dioxide), is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma) or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis) as the dust becomes lodged in the lungs and continuously irritates them.
+**Silicon dioxide**, also known as [silica](https://en.wikipedia.org/wiki/Silicon_dioxide){:target="_blank"}, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma){:target="_blank"} or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis){:target="_blank"} as the dust becomes lodged in the lungs and continuously irritates them.
 
 # Cat Litter Allergy Symptoms to Look out for
 
