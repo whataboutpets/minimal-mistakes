@@ -68,7 +68,7 @@ The best way to help reduce or even completely get rid of allergies related to l
 
 In general, these are cat litters that are low on or even have no dust at all. Examples are cat litter made from crystals/pearls, recycled newspapers, pinewood or whole-kernel corn.
 
-**When switching cat litter make sure to do it gradually** by mixing the old litter with the new litter. This will help acclimate your cat to the new feel and smell. Also, bathe your cat or wipe the fur with hypoallergenic wipes so it is free of old litter dust.
+**When switching cat litter make sure to do it gradually** by mixing the old litter with the new litter. This will help acclimate your cat to the new feel and smell. Also, bathe your cat or [wipe the fur with hypoallergenic wipes]({{ site.url }}/best-anti-allergy-wipes-for-cats.html) so it is free of old litter dust.
 
 If for some reason it is not possible to switch the cat litter you are using, the basic rule is simple: _avoid contact with the litter material_. Below you can find some general tips on how to achieve this.
 

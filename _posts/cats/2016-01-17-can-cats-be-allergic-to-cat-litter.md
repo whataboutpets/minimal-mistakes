@@ -24,7 +24,7 @@ After you have eliminated the allergy sources that typically spring to mind (pol
   <figcaption>Chris Murphy - flickr.com (Public domain) / Cropped from original</figcaption>
 </figure>
 
-Cat allergies are caused by an **overreaction of their immune system** to one or more substances, also known as [allergens](https://en.wikipedia.org/wiki/Allergen). With most cats, allergens don't trigger an overreaction. However with some cats, their immune system aggressively tries to get rid of these allergens which results in a number of symptoms that we will discuss further below.
+Cat allergies are caused by an **overreaction of their immune system** to one or more substances, also known as [allergens](https://en.wikipedia.org/wiki/Allergen). With most cats, allergens don't trigger an overreaction. However, with some cats, their immune system aggressively tries to get rid of these allergens which results in a number of symptoms that we will discuss further below.
 
 Cat litter may contain substances that can act as allergens for certain cats. If the immune system of your feline overreacts to one of these allergens then we can conclude that your cat is allergic to cat litter.
 
@@ -39,7 +39,7 @@ In addition, it is useful to know that **if your cat is allergic to one allergen
   <figcaption>Rebecca Kahn - flickr.com (CC BY-SA 2.0) / Cropped from original</figcaption>
 </figure>
 
-When trying to assess whether your cat might be having an allergic reaction to the cat litter, there are a number of common symptoms that you can try to look for. [These cat litter allergy symptoms are often similar to the ones us humans would experience]({{ site.url }}/can-cat-litter-cause-allergy-symptoms-in-humans.html), except maybe for the excessive fur licking :-)
+When trying to assess whether your cat might be having an allergic reaction to the cat litter, there are a number of common symptoms that you can try to look for. [These cat litter allergy symptoms are often similar to the ones we humans would experience]({{ site.url }}/can-cat-litter-cause-allergy-symptoms-in-humans.html), except maybe for the excessive fur licking :-)
 
 The first category of **symptoms are visual** ones and some of them are very similar to allergic reactions people can have. For example, your cat may experience respiratory problems like a **runny nose, sneezing or even wheezing and coughing** like somebody with asthma would do.
 
@@ -47,7 +47,7 @@ Typically these problems will be more pronounced when your cat has just used the
 
 The second category of **symptoms tend to be behavioral** problems linked to some allergic reactions. For example as your cat's feet, tail and tushie come in direct contact with the litter they are more likely to absorb the allergen which can cause itchiness. Even though itchiness is not something you can see, the result might be that your cat displays **excessive licking, chewing or increased scratching and biting**.
 
-These symptoms could sometimes be harder to spot as many of them are regular manners a cat will exhibit during grooming. Allergies however will tend to make them more exaggerated, resulting in for example constant grooming or even licking off complete parts of fur in some cases.
+These symptoms could sometimes be harder to spot as many of them are regular manners a cat will exhibit during grooming. Allergies, however, will tend to make them more exaggerated, resulting in, for example, constant grooming or even licking off complete parts of fur in some cases.
 
 Another behavioral problem could be that could **your cat stops using the litter box** and instead uses places that are more pleasant for her/him but probably a lot less pleasant for you. The reason is of course that the cat litter causes one of the above symptoms resulting in your cat not finding the needed relief when using the litter box.
 
@@ -55,7 +55,7 @@ In some more serious cases, allergens can cause **vomiting and diarrhea** which 
 
 Allergies to cat litter may also be diagnosed through blood or intradermal testing. Contact your vet for more information on the subject.
 
-> Diagnosing allergies can be difficult as allergens in most cases are harmless substances and as such they can easily be overlooked. Luckily avoiding the allergic reaction from triggering can in most cases be achieved by simply removing the allergen from the vicinity of your cat. In the case of cat litter, it can be as simple as trying another litter type as we will see further below.
+> Diagnosing allergies can be difficult as allergens in most cases are harmless substances and as such, they can easily be overlooked. Luckily avoiding the allergic reaction from triggering can in most cases be achieved by simply removing the allergen from the vicinity of your cat. In the case of cat litter, it can be as simple as trying another litter type as we will see further below.
 
 # What Causes Your Cat to Be Allergic to Kitty Litter?
 
@@ -80,7 +80,7 @@ When switching kitty litter, try to get a hypoallergenic type. This typically me
 
 **Changing the litter is best done gradually** by mixing the new litter with the old. This allows your feline friend to get adjusted to the new bathroom routine. Allergy symptoms might remain present even after the litter was completely changed. Typically wait a couple of weeks to see if the new litter reduces or solves the allergies.
 
-As for your kitty, give her/him a bath or alternatively wipe the fur with hypoallergenic wipes to remove all old litter dust. Clean the litter box by thoroughly washing it down to get rid of any remaining allergens. Also, vacuum or wash the surrounding area, bedding, toys and other objects to make sure any remaining litter dust is gone.
+As for your kitty, give her/him a bath or alternatively [wipe the fur with hypoallergenic wipes]({{ site.url }}/best-anti-allergy-wipes-for-cats.html) to remove all old litter dust. Clean the litter box by thoroughly washing it down to get rid of any remaining allergens. Also, vacuum or wash the surrounding area, bedding, toys and other objects to make sure any remaining litter dust is gone.
 
 > It is important to note that your cat may be allergic to a number of different allergens that don't all originate from the same source. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
 
