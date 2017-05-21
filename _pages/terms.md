@@ -1,16 +1,12 @@
 ---
 permalink: /terms/
 title: "Terms and Policies"
-date: 2016-01-10
-last_modified_at: 2017-04-04T16:30:00-01:00
 excerpt: "whataboutpets.com terms & conditions, privacy policy and license."
+date: 2016-01-10
+last_modified_at: 2017-05-21T22:30:00-01:00
 share: false
 author: false
 ---
-
-The use of this website, in any and all forms, constitutes an acceptance of below terms and policies. This page is reviewed and revised from time to time.
-
-All content provided is for informational purposes only. We make no representations as to the accuracy or completeness of any information found here or by following any links. We will not be liable for any errors or omissions in this information nor for the availability of this information. We will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 ## Privacy Policy
 
@@ -22,14 +18,12 @@ First and foremost, we will never share your email address or any other personal
 
 Like many other websites, WhatAboutPets.com uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-- Internet Protocol addresses (IP)
-- Types of browser
-- Internet Service Provider (ISP)
-- Date and time stamp
-- Referring and exit pages
-- Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
 
 ### Cookies and Web Beacons
 
@@ -51,16 +45,25 @@ Google Analytics is a web analytics tool we use to help understand how visitors 
 
 ## Disclosure Policy
 
-We make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because we will get a percentage of that sale.
+We make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because we'll get a percentage of that sale.
 
-Currently we are an affiliate for Amazon and Google Adsense.
+Currently, we are an affiliate for Amazon and Google Adsense.
 
-What this means for you: we became an affiliate to earn revenue towards the costs of running and maintaining this website. Where we have direct control over which ads are served on this website we offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+What this means for you:
 
-Just like this website, our Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+* We became an affiliate to earn revenue towards the costs of running and maintaining this website. Where we have direct control over which ads are served on this website we offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* We do not and will not recommend a product just for the sake of making money.
+* We do not let the compensation we receive influence the content, topics, posts, or opinions expressed on this website.
+* We respect and value our readers too much to write anything other than our own genuine and objective opinions and advice.
 
-## License & Attribution
+Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
 
-All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on WhatAboutPets.com is released under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted. This means you are free to share and adapt for any purpose, even commercially as long as you give appropriate credit and indicate if changes were made.
+## License
 
-*Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}*
+All original content (e.g. articles, blog posts and illustrations) available on WhatAboutPets.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically, this means you are free to copy and redistribute the material in any medium or format as long as you give appropriate credit and don't use it for commercial purposes without our prior written consent.
+
+## Attribution
+
+When giving credit, link back to the source article attributed to [WhatAboutPets.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own. Thanks!
+
+_Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}_
