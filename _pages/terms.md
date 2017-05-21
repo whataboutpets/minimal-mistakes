@@ -3,7 +3,7 @@ permalink: /terms/
 title: "Terms and Policies"
 excerpt: "whataboutpets.com terms & conditions, privacy policy and license."
 date: 2016-01-10
-last_modified_at: 2017-05-21T22:30:00-01:00
+modified: 2017-05-21
 share: false
 author: false
 ---
@@ -65,5 +65,3 @@ All original content (e.g. articles, blog posts and illustrations) available on 
 ## Attribution
 
 When giving credit, link back to the source article attributed to [WhatAboutPets.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own. Thanks!
-
-_Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}_
