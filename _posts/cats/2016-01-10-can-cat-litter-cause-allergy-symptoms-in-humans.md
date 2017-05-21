@@ -10,6 +10,7 @@ header:
   teaser: /assets/images/cats/allergies-sneezing-teaser.jpg
 redirect_from:
   - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
+  - /2016/01/can-cat-litter-cause-allergy-symptoms-with-humans.html
 published: true
 ---
 
