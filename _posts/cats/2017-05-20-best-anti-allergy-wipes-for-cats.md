@@ -47,6 +47,8 @@ The product is alcohol free, safe for all cats and kittens over 6 weeks old. It 
 
 One downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
 
+[Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
+
 # #3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes
 
 ![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
