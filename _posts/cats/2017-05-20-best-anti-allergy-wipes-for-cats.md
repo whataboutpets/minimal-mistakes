@@ -33,7 +33,9 @@ There are special pet wipes on the market which are a convenient solution that h
 
 TODO
 
-[Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
+<div class="align-center">
+  <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
+</div>
 
 # [#2 Earthbath All Natural Cat Wipes](#link)
 
@@ -59,4 +61,7 @@ One downside of the product is the packaging. The top latch/button of the box is
 
 TODO
 
-[Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
+<div class="align-center">
+  <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
+</div>
+
