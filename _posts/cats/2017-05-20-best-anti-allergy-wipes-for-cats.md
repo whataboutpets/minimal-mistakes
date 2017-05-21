@@ -11,13 +11,13 @@ tags: [Allergy, Cat, Hypoallergenic, Wipes]
 published: true
 ---
 
-If you or your cat is suffering from allergies, there are a number of things you can do to help keep allergic reactions under control and minimize discomfort. One of them is to reduce the potential [allergens](https://en.wikipedia.org/wiki/Allergen) on your feline's fur to a minimum by wiping it down regularly.
+If you or your cat is suffering from allergies, there are a number of things you can do to help keep allergic reactions under control and minimize discomfort. One of them is to reduce the potential [allergens](https://en.wikipedia.org/wiki/Allergen){:target="_blank"} on your feline's fur to a minimum by wiping it down regularly.
 
 There are **special hypoallergenic cat wipes** on the market which are a convenient solution that help to remove dander, dust, residual saliva, cat litter and other dirt in no time. They are an easy, quick way to keep your pet clean and allergen free.
 
 # What Are Hypoallergenic Cat Wipes?
 
-[Hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic) cat wipes are pre-moistened wipes that offer an easy alternative to a daily bath. They can clean, condition, and deodorize your cat's skin and coat with very little effort. In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer allergens** and as such are less likely to cause allergic reactions.
+[Hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"} cat wipes are pre-moistened wipes that offer an easy alternative to a daily bath. They can clean, condition, and deodorize your cat's skin and coat with very little effort. In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer allergens** and as such are less likely to cause allergic reactions.
 
 > Tip: brushing your cat right after wiping them down, helps with their enjoyment of the wipes. 
 
@@ -33,7 +33,7 @@ There are **special hypoallergenic cat wipes** on the market which are a conveni
 
 ![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
-Burt's Bees for cats Dander Reducing Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera) to moisturize dry skin and reduce flaking.
+Burt's Bees for cats Dander Reducing Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} to moisturize dry skin and reduce flaking.
 
 The wipes are **made with natural ingredients**. They contain no sulfates, colorants or artificial fragrances and are safe for your furry little friend.
 
@@ -55,7 +55,7 @@ Earthbath All Natural Cat Wipes help to easily wipe away dander, dirt and other 
 
 The wipes do not contain added fragrances, as a result, they are **basically odorless**. In addition, they do not contain parabens, phosphates or phthalates. They are safe for daily use and any residue left behind is completely safe and will not harm your cat.
 
-The wipes are not overly wet (more on the dry side) and their size can be considered "normal". They contain a mild cleanser that freshens and deodorizes. In addition, [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera) and Vitamin E will moisturize coat and skin. The product is nice to use for general kitty coat cleaning and will brighten and soften the coat.
+The wipes are not overly wet (more on the dry side) and their size can be considered "normal". They contain a mild cleanser that freshens and deodorizes. In addition, [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} and [Vitamin E](https://en.wikipedia.org/wiki/Vitamin_E){:target="_blank"} will moisturize coat and skin. The product is nice to use for general kitty coat cleaning and will brighten and soften the coat.
 
 This product is made in the USA, as indicated on the package label. It is alcohol free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
 
