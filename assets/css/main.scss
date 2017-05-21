@@ -102,7 +102,7 @@ nav.pagination a.pagination--pager {
   color: #009688;
 }
 nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:active {
-  text-decoration: underline
+  text-decoration: underline;
 }
 .btn--buy {
   background-color: #e91e63;
@@ -111,5 +111,6 @@ nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:act
 .btn--buy:hover, nav.pagination .btn--buy:active {
   background-color: #ff6090;
 }
-
-
+.align-center {
+  text-align: center;
+}
