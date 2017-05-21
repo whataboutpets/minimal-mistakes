@@ -33,15 +33,15 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
 
-* [Apples]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)
-* [Bananas]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
-* [Broccoli]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
-* [Cabbage]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
-* [Celery]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)
-* [Grapes]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)
-* [Strawberries]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)
-* [Tomatoes]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
-* [Watermelon]({{ site.url }}/2016/02/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)
+* [Apples]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)
+* [Bananas]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
+* [Broccoli]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
+* [Cabbage]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
+* [Celery]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)
+* [Grapes]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)
+* [Strawberries]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)
+* [Tomatoes]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
+* [Watermelon]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)
 
 ## What Does a Rabbit Eat?
 
