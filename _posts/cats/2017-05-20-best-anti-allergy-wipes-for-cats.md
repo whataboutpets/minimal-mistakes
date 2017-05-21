@@ -29,7 +29,7 @@ There are special pet wipes on the market which are a convenient solution that h
 | #2       | [Earthbath All Natural Cat Wipes](#link)                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
 | #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link) | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
 
-# #1 [Burts Bees Dander Reducing Cat Wipes](#link)
+# [#1 Burts Bees Dander Reducing Cat Wipes](#link)
 
 ![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
@@ -65,7 +65,7 @@ One downside of the product is the packaging. The top latch/button of the box is
   <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
 </div>
 
-# #3 [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link)
+# [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link)
 
 ![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
 
