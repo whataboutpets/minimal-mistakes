@@ -37,7 +37,15 @@ There are special pet wipes on the market which are a convenient solution that h
 
 ![image-left](/assets/images/cats/earthbath-all-natural-cat-wipes.jpg){: .align-left}
 
+This product helps to easily wipe away dander, dirt and other potential allergens in your furred friend's coat.
 
+The wipes do not contain added fragrances as a result they are basically odorless. In addition they do not contain parabens, phosphates or pthalates. They are safe for daily use and any residue left behind is completely safe and will not harm your cat.
+
+The size of the wipes can be considered "normal" and they are not overly wet (more on the dry side). They contain a mild cleansers that freshens and deodorizes, in addition to Aloe Vera and Vitamin E to moisturize coat and skin. The product is nice to use for general kitty coat cleaning and will brighten and soften the coat.
+
+The product is alcohol free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
+
+One downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
 
 # #3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes
 
