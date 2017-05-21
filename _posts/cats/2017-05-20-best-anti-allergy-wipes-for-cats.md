@@ -21,17 +21,19 @@ There are special pet wipes on the market which are a convenient solution that h
 
 # 2017's Reviews of The Best Anti Allergy Wipes for Cats
 
-| Ranking  | Brand                                                     | Number of Wipes | Editor's Rating                                           |
-|:--------:| --------------------------------------------------------- |:---------------:| --------------------------------------------------------- |
-| #1       | Burts Bees Dander Reducing Cat Wipes                      | 50              | ![five stars](/assets/images/icons/rating/five-stars.png) |
-| #2       | Earthbath All Natural Cat Wipes                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
-| #3       | Nature's Miracle Just for Cats Allergen Blocker Cat Wipes | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| Ranking  | Brand                                                              | Number of Wipes | Editor's Rating                                           |
+|:--------:| ------------------------------------------------------------------ |:---------------:| --------------------------------------------------------- |
+| #1       | [Burts Bees Dander Reducing Cat Wipes](#link)                      | 50              | ![five stars](/assets/images/icons/rating/five-stars.png) |
+| #2       | [Earthbath All Natural Cat Wipes](#link)                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link) | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
 
 # #1 Burts Bees Dander Reducing Cat Wipes
 
 ![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
+TODO
 
+[Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
 
 # #2 Earthbath All Natural Cat Wipes
 
@@ -53,5 +55,6 @@ One downside of the product is the packaging. The top latch/button of the box is
 
 ![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
 
+TODO
 
-
+[Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
