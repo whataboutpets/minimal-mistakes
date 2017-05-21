@@ -44,7 +44,7 @@ The wipes are pH balanced for cats as their skin is much less acidic than humans
 We highly recommended this natural made in the USA product for your peace of mind and a happy allergen free cat.
 
 <div class="align-center">
-  <a href="http://amzn.to/2pZwJeG" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
+  <a href="http://amzn.to/2pZwJeG" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
 # [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL)
@@ -62,7 +62,7 @@ This product is made in the USA, as indicated on the package label. It is alcoho
 One potential downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result, some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
 
 <div class="align-center">
-  <a href="http://amzn.to/2rGSoEL" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
+  <a href="http://amzn.to/2rGSoEL" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
 # [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4)
@@ -78,7 +78,7 @@ The pre-moistened wipes do not leave your kitty sticky or soaking wet. In additi
 The product is packaged as a roll and comes in a cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases, it is not that easy to get ahold of a center wipe. A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
 <div class="align-center">
-  <a href="http://amzn.to/2r6C3x4" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
+  <a href="http://amzn.to/2r6C3x4" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
 # Conclusion
