@@ -35,7 +35,7 @@ TODO
 
 [Click Here for Best Price](#link){: .btn .btn--x-large .btn--buy}
 
-# #2 Earthbath All Natural Cat Wipes
+# [#2 Earthbath All Natural Cat Wipes](#link)
 
 ![image-left](/assets/images/cats/earthbath-all-natural-cat-wipes.jpg){: .align-left}
 
