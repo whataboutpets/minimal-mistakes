@@ -25,11 +25,11 @@ There are special pet wipes on the market which are a convenient solution that h
 
 | Ranking  | Brand                                                              | Number of Wipes | Editor's Rating                                           |
 |:--------:| ------------------------------------------------------------------ |:---------------:| --------------------------------------------------------- |
-| #1       | [Burts Bees Dander Reducing Cat Wipes](#link)                      | 50              | ![five stars](/assets/images/icons/rating/five-stars.png) |
-| #2       | [Earthbath All Natural Cat Wipes](#link)                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
-| #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link) | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| #1       | [Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG)                      | 50              | ![five stars](/assets/images/icons/rating/five-stars.png) |
+| #2       | [Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL)                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
+| #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4) | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
 
-# [#1 Burts Bees Dander Reducing Cat Wipes](#link)
+# [#1 Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG)
 
 ![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
 
@@ -47,7 +47,7 @@ We highly recommended this natural made in the USA product for your peace of min
   <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
 </div>
 
-# [#2 Earthbath All Natural Cat Wipes](#link)
+# [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL)
 
 ![image-left](/assets/images/cats/earthbath-all-natural-cat-wipes.jpg){: .align-left}
 
@@ -65,7 +65,7 @@ One potential downside of the product is the packaging. The top latch/button of 
   <a href="#link" class="btn btn--x-large btn--buy">Click Here for Best Price</a>
 </div>
 
-# [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](#link)
+# [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4)
 
 ![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
 
@@ -85,6 +85,6 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 
 The above cat allergy relief wipes are all excellent products with high user review scores on Amazon.
 
-As allergies are different for each person or cat its hard to say whether they will bring relief or not. Given the fact that they are not that expensive we recommend you give them a try and hopefully they will work out for you or your feline friend.
+As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive we recommend you give them a try and hopefully they will work out for you or your feline friend.
 
-What are your experiences with allergy reducing cat wipes? We'd love to here your feedback!
+What are your experiences with allergy reducing cat wipes? We'd love to hear your feedback!
