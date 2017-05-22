@@ -57,7 +57,7 @@ The wipes do not contain added fragrances, as a result, they are **basically odo
 
 The wipes are not overly wet (more on the dry side) and their size can be considered "normal". They contain a mild cleanser that freshens and deodorizes. In addition, [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} and [Vitamin E](https://en.wikipedia.org/wiki/Vitamin_E){:target="_blank"} will moisturize coat and skin. The product is nice to use for general kitty coat cleaning and will brighten and soften the coat.
 
-This product is made in the USA, as indicated on the package label. It is alcohol free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
+This product is made in the USA, as indicated on the package label. It is alcohol-free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
 
 One potential downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result, some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
 
@@ -73,7 +73,7 @@ Nature's Miracle Just for Cats Allergen Blocker Cat Wipes claims to neutralize a
 
 The product has a very mild scent and deodorizes your cat's coat.
 
-The pre-moistened wipes will not leave your kitty sticky or soaking wet. In addition, the alcohol-Free formula will not dry out your cat's skin and coat.
+The pre-moistened wipes will not leave your kitty sticky or soaking wet and are perfect for wiping down your pet in order to neutralize potential allergens. In addition, the alcohol-Free formula will not dry out your cat's skin and coat.
 
 The product is packaged as a roll and comes in a cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases, it is not that easy to get ahold of a center wipe. A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
@@ -85,7 +85,7 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 
 The above cat allergy relief wipes are all excellent products with **high user review scores** on Amazon.
 
-As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive, we recommend you **give them a try** and hopefully they will work out for you and your feline friend.
+As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive, we recommend you **give them a try** and hopefully, they will work out for you and your feline friend.
 
 ---
 
