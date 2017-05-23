@@ -73,25 +73,17 @@ Note that washing also applies to your own hands whenever they have been in cont
 
 # 5 ) Try an Air Purifier
 
-As liter dust can occur throughout your home, getting an air purifier for the area that you or your pet are immediately in can actually be a great way to decrease allergens and dust mites.
+As litter dust can occur throughout your home, getting an air purifier for the area that you or your pet are immediately in can actually be a great way to decrease allergens and dust mites.
 
-Even with constant cleaning and vacuuming, it's difficult to keep the air in living spaces clean. An air purifier can be a great way 
+Even with constant cleaning and vacuuming, it's difficult to keep the air in living spaces clean. An air purifier can help to take on this problem, and effectively get rid of these airborne allergens.
 
-Make sure to look for a model that comes with a HEPA air filter. These filters 99.97% the allergens, dust, mold, pollens, and other junk particles out of the air.
+Make sure to look for a model that comes with a HEPA air filter. These filters trap 99.97% of the dust, dust mites, and other allergens out of the air.
+
+You can buy a free-standing unit or you can also get models that are attached to the heating or cooling system.
+
+Keep in mind that having an air purifier does not mean you can stop cleaning. They clean the air but litter dust can still be attached to the floor and other surfaces.
 
 
-are the best kinds of air filters to clean the air of any harmful particles. You can buy these as free-standing units or you can also get some that are attached to the air conditioner.
-
-the flocks of cat hair flying through our living space and the pet dander that keeps us and nearly 10% of American population sneezing.  Luckily, with air purifiers, we're able to combat these troubles, and get rid of allergens, dust, dander and other harmful particles.
-
-not just in cat litter.
-
-Dust mites occur throughout the home, not just in cat litter. Try an air purifier with a HEPA filter to reduce dust mites
-Clear the air!  Invest in a high efficiency particulate arrestance/air (HEPA) filter. Remember that the cat allergen can linger for long periods of time, so continuously straining it out of the air will reduce your exposure to the allergen.
-
-Use air purifiers throughout the house; look for the ones with HEPA filters. Salt
-lamps can help attract dust and cause it to drop to the floor where it can be vacuumed up.
-Some purifiers use UV light to kill germs/viruses, as well, which may be an attractive option.
 
 
 
