@@ -13,3 +13,6 @@ published: false
 
 
 TODO
+
+
+using pine or cedar dust as your cat's litter might be helpfull as both types of wood - pine in particullar absorb fluid and neutralize ammonia.
