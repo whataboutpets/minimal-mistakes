@@ -13,8 +13,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="5-stars.svg"
-   inkscape:export-filename="C:\code\st\whataboutpets\assets\images\icons\rating\star.png"
+   sodipodi:docname="five-stars.svg"
+   inkscape:export-filename="C:\code\st\whataboutpets\assets\images\icons\rating\five-stars.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="fill:#000000">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +48,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="9.8333333"
-     inkscape:cx="55.726464"
+     inkscape:cx="38.641718"
      inkscape:cy="12"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
@@ -73,25 +73,25 @@
      inkscape:connector-curvature="0"
      d="M 14.000001,21.288421 21.416,26 19.448,17.12 26,11.145263 17.372001,10.374737 14.000001,2 10.627999,10.374737 2,11.145263 8.552,17.12 6.5839998,26 Z"
      id="path6-8-8"
-     style="fill:#009688;fill-opacity:1" />
+     style="fill:#2196f3;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      d="M 39.000001,21.288421 46.416,26 44.448,17.12 51,11.145263 42.372001,10.374737 39.000001,1.9999997 35.627999,10.374737 27,11.145263 33.552,17.12 31.584,26 Z"
      id="path6-8-8-7"
-     style="fill:#009688;fill-opacity:1" />
+     style="fill:#2196f3;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      d="M 64.000001,21.288421 71.416,26 69.448,17.12 76,11.145263 67.372001,10.374737 64.000001,1.9999996 60.627999,10.374737 52,11.145263 58.552,17.12 56.584,26 Z"
      id="path6-8-8-7-0"
-     style="fill:#009688;fill-opacity:1" />
+     style="fill:#2196f3;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      d="M 89.000001,21.288421 96.416,26 94.448,17.12 101,11.145264 92.372001,10.374738 89.000001,2.0000005 85.627999,10.374738 77,11.145264 83.552,17.12 81.584,26 Z"
      id="path6-8-8-7-0-2"
-     style="fill:#009688;fill-opacity:1" />
+     style="fill:#2196f3;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      d="M 114,21.28842 121.416,26 119.448,17.12 126,11.145263 117.372,10.374737 114,1.9999999 110.628,10.374737 102,11.145263 108.552,17.12 106.584,26 Z"
      id="path6-8-8-7-0-2-2"
-     style="fill:#009688;fill-opacity:1" />
+     style="fill:#2196f3;fill-opacity:1" />
 </svg>
