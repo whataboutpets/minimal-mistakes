@@ -81,9 +81,12 @@ $susy: (
    ========================================================================== */
 
 .greedy-nav .visible-links a::before {
-  background: #00675b !important;
+  background: #0069c0 !important;
 }
 /*post*/
+.breadcrumbs .current {
+  font-weight: normal;
+}
 h1 {
   margin-top: 60px;
 }
@@ -102,7 +105,7 @@ table {
   font-size: 1em;
 }
 nav.pagination a.pagination--pager {
-  color: #009688;
+  color: #0069c0;
 }
 nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:active {
   text-decoration: underline;
