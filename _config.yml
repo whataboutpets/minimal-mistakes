@@ -210,7 +210,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: jekyll-archives
-  path: /
+  path: /categories/
 tag_archive:
   type: jekyll-archives
   path: /tags/
@@ -223,7 +223,7 @@ jekyll-archives:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    category: /:name/
+    category: /categories/:name/
     tag: /tags/:name/
 
 
