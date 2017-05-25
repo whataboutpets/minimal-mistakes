@@ -7,7 +7,7 @@ modified: 2016-01-09
 categories: [Cats]
 tags: [Allergy, Cat, Humans, Litter, Symptoms]
 header:
-  teaser: /assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg
+  teaser: /assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans-teaser.jpg
 redirect_from:
   - /can-cat-litter-cause-allergy-symptoms-in-humans.html
   - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
@@ -31,7 +31,7 @@ Allergies can develop with **any person at any age**. So even if you have been u
 
 In addition, there is believed to be a strong **genetic correlation** in contracting allergies. In other words, if your parents have cat litter allergies, then you are likely to have them also.
 
-What is also interesting to know is that, like people, [cats can also develop allergies to cat litter]({{ site.url }}/can-cats-be-allergic-to-cat-litter.html). The causes, symptoms and treatment are actually very similar to each other.
+What is also interesting to know is that, like people, [cats can also develop allergies to cat litter]({{ site.url }}/can-cats-be-allergic-to-cat-litter.html). The causes, symptoms, and treatment are actually very similar to each other.
 
 # What Causes an Allergic Reaction to Cat Litter?
 

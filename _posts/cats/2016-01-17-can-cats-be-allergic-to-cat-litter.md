@@ -45,11 +45,11 @@ The first category of **symptoms are visual** ones and some of them are very sim
 
 Typically these problems will be more pronounced when your cat has just used the litter box. But they can even be triggered if your kitty is just passing by the cat litter.
 
-The second category of **symptoms tend to be behavioral** problems linked to some allergic reactions. For example as your cat's feet, tail and tushie come in direct contact with the litter they are more likely to absorb the allergen which can cause itchiness. Even though itchiness is not something you can see, the result might be that your cat displays **excessive licking, chewing or increased scratching and biting**.
+The second category of **symptoms tends to be behavioral** problems linked to some allergic reactions. For example as your cat's feet, tail and tushie come in direct contact with the litter they are more likely to absorb the allergen which can cause itchiness. Even though itchiness is not something you can see, the result might be that your cat displays **excessive licking, chewing or increased scratching and biting**.
 
 These symptoms could sometimes be harder to spot as many of them are regular manners a cat will exhibit during grooming. Allergies, however, will tend to make them more exaggerated, resulting in, for example, constant grooming or even licking off complete parts of fur in some cases.
 
-Another behavioral problem could be that could **your cat stops using the litter box** and instead uses places that are more pleasant for her/him but probably a lot less pleasant for you. The reason is of course that the cat litter causes one of the above symptoms resulting in your cat not finding the needed relief when using the litter box.
+Another behavioral problem could be that could **your cat stops using the litter box** and instead uses places that are more pleasant to her/him but probably a lot less pleasant for you. The reason is of course that the cat litter causes one of the above symptoms resulting in your cat not finding the needed relief when using the litter box.
 
 In some more serious cases, allergens can cause **vomiting and diarrhea** which over time can weaken your cat. Even in some extreme cases **swelling of the face** can occur, which is a common indication of an anaphylactic shock (life-threatening allergic reaction). In this case, you would need to contact a vet immediately
 
