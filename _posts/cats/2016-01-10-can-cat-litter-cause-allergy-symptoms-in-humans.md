@@ -1,27 +1,27 @@
 ---
 title: "Can Cat Litter Cause Allergy Symptoms in Humans?"
-permalink: /can-cat-litter-cause-allergy-symptoms-in-humans.html
+permalink: /:categories/can-cat-litter-cause-allergy-symptoms-in-humans.html
 excerpt: "Ever wondered if humans could be allergic to cat litter and what the symptoms would be?"
 date: 2016-01-09
 modified: 2016-01-09
 categories: [Cats]
 tags: [Allergy, Cat, Humans, Litter, Symptoms]
 header:
-  teaser: /assets/images/cats/allergies-sneezing-teaser.jpg
+  teaser: /assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg
 redirect_from:
+  - /can-cat-litter-cause-allergy-symptoms-in-humans.html
   - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
   - /2016/01/can-cat-litter-cause-allergy-symptoms-with-humans.html
 published: true
 ---
 
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg" alt="can cat litter cause allergy symptoms in humans">
+</figure>
+
 Think you're allergic to your cat? You might be allergic to the cat litter instead. Kitty litter comes in a variety of materials and may even contain additional additives or chemicals. As human allergies are triggered by substances in our surrounding environment, **the cat litter you are using could be the cause of the allergic reaction you are experiencing**.
 
 # What Are Human Allergies?
-
-<figure>
-  <img src="{{ site.url }}/assets/images/cats/allergies-sneezing.jpg" alt="allergies sneezing">
-  <figcaption>William Brawley - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
-</figure>
 
 So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy){:target="_blank"}, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
