@@ -6,7 +6,7 @@ date: 2017-05-20
 modified: 2017-05-20
 header:
   teaser: assets/images/cats/anti-allergy-cat-wipes-teaser.jpg
-categories: [Cats]
+categories: Cats
 tags: [Allergy, Cat, Hypoallergenic, Wipes]
 published: true
 ---
