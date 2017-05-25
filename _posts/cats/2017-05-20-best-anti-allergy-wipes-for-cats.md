@@ -91,7 +91,7 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 
 The above cat allergy relief wipes are all excellent products with **high user review scores** on Amazon.
 
-We chose [Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"} as the best hypoallergenic cat wipes. Made with natural ingredients and pH balanced especially for cats they are a safe and quick solution for daily removal of potential allergens on your kitty's coat.
+We chose [Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"} as the best hypoallergenic cat wipes. Made with natural ingredients and pH balanced especially for cats they are a safe and quick solution for daily removal of potential litter allergens on your kitty's coat.
 
 As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive, we recommend you **give them a try** and hopefully, they will work out for you and your feline friend.
 
