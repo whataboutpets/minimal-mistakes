@@ -241,13 +241,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      header:
-        overlay_color: "#009688"
   # _pages
   - scope:
       path: ""
