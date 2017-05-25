@@ -83,10 +83,10 @@ $susy: (
 .greedy-nav .visible-links a::before {
   background: #0069c0 !important;
 }
-/*post*/
 a {
   color: #2196f3 !important;
 }
+/*post*/
 .breadcrumbs .current {
   color: #9ba1a6;
   font-weight: normal;
@@ -105,11 +105,14 @@ h1 {
 blockquote {
   border-left-color: #e91e63;
 }
-table {
-  font-size: 1em;
+nav.pagination a.pagination--pager {
+  color: #2196f3;
 }
 nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:active {
   text-decoration: underline;
+}
+table {
+  font-size: 1em;
 }
 .btn--buy {
   background-color: #e91e63;
