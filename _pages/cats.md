@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "What About Cats?"
+title: "Cats"
 permalink: /cats/
-author_profile: false
 ---
 
 <div class="grid__wrapper">
