@@ -12,6 +12,6 @@ permalink: /cats/
   {% endfor %}
 </div>
 
-# Buying Guides and Reviews
+
 
 
