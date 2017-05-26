@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "What About Pets?"
+title                    : "What About Pets"
 title_separator          : "-"
 name                     : "WhatAboutPets"
 description              : "Questions and answers on animal well-being and helping pets and owners live happier lives."
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
