@@ -40,7 +40,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 <img src="{{ site.url }}/assets/images/cats/clay-dust.jpg" alt="clay dust" class="align-right">
 
-A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
+A lot of cat litters are made of [clay](https://en.wikipedia.org/wiki/Clay){:target="_blank"} and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
 Some litters have **perfumes** or other additives that are added in order to help control odor. These fragrances are also a potential allergen that might trigger the allergies you are experiencing.
 
@@ -81,7 +81,7 @@ If for some reason it is not possible to switch the cat litter you are using, th
 Some allergies can also be reduced with the help of medication. Always consult with your local physician regarding the different options treating allergies and asthma.
 
 In short, yes cat litter can trigger allergies and their accompanying symptoms. The easiest way to treat them is by trying out a different kind of cat litter.
-.notice--info
+{: .notice--info}
 
 ---
 
