@@ -48,12 +48,9 @@ In addition to the above, additional minerals or chemicals can be found in certa
 
 **Silicon dioxide**, also known as [silica](https://en.wikipedia.org/wiki/Silicon_dioxide){:target="_blank"}, is one such example. It is a chemical compound that can be found in clay and a number of other minerals. Inhaling finely divided crystalline silica dust can lead to medical problems like [asthma](https://en.wikipedia.org/wiki/Asthma){:target="_blank"} or [bronchitis](https://en.wikipedia.org/wiki/Bronchitis){:target="_blank"} as the dust becomes lodged in the lungs and continuously irritates them.
 
-# Cat Litter Allergy Symptoms to Look out for
+# Cat Litter Allergy Symptoms to Look Out For
 
-<figure>
-  <img src="{{ site.url }}/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes">
-  <figcaption>Andrew Goloida - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
-</figure>
+<img src="{{ site.url }}/assets/images/cats/allergies-red-eyes.jpg" alt="allergies red eyes" class="align-right">
 
 If you're allergic to cat litter, you might notice a **runny nose, sneezing, red eyes, shortness of breath or asthma**. In some cases, you can even develop **hives on your skin**. As previously mentioned, these symptoms are caused by our immune system because it considers some of the substances in the cat litter to be harmful and tries to get rid of them.
 
