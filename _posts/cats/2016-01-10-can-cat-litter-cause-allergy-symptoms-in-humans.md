@@ -23,7 +23,9 @@ Think you're allergic to your cat? You might be allergic to the cat litter inste
 
 # What Are Human Allergies?
 
-![image-right](/assets/images/cats/allergen-plant-pollen.jpg){: .align-right}
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/allergen-plant-pollen.jpg" alt="allergen plant pollen" class="align-right">
+</figure>
 
 So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy){:target="_blank"}, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
@@ -37,8 +39,10 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-![image-right](/assets/images/cats/cat-litter-1.jpg){: .align-right}
-*mynikfoto - flickr.com (CC BY 2.0) / Cropped from original*
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/cat-litter-1.jpg" alt="cat litter" class="align-right">
+  <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
+</figure>
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
