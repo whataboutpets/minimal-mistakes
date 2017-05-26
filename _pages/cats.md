@@ -14,7 +14,7 @@ permalink: /cats/
   </div>
 
 
-# Buying Guides and Reviews{:class="cf"}
+# Buying Guides and Reviews{:.cf}
 
 
   <div class="grid__wrapper">
