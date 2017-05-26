@@ -5,8 +5,8 @@ excerpt: "A selection of the best hypoallergenic wipes for cats."
 date: 2017-05-20
 modified: 2017-05-20
 header:
-  teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser-1.jpg
-pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats-1.jpg
+  teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
+pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats.jpg
 categories: Cats
 tags: [Allergy, Cat, Hypoallergenic, Litter, Review, Wipes]
 redirect_from:
@@ -15,7 +15,7 @@ published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/cats/best-anti-allergy-wipes-for-cats-1.jpg" alt="best anti allergy wipes for cats">
+  <img src="{{ site.url }}/assets/images/cats/best-anti-allergy-wipes-for-cats.jpg" alt="best anti allergy wipes for cats">
 </figure>
 
 If you or your cat is suffering from allergies, there are a number of things you can do to help keep allergic reactions under control and minimize discomfort. One of them is to reduce the potential [allergens](https://en.wikipedia.org/wiki/Allergen){:target="_blank"} on your feline's fur to a minimum by wiping it down regularly.
