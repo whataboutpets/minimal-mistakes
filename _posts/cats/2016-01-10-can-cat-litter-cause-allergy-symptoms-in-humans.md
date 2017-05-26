@@ -8,7 +8,7 @@ categories: [Cats]
 tags: [Allergy, Cat, Humans, Litter, Symptoms]
 header:
   teaser: /assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans-teaser.jpg
-  pinterest: assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg
+pinterest: assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg
 redirect_from:
   - /can-cat-litter-cause-allergy-symptoms-in-humans.html
   - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
@@ -39,10 +39,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-<p>
-  <img src="{{ site.url }}/assets/images/cats/cat-litter-1.jpg" alt="cat litter" class="align-right">
-  <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
-</p>
+{% include image image_path="{{ site.url }}/assets/images/cats/cat-litter-1.jpg" caption="mynikfoto - flickr.com (CC BY 2.0) / Cropped from original" alt="cat litter" %}
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
