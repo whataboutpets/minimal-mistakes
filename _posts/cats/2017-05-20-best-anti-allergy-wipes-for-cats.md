@@ -5,8 +5,8 @@ excerpt: "A selection of the best hypoallergenic wipes for cats."
 date: 2017-05-20
 modified: 2017-05-20
 header:
-  teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
-pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats.jpg
+  teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser-1.jpg
+pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats-1.jpg
 categories: Cats
 tags: [Allergy, Cat, Hypoallergenic, Litter, Review, Wipes]
 redirect_from:
