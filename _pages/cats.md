@@ -21,5 +21,3 @@ permalink: /cats/
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
-<div class="clear-float" />
