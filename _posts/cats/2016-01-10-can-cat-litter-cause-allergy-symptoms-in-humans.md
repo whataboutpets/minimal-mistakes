@@ -28,7 +28,7 @@ Think you're allergic to your cat? You might be allergic to the cat litter inste
 
 So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy){:target="_blank"}, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
-In other words, a substance called "**allergen**" will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
+In other words, a substance called [allergen](https://en.wikipedia.org/wiki/Allergen){:target="_blank"} will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
 
 Allergies can develop with **any person at any age**. So even if you have been using a certain type of cat litter for a long time without it causing an allergic reaction, nothing is to say that at a certain moment, you could become allergic to it.
 
@@ -64,11 +64,11 @@ If your not sure about whether the cat litter is the cause of your allergies, th
 
 <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter" class="align-right">
 
-The best way to help reduce or even completely get rid of allergies related to litter is to **change the kitty litter** you are using. There are a number of "**hypoallergenic**" varieties on the market which are relatively unlikely to cause an allergic reaction.
+The best way to help reduce or even completely get rid of allergies related to litter is to **change the kitty litter** you are using. There are a number of [hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"} varieties on the market which are relatively unlikely to cause an allergic reaction.
 
 In general, these are cat litters that are low on or even have no dust at all. Examples are cat litter made from crystals/pearls, recycled newspapers, pinewood or whole-kernel corn.
 
-**When switching cat litter make sure to do it gradually** by mixing the old litter with the new litter. This will help acclimate your cat to the new feel and smell. Also, bathe your cat or [wipe the fur with hypoallergenic wipes]({{ site.url }}/best-anti-allergy-wipes-for-cats.html) so it is free of old litter dust.
+**When switching cat litter make sure to do it gradually** by mixing the old litter with the new litter. This will help acclimate your cat to the new feel and smell. Also, bathe your cat or wipe the fur with hypoallergenic wipes so it is free of old litter dust.
 
 If for some reason it is not possible to switch the cat litter you are using, the basic rule is simple: _avoid contact with the litter material_. Below you can find some general tips on how to achieve this.
 
