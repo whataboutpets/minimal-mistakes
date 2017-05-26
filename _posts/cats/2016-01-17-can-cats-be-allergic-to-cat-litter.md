@@ -25,7 +25,7 @@ After you have eliminated the allergy sources that typically spring to mind (pol
 
 # What Are Cat Litter Allergies?
 
-<img src="{{ site.url }}/assets/images/cats/allergen-dandelion-pollen" alt="allergen dandelion pollen" class="align-right">
+<img src="{{ site.url }}/assets/images/cats/allergen-dandelion-pollen.jpg" alt="allergen dandelion pollen" class="align-right">
 
 Cat allergies are caused by an **overreaction of their immune system** to one or more substances, also known as [allergens](https://en.wikipedia.org/wiki/Allergen){:target="_blank"}. With most cats, allergens don't trigger an overreaction. However, with some cats, their immune system aggressively tries to get rid of these allergens which results in a number of symptoms that we will discuss further below.
 
@@ -76,7 +76,7 @@ Scan through the **ingredients list located on your cat litter packaging** as it
 
 The most efficient way to solve your cat's allergies is to remove the allergens from her or his environment. **In the case of cat litter, it means switching to a different type**.
 
-When switching kitty litter, try to get a hypoallergenic type. This typically means a litter that has low to no dust and that is unscented.
+When switching kitty litter, try to get a [hypoallergenic type](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"}. This typically means a litter that has low to no dust and that is unscented.
 
 **Changing the litter is best done gradually** by mixing the new litter with the old. This allows your feline friend to get adjusted to the new bathroom routine. Allergy symptoms might remain present even after the litter was completely changed. Typically wait a couple of weeks to see if the new litter reduces or solves the allergies.
 
