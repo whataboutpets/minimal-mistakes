@@ -14,8 +14,4 @@ permalink: /cats/
 
 # Buying Guides and Reviews
 
-<div class="grid__wrapper">
-  {% for post in site.categories.Cats and site.tags.Review %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+
