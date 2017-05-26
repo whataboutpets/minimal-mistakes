@@ -6,6 +6,7 @@ date: 2017-05-20
 modified: 2017-05-20
 header:
   teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
+pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
 categories: Cats
 tags: [Allergy, Cat, Hypoallergenic, Wipes]
 redirect_from:
