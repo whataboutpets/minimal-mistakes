@@ -23,6 +23,8 @@ Think you're allergic to your cat? You might be allergic to the cat litter inste
 
 # What Are Human Allergies?
 
+![image-right](/assets/images/cats/allergen-plant-pollen.jpg){: .align-left}
+
 So what exactly are human allergies anyway? [Allergies](https://en.wikipedia.org/wiki/Allergy){:target="_blank"}, also known as allergic diseases, are a number of conditions caused by **hypersensitivity of the human immune system to something in our surroundings** that usually causes little problems with most people.
 
 In other words, a substance called "**allergen**" will produce an abnormally vigorous immune response in which our immune system fights off a perceived threat that would otherwise be harmless to the body. As we will see further down, cat litter can contain certain allergens.
