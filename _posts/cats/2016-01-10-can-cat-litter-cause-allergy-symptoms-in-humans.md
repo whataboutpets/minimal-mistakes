@@ -80,7 +80,7 @@ If for some reason it is not possible to switch the cat litter you are using, th
 
 Some allergies can also be reduced with the help of medication. Always consult with your local physician regarding the different options treating allergies and asthma.
 
-In short, yes cat litter can trigger allergies and their accompanying symptoms. The easiest way to treat them is by trying out a different kind of cat litter.
+In short, yes cat litter can trigger allergies and their accompanying symptoms. The easiest way to treat them is by **trying out a different kind of cat litter**.
 {: .notice--info}
 
 ---
