@@ -38,7 +38,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-<img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter" class="align-right">
+<img src="{{ site.url }}/assets/images/cats/clay-dust.jpg" alt="clay dust" class="align-right">
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
@@ -64,6 +64,8 @@ If you notice the above allergy symptoms **during or right after you clean the l
 If your not sure about whether the cat litter is the cause of your allergies, the best way to answer the question _"Am I allergic to the cat litter?"_ is to have an **allergy test performed by a qualified medical professional**.
 
 # Reducing or Getting Rid of Cat Litter Allergies
+
+<img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter" class="align-right">
 
 The best way to help reduce or even completely get rid of allergies related to litter is to **change the kitty litter** you are using. There are a number of "**hypoallergenic**" varieties on the market which are relatively unlikely to cause an allergic reaction.
 
