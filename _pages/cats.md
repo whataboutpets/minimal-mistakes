@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: archive-page
 title: "Cats"
 permalink: /cats/
+set_title: false
 ---
 
 <h1 class="cf align-center">Latest Cat Tips and Advice</h1>
