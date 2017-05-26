@@ -8,7 +8,7 @@ header:
   teaser: assets/images/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
 pinterest: assets/images/cats/best-anti-allergy-wipes-for-cats.jpg
 categories: Cats
-tags: [Allergy, Cat, Hypoallergenic, Wipes]
+tags: [Allergy, Cat, Hypoallergenic, Litter, Review, Wipes]
 redirect_from:
   - /best-anti-allergy-wipes-for-cats.html
 published: true

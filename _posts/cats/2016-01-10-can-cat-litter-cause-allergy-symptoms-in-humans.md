@@ -4,11 +4,11 @@ permalink: /:categories/can-cat-litter-cause-allergy-symptoms-in-humans.html
 excerpt: "Ever wondered if humans could be allergic to cat litter and what the symptoms would be?"
 date: 2016-01-09
 modified: 2016-01-09
-categories: [Cats]
-tags: [Advice, Allergy, Cat, Humans, Litter, Symptoms, ]
 header:
   teaser: /assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans-teaser.jpg
 pinterest: assets/images/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg
+categories: Cats
+tags: [Advice, Allergy, Cat, Humans, Litter, Symptoms, ]
 redirect_from:
   - /can-cat-litter-cause-allergy-symptoms-in-humans.html
   - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html

@@ -7,7 +7,7 @@ permalink: /cats/
 # Latest Cat Tips and Advice
 
 <div class="grid__wrapper">
-  {% for post in site.tags.Advice and site.category.Cats %}
+  {% for post in site.tags.Advice and site.categories.Cats %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

@@ -7,8 +7,8 @@ modified: 2016-01-17
 header:
   teaser: assets/images/cats/can-cats-be-allergic-to-cat-litter-teaser.jpg
 pinterest: assets/images/cats/can-cats-be-allergic-to-cat-litter-teaser.jpg
-categories: [Cats]
-tags: [Allergy, Cat, Litter]
+categories: Cats
+tags: [Advice, Allergy, Cat, Litter]
 redirect_from:
   - /can-cats-be-allergic-to-cat-litter.html
   - /2016/01/can-cats-be-allergic-to-cat-litter.html
