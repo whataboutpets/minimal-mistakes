@@ -25,6 +25,8 @@ After you have eliminated the allergy sources that typically spring to mind (pol
 
 # What Are Cat Litter Allergies?
 
+<img src="{{ site.url }}/assets/images/cats/allergen-dandelion-pollen" alt="allergen dandelion pollen" class="align-right">
+
 Cat allergies are caused by an **overreaction of their immune system** to one or more substances, also known as [allergens](https://en.wikipedia.org/wiki/Allergen){:target="_blank"}. With most cats, allergens don't trigger an overreaction. However, with some cats, their immune system aggressively tries to get rid of these allergens which results in a number of symptoms that we will discuss further below.
 
 Cat litter may contain substances that can act as allergens for certain cats. If the immune system of your feline overreacts to one of these allergens then we can conclude that your cat is allergic to cat litter.
