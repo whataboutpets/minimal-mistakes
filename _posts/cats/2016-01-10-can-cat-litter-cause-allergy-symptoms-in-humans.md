@@ -38,7 +38,7 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-<img src="{{ site.url }}/assets/images/cats/cat-litter-2.jpg" alt="cat litter" class="align-right">
+<img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter" class="align-right">
 
 A lot of cat litters are made of **clay** and are known to produce fair amounts of dust. As it so happens, dust is a known airborne allergen that can cause an allergic reaction when it comes in contact with your eyes, nose or lungs.
 
