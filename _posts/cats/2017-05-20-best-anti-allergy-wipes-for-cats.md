@@ -38,7 +38,7 @@ There are **special hypoallergenic cat wipes** on the market which are a conveni
 
 # [#1 Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"}
 
-![image-left](/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg" alt="burts bees dander-reducing-cat-wipes" class="align-left">
 
 Burts Bees Dander Reducing Cat Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} to moisturize dry skin and reduce flaking.
 
@@ -56,7 +56,7 @@ We highly recommended this natural made in the USA product for your peace of min
 
 # [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}
 
-![image-left](/assets/images/cats/earthbath-all-natural-cat-wipes.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/cats/earthbath-all-natural-cat-wipes.jpg" alt="earthbath all natural cat wipes" class="align-left">
 
 Earthbath All Natural Cat Wipes help to easily wipe away litter dust, dander, dirt and other potential allergens in your furred friend's coat.
 
@@ -74,7 +74,7 @@ One potential downside of the product is the packaging. The top latch/button of 
 
 # [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"}
 
-![image-left](/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg" alt="natures-miracle-just-for-cats-allergen-blocker-cat-wipes" class="align-left">
 
 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes claims to neutralize allergens by breaking down the structure of inanimate allergen proteins. This is done by what the manufacturer calls an **allergen blocker complex** which is a proprietary formula that uses aluminum salts to deactivate pet dander.
 
