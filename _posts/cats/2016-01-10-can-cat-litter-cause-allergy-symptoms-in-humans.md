@@ -38,8 +38,8 @@ What is also interesting to know is that, like people, [cats can also develop al
 
 # What Causes an Allergic Reaction to Cat Litter?
 
-<figure class="default-size">
-  <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter">
+<figure>
+  <img src="{{ site.url }}/assets/images/cats/cat-litter.jpg" alt="cat litter" class="default-size">
   <figcaption>mynikfoto - flickr.com (CC BY 2.0) / Cropped from original</figcaption>
 </figure>
 
