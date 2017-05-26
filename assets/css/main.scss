@@ -112,7 +112,7 @@ table {
   background-color: #e91e63;
   vertical-align: middle;
 }
-.btn--buy:hover, nav.pagination .btn--buy:active {
+.btn--buy:hover, .btn--buy:active {
   background-color: #ff6090;
 }
 .align-center {
@@ -127,4 +127,7 @@ nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:act
 }
 .btn--pinterest {
   background-color: #cb2027;
+}
+.btn--pinterest:hover, .btn--pinterest:hover:active {
+  background-color: #ad081b;
 }
