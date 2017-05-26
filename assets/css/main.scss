@@ -120,8 +120,12 @@ table {
 }
 p.notice--info {
   background-color: #2196f3;
-  color: #ffffff;
-  font-size: 1.2em !important;
+  color: #fff;
+  font-size: 1em !important;
+}
+.notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
+  color: #fff;
+  text-decoration: underline
 }
 /*footer*/
 nav.pagination a.pagination--pager {
