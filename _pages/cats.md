@@ -5,7 +5,9 @@ permalink: /cats/
 no_title: true
 ---
 
-<h2 class="cf align-center h2-margin-top">Latest Cat Tips and Advice</h2>
+<section class="page__content" itemprop="text" markdown="1">
+  <h2 class="cf align-center h2-margin-top">Latest Cat Tips and Advice</h2>
+</section>
 
 <div class="grid__wrapper">
   {% for post in site.tags.Advice and site.categories.Cats %}
@@ -13,7 +15,9 @@ no_title: true
   {% endfor %}
 </div>
 
-<h2 class="cf align-center">Buying Guides and Reviews</h2>
+<section class="page__content" itemprop="text" markdown="1">
+  <h2 class="cf align-center">Buying Guides and Reviews</h2>
+</section>
 
 <div class="grid__wrapper">
   {% for post in site.tags.Review and site.categories.Cats %}
