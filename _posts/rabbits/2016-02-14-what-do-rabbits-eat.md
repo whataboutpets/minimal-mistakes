@@ -79,7 +79,7 @@ So what can rabbits eat? Let's dive into the list!
 
 ## Can Rabbits Eat Apples? - *In Small Amounts*{:.orange}
 
-<img src="{{ site.url }}/assets/images/food/apple.jpg" alt="apple" class="align-right">
+<img src="{{ site.url }}/assets/images/food/apples.jpg" alt="apples" class="align-right">
 
 Rabbits have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
 
@@ -101,7 +101,7 @@ So yes rabbits can eat apples, but not the seeds!
 
 <img src="{{ site.url }}/assets/images/food/celery.jpg" alt="celery" class="align-right">
 
-Celery is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition). It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
+Celery is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition){:target="_blank"}. It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
 
 Celery is definitely a vegetable we recommend offering to your rabbit. Make sure to introduce it in small quantities and don't be tempted to give it in large amounts in the beginning. For example start with one small piece and keep an eye on how your bunny reacts to it.
 
@@ -117,9 +117,9 @@ In conclusion, rabbits can have celery and from what we read, many bunnies seem 
 
 ## Can Rabbits Eat Grapes? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/grape-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/grapes.jpg" alt="grapes" class="align-right">
 
-Grapes are grown all over the world and aside from being used for wine production they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape) and come in many colors, including green, red, black, yellow, pink, and purple.
+Grapes are grown all over the world and aside from being used for wine production they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape){:target="_blank"} and come in many colors, including green, red, black, yellow, pink, and purple.
 
 Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
 
@@ -133,17 +133,17 @@ So sure, rabbits can eat grapes as an occasional treat. They are also easy to ha
 
 ## Can Rabbits Eat Tomatoes? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/tomatoe-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/tomatoes.jpg" alt="tomatoes" class="align-right">
 
-Tomatoes are the edible fruit of the tomato plant which originates from Central and South America. Even though from a culinary point of view tomatoes are considered to be vegetables, [they are actually a fruit](https://en.wikipedia.org/wiki/Tomato).
+Tomatoes are the edible fruit of the tomato plant which originates from Central and South America. Even though from a culinary point of view tomatoes are considered to be vegetables, [they are actually a fruit](https://en.wikipedia.org/wiki/Tomato){:target="_blank"}.
 
 Tomatoes mostly consist of water, but they also contain **sugars** and dietary fiber. Like other fruits, they **should be considered as a treat** for you rabbit. This means that they should be offered in limited quantities as feeding too much will lead to digestive troubles.
 
 Make sure to rinse and discard any rotten fruits before presenting to your bunny. There is no need to peel the tomato as rabbits can also eat the skin and the seeds without a problem. We recommend feeding a rabbit **no more than a few slices of tomato per day**.
 
-Although rabbits can eat tomatoes, **they should not be fed stems, vines, leaves, and green unripe fruit of the tomato plant**. The reason for this is that the tomato plant is part of the [nightshade family](https://en.wikipedia.org/wiki/Solanaceae). Many members of this plant family contain potent alkaloids, and some are highly **toxic**.
+Although rabbits can eat tomatoes, **they should not be fed stems, vines, leaves, and green unripe fruit of the tomato plant**. The reason for this is that the tomato plant is part of the [nightshade family](https://en.wikipedia.org/wiki/Solanaceae){:target="_blank"}. Many members of this plant family contain potent alkaloids, and some are highly **toxic**.
 
-However, we are not able to conclude that by default the tomato plant is toxic for all rabbits. It really seems to depend on the tomato plant and on the rabbit. We even came across [accounts](http://rabbittalk.com/should-rabbits-eat-tomato-greens-t4411.html#p43266) where people state they have fed tomato plants to their rabbits without any problems. **Our advice is to not take the risk and only feed the actual fruit**.
+However, we are not able to conclude that by default the tomato plant is toxic for all rabbits. It really seems to depend on the tomato plant and on the rabbit. We even came across [accounts](http://rabbittalk.com/should-rabbits-eat-tomato-greens-t4411.html#p43266){:target="_blank"} where people state they have fed tomato plants to their rabbits without any problems. **Our advice is to not take the risk and only feed the actual fruit**.
 
 To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
 
