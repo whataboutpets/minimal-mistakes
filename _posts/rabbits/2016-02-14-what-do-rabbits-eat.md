@@ -26,13 +26,13 @@ Looking for healthy treats for your pet rabbit? Or are you not sure whether your
 
 We'll dive into the details below, but to help you get an overview we've also put the information in a helpful infographic.
 
+<div class="align-center">
+<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
+</div>
+
 <figure>
   <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" alt="what do rabbits eat infographic">
 </figure>
-
-<div class="align-center">
-<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest!" target="_blank"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest!</span></a>
-</div>
 
 ## Share this Infographic on Your Site
 
