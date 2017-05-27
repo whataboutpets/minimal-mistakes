@@ -11,7 +11,7 @@ no_title: true
 
 <div class="grid__wrapper">
   {% for post in site.categories.Cats %}
-    {% if site.tags.Advice ==  %}
+    {% if post.tags contains 'Advice' %}
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
