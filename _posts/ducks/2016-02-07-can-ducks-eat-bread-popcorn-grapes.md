@@ -7,7 +7,7 @@ modified: 2016-02-07
 header:
   teaser: /assets/images/ducks/can-ducks-eat-bread-popcorn-grapes-teaser.jpg
 pinterest: assets/images/ducks/can-ducks-eat-bread-popcorn-grapes.jpg
-categories: [Ducks]
+categories: Ducks
 tags: [Bread, Chocolate, Duck, Eat, Feed, Food, Grapes, Popcorn, Tips]
 redirect_from:
   - /can-cat-litter-cause-allergy-symptoms-in-humans.html

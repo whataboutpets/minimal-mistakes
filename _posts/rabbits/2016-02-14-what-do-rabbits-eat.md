@@ -1,16 +1,19 @@
 ---
 title: "What Do Rabbits Eat? - A List on What You Can Feed a Bunny"
-permalink: /what-do-rabbits-eat.html
+permalink: /:categories/what-do-rabbits-eat.html
 excerpt: "An overview of different food items and whether they are healthy for rabbits or not."
-modified: 2017-04-11
-categories: [Rabbits]
-tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tomatoes]
+date: 2016-02-14
+modified: 2016-02-14
 header:
   image: /assets/images/rabbits/rabbits-eating.jpg
   teaser: /assets/images/rabbits/rabbits-eating-teaser.jpg
   caption: "Mathias Appel - flickr.com (CC0 1.0) / Cropped from original"
+categories: Rabbits
+tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tips, Tomatoes]
 redirect_from:
+  - /what-do-rabbits-eat.html
   - /2016/02/what-do-rabbits-eat.html
+published: true
 ---
 
 Looking for healthy treats for your pet rabbit? Or are you not sure whether your bunny can eat a certain type of food like apples, celery, grapes, tomatoes or even carrots. In order to help you make a choice, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
@@ -210,7 +213,7 @@ When doing our research we found a number of [references](http://www.rabbit.org/
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica) which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **cannot automatically assume that broccoli is a "gassy" vegetable**.
 
 ## A Few Sources
-* [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm)
-* [http://www.bio.miami.edu/hare/diet.html](http://www.bio.miami.edu/hare/diet.html)
-* [http://rabbit.org/faq-diet/](http://rabbit.org/faq-diet/)
-* [http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/](http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/)
+* [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
+* [http://www.bio.miami.edu/hare/diet.html](http://www.bio.miami.edu/hare/diet.html){:target="_blank"}
+* [http://rabbit.org/faq-diet/](http://rabbit.org/faq-diet/){:target="_blank"}
+* [http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/](http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/){:target="_blank"}
