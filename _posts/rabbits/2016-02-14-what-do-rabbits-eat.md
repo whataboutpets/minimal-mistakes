@@ -7,6 +7,7 @@ modified: 2016-02-14
 header:
   teaser: /assets/images/rabbits/what-do-rabbits-eat-teaser.jpg
 pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
+pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.jpg
 categories: Rabbits
 tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tips, Tomatoes]
 redirect_from:
@@ -25,11 +26,16 @@ Looking for healthy treats for your pet rabbit? Or are you not sure whether your
 
 We'll dive into the details below, but to help you get an overview we've also put the information in a helpful infographic.
 
-{% include figure image_path="/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" alt="what do rabbits eat infographic" %}
+<figure>
+  <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" alt="what do rabbits eat infographic">
+</figure>
+
+<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--pinterest" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Pinterest"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span> Pinterest</span></a>
 
 ## Share this Infographic on Your Site
+
 ``` html
-<p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong>
+<p><strong>What Do Rabbits Eat? - A List on What You Can Feed a Bunny</strong>
 <br /><br /><a href="https://www.whataboutpets.com/rabbits/what-do-rabbits-eat.html">
 <img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" 
 alt="what do rabbits eat" width="730" border="0" /></a></p>
