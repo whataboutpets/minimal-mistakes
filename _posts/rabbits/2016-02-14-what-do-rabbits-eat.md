@@ -5,9 +5,8 @@ excerpt: "An overview of different food items and whether they are healthy for r
 date: 2016-02-14
 modified: 2016-02-14
 header:
-  image: /assets/images/rabbits/rabbits-eating.jpg
-  teaser: /assets/images/rabbits/rabbits-eating-teaser.jpg
-  caption: "Mathias Appel - flickr.com (CC0 1.0) / Cropped from original"
+  teaser: /assets/images/rabbits/what-do-rabbits-eat-teaser.jpg
+pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
 categories: Rabbits
 tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tips, Tomatoes]
 redirect_from:
@@ -27,8 +26,8 @@ We'll dive into the details below, but to help you get an overview we've also pu
 ## Share this Infographic on Your Site
 ``` html
 <p><strong>Please include attribution to WhatAboutPets.com with this graphic.</strong>
-<br /><br /><a href="https://www.whataboutpets.com/2016/02/what-do-rabbits-eat.html">
-<img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat.jpg" 
+<br /><br /><a href="https://www.whataboutpets.com/rabbits/what-do-rabbits-eat.html">
+<img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" 
 alt="what do rabbits eat" width="730" border="0" /></a></p>
 ```
 
@@ -36,21 +35,21 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
 
-* [Apples]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)
-* [Bananas]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
-* [Broccoli]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
-* [Cabbage]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
-* [Celery]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)
-* [Grapes]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)
-* [Strawberries]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)
-* [Tomatoes]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
-* [Watermelon]({{ site.url }}/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)
+* [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)
+* [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)
+* [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)
+* [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)
+* [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)
+* [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)
+* [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)
+* [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)
+* [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)
 
 ## What Does a Rabbit Eat?
 
-{% include figure image_path="/assets/images/rabbits/wild-rabbit-eating.jpg" alt="wild rabbit eating" caption="Lee Dyer - flickr.com (CC BY-SA 2.0) / Cropped from original" %}
+<img src="{{ site.url }}/assets/images/rabbits/rabbit-eating-flower.jpg" alt="rabbit eating flower" class="align-right">
 
-Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits) (grass, forbs, and leafy weeds).
+Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits){:target="_blank"} (grass, forbs, and leafy weeds).
 
 The most important item in a rabbit's diet is **fresh hay** (dried grass) and it should be available in **constant and abundant quantities**. Hay will provide your rabbit with the essential fiber to maintain a healthy gut movement. It also helps wearing down a rabbit's teeth which continuously grow.
 
@@ -62,7 +61,7 @@ As a general rule of thumb, any leafy green that is safe for a human or a horse 
 
 **Fruits** are to be **considered as treats** and should be **offered in very limited quantities**. As a general rule no more than 1 tablespoon per 2 lbs (=1 kg) of body weight per day. While fruit is a source of minerals and vitamins, it also contains a lot of natural sugars. Feeding your bunny too much fruit might lead to intestinal problems in the short term, as well as abnormal weight gain or other health problems in the long term.
 
-Last but not least we want to stress the importance of providing your rabbit access to **fresh drinking water** all day round. If a rabbit is deprived of water, ingested food becomes dry and difficult to push through. This, in turn, can lead to a condition known as [ileus](), which can be life-threatening if not recognized and treated.
+Last but not least we want to stress the importance of providing your rabbit access to **fresh drinking water** all day round. If a rabbit is deprived of water, ingested food becomes dry and difficult to push through. This, in turn, can lead to a condition known as [ileus](https://en.wikipedia.org/wiki/Ileus){:target="_blank"}, which can be life-threatening if not recognized and treated.
 
 So what can rabbits eat? Let's dive into the list!
 
