@@ -149,9 +149,9 @@ To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amo
 
 ## Can Rabbits Eat Strawberries? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/strawberry-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/strawberries.jpg" alt="strawberries" class="align-right">
 
-Strawberries are cultivated worldwide and are known for their [bright red color, juicy texture, and sweetness](https://en.wikipedia.org/wiki/Strawberry). They are a popular fruit and not just among us humans. The low-lying strawberry plants are actually easy for wild rabbits to reach, something fruit and vegetable garden owners might know only too well.
+Strawberries are cultivated worldwide and are known for their [bright red color, juicy texture, and sweetness](https://en.wikipedia.org/wiki/Strawberry){:target="_blank"}. They are a popular fruit and not just among us humans. The low-lying strawberry plants are actually easy for wild rabbits to reach, something fruit and vegetable garden owners might know only too well.
 
 In addition to **sugar** and some dietary fibers, strawberries are an excellent source of vitamin C. The fact that they are rich in sugar also means they **are to be considered as a treat** for your fluffy friend. Too many strawberries may lead to stomach troubles.
 
@@ -165,9 +165,9 @@ Bottom line, strawberries are a great occasional treat for your rabbit.
 
 ## Can Rabbits Eat Watermelon? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/watermelon-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/watermelon.jpg" alt="watermelon" class="align-right">
 
-Watermelons originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries). They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
+Watermelons originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries){:target="_blank"}. They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
 
 A watermelon is more than 91 percent water. In addition to **sugar**, it also contains vitamin C in moderate quantity. Because of the sugar, watermelon **should be seen as a treat**.
 
