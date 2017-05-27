@@ -26,11 +26,11 @@ Ever wondered whether bread is bad for ducks? What about fish, vegetables, fruit
 
 ## What Does a Duck Eat?
 
-Before diving into specific food items, there are some basic duck feeding aspects we would like to mention. In general, the best foods for ducks are those that provide the **nutrients, minerals and vitamins** a duck needs for healthy growth and development. Most of these foods are actually similar to what [wild ducks will forage on their own](https://en.wikipedia.org/wiki/Duck#Feeding) (grasses, aquatic plants, fish, insects, ...).
+Before diving into specific food items, there are some basic duck feeding aspects we would like to mention. In general, the best foods for ducks are those that provide the **nutrients, minerals and vitamins** a duck needs for healthy growth and development. Most of these foods are actually similar to what [wild ducks will forage on their own](https://en.wikipedia.org/wiki/Duck#Feeding){:target="_blank"} (grasses, aquatic plants, fish, insects, ...).
 
-Most of the food items mentioned below are to be considered as **treats and should be limited to no more than 5-10% of a duck's daily diet**. This is especially true for ducklings as birds grow much faster than for example we humans do. Without proper nutrition, [problems can and will occur](http://www.humanesociety.org/news/magazines/kind_news/2015/02-03/feeding-ducks-and-geese-can-be-harmful.html).
+Most of the food items mentioned below are to be considered as **treats and should be limited to no more than 5-10% of a duck's daily diet**. This is especially true for ducklings as birds grow much faster than for example we humans do. Without proper nutrition, [problems can and will occur](http://www.humanesociety.org/news/magazines/kind_news/2015/02-03/feeding-ducks-and-geese-can-be-harmful.html){:target="_blank"}.
 
-A last important item we want to mention is that [a duck's digestive system works quite different from our own](http://www.ducks.org/hunting/understanding-waterfowl-duck-digestion). Because of this, it is important for domesticated ducks to have access to **fresh drinking water and grit** (coarse dirt, pebbles or stones) as this helps them to digest their food.
+A last important item we want to mention is that [a duck's digestive system works quite different from our own](http://www.ducks.org/hunting/understanding-waterfowl-duck-digestion){:target="_blank"}. Because of this, it is important for domesticated ducks to have access to **fresh drinking water and grit** (coarse dirt, pebbles or stones) as this helps them to digest their food.
 
 So what can ducks eat? Let's dive into the list!
 
@@ -62,7 +62,9 @@ As wild ducks often feed in areas where they are threatened by predators, they h
 
 In short, don't feed popcorn to ducks and opt for some healthier choices as given below.
 
-## Can Ducks Eat Grapes? - In Moderation
+## Can Ducks Eat Grapes? - *In Moderation*{:.blue}
+
+<img src="{{ site.url }}/assets/images/food/grapes.jpg" alt="grapes" class="align-right">
 
 Grapes are a type of fruit that come in a number of colors. They are grown all over the world and aside being used for wine production they are a popular between-meal snack for us humans.
 
@@ -70,7 +72,9 @@ A grape is a great source of **natural sugar** and a great treat for ducks when 
 
 When looking for a healthy alternative to bread, grapes are a good choice for feeding both domesticated and wild ducks. But remember to combine with other treats and **exercise portion control**!
 
-## Can Ducks Eat Chocolate? - Nope
+## Can Ducks Eat Chocolate? - *Nope*{:.red}
+
+<img src="{{ site.url }}/assets/images/food/chocolate.jpg" alt="chocolate" class="align-right">
 
 Chocolate is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery) or used as a flavoring ingredient in other foods.
 
