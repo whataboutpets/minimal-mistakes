@@ -7,7 +7,7 @@ modified: 2016-02-14
 header:
   teaser: /assets/images/rabbits/what-do-rabbits-eat-teaser.jpg
 pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
-pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.jpg
+pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.png
 categories: Rabbits
 tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tips, Tomatoes]
 redirect_from:
@@ -31,7 +31,7 @@ We'll dive into the details below, but to help you get an overview we've also pu
 </div>
 
 <figure>
-  <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" alt="what do rabbits eat infographic">
+  <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat-infographic.png" alt="what do rabbits eat infographic">
 </figure>
 
 ## Share this Infographic on Your Site
@@ -39,7 +39,7 @@ We'll dive into the details below, but to help you get an overview we've also pu
 ``` html
 <p><strong>What Do Rabbits Eat? - A List on What You Can Feed a Bunny</strong>
 <br /><br /><a href="https://www.whataboutpets.com/rabbits/what-do-rabbits-eat.html">
-<img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat-infographic.jpg" 
+<img src="https://www.whataboutpets.com/assets/images/rabbits/what-do-rabbits-eat-infographic.png" 
 alt="what do rabbits eat" width="730" border="0" /></a></p>
 ```
 
