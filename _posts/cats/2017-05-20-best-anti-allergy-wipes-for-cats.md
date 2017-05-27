@@ -22,13 +22,13 @@ If you or your cat is suffering from allergies, there are a number of things you
 
 There are **special hypoallergenic cat wipes** on the market which are a convenient solution that helps to remove cat litter, dander, dust, residual saliva, and other dirt in no time. They are an easy, quick way to keep your pet clean and allergen free.
 
-# What Are Hypoallergenic Cat Wipes?
+## What Are Hypoallergenic Cat Wipes?
 
 [Hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"} cat wipes are pre-moistened wipes that offer an easy alternative to a daily bath. They can clean, condition, and deodorize your cat's skin and coat with very little effort. In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer allergens** and as such are less likely to cause allergic reactions.
 
 > Tip: Brushing your cat right after wiping them down, helps with their enjoyment of the wipes. 
 
-# 2017's Reviews of The Best Anti Allergy Wipes for Cats
+## 2017's Reviews of The Best Anti Allergy Wipes for Cats
 
 | Ranking  | Brand                                                              | Number of Wipes | Editor's Rating                                           |
 |:--------:| ------------------------------------------------------------------ |:---------------:| --------------------------------------------------------- |
@@ -36,7 +36,7 @@ There are **special hypoallergenic cat wipes** on the market which are a conveni
 | #2       | [Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}                           | 100             | ![four stars](/assets/images/icons/rating/four-stars.png) |
 | #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"} | 25              | ![four stars](/assets/images/icons/rating/four-stars.png) |
 
-# [#1 Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"}
+## [#1 Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/cats/burts-bees-dander-reducing-cat-wipes.jpg" alt="burts bees dander-reducing-cat-wipes" class="align-left">
 
@@ -54,7 +54,7 @@ We highly recommended this natural made in the USA product for your peace of min
   <a href="http://amzn.to/2pZwJeG" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
-# [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}
+## [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/cats/earthbath-all-natural-cat-wipes.jpg" alt="earthbath all natural cat wipes" class="align-left">
 
@@ -72,7 +72,7 @@ One potential downside of the product is the packaging. The top latch/button of 
   <a href="http://amzn.to/2rGSoEL" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
-# [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"}
+## [#3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg" alt="natures-miracle-just-for-cats-allergen-blocker-cat-wipes" class="align-left">
 
@@ -88,7 +88,7 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
   <a href="http://amzn.to/2r6C3x4" class="btn btn--x-large btn--buy" target="_blank">Click Here for Best Price</a>
 </div>
 
-# Conclusion
+## Conclusion
 
 The above cat allergy relief wipes are all excellent products with **high user review scores** on Amazon.
 

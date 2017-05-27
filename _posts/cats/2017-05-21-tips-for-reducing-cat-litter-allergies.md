@@ -6,8 +6,9 @@ date: 2017-05-22
 modified: 2017-05-22
 header:
   teaser: assets/images/cats/tips-for-reducing-cat-litter-allergy-teaser.jpg
-categories: [Cats]
-tags: [Allergy, Cat, Litter]
+  pinterest: assets/images/cats/tips-for-reducing-cat-litter-allergy.jpg
+categories: Cats
+tags: [Allergy, Cat, Litter, Tips]
 published: false
 ---
 
@@ -71,7 +72,7 @@ For felines who prefer not to be rinsed in the tub, cat wipes are a good alterna
 
 Note that washing also applies to your own hands whenever they have been in contact with the cat litter. Either directly or via your cat's fur.
 
-# 5 ) Try an Air Purifier
+# 5) Try an Air Purifier
 
 As litter dust can occur throughout your home, getting an air purifier for the area that you or your pet are immediately in can actually be a great way to decrease allergens and dust mites.
 
@@ -82,6 +83,38 @@ Make sure to look for a model that comes with a HEPA air filter. These filters t
 You can buy a free-standing unit or you can also get models that are attached to the heating or cooling system.
 
 Keep in mind that having an air purifier does not mean you can stop cleaning. They clean the air but litter dust can still be attached to the floor and other surfaces.
+
+# 6) Get a Litter Mat
+
+
+
+
+
+Finding cat litter on carpeting, clothing, furniture, even your bed... is, well, disgusting. That's why every cat owner searches for the perfect litter mat that will attract litter off their cat's feet like a magnet, the second he leaves his litter box. Is there a perfect litter mat?
+
+The best of the best cat litter mats can only offer you a reduction in this happening to a certain extent, and this cat litter mat is certainly one of the best, if not the best, when it comes to capturing most litter pieces from your cat's paws and feet before they get out of their litter box and spread them all over the house.
+
+As far as reduction in litter being spread around the house, this cat litter mat does one of the best jobs in this department.
+
+Use a litter box with a built-in track pad: Some litter boxes, such as the Booda Clean Step, have built-in pads that trap litter as your cat exits. Just make sure to clean the track pad as you scoop the box daily, or the litter will pile up and eventually creep out onto your floor.
+
+Add a mat outside the box: Placing a litter mat in front of your box makes cleanup easier you just tip the mat over a trash can. There are many kinds of mats available, with varying degrees of effectiveness, but the most important thing is that your cat likes it too. Some cats have aversions to certain textures, so try out a new pad in front of one litter box first while leaving your other boxes mat-free to make sure your cat doesn't stop using the box. (My cats love scratching their sisal litter mat on their way out of the litter box, which makes even more litter fall off.)
+
+
+As we have already covered, cat's are intrinsically clean animals, however when they dig and scrape at the litter to cover up their business, very often that mess can end up on the floor.
+
+If you have experienced any of the following with your cat using a litter tray, you will not be alone. These are extremely common issues for cat owners:
+
+    After your cat has finished their business and covered it up, damp litter gets stuck to their paws. They then inadvertently pad some of this onto your carpet or floor after they exit the tray
+    Your cat shuffles around in the tray to assume their position for ablutions, and ends up urinating over the side of the box onto the floor.
+    Your cat is so eager to cover everything up litter is flicked out of the tray and into the surrounding area. This is even a problem with enclosed litter boxes, where litter can fly out of the flap
+
+
+    Some cat owners have experienced their pets not wanting to step on the mat due to the texture of the material
+    Other users have experienced with litter clumping in the mat.
+
+
+
 
 
 
@@ -227,7 +260,7 @@ bed in dust mite cover
 natural antihestimate support
 
 
-
+Trim the hair between your cat's toes: For long-hair cats, trimming the hair between your cat's toes can help stop litter granules from getting caught there and tracked around your house. The hair doesn't need to be cut too short, just trimmed to be next to the paw pads.
 
 
 
