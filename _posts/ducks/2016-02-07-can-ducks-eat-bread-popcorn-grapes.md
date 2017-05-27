@@ -34,7 +34,7 @@ A last important item we want to mention is that [a duck's digestive system work
 
 So what can ducks eat? Let's dive into the list!
 
-## Can Ducks Eat Bread? - Nope
+## Can Ducks Eat Bread? - *Nope*{:.red}
 
 <img src="{{ site.url }}/assets/images/food/bread.jpg" alt="bread" class="align-right">
 
@@ -48,7 +48,9 @@ Feeding ducks bread can also lead to a number of other problems. Uneaten bread i
 
 Our advice is to **offer ducks healthier alternatives instead of bread**. If you are wondering what these alternatives might be, feel free to scroll down further on this page to discover some healthy duck treats.
 
-## Can Ducks Eat Popcorn? - Nope
+## Can Ducks Eat Popcorn? - *Nope*{:.red}
+
+<img src="{{ site.url }}/assets/images/food/popcorn.jpg" alt="popcorn" class="align-right">
 
 Sure ducks can eat popcorn, as long as you take them to the pictures first :-)
 
