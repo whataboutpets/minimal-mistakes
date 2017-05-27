@@ -10,7 +10,7 @@ no_title: true
 </section>
 
 <div class="grid__wrapper">
-  {% for post in ( site.tags.Tips and site.categories.Ducks ) %}
+  {% for post in site.collection.duck-tips-advice %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
