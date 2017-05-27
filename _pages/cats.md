@@ -7,17 +7,16 @@ no_title: true
 
 <h1 class="cf align-center h1-top">Latest Cat Tips and Advice</h1>
 
-  <div class="grid__wrapper">
-    {% for post in site.tags.Advice and site.categories.Cats %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
-  </div>
+<div class="grid__wrapper">
+  {% for post in site.tags.Advice and site.categories.Cats %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
 <h1 class="cf align-center">Buying Guides and Reviews</h1>
 
-  <div class="grid__wrapper">
-    {% for post in site.tags.Review and site.categories.Cats %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
-  </div>
-
+<div class="grid__wrapper">
+  {% for post in site.tags.Review and site.categories.Cats %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
