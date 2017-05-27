@@ -10,7 +10,9 @@ no_title: true
 </section>
 
 <div class="grid__wrapper">
-  {% for post in site.collection.duck-tips-advice %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.categories.Ducks %}
+    {% if site.tags.Advice %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
