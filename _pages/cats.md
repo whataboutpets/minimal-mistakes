@@ -10,8 +10,10 @@ no_title: true
 </section>
 
 <div class="grid__wrapper">
-  {% for post in site.tags.Advice and site.categories.Cats %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.categories.Cats %}
+    {% if site.tags.Advice %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
 
@@ -20,7 +22,9 @@ no_title: true
 </section>
 
 <div class="grid__wrapper">
-  {% for post in site.tags.Review and site.categories.Cats %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.categories.Cats %}
+    {% if site.tags.Review %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
   {% endfor %}
 </div>
