@@ -44,7 +44,7 @@ After all, haven't we all seen people giving leftover bread crumbs to ducks at a
 
 Bread is actually a good source of carbohydrates but other than that it offers **little nutritional value** for ducks. Eating a lot of bread will make a duck overweight and can even lead to malnutrition. Offered in extreme moderation, bread is not harmful to ducks but especially for wild ducks that moderation is very hard to judge.
 
-Feeding ducks bread can also lead to a number of other problems. Uneaten bread in water can cause **algal blooms**, which in turn [can affect water life](https://en.wikipedia.org/wiki/Algal_bloom#Freshwater_algal_blooms) and cause plants and fish to die off. Moldy decayed bread can lead to **diseases** among ducks that in some cases can even be fatal. And young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
+Feeding ducks bread can also lead to a number of other problems. Uneaten bread in water can cause **algal blooms**, which in turn [can affect water life](https://en.wikipedia.org/wiki/Algal_bloom#Freshwater_algal_blooms){:target="_blank"} and cause plants and fish to die off. Moldy decayed bread can lead to **diseases** among ducks that in some cases can even be fatal. And young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
 
 Our advice is to **offer ducks healthier alternatives instead of bread**. If you are wondering what these alternatives might be, feel free to scroll down further on this page to discover some healthy duck treats.
 
@@ -58,7 +58,7 @@ All joking aside you won't be surprised to see that we are advising not to give 
 
 For ducks, it's important to have a balanced diet in order to avoid **malnutrition and growth problems**. Most popcorn is produced in such a way that it doesn't contain any nutritional value other than carbohydrates. Manufactures add butter, sugar, salt and other chemicals to enhance flavor but this comes at the cost of extra calories.
 
-As wild ducks often feed in areas where they are threatened by predators, they have adapted to be able to "feed and run". As a consequence, they have extra storage capacity in the part between throat and stomach, called esophagus. Some people mention that [popcorn is harder for ducks to swallow](https://www.quora.com/Why-arent-you-supposed-to-feed-ducks-popcorn) as the kernels could get snagged in their esophagus and potentially lead to choking or abrasions.
+As wild ducks often feed in areas where they are threatened by predators, they have adapted to be able to "feed and run". As a consequence, they have extra storage capacity in the part between throat and stomach, called esophagus. Some people mention that [popcorn is harder for ducks to swallow](https://www.quora.com/Why-arent-you-supposed-to-feed-ducks-popcorn){:target="_blank"} as the kernels could get snagged in their esophagus and potentially lead to choking or abrasions.
 
 In short, don't feed popcorn to ducks and opt for some healthier choices as given below.
 
@@ -76,13 +76,13 @@ When looking for a healthy alternative to bread, grapes are a good choice for fe
 
 <img src="{{ site.url }}/assets/images/food/chocolate.jpg" alt="chocolate" class="align-right">
 
-Chocolate is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery) or used as a flavoring ingredient in other foods.
+Chocolate is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery){:target="_blank"} or used as a flavoring ingredient in other foods.
 
-Chocolate contains substances called **theobromine and caffeine** which come from the cacao bean. The cocoa trees load up the cocoa beans with these substances in order to [protect the cacao bean from being eaten](http://www.amanochocolate.com/articles/how-much-caffeine-is-in-chocolate/). While our human body is capable of detoxifying and removing theobromine and caffeine, to insects and wildlife, these substances can actually be toxic.
+Chocolate contains substances called **theobromine and caffeine** which come from the cacao bean. The cocoa trees load up the cocoa beans with these substances in order to [protect the cacao bean from being eaten](http://www.amanochocolate.com/articles/how-much-caffeine-is-in-chocolate/){:target="_blank"}. While our human body is capable of detoxifying and removing theobromine and caffeine, to insects and wildlife, these substances can actually be toxic.
 
 Theobromine and caffeine originate from the cacao bean. As a general rule, **the more cacao the chocolate contains** (typically the darker chocolate), **the more dangerous** it is for certain animals.
 
-Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/). But chocolate is also **toxic to livestock like calves, goats and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
+Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/){:target="_blank"}. But chocolate is also **toxic to livestock like calves, goats and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
 
 Bottom line, **never feed ducks chocolate**.
 
