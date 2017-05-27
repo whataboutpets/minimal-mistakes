@@ -5,7 +5,7 @@ permalink: /cats/
 no_title: true
 ---
 
-<h2 class="cf align-center">Latest Cat Tips and Advice</h2>
+<h2 class="cf align-center h2-margin-top">Latest Cat Tips and Advice</h2>
 
 <div class="grid__wrapper">
   {% for post in site.tags.Advice and site.categories.Cats %}
