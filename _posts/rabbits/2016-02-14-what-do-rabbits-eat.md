@@ -51,7 +51,7 @@ If you are looking for information on a specific food item, use the below links 
 
 ## What Does a Rabbit Eat?
 
-<img src="{{ site.url }}/assets/images/rabbits/rabbit-eating-flower.jpg" alt="rabbit eating flower" class="align-right">
+<img src="{{ site.url }}/assets/images/rabbits/wild-rabbit-eating.jpg" alt="wild rabbit eating" class="align-right">
 
 Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits){:target="_blank"} (grass, forbs, and leafy weeds).
 
