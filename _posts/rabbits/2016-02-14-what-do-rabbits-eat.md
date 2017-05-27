@@ -9,7 +9,7 @@ header:
 pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
 pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.png
 categories: Rabbits
-tags: [Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tips, Tomatoes]
+tags: [Advice, Apples, Celery, Eat, Feed, Grapes, Rabbit, Strawberries, Tomatoes]
 redirect_from:
   - /what-do-rabbits-eat.html
   - /2016/02/what-do-rabbits-eat.html
