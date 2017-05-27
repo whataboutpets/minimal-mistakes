@@ -179,7 +179,7 @@ Rabbits can have watermelon but don't let them have too much.
 
 ## Can Rabbits Eat Bananas? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/banana-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/bananas.jpg" alt="bananas" class="align-right">
 
 The banana is an edible fruit, that from a botanical point of view, is actually a berry. While the [original wild bananas contain large seeds](https://en.wikipedia.org/wiki/Banana#Modern_cultivation), bananas for human consumption are grown asexually from offshoots and have tiny infertile black specks where the seeds used to be.
 
@@ -195,7 +195,7 @@ Even though your bunny will most likely go banana's over this treat, be careful 
 
 ## Can Rabbits Eat Cabbage? - *In Small Amounts*{:.orange}
 
-![image-left](/assets/images/icons/food/cabbage-orange.jpg){: .align-left}
+<img src="{{ site.url }}/assets/images/food/cabbage.jpg" alt="cabbage" class="align-right">
 
 Cabbage is a [multi-layered vegetable](https://en.wikipedia.org/wiki/Cabbage), grown for its dense-leaved head. Within the cabbage family, there are three main cultivar groups: **savoy cabbage, red cabbage, and white cabbage**.
 
