@@ -23,7 +23,7 @@ no_title: true
 
 <div class="grid__wrapper">
   {% for post in site.categories.Cats %}
-    {% if site.tags contains 'Review' %}
+    {% if post.tags contains 'Review' %}
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
