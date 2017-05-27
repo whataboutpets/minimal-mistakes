@@ -1,14 +1,19 @@
 ---
 title: "What Can Ducks Eat? - A List on What You Can Feed a Duck"
-permalink: /2016/02/can-ducks-eat-bread-popcorn-grapes.html
+permalink: /:categories/can-ducks-eat-bread-popcorn-grapes.html
 excerpt: "A list on what ducks can't and can eat."
-modified: 2017-04-07
-categories: [Ducks]
-tags: [Bread, Chocolate, Duck, Eat, Feed, Food, Grapes, Popcorn]
+date: 2016-02-07
+modified: 2016-02-07
 header:
-  image: /assets/images/ducks/ducks-eating-seeds.jpg
-  teaser: /assets/images/ducks/ducks-eating-seeds-teaser.jpg
-  caption: "Jodie Wilson - flickr.com (CC BY 2.0) / Cropped from original"
+  teaser: /assets/images/ducks/can-ducks-eat-bread-popcorn-grapes-teaser.jpg
+pinterest: assets/images/ducks/can-ducks-eat-bread-popcorn-grapes.jpg
+categories: [Ducks]
+tags: [Bread, Chocolate, Duck, Eat, Feed, Food, Grapes, Popcorn, Tips]
+redirect_from:
+  - /can-cat-litter-cause-allergy-symptoms-in-humans.html
+  - /2016/01/can-cat-litter-cause-allergy-symptoms-in-humans.html
+  - /2016/01/can-cat-litter-cause-allergy-symptoms-with-humans.html
+published: true
 ---
 
 Ever wondered whether bread is bad for ducks? What about fish, vegetables, fruits, snacks or even food from other pets? In order to help you decide, we have compiled a list of different food items and whether it is a good idea to offer them to ducks or not.
@@ -69,6 +74,6 @@ Bottom line, **never feed ducks chocolate**.
 
 ## A Few Sources
 
-* [http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements](http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements)
-* [http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html](http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html)
-* [http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm](http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm)
+* [http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements](http://www.backyardchickens.com/t/242460/the-ultimate-list-of-duck-treats-and-supplements){:target="_blank"}
+* [http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html](http://www.fresheggsdaily.com/2013/07/healthy-treats-for-backyard-ducks.html){:target="_blank"}
+* [http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm](http://birding.about.com/od/birdfeeders/tp/birdfeedingmyths.htm){:target="_blank"}
