@@ -126,7 +126,7 @@ Grapes taste sweet as they are **packed with natural sugar**. And because of thi
 
 Before offering the grapes, **rinse them thoroughly with running water** as many grape vineyards will rely on pesticides to keep their grapes safe from bugs. Then simply remove the grapes from the cluster and feed them as a whole.
 
-If it's the first time you are giving a grape to your rabbit then it might be a good idea to cut it up in half. This way it is easier for them to smell and taste the juice.
+If you haven't offered your rabbit grapes so far then it might be a good idea to cut it up in half. This way it is easier for them to smell and taste the juice.
 
 Feeding to many grapes at a time could cause digestive problems with your rabbit. And in the long run, all that sugar will probably cause other problems like obesity. In other words, make sure to **offer grapes in small amounts**. As a simple rule of thumb feed **one grape per rabbit per day**.
 
@@ -238,15 +238,31 @@ This doesn't mean we advise to completely ban spinach from your bunny's diet. Gi
 
 When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
 
-As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Make sure to also mix at least two other types of leafy greens that are not high on oxalic acid.
+As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Make sure to mix with other types of leafy greens that are not high on oxalic acid.
 
 _Rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently._
+
+## Can Rabbits Eat Oranges? - *In Small Amounts*{:.orange}
+
+<img src="{{ site.url }}/assets/images/food/oranges.jpg" alt="oranges" class="align-right">
+
+[Oranges](https://simple.wikipedia.org/wiki/Orange_(fruit)){:target="_blank"} are a type of citrus fruit. The "sweet orange", which is the kind that is most often eaten today, grew first in Asia but now grows in many other parts of the world. Did you know that the color orange actually takes its name from the fruit?
+
+Orange pulp is an excellent source of vitamin C. It is however also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals) and as such you should present it to your rabbit as a treat. As for portions, keep them small, **offer only one orange segment a day**.
+
+Rabbits generally love oranges. The first time offering an orange, try giving a small piece. Chances are your bunny will play around with it for a while before tasting.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAiTTLoBwr0" frameborder="0" allowfullscreen></iframe>
+
+If you are wondering if rabbits can also eat the orange peel then the answer is yes. The peel is actually higher on fibers than the pulp. Just make sure to give it a good rinse before offering as a treat.
+
+_To summarize, yes rabbits can have oranges, even the peel. Just make sure to keep the portions small._
 
 ---
 
 ## Final Thoughts
 
-This wraps up our list on what rabbits can eat. What are your experiences? Any food item we missed that you like to see covered. Leave a comment below. Thanks!
+This wraps up our list on what rabbits can eat. What are your experiences with feeding bunnies? Any food item we missed that you like to see covered. Leave a comment below. Thanks!
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
