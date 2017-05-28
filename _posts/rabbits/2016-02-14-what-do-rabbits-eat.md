@@ -52,8 +52,8 @@ If you are looking for information on a specific food item, use the below links 
 | [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)         | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-moderation)          |
 | [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)         | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)          |
 | [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)         | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-moderation)          |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)         | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)          |
-| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)         |           |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts)         | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure          |
+| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)         | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)          |
 
 ## What Does a Rabbit Eat?
 
@@ -224,6 +224,22 @@ When doing our research we found a number of [references](http://www.rabbit.org/
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **cannot automatically assume that broccoli is a "gassy" vegetable**.
 
 _So yes, rabbits can have broccoli, just not too much._
+
+## Can rabbits eat spinach? - *Sure*{:.green}
+
+<img src="{{ site.url }}/assets/images/food/spinach.jpg" alt="spinach" class="align-right">
+
+Spinach is a [flowering plant](https://en.wikipedia.org/wiki/Spinach){:target="_blank"} native to central and western Asia. Its leaves can be eaten as a vegetable and are a rich source of vitamins, iron, calcium and dietary fiber.
+
+In contrary to most vegetables, spinach has relatively high levels of **oxalic acid**. When fed in large quantities, the salts of oxalic acid can accumulate in the system and cause toxicity over time.
+
+This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a good source of nutrients and fiber, we recommend it is not fed all the time but rather rotated weekly. Take care to combine with other greens except for ones that are **also high on oxalic acids such as parsley, mustard greens, and clover**.
+
+When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
+
+As far as portions are concerned you can feed around 2 cups per 6 lbs (=3 kg) of body weight. Make sure to also mix in two other types of leafy greens that are not high on oxalic acid.
+
+_Rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently._
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
