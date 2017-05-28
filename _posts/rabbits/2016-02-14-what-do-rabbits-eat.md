@@ -119,9 +119,9 @@ _In conclusion, rabbits can have celery and from what we read, many bunnies seem
 
 <img src="{{ site.url }}/assets/images/food/grapes.jpg" alt="grapes" class="align-right">
 
-Grapes are grown all over the world and aside from being used for wine production they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape){:target="_blank"} and come in many colors, including green, red, black, yellow, pink, and purple.
+Grapes are grown all over the world and aside from being used for wine production, they are a popular between-meal snack for us humans. They are actually [a kind of berry](https://en.wikipedia.org/wiki/Grape){:target="_blank"} and come in many colors, including green, red, black, yellow, pink, and purple.
 
-Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
+Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However, as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
 
 Before offering the grapes, **rinse them thoroughly with running water** as many grape vineyards will rely on pesticides to keep their grapes safe from bugs. Then simply remove the grapes from the cluster and feed them as a whole.
 
@@ -129,7 +129,7 @@ If it's the first time you are giving a grape to your rabbit then it might be a 
 
 Feeding to many grapes at a time could cause digestive problems with your rabbit. And in the long run, all that sugar will probably cause other problems like obesity. In other words, make sure to **offer grapes in small amounts**. As a simple rule of thumb feed **one grape per rabbit per day**.
 
-So sure, rabbits can eat grapes as an occasional treat. They are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
+_So sure, rabbits can eat grapes as an occasional treat. They are also easy to hand-feed your bunny and allow you to develop a close bond with your pet._
 
 ## Can Rabbits Eat Tomatoes? - *In Small Amounts*{:.orange}
 
@@ -145,7 +145,7 @@ Although rabbits can eat tomatoes, **they should not be fed stems, vines, leaves
 
 However, we are not able to conclude that by default the tomato plant is toxic for all rabbits. It really seems to depend on the tomato plant and on the rabbit. We even came across [accounts](http://rabbittalk.com/should-rabbits-eat-tomato-greens-t4411.html#p43266){:target="_blank"} where people state they have fed tomato plants to their rabbits without any problems. **Our advice is to not take the risk and only feed the actual fruit**.
 
-To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
+_To sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts._
 
 ## Can Rabbits Eat Strawberries? - *In Small Amounts*{:.orange}
 
@@ -161,7 +161,7 @@ If you're wondering whether your rabbit can also eat the **strawberry tops** or 
 
 As with all fruit, portion control is key in other to ensure a healthy diet. As a general rule of thumb, don't offer more than **a strawberry per day per rabbit** and alternate with other fruits. If it's the first time offering the treat to your bunny, then introduce slowly.
 
-Bottom line, strawberries are a great occasional treat for your rabbit.
+_Bottom line, strawberries are a great occasional treat for your rabbit._
 
 ## Can Rabbits Eat Watermelon? - *In Small Amounts*{:.orange}
 
@@ -175,7 +175,7 @@ Aside from the interior flesh, the **watermelon rind is also safe** for bunnies 
 
 Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As watermelon juice is quite sticky, offer pieces they can easily eat in order to avoid their fur getting dirty. When offering for the first time be sure to start with a small amount to see your bunnies reaction.
 
-Rabbits can have watermelon but don't let them have too much.
+_Rabbits can have watermelon but don't let them have too much._
 
 ## Can Rabbits Eat Bananas? - *In Small Amounts*{:.orange}
 
