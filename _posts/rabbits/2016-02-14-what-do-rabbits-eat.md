@@ -248,7 +248,7 @@ _Rabbits can eat spinach but make sure to not combine with other greens high on 
 
 [Oranges](https://simple.wikipedia.org/wiki/Orange_(fruit)){:target="_blank"} are a type of citrus fruit. The "sweet orange", which is the kind that is most often eaten today, grew first in Asia but now grows in many other parts of the world. Did you know that the color orange actually takes its name from the fruit?
 
-Orange pulp is an excellent source of vitamin C. It is however also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals) and as such you should present it to your rabbit as a treat. As for portions, keep them small, **offer only one orange segment a day**.
+Orange pulp is an excellent source of vitamin C. Nevertheless it is also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals){:target="_blank"} and as such you should present it to your rabbit as a treat. As far as portions are concerned, keep them small, **only one orange segment a day**.
 
 Rabbits generally love oranges. The first time offering an orange, try giving a small piece. Chances are your bunny will play around with it for a while before tasting.
 
@@ -256,7 +256,7 @@ Rabbits generally love oranges. The first time offering an orange, try giving a 
 
 If you are wondering if rabbits can also eat the orange peel then the answer is yes. The peel is actually higher on fibers than the pulp. Just make sure to give it a good rinse before offering as a treat.
 
-_To summarize, yes rabbits can have oranges, even the peel. Just make sure to keep the portions small._
+_To summarize, rabbits can have oranges, even the peel. Just make sure to keep the portions small._
 
 ---
 
