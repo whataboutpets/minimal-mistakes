@@ -137,7 +137,7 @@ _So sure, rabbits can eat grapes as an occasional treat. They are also easy to h
 
 Tomatoes are the edible fruit of the tomato plant which originates from Central and South America. Even though from a culinary point of view tomatoes are considered to be vegetables, [they are actually a fruit](https://en.wikipedia.org/wiki/Tomato){:target="_blank"}.
 
-Tomatoes mostly consist of water, but they also contain **sugars** and dietary fiber. Like other fruits, they **should be considered as a treat** for you rabbit. This means that they should be offered in limited quantities as feeding too much will lead to digestive troubles.
+Tomatoes mostly consist of water, but they also contain **sugars** and dietary fiber. Like other fruits, they **should be considered as a treat** for your rabbit. This means that they should be offered in limited quantities as feeding too much will lead to digestive troubles.
 
 Make sure to rinse and discard any rotten fruits before presenting to your bunny. There is no need to peel the tomato as rabbits can also eat the skin and the seeds without a problem. We recommend feeding a rabbit **no more than a few slices of tomato per day**.
 
@@ -187,11 +187,11 @@ Practically every banana consumed in the western world is directly descended fro
 
 Bananas contain quite **a lot of starch and sugar** in addition to being a good source of vitamin B. Because of their high sugar content they are to be seen as a **treat** that should **only be offered in very small quantities** to your rabbit.
 
-Contrary to what you might think, the peel of a banana is actually edible by both us humans and your rabbit. Our advice is to **only feed the peel of organic bananas** which are not treated with pesticides. This opposite to [industrial banana farming which is typically pesticide-intensive](http://www.ewg.org/enviroblog/2014/04/bananas){:target="_blank"} as bananas are grown in massive monocultures, without crop rotation.
+Contrary to what you might think, the peel of a banana is actually edible for both us humans and your rabbit. Our advice is to **only feed the peel of organic bananas** which are not treated with pesticides. This opposite to [industrial banana farming which is typically pesticide-intensive](http://www.ewg.org/enviroblog/2014/04/bananas){:target="_blank"} as bananas are grown in massive monocultures, without crop rotation.
 
-Offer your bunny **no more than 2 to 3 slices of banana per rabbit per day**. It is especially important to keep the quantities small as your long eared friends intestines are designed to digest grass and not food products high in carbohydrates (starch and sugar) like the banana.
+Offer your bunny **no more than 2 to 3 slices of banana per rabbit per day**. It is especially important to keep the quantities small as your long eared friend's intestines are designed to digest grass and not food products high in carbohydrates (starch and sugar) like the banana.
 
-Even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities.
+_Even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities._
 
 ## Can Rabbits Eat Cabbage? - *In Small Amounts*{:.orange}
 
@@ -207,7 +207,7 @@ We also came across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft
 
 Based on the above, we advise **to not feed cabbage on a daily basis and to keep portions limited**. If it's the first time, introduce in small amounts and make sure the leaves have been rinsed before offering.
 
-This was a tricky one, rabbits can eat cabbage leaves but only in small amounts.
+_This was a tricky one, rabbits can eat cabbage leaves but only in small amounts._
 
 ## Can Rabbits Eat Broccoli - *In Moderation*{:.blue}
 
@@ -217,11 +217,13 @@ Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.o
 
 Broccoli is an excellent source of vitamin C and K. It also contains moderate amounts of several B vitamins and the [dietary mineral manganese](https://en.wikipedia.org/wiki/Broccoli#Nutrition){:target="_blank"}. Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **smaller quantities** to your rabbit.
 
-Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the flowers and stalks. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
+Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the flowers and stalks. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
 
-When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves**. However in most cases this will not be a concern as **calcium is an essential part of your rabbit's diet** in addition to the fact that the amount of calcium in broccoli leaves is still relatively moderate. Our advice is to **consult with your veterinarian** if in doubt about your rabbits calcium intake.
+When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves**. However, in most cases, this will not be a concern as **calcium is an essential part of your rabbit's diet** in addition to the fact that the amount of calcium in broccoli leaves is still relatively moderate. Our advice is to **consult with your veterinarian** if in doubt about your rabbit's calcium intake.
 
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **cannot automatically assume that broccoli is a "gassy" vegetable**.
+
+_So yes, rabbits can have brocolli just not to much._
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
