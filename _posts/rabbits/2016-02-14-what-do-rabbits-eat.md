@@ -73,7 +73,7 @@ As a general rule of thumb, any leafy green that is safe for a human or a horse 
 
 Last but not least we want to stress the importance of providing your rabbit access to **fresh drinking water** all day round. If a rabbit is deprived of water, ingested food becomes dry and difficult to push through. This, in turn, can lead to a condition known as [ileus](https://en.wikipedia.org/wiki/Ileus){:target="_blank"}, which can be life-threatening if not recognized and treated.
 
-So what can rabbits eat? Let's dive into the list!
+_So what can rabbits eat? Let's dive into the list!_
 
 ## Can Rabbits Eat Apples? - *In Small Amounts*{:.orange}
 
@@ -93,9 +93,9 @@ Before feeding the apple, make sure to **rinse it with clear running water** in 
 
 If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The **apple skin** actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains. So next time you are making an apple pie, don't throw away those skins but keep them as a treat.
 
-When offering apples, **make sure to remove the seeds**. The reason for this is that apple seeds contain [amygdalin](https://en.wikipedia.org/wiki/Apple#Toxicity_of_seeds){:target="_blank"}, a sugar and cyanide compound. This toxic substance is only present in very small quantities and as such there is no reason to panic in case your rabbit has accidentally swallowed some seeds. The greater concern would be continuous consumption where the amygdalin was progressively building up in your rabbit's system to the point of reaching toxic levels.
+When offering apples, **make sure to remove the seeds**. The reason for this is that apple seeds contain [amygdalin](https://en.wikipedia.org/wiki/Apple#Toxicity_of_seeds){:target="_blank"}, a sugar and cyanide compound. This toxic substance is only present in very small quantities and as such, there is no reason to panic in case your rabbit has accidentally swallowed some seeds. The greater concern would be continuous consumption where the amygdalin was progressively building up in your rabbit's system to the point of reaching toxic levels.
 
-So yes rabbits can eat apples, but not the seeds!
+_So yes rabbits can eat apples, but not the seeds!_
 
 ## Can Rabbits Eat Celery? - *In Moderation*{:.blue}
 
@@ -103,17 +103,17 @@ So yes rabbits can eat apples, but not the seeds!
 
 Celery is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition){:target="_blank"}. It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
 
-Celery is definitely a vegetable we recommend offering to your rabbit. Make sure to introduce it in small quantities and don't be tempted to give it in large amounts in the beginning. For example start with one small piece and keep an eye on how your bunny reacts to it.
+Celery is definitely a vegetable we recommend offering to your rabbit. Make sure to introduce it in small quantities and don't be tempted to give it in large amounts in the beginning. For example, start with one small piece and keep an eye on how your bunny reacts to it.
 
 Before feeding the celery, **cut away any damaged or bruised areas**. Then rinse by holding under running water and rubbing gently. Once finished, you don't even need to dry the celery and can actually **serve it wet** as this will help increase your bunny's intake of water.
 
 **Cut the celery stalks** into 1 inch (=2.5cm) pieces. This will avoid strings getting stuck between your rabbit's teeth. In addition, it will help to make the quantities better controllable as you can actually count the pieces your rabbit gets.
 
-Most people know celery from grocery stores where most part of the leaves have been chopped off. A nice little tip is to **try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
+Most people know celery from grocery stores where most part of the leaves have been chopped off. If you are wondering whether your rabbit can also eat the celery leaves then the answer is yes. A nice little tip is to **try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
 
 As far as portion size is concerned, typically **one stick of celery per bunny** is recommended. Also, make sure to combine with other vegetables as an adult rabbit should be offered around 3 to 6 different types of vegetables per day.
 
-In conclusion, rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
+_In conclusion, rabbits can have celery and from what we read, many bunnies seem to like it quite a bit._
 
 ## Can Rabbits Eat Grapes? - *In Small Amounts*{:.orange}
 
