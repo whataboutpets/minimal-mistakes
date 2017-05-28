@@ -223,7 +223,7 @@ When doing our research we found a number of [references](http://www.rabbit.org/
 
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **cannot automatically assume that broccoli is a "gassy" vegetable**.
 
-_So yes, rabbits can have brocolli just not to much._
+_So yes, rabbits can have broccoli, just not too much._
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
