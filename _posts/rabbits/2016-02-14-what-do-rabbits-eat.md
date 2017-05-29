@@ -250,9 +250,9 @@ _Rabbits can eat spinach but make sure to not combine with other greens high on 
 
 [Oranges](https://simple.wikipedia.org/wiki/Orange_(fruit)){:target="_blank"} are a type of citrus fruit. The "sweet orange", which is the kind that is most often eaten today, grew first in Asia but now grows in many other parts of the world. Did you know that the color orange actually takes its name from the fruit?
 
-Orange pulp is an excellent source of vitamin C. Nevertheless it is also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals){:target="_blank"} and as such you should present it to your rabbit as a treat. As far as portions are concerned, keep them small, **only one orange segment a day**.
+Orange pulp is an excellent source of vitamin C. However, unlike us humans who have to get vitamin C through our diet, rabbits make their own vitamin C in their bodies. On top of that oranges are also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals){:target="_blank"} and as such you should present them to your rabbit only as a treat.
 
-Rabbits generally love oranges. The first time offering an orange, try giving a small piece. Chances are your bunny will play around with it for a while before tasting.
+As far as portions are concerned, keep them small, **only one orange segment a day**. Rabbits generally love oranges. The first time offering an orange, try giving a small piece. Chances are your bunny will play around with it for a while before tasting.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bAiTTLoBwr0" frameborder="0" allowfullscreen></iframe>
 
@@ -266,11 +266,11 @@ _To summarize rabbits can have oranges, even the peel. However, do keep the port
 
 [Cucumber](https://en.wikipedia.org/wiki/Cucumber){:target="_blank"} is a widely cultivated plant in the gourd family. It is a creeping vine that bears fruits that are used as vegetables.
 
-Raw cucumber (with peel) is low on nutritional value since it consists out of 95% water. The only notable nutrient it supplies in some quantity is vitamin K. 
+Raw cucumber (with peel) is **low on nutritional value** since it consists out of 95% water. The only notable nutrient it supplies in some quantity is vitamin K. 
 
-Note that there is a good change your bunny won't even like cucumbers. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat). This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found were owners mentioned their rabbit avoids cucumber alltogether.
+**Rabbits can eat the peel, leaves, and seeds** of the cucumber plant. When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider a couple of slices as part of the daily fresh vegetables.
 
-Rabbits can eat the peel, leaves, and seeds of the cucumber plant. When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider a couple of slices as part of the daily fresh vegetables.
+Note that there is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found were owners mentioned their rabbit avoids cucumber alltogether.
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
