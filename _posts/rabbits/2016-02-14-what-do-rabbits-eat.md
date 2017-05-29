@@ -47,14 +47,14 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
 
-| Fruit                                                                                                           | Vegetable                                                                                                |
-|:--------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------- |
-| [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts) |
-| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)    |
-| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)     |
-| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)       |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)  |
-| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     |                                                                                                          |
+| Fruit                                                                                                           | Vegetable                                                                                                  |
+|:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |
+| [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   |
+| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)      |
+| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |
+| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)         |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)         |
+| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |
 
 ## What Does a Rabbit Eat?
 
@@ -220,9 +220,9 @@ Broccoli is an excellent source of vitamin C and K. It also contains moderate am
 
 Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the rest of the plant. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
 
-When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves**. However, **calcium is an essential part of your rabbit's diet**. It is necessary for strong bones and teeth, so it should not be completely eliminated from your rabbit’s diet.
+When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves**. However, **calcium is an essential part of your rabbit's diet**. It is necessary for strong bones and teeth, so it should not be completely eliminated from your rabbit's diet.
 
-Given the fact that the amount of calcium in broccoli leaves is still relatively moderate, in most cases, there will be no reason for concern. However, if you are in doubt about your rabbit's calcium intake, our advice is to keep an eye on your rabbit’s urine and consult with your veterinarian 
+Given the fact that the amount of calcium in broccoli leaves is still relatively moderate, in most cases, there will be no reason for concern. However, if you are in doubt about your rabbit's calcium intake, our advice is to keep an eye on your rabbit's urine and consult with your veterinarian 
 
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **can not automatically assume that broccoli is a "gassy" vegetable**. It is actually more likely that the higher amounts of starch and sugar in broccoli would cause gas in a rabbit as they change the pH of their digestive system.
 
@@ -259,6 +259,20 @@ Rabbits generally love oranges. The first time offering an orange, try giving a 
 If you are wondering if **rabbits can also eat the orange peel** then the answer is yes. The peel is actually higher on fibers than the pulp. Just make sure to give it a good rinse before offering as a treat.
 
 _To summarize rabbits can have oranges, even the peel. However, do keep the portions small._
+
+## Can Rabbits Eat Cucumbers? - *In Lesser Amounts*{:.blue}
+
+<img src="{{ site.url }}/assets/images/food/cucumbers.jpg" alt="cucumbers" class="align-right">
+
+[Cucumber](https://en.wikipedia.org/wiki/Cucumber){:target="_blank"} is a widely cultivated plant in the gourd family. It is a creeping vine that bears fruits that are used as vegetables.
+
+Raw cucumber (with peel) is low on nutritional value since it consists out of 95% water. The only notable nutrient it supplies in some quantity is vitamin K. 
+
+Note that there is a good change your bunny won't even like cucumbers. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat). This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found were owners mentioned their rabbit avoids cucumber alltogether.
+
+Rabbits can eat the peel, leaves, and seeds of the cucumber plant. When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider a couple of slices as part of the daily fresh vegetables.
+
+_It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
 ---
 
