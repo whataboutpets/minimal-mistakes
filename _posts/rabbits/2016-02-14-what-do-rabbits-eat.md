@@ -50,9 +50,9 @@ If you are looking for information on a specific food item, use the below links 
 | Fruit                                                                                                           | Vegetable                                                                                                  |
 |:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |
 | [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   |
-| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-small-amounts)      |
-| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |
-| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)         |
+| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---in-moderation)         |
+| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |
+| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |
 | [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)         |
 | [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |
 
