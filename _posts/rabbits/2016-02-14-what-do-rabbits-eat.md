@@ -226,7 +226,7 @@ Given the fact that the amount of calcium in broccoli leaves is still relatively
 
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **can not automatically assume that broccoli is a "gassy" vegetable**. It is actually more likely that the higher amounts of starch and sugar in broccoli would cause gas in a rabbit as they change the pH of their digestive system.
 
-Given that broccoli is higher in starch and sugars compared to leafy greens, limit your rabbit to 2 or 3 florets and give them a good rinse before serving.
+Given that broccoli is higher in starch and sugars compared to leafy greens, we recommend you limit your rabbit to 2 or 3 florets and give them a good rinse before serving.
 
 _So yes, rabbits can have broccoli, just not too much._
 
@@ -238,7 +238,7 @@ Spinach is a [flowering plant](https://en.wikipedia.org/wiki/Spinach){:target="_
 
 In contrary to most vegetables, spinach has **relatively high levels of oxalic acid**. When fed in large quantities, the salts of oxalic acid can accumulate in the system and cause toxicity over time.
 
-This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend it is not fed all the time but rather rotated weekly. Take care to combine with other greens except for ones that are also high on oxalic acids such as parsley, mustard greens, and clover.
+This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend to feed from time to time and combine with other greens. Take care to not combine with other greens that are also high on oxalic acids such as parsley, mustard greens, and clover.
 
 When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
 
