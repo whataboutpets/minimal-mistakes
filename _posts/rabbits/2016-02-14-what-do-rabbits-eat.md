@@ -286,7 +286,7 @@ In addition, when offering a rabbit a lot of bread, it can become overweight and
 
 Technically, yes, rabbits can eat bread and a quick Internet search reveals a number of [accounts](http://forums.rabbitrehome.org.uk/showthread.php?172734-Is-brown-bread-really-bad-for-rabbits){:target="_blank"} where rabbit owners mention they (occasionally) feed their bunny a bit of bread. And although in most cases this will do no harm we suggest you **opt for the healthier treats like fruits**.
 
-_In short rabbits can eat bread but they shouldn't._
+_In short, rabbits can eat bread but they shouldn't._
 
 ---
 
