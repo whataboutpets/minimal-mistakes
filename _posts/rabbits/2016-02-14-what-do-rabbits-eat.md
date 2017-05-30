@@ -53,7 +53,7 @@ If you are looking for information on a specific food item, use the below links 
 | [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |
 | [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |
 | [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---in-moderation)         |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)         |
 | [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |
 
 ## What Does a Rabbit Eat?
@@ -230,7 +230,7 @@ Given that broccoli is higher in starch and sugars compared to leafy greens, we 
 
 _So yes, rabbits can have broccoli, just not too much._
 
-## Can Rabbits Eat Spinach? - *In Moderation*{:.blue}
+## Can Rabbits Eat Spinach? - *Sure*{:.green}
 
 <img src="{{ site.url }}/assets/images/food/spinach.jpg" alt="spinach" class="align-right">
 
