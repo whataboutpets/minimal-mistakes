@@ -220,7 +220,7 @@ Broccoli is an excellent source of vitamin C and K. It also contains moderate am
 
 Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the rest of the plant. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
 
-When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves**. However, **calcium is an essential part of your rabbit's diet**. It is necessary for strong bones and teeth, so it should not be completely eliminated from your rabbit's diet.
+When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves** which could lead to [urinary/bladder problems](http://ontariorabbits.org/health/stones-and-sludge){:target="_blank"}. However, **calcium is an essential part of your rabbit's diet**. It is necessary for strong bones and teeth, so it should not be completely eliminated from your rabbit's diet.
 
 Given the fact that the amount of calcium in broccoli leaves is still relatively moderate, in most cases, there will be no reason for concern. However, if you are in doubt about your rabbit's calcium intake, our advice is to keep an eye on your rabbit's urine/fecal output and watch their behavior for signs of pain. If you notice something unusual consult with your veterinarian.
 
