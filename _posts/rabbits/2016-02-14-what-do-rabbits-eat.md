@@ -238,9 +238,9 @@ Spinach is a [flowering plant](https://en.wikipedia.org/wiki/Spinach){:target="_
 
 In contrary to most vegetables, spinach has **relatively high levels of oxalic acid**. When fed in large quantities, the salts of oxalic acid can accumulate in the system and cause toxicity over time.
 
-This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend to feed spinach from time to time in combination with other greens. **Take care to not combine with other greens that are also high on oxalic acids such as parsley, mustard greens, and clover**.
+This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend to feed spinach from time to time in combination with other greens. Take care to **not combine with greens that are also high on oxalic acids such as parsley, mustard greens, and clover**.
 
-When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
+When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Clean by giving a good rinse under running water and feel free to serve wet to help with the daily water intake.
 
 _Rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently._
 
@@ -256,7 +256,7 @@ Keep portions small, **only one orange segment a day**. Rabbits generally love o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bAiTTLoBwr0" frameborder="0" allowfullscreen></iframe>
 
-If you are wondering if **rabbits can also eat the orange peel** then the answer is yes. **The peel is actually higher on fibers** than the pulp. Just make sure to give it a good rinse before offering.
+If you are wondering if rabbits **can also eat the orange peel** then the answer is yes. The peel is actually higher on fibers than the pulp. Just make sure to give it a good rinse before offering.
 
 _To summarize rabbits can have oranges, even the peel. However, do keep the portions small._
 
@@ -270,7 +270,7 @@ Raw cucumber (with peel) is **low on nutritional value** since it consists out o
 
 **Rabbits can eat the peel, leaves, and seeds** of the cucumber plant. When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider a couple of slices as part of the daily fresh vegetables.
 
-Note that there is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found were owners mentioned their rabbit avoids cucumber altogether.
+Note that there is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found where owners mentioned their rabbit avoids cucumber altogether.
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
