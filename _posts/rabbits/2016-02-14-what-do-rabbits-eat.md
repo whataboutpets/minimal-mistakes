@@ -47,14 +47,14 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
 
-| Fruit                                                                                                           | Vegetable                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |
-| [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   |
-| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |
-| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |
-| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)         |
-| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |
+| Fruit                                                                                                           | Vegetable                                                                                                  | Other                                                                                        |
+|:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |
+| [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   | [Bread]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bread---do-not-feed) |
+| [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |                                                                                              |
+| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |                                                                                              |
+| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |                                                                                              |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
+| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
 
 ## What Does a Rabbit Eat?
 
@@ -216,7 +216,7 @@ _This was a tricky one, rabbits can eat cabbage leaves but remember to alternate
 
 Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.org/wiki/Broccoli){:target="_blank"}. It has large flower-heads which consist out of tight clusters of buds, usually green in color, with thick and edible stems. When sold, broccoli is often wrapped in cellophane as it deteriorates faster if it is in contact with the air.
 
-Broccoli is an excellent source of vitamin C and K. It also contains moderate amounts of several B vitamins and the [dietary mineral manganese](https://en.wikipedia.org/wiki/Broccoli#Nutrition){:target="_blank"}. Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **lesser amounts** to your rabbit.
+Broccoli is an excellent source of vitamin C and K and it also contains moderate amounts of several B vitamins. Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **lesser amounts** to your rabbit.
 
 Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually better** as they are not that high in starch or sugars compared to the rest of the plant. If you find a place that sells the whole plant you can also offer your rabbit those broccoli leaves in moderate amounts.
 
@@ -273,6 +273,20 @@ Raw cucumber (with peel) is **low on nutritional value** since it consists out o
 Note that there is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found where owners mentioned their rabbit avoids cucumber altogether.
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
+
+Can Rabbits Eat Bread? - *Do Not Feed*{:.red}
+
+<img src="{{ site.url }}/assets/images/food/bread.jpg" alt="bread" class="align-right">
+
+[Bread](https://en.wikipedia.org/wiki/Bread){:target="_blank"} is prepared from a dough of flour and water, usually by baking. It has been popular around the world and is one of the oldest artificial foods.
+
+Bread contains plenty of carbohydrates, but other than that it offers **little nutritional value** for rabbits. In fact a rabbit's digestive system is uniquely designed to consume large amounts of plant material. Feeding other types of food like for example bread can throw the whole digestive system out of balance. As a result your bunny will probably have a **hard time digesting**.
+
+When offering a rabbit a lot of bread, it can become overweight and inactive, which could lead to other health problems.
+
+Technically, yes, rabbits can eat bread and a quick Internet search reveals [a number of accounts](http://forums.rabbitrehome.org.uk/showthread.php?172734-Is-brown-bread-really-bad-for-rabbits){:target="_blank"} where rabbit owners mention they (occasionally) feed their bunny a bit of bread. And although in most cases this will do no harm we suggest you opt for the healthier treats like fruits.
+
+_In short rabbits can eat bread but they shouldn't._
 
 ---
 
