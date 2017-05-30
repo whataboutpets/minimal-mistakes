@@ -218,7 +218,7 @@ Broccoli is an edible green plant in the [cabbage family](https://en.wikipedia.o
 
 Broccoli is an excellent source of vitamin C and K. It also contains moderate amounts of several B vitamins and the [dietary mineral manganese](https://en.wikipedia.org/wiki/Broccoli#Nutrition){:target="_blank"}. Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **lesser amounts** to your rabbit.
 
-Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the rest of the plant. So a good tip would be to **try and find a place that sells the whole plant** so you can offer your rabbit those nice lush broccoli leaves in moderate amounts.
+Although the leaves are perfectly edible for us humans, broccoli is typically sold with only the flower and stalk parts of the plant. For bunnies, however, **the leaves are actually the best parts** as they are not that high in starch or sugars compared to the rest of the plant. So a good tip would be to **try and find a place that sells the whole plant** so you can also offer your rabbit those broccoli leaves in moderate amounts.
 
 When doing our research we found a number of [references](http://www.rabbit.org/journal/3-5/calcium.html){:target="_blank"} that mention **higher amounts of calcium in broccoli leaves** which could lead to [urinary/bladder problems](http://ontariorabbits.org/health/stones-and-sludge){:target="_blank"}. However, **calcium is an essential part of your rabbit's diet**. It is necessary for strong bones and teeth, so it should not be completely eliminated from your rabbit's diet.
 
@@ -226,7 +226,7 @@ Given the fact that the amount of **calcium in broccoli leaves is still relative
 
 Broccoli belongs to the [genus Brassica](https://en.wikipedia.org/wiki/Brassica){:target="_blank"} which is commonly reputed to increase flatulence with human beings. A rabbit's gastrointestinal tract, however, is not the same as a human's and because of this, we **can not automatically assume that broccoli is a "gassy" vegetable**. It is actually more likely that the higher amounts of starch and sugar in broccoli would cause gas in a rabbit as they change the pH of their digestive system.
 
-As broccoli is higher in starch and sugars compared to leafy greens we recommend feeding it in lesser ammounts.
+As broccoli is higher in starch and sugars compared to leafy greens, offer your rabbit 2 or 3 florets and a bit of the stalk. Give them a good rinse before serving.
 
 _So yes, rabbits can have broccoli, just not too much._
 
