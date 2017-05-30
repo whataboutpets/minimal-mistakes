@@ -240,11 +240,9 @@ In contrary to most vegetables, spinach has **relatively high levels of oxalic a
 
 This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend it is not fed all the time but rather rotated weekly. Take care to combine with other greens except for ones that are also high on oxalic acids such as parsley, mustard greens, and clover.
 
-As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Make sure to mix with other types of leafy greens that are not high on oxalic acid.
+When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
 
-When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
-
-_Rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently._
+_Rabbits can eat spinach but make sure to **not combine with other greens high on oxalates and rotate frequently**._
 
 ## Can Rabbits Eat Oranges? - *In Small Amounts*{:.orange}
 
