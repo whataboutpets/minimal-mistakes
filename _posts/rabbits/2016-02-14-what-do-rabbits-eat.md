@@ -230,7 +230,7 @@ Given that broccoli is higher in starch and sugars compared to leafy greens, we 
 
 _So yes, rabbits can have broccoli, just not too much._
 
-## Can Rabbits Eat Spinach? - *In Moderation*{:.green}
+## Can Rabbits Eat Spinach? - *In Moderation*{:.blue}
 
 <img src="{{ site.url }}/assets/images/food/spinach.jpg" alt="spinach" class="align-right">
 
@@ -238,11 +238,11 @@ Spinach is a [flowering plant](https://en.wikipedia.org/wiki/Spinach){:target="_
 
 In contrary to most vegetables, spinach has **relatively high levels of oxalic acid**. When fed in large quantities, the salts of oxalic acid can accumulate in the system and cause toxicity over time.
 
-This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend to feed from time to time and combine with other greens. Take care to not combine with other greens that are also high on oxalic acids such as parsley, mustard greens, and clover.
+This doesn't mean we advise to completely ban spinach from your bunny's diet. Given it is also a **good source of nutrients and fiber**, we recommend to feed spinach from time to time in combination with other greens. **Take care to not combine with other greens that are also high on oxalic acids such as parsley, mustard greens, and clover**.
 
 When picking spinach, select the lighter looking leaves as darker leaves indicate higher levels of oxalates. As far as portions are concerned, **limit to 1/3 of the daily fresh vegetables intake**. Clean by giving a good rinse under running water and feel free to serve wet to help the daily water intake.
 
-_Rabbits can eat spinach but make sure to **not combine with other greens high on oxalates and rotate frequently**._
+_Rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently._
 
 ## Can Rabbits Eat Oranges? - *In Small Amounts*{:.orange}
 
