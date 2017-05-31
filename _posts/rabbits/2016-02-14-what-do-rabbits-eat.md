@@ -53,8 +53,9 @@ If you are looking for information on a specific food item, use the below links 
 | [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |                                                                                              |
 | [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |                                                                                              |
 | [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |                                                                                              |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
-| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Potatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-potatoes---do-not-feed)         |                                                                                              |
+| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
+|                                                                                                                 | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
 
 ## What Does a Rabbit Eat?
 
@@ -274,7 +275,7 @@ Note that there is a **good change your bunny won't even like cucumbers**. It is
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
-Can Rabbits Eat Potatoes? - *Do Not Feed*{:.red}
+## Can Rabbits Eat Potatoes? - *Do Not Feed*{:.red}
 
 <img src="{{ site.url }}/assets/images/food/potatoes.jpg" alt="potatoes" class="align-right">
 
