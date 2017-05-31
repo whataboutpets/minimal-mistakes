@@ -283,11 +283,11 @@ Potatoes are [tuberous](https://en.wikipedia.org/wiki/Tuber){:target="_blank"} c
 
 A rabbit's digestive system is specialized for consuming large amounts of plants which are rich in fiber and low in fat. As a result, food types high on carbohydrates, like for example potatoes, **are likely to cause digestive upset**. When fed often, they may even lead to more serious health problems.
 
-Feeding a little bit of potato isn't necessarily harmful to a rabbit. That being said it doesn't really have a positive impact in their diet either. As such we recommend opting for other treats.
+Feeding a little bit of potato isn't necessarily harmful to a rabbit. That being said it doesn't really have a positive impact in their diet either. As such we **recommend opting for other more beneficial treats**.
 
 We did come across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/106992/Default.aspx){:target="_blank"} in which people mention they feed their rabbit a small amount of potato every day but this was based on veterinarian advice.
 
-If you are wondering if rabbits can eat **sweet potatoes**, then the answer is that we also **advise against it**. Even though sweet potatoes are only distantly related to the potato and do not belong to the nightshade family, they are still packed with carbohydrates and contain [even more sugars than potatoes](https://en.wikipedia.org/wiki/Sweet_potato#Nutrient_content){:target="_blank"}.
+If you are wondering if rabbits can eat **sweet potatoes**, then the answer is that we also **advise against it**. Even though sweet potatoes are only distantly related to the potato and do not belong to the nightshade family, they are still packed with [carbohydrates](https://en.wikipedia.org/wiki/Sweet_potato#Nutrient_content){:target="_blank"} and contain more sugars than potatoes.
 
 _Our advice is to not feed potatoes as there are plenty of other healthier treats you can offer your bunny._
 
