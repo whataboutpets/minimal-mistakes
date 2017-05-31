@@ -274,6 +274,22 @@ Note that there is a **good change your bunny won't even like cucumbers**. It is
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
+Can Rabbits Eat Potatoes? - *Do Not Feed*{:.red}
+
+<img src="{{ site.url }}/assets/images/food/potatoes.jpg" alt="potatoes" class="align-right">
+
+Potatoes are [tuberous](https://en.wikipedia.org/wiki/Tuber){:target="_blank"} crops from the nightshade family. They were introduced to Europe in the second half of the 16th century by the Spanish. Raw potatoes mainly consist out of water and **carbohydrates** (88% of which is [starch](https://en.wikipedia.org/wiki/Potato#Nutrition){:target="_blank"}).
+
+A rabbit's digestive system is specialized for consuming large amounts of plants which are rich in fiber and low in fat. As a result, food types high on carbohydrates, like for example potatoes, **are likely to cause digestive upset**. When fed often, they may even lead to more serious health problems.
+
+Feeding a little bit of potato isn't necessarily harmful to a rabbit. That being said it doesn't really have a positive impact in their diet either.
+
+We did come across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/106992/Default.aspx){:target="_blank"} in which people mention they feed their rabbit a small amount of potato every day but this was based on veterinarian advice.
+
+If you are wondering if rabbits can eat **sweet potatoes**, then the answer is still that **we advise against it**. Even though sweet potatoes are only distantly related to the potato and do not belong to the nightshade family, they are still packed with carbohydrates and contain [even more sugars than potatoes](https://en.wikipedia.org/wiki/Sweet_potato#Nutrient_content){:target="_blank"}.
+
+_Our advice is to not feed potatoes as there are plenty of other healthier treats you can offer your bunny._
+
 ## Can Rabbits Eat Bread? - *Do Not Feed*{:.red}
 
 <img src="{{ site.url }}/assets/images/food/bread.jpg" alt="bread" class="align-right">
