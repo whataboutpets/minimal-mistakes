@@ -282,13 +282,13 @@ _It's fine for rabbits to eat cucumbers. However, chances are your bunny might n
 
 [Asparagus](https://en.wikipedia.org/wiki/Asparagus){:target="_blank"} is a spring vegetable. It is considered a delicacy in the vegetable world and has a distinct, intense savory flavor.
 
-As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories it is also a good source of dietary fiber.
+As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories and a good source of dietary fiber.
 
-You can offer your rabbit asparagus but **start with a small amount** if it's the first time feeding. Keep an eye on the stools and if everything looks normal then you can add asparagus into the rotation of fresh vegetables that are part of your rabbit's diet.
+You can offer your rabbit asparagus but **start with a small amount** if it's the first time feeding. Keep an eye on the stools and if everything looks normal you can add asparagus into the rotation of fresh vegetables that are part of your rabbit's diet.
 
-There is a chance your bunny might not even like asparagus as it is listed as one of the [plants not usually eaten by rabbits](http://www.imustgarden.com/rabbit-resistant-plants){:target="_blank"}. We found some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/108606/Default.aspx){:target="_blank"} that seem to confirm this statement. As every rabbit is different, just present them with a little bit of asparagus and try to find out.
+There is a chance your bunny might not even like asparagus as it is listed as one of the [plants not usually eaten by rabbits](http://www.imustgarden.com/rabbit-resistant-plants){:target="_blank"}. We found some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/108606/Default.aspx){:target="_blank"} that seem to confirm this statement. As every rabbit is different, just present it with a little bit of asparagus to find out.
 
-Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix with the leafy greens. Keep portions small, give a couple of piece per rabbit per day.
+Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix them in with the leafy greens. Keep portions small, give a couple of pieces per rabbit per day.
 
 _Rabbits can eat asparagus, they just might not like it that much._
 
