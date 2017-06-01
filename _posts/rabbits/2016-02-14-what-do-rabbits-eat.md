@@ -89,7 +89,7 @@ They are, however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutriti
 
 If it is the first time you offer an apple to your rabbit, it is best to introduce the new food slowly in order to allow the digestive system to adjust. Leave a couple of days between offering another apple and keep a watch on the stools. If you see the droppings get soft, stop the introduction and try again after some time.
 
-Before feeding the apple, make sure to **rinse it with clear running water** in order to [remove contaminations](http://fyi.uwex.edu/safepreserving/2013/10/07/safe-healthy-does-washing-produce-remove-pesticides/){:target="_blank"}. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces. As mentioned keep the portions small. For instance, a teaspoon or two per rabbit per day.
+Before feeding the apple, make sure to **rinse it with clear running water** in order to [remove contaminations](http://fyi.uwex.edu/safepreserving/2013/10/07/safe-healthy-does-washing-produce-remove-pesticides/){:target="_blank"}. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces. As mentioned keep the portions small. For instance, a couple of slices per rabbit per day.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0" allowfullscreen></iframe>
 
@@ -274,6 +274,22 @@ Raw cucumber (with peel) is **low on nutritional value** since it consists out o
 Note that there is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found where owners mentioned their rabbit avoids cucumber altogether.
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
+
+## Can Rabbits Eat Asparagus? - *In Lesser Amounts*{:.blue}
+
+<img src="{{ site.url }}/assets/images/food/asparagus.jpg" alt="asparagus" class="align-right">
+
+[Asparagus](https://en.wikipedia.org/wiki/Asparagus){:target="_blank"} is a spring vegetable. It is considered a delicacy in the vegetable world and has a distinct, intense savory flavor.
+
+As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories it is also a good source of dietary fiber.
+
+You can offer your rabbit asparagus but start with a small amount if it's the first time feeding. Keep an eye on the stools and if everything looks normal then you can add asparagus into the rotation of fresh vegetables that are part of your rabbit's diet.
+
+There is a chance your bunny might not even like asparagus as it is listed as one of the [plants not usually eaten](http://www.imustgarden.com/rabbit-resistant-plants){:target="_blank"} by rabbits. We found some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/108606/Default.aspx){:target="_blank"} that seem to confirm this statement. As every rabbit is different, just present them with a little bit of asparagus and try to find out.
+
+Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix with the leafy greens. Keep portions small, give a couple of piece per rabbit per day.
+
+_Rabbits can eat asparagus, they just might not like it that much._
 
 ## Can Rabbits Eat Potatoes? - *Do Not Feed*{:.red}
 
