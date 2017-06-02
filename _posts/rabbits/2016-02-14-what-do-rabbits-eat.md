@@ -51,11 +51,11 @@ If you are looking for information on a specific food item, use the below links 
 |:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |
 | [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Asparagus]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-asparagus---in-lesser-amounts) | [Bread]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bread---do-not-feed) |
 | [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   |                                                                                              |
-| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |                                                                                              |
-| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |                                                                                              |
-| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |                                                                                              |
-| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Potatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-potatoes---do-not-feed)         |                                                                                              |
-|                                                                                                                 | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
+| [Blueberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-blueberries---in-small-amounts)   | [Cabbage]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cabbage---sure)                  |                                                                                              |
+| [Grapes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-grapes---in-small-amounts)             | [Celery]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-celery---in-lesser-amounts)       |                                                                                              |
+| [Oranges]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-oranges---in-small-amounts)           | [Cucumbers]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-cucumbers---in-lesser-amounts) |                                                                                              |
+| [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Potatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-potatoes---do-not-feed)         |                                                                                              |
+| [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
 |                                                                                                                 | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
 
 ## What Does a Rabbit Eat?
@@ -291,6 +291,22 @@ There is a chance your bunny might not even like asparagus as it is listed as on
 Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix them in with the leafy greens. Keep portions small, give a couple of pieces per rabbit per day.
 
 _Rabbits can eat asparagus, they just might not like it that much._
+
+## Can Rabbits Eat Blueberries? - *In Small Amounts*{:.orange}
+
+<img src="{{ site.url }}/assets/images/food/blueberries.jpg" alt="blueberries" class="align-right">
+
+[Blueberries](https://en.wikipedia.org/wiki/Blueberry) are flowering plants with indigo-colored berries that have a sweet taste when mature. Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
+
+Because of the higher sugar content, blueberries should be considered as **treats** and only be given to rabbits in small amounts. Keep an eye on how your rabbit reacts the first time you offer them.
+
+**Don't feed dried blueberries** as they will **contain higher amounts of sugar** compared to fresh blueberries. This is because the drying process removes water, which concentrates the sugar. In some cases, dried variants will even have additional sugar added to them in order to enhance the taste and prolong conservation.
+
+**Don't feed frozen blueberries** as cold food is likely to upset your rabbit's digestive system.
+
+Give the blueberries a good rub under running water in order to remove potential contaminations. Keep portions small and offer **only a couple of berries per day**.
+
+_In summary, blueberries are nice little treats you can give to your rabbit._
 
 ## Can Rabbits Eat Potatoes? - *Do Not Feed*{:.red}
 
