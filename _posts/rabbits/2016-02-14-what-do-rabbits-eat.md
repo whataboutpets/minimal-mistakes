@@ -20,11 +20,11 @@ published: true
   <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat">
 </figure>
 
-Looking for healthy treats for your pet rabbit? Or are you **not sure whether your bunny can eat a certain type of food** like apples, celery, grapes, tomatoes or even carrots. In order to help you make a choice, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
+Looking for some healthy treats for your pet rabbit? Or are you **not sure whether your bunny can eat certain types of food** like apples, celery, grapes, tomatoes or even carrots. In order to help you make an informed decision, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
 
-*Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just don't do it**. While doing our research, we have tried to come up with a list of lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
+*Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just not do it**. While doing our research, we have tried to come up with a list of lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
 
-We'll dive into the details below, but to help you get an overview we've also put the information in a **helpful infographic on daily fresh foods for your rabbit**.
+We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: what can rabbits eat**.
 
 <div class="align-center">
 <a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
@@ -47,7 +47,7 @@ alt="what do rabbits eat" width="730" border="0" /></a></p>
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding section.
 
-| Fruit                                                                                                           | Vegetable                                                                                                  | Other                                                                                        |
+| Fruits                                                                                                          | Vegetables                                                                                                 | Other                                                                                        |
 |:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |
 | [Apples]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-apples---in-small-amounts)             | [Asparagus]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-asparagus---in-lesser-amounts) | [Bread]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bread---do-not-feed) |
 | [Bananas]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bananas---in-small-amounts)           | [Broccoli]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-broccoli---in-lesser-amounts)   |                                                                                              |
@@ -296,7 +296,7 @@ _Rabbits can eat asparagus, they just might not like it that much._
 
 <img src="{{ site.url }}/assets/images/food/blueberries.jpg" alt="blueberries" class="align-right">
 
-[Blueberries](https://en.wikipedia.org/wiki/Blueberry) are flowering plants with indigo-colored berries that have a sweet taste when mature. Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
+[Blueberries](https://en.wikipedia.org/wiki/Blueberry){:target="_blank"} are flowering plants with indigo-colored berries that have a sweet taste when mature. Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
 
 Because of the higher sugar content, blueberries should be considered as **treats** and only be given to rabbits in small amounts. Keep an eye on how your rabbit reacts the first time you offer them.
 
