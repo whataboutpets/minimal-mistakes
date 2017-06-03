@@ -24,7 +24,7 @@ Looking for some healthy treats for your pet rabbit? Or are you **not sure wheth
 
 *Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just not do it**. While doing our research, we have tried to come up with a list of lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
 
-We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: what can rabbits eat**.
+We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: "what can rabbits eat?"**.
 
 <div class="align-center">
 <a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
