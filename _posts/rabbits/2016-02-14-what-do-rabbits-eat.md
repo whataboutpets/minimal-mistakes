@@ -276,6 +276,22 @@ Note that there is a **good change your bunny won't even like cucumbers**. It is
 
 _It's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them._
 
+## Can Rabbits Eat Kale? - *Sure*{:.green}
+
+<img src="{{ site.url }}/assets/images/food/kale.jpg" alt="kale" class="align-right">
+
+[Kale](https://www.bbcgoodfood.com/glossary/kale){:target="_blank"} is a member of the cabbage family. It's center leaves do not form a head as is the case with headed cabbages. Kale plants can have green or purple leaves and come in two varieties: kale (which has smooth leaves), and curly kale (which has crinkly leaves).
+
+From a nutrition point of view, kale is composed out of 84% water. It is a **rich source of vitamin A** and also contains a good amount of **calcium**.
+
+There are a number of sources which advice not to feed kale to rabbits because of it's high level of oxalates. [Oxalate](https://en.wikipedia.org/wiki/Oxalate#Occurrence_in_nature){:target="_blank"} occurs in many plants, where it is a waste product of the incomplete oxidation of carbohydrates. If a rabbit consumes **large amounts of oxalates then this could contribute to bladder sludge or other health issues**.
+
+It looks however that above information is contradicted by one of the most reliable sources on rabbit feeding that actually mentions kale as a [leafy green low on oxalates](http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/){:target="_blank"}. In addition, there is a [database of foods analyzed for oxalate content](https://regepi.bwh.harvard.edu/health/Oxalate/files){:target="_blank"} maintained by the Harvard School of Public Health which classifies kale as very low on oxalates.
+
+Based on the above we see no reason to exclude kale from a rabbit's diet. So if you are looking for a new leafy green or if you have already been feeding kale then there is no reason to be worried. Just make sure to rotate with other greens on a regular basis and pay attention to how your bun behaves.
+
+_There is a bit of contradicting information on whether rabbits can eat kale. Based on what we have found there currently seems to be no harm in feeding kale._
+
 ## Can Rabbits Eat Asparagus? - *In Lesser Amounts*{:.blue}
 
 <img src="{{ site.url }}/assets/images/food/asparagus.jpg" alt="asparagus" class="align-right">
