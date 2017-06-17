@@ -1,12 +1,10 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-/*!
- * Minimal Mistakes Jekyll Theme 4.3.1 by Michael Rose
- * Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
- * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt)
-*/
+@charset "utf-8";
 
+<<<<<<< HEAD
 /*
    Variables
    ========================================================================== */
@@ -161,3 +159,6 @@ nav.pagination a.pagination--pager:hover, nav.pagination a.pagination--pager:act
 .btn--pinterest:hover, .btn--pinterest:hover:active {
   background-color: #ad081b;
 }
+=======
+@import "minimal-mistakes";
+>>>>>>> upstream/master
