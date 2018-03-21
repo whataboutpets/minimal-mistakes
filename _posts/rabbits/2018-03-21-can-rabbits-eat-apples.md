@@ -23,6 +23,8 @@ Rabbits tend to have a taste for sweet food and will really like to eat fresh fr
 
 They are, however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutrition){:target="_blank"} as they contain lots of sugar, so make sure to **keep the quantity of this treat to a minimum**. Note that if your rabbit already has a weight problem, it is best to avoid feeding any type of fruit, including apples.
 
+<img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
+
 If it is the first time you offer an apple to your rabbit, it is best to introduce the new food slowly in order to allow the digestive system to adjust. Leave a couple of days between offering another apple and keep a watch on the stools. If you see the droppings get soft, stop the introduction and try again after some time.
 
 Before feeding the apple, make sure to **rinse it with clear running water** in order to [remove contaminations](http://fyi.uwex.edu/safepreserving/2013/10/07/safe-healthy-does-washing-produce-remove-pesticides/){:target="_blank"}. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces.
