@@ -15,8 +15,6 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-apples.png" alt="can rabbits eat apples">
 </figure>
 
-<img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
-
 An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
 
 # Do Rabbits Eat Apples?
