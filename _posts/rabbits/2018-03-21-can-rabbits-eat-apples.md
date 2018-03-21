@@ -12,7 +12,7 @@ published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/rabbits/can-rabbits-eat-apples.png" alt="can rabbits eat apples">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-apples.png" alt="can rabbits eat apples">
 </figure>
 
 <img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
