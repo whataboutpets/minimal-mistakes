@@ -11,6 +11,10 @@ tags: [Apple, Branches, Eat, Feed, Leaves, Peel, Seeds, Skin, Sticks]
 published: true
 ---
 
+<figure>
+  <img src="{{ site.url }}/assets/images/rabbits/can-rabbits-eat-apples.png" alt="can rabbits eat apples">
+</figure>
+
 <img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
 
 An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
@@ -37,7 +41,7 @@ If you are wondering whether rabbits can also eat the skin of the apple then the
 
 # Can Rabbits Eat Apple Seeds?
 
-<img src="{{ site.url }}/assets/images/posts/food/apple-seeds.jpg" alt="apples" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/food/apple-seeds.jpg" alt="apple seeds" class="align-right">
 
 When offering apples, **make sure to remove the seeds**. The reason for this is that apple seeds contain [amygdalin](https://en.wikipedia.org/wiki/Apple#Toxicity_of_seeds){:target="_blank"}, a sugar and cyanide compound.
 
