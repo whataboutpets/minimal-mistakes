@@ -42,6 +42,6 @@ Most people know celery from grocery stores where most part of the leaves have b
 Rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
 {: .notice--info}
 
-Whats your experience with feeding celery to your bunny? Let us know by leaving a comment.
+Whats your experience with feeding celery to your bunny? Drop a comment below.
 
 ---
