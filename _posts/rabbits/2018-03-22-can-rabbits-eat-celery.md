@@ -33,13 +33,13 @@ As far as portion size is concerned, typically **one stick of celery per bunny**
 
 Most people know celery from grocery stores where most part of the leaves have been chopped off. If you are wondering whether your rabbit can also eat the celery leaves then the answer is yes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vGCjVl3RCKw" frameborder="0" allowfullscreen></iframe>
-
 > A nice little tip is to **try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGCjVl3RCKw" frameborder="0" allowfullscreen></iframe>
 
 # Conclusion
 
-In conclusion, rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
+Rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
 {: .notice--info}
 
 Whats your experience with feeding celery to your bunny? Let us know by leaving a comment.

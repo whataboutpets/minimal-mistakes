@@ -35,9 +35,9 @@ As mentioned keep the portions small. For instance, a couple of slices per rabbi
 
 If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The **apple peel** actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0" allowfullscreen></iframe>
-
 > Tip: Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0" allowfullscreen></iframe>
 
 # Can Rabbits Eat Apple Seeds?
 
