@@ -1,13 +1,13 @@
 ---
 title: "Can Rabbits Eat Apples?"
 permalink: /:categories/can-rabbits-eat-apples.html
-excerpt: "Do rabbits eat apples? Can you feed the peel or seeds of an apple? What about apple sticks or branches?"
+excerpt: "Can Rabbits Eat Apples? Can you feed the peel or seeds of an apple?"
 date: 2018-03-21
 last_modified_at: 2018-03-21
 header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-apples-teaser.png"
 categories: [Rabbits]
-tags: [Apple, Branches, Eat, Feed, Leaves, Peel, Seeds, Skin, Sticks]
+tags: [Apple, Eat, Feed, Leaves, Peel, Seeds, Skin]
 published: true
 ---
 
@@ -25,9 +25,9 @@ They are, however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutriti
 
 <img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
 
-If it is the first time you offer an apple to your rabbit, it is best to introduce the new food slowly in order to allow the digestive system to adjust. Leave a couple of days between offering another apple and keep a watch on the stools. If you see the droppings get soft, stop the introduction and try again after some time.
+If it is the first time you offer an apple to your rabbit, it is best to **introduce the new food slowly** in order to allow the digestive system to adjust. Leave a couple of days between offering another apple and keep a watch on the stools. If you see the droppings get soft, stop the introduction and try again after some time.
 
-Before feeding the apple, make sure to **rinse it with clear running water** in order to [remove contaminations](http://fyi.uwex.edu/safepreserving/2013/10/07/safe-healthy-does-washing-produce-remove-pesticides/){:target="_blank"}. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces.
+Before feeding the apple, make sure to **rinse it with clear running water** in order to remove contaminations. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces.
 
 As mentioned keep the portions small. For instance, a couple of slices per rabbit per day.
 
@@ -53,3 +53,5 @@ Yes, rabbits can eat apples and their skin, but not the seeds!
 {: .notice--info}
 
 Does your bunny like eating apples? Let us know by leaving a comment below.
+
+---
