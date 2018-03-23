@@ -21,9 +21,9 @@ published: true
 
 Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However, as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
 
-Before offering the grapes, **rinse them thoroughly with running water** as many grape vineyards will rely on pesticides to keep their grapes safe from bugs. Then simply remove the grapes from the cluster and feed them as a whole.
-
 <img src="{{ site.url }}/assets/images/posts/food/grapes.jpg" alt="grapes" class="align-right">
+
+Before offering the grapes, **rinse them thoroughly with running water** as many grape vineyards will rely on pesticides to keep their grapes safe from bugs. Then simply remove the grapes from the cluster and feed them as a whole.
 
 If you haven't offered your rabbit grapes so far then it might be a good idea to cut it up in half. This way it is easier for them to smell and taste the juice.
 
