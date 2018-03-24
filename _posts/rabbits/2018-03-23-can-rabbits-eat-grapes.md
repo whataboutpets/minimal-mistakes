@@ -34,7 +34,7 @@ Feeding too many grapes at a time could cause digestive problems with your rabbi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UEsI3rMeg24" frameborder="0" allowfullscreen></iframe>
 
 **Conclusion:** sure, rabbits can eat grapes as an occasional treat.
-{: .conclusion--info}
+{: .notice--info}
 
 What your favorite way of feeding grapes to your rabbit? We'd love to hear from you.
 
