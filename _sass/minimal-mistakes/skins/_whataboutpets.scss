@@ -12,9 +12,9 @@ $primary-color : $blue !default;
 $footer-background-color : $blue !default;
 
 $text-color : #444 !default;
-$link-color : $pink !default;
-$link-color-hover : $pink !default;
-$link-color-visited : $pink !default;
+$link-color : $blue !default;
+$link-color-hover : $blue !default;
+$link-color-visited : $blue !default;
 
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
@@ -23,15 +23,10 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 $muted-text-color: $text-color !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 
-a {
-  color: $blue !important;
-}
-
 /*footer*/
 .page__footer {
   color: #fff !important;
 }
-
 .page__footer-follow .social-icons .fa {
   color: inherit;
 }
