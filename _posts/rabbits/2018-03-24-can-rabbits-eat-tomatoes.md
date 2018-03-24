@@ -21,9 +21,9 @@ published: true
 
 Tomatoes mostly consist of water, but they also contain **sugars** and dietary fiber. Like other fruits, they **should be considered as a treat** for your rabbit. This means that they should be offered in limited quantities as feeding too much will lead to digestive troubles.
 
-<img src="{{ site.url }}/assets/images/posts/food/tomatoes.jpg" alt="tomatoes" class="align-right">
-
 # Can Rabbits Eat Tomato Leaves 
+
+<img src="{{ site.url }}/assets/images/posts/food/tomatoes.jpg" alt="tomatoes" class="align-right">
 
 Although rabbits can eat tomatoes, **they should not be fed stems, vines, leaves, and green unripe fruit of the tomato plant**. The reason for this is that the tomato plant is part of the [nightshade family](https://en.wikipedia.org/wiki/Solanaceae){:target="_blank"}. Many members of this plant family contain potent alkaloids, and some are highly **toxic**.
 
@@ -32,6 +32,6 @@ However, we are not able to conclude that by default the tomato plant is toxic f
 **Conclusion:** to sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
 {: .notice--info}
 
-What your favorite way of feeding grapes to your rabbit? We'd love to hear from you.
+Do you feed your rabbit tomatoes? Let's us know below.
 
 ---
