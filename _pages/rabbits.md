@@ -16,3 +16,15 @@ no_title: true
     {% endif %}
   {% endfor %}
 </div>
+
+<section class="page__content" itemprop="text" markdown="1">
+  <h2 class="cf align-center">Feeding Guides and Tips</h2>
+</section>
+
+<div class="grid__wrapper">
+  {% for post in site.categories.Rabbits %}
+    {% if post.tags contains 'Feed' %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
