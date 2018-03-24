@@ -56,6 +56,9 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 }
 
 /*post*/
+.page__content page-title {
+  font-size: 2em !important;
+}
 .page__content h1 {
   margin-top: 70px;
 }
@@ -64,13 +67,13 @@ $border-color: mix(#fff, $text-color, 75%) !default;
   font-weight: bold;
   text-decoration: underline;
 }
-p.conclusion--info {
+p.notice--info {
+  margin-top: 60px;
   background-color: $blue;
   color: #fff;
   font-size: 1em !important;
-  margin-top: 70px;
 }
-.conclusion--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
+.notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
   color: #fff;
   text-decoration: underline
 }
