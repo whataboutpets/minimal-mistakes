@@ -4,6 +4,7 @@
 
 /* Colors */
 $blue : #2196f3 !default;
+$dark-blue : #0367B4 !default;
 $pink : #ff6090 !default;
 
 $primary-color : $blue !default;
@@ -27,4 +28,14 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 
 .page__footer-follow .social-icons .fa {
   color: inherit;
+}
+
+/*splash*/
+.feature__item .btn {
+  color: #fff;
+  background-color: $blue !important;
+}
+.feature__item .btn:hover {
+  background-color: $dark-blue !important;
+  text-decoration: underline
 }
