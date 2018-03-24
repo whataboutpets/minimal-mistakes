@@ -32,7 +32,7 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 
 /*splash*/
 .feature__item .btn {
-  color: #fff;
+  color: #fff !important; // override
   background-color: $blue !important;
 }
 .feature__item .btn:hover {
