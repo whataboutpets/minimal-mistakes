@@ -8,7 +8,7 @@ $dark-blue : #0367B4 !default;
 $pink : #ff6090 !default;
 
 $primary-color : $blue !default;
-$footer-background-color : $dark-blue !default;
+$footer-background-color : $blue !default;
 
 $text-color : #444 !default;
 $link-color : $pink !default;
@@ -33,9 +33,9 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 /*splash*/
 .feature__item .btn {
   color: #fff !important; // override
-  background-color: $dark-blue !important;
+  background-color: $blue !important;
 }
 .feature__item .btn:hover {
-  background-color: $blue !important;
+  background-color: $dark-blue !important;
   text-decoration: underline
 }
