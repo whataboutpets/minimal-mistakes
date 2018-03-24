@@ -57,12 +57,12 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 
 /*post*/
 .page__content a {
-  color: #e91e63;
+  color: $pink;
   font-weight: bold;
   text-decoration: underline;
 }
 p.notice--info {
-  background-color: #2196f3;
+  background-color: $blue;
   color: #fff;
   font-size: 1em !important;
 }
