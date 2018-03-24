@@ -24,12 +24,12 @@ $muted-text-color: $text-color !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 
 a {
-  color: $blue;
+  color: $blue !important;
 }
 
 /*footer*/
 .page__footer {
-  color: #fff !important; // override
+  color: #fff !important;
 }
 
 .page__footer-follow .social-icons .fa {
@@ -38,7 +38,7 @@ a {
 
 /*splash*/
 .feature__item .btn {
-  color: #fff !important; // override
+  color: #fff !important;
   background-color: $blue !important;
 }
 .feature__item .btn:hover {
