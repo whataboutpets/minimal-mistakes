@@ -57,7 +57,7 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 
 /*post*/
 .page__content a {
-  color: $pink;
+  color: $pink !important;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -69,4 +69,7 @@ p.notice--info {
 .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
   color: #fff;
   text-decoration: underline
+}
+.fluid-width-video-wrapper {
+  margin-bottom: 20px;
 }
