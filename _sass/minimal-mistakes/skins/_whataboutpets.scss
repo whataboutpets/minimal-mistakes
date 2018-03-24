@@ -23,6 +23,10 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 $muted-text-color: $text-color !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 
+a {
+  color: $blue;
+}
+
 /*footer*/
 .page__footer {
   color: #fff !important; // override
@@ -46,4 +50,12 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 .breadcrumbs .current {
   color: $grey;
   font-weight: normal;
+}
+
+/*pages*/
+.h2-margin-top {
+  margin-top: 0px;
+}
+.align-center {
+  text-align: center;
 }
