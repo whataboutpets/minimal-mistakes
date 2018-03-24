@@ -6,6 +6,7 @@
 $blue : #2196f3 !default;
 $dark-blue : #0367B4 !default;
 $pink : #ff6090 !default;
+$grey : #9ba1a6 !default;
 
 $primary-color : $blue !default;
 $footer-background-color : $blue !default;
@@ -22,6 +23,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 $muted-text-color: $text-color !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 
+/*footer*/
 .page__footer {
   color: #fff !important; // override
 }
@@ -38,4 +40,10 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 .feature__item .btn:hover {
   background-color: $dark-blue !important;
   text-decoration: underline
+}
+
+/*breadcrumbs*/
+.breadcrumbs .current {
+  color: $grey;
+  font-weight: normal;
 }
