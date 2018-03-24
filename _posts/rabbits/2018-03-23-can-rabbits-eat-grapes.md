@@ -12,7 +12,7 @@ published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-grapes.png" alt="can rabbits eat grapes">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-grapes.png" alt="can rabbits eat grapes" class="title-banner">
 </figure>
 
 [Grapes](https://en.wikipedia.org/wiki/Grape){:target="_blank"} are grown all over the world and aside from being used for wine production, they are a popular between-meal snack for us humans. They are actually a kind of berry and come in many colors, including green, red, black, yellow, pink, and purple.
