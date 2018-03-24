@@ -56,6 +56,9 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 }
 
 /*post*/
+.page__content h1 {
+  margin-top: 60px;
+}
 .page__content a {
   color: $pink !important;
   font-weight: bold;
