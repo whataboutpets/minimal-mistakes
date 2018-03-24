@@ -54,3 +54,19 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 .align-center {
   text-align: center;
 }
+
+/*post*/
+.page__content a {
+  color: #e91e63;
+  font-weight: bold;
+  text-decoration: underline;
+}
+p.notice--info {
+  background-color: #2196f3;
+  color: #fff;
+  font-size: 1em !important;
+}
+.notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
+  color: #fff;
+  text-decoration: underline
+}
