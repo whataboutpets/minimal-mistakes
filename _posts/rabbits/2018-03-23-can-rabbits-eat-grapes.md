@@ -5,14 +5,14 @@ excerpt: "Wondering whether your pet rabbit can eat grapes? Read this post to fi
 date: 2018-03-23
 last_modified_at: 2018-03-23
 header:
-  teaser: "assets/images/posts/rabbits/can-rabbits-eat-grapes-teaser.png"
+  teaser: "assets/images/posts/rabbits/can-rabbits-eat-grapes-teaser.jpg"
 categories: [Rabbits]
 tags: [Eat, Feed, Grapes]
 published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-grapes.png" alt="can rabbits eat grapes" class="title-banner">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-grapes.jpg" alt="can rabbits eat grapes" class="title-banner">
 </figure>
 
 [Grapes](https://en.wikipedia.org/wiki/Grape){:target="_blank"} are grown all over the world and aside from being used for wine production, they are a popular between-meal snack for us humans. They are actually a kind of berry and come in many colors, including green, red, black, yellow, pink, and purple.
