@@ -29,11 +29,11 @@ If you haven't offered your rabbit grapes so far then it might be a good idea to
 
 Feeding too many grapes at a time could cause digestive problems with your rabbit. And in the long run, all that sugar will probably cause other problems like obesity. In other words, make sure to **offer grapes in small amounts**. As a simple rule of thumb feed **one grape per rabbit per day**.
 
-> Tip: Grapes are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
+> Grapes are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UEsI3rMeg24" frameborder="0" allowfullscreen></iframe>
 
-# Conclusion
+---
 
 Sure, rabbits can eat grapes as an occasional treat.
 {: .notice--info}
