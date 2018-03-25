@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Tomatoes?"
 permalink: /:categories/can-rabbits-eat-tomatoes.html
-excerpt: "Wondering whether your pet rabbit can eat tomatoes? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat tomatoes? What about the stems, vines or leaves? Read this post to find out if they are healthy and learn some great tips on how to feed them."
 date: 2018-03-24
 last_modified_at: 2018-03-24
 header:
