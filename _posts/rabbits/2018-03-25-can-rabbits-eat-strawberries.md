@@ -19,7 +19,7 @@ published: true
 
 # Do Rabbits Eat Strawberries?
 
-In addition to **sugar** and some dietary fibers, strawberries are an excellent source of vitamin C. The fact that they are rich in sugar also means they **are to be considered as a treat** for your fluffy friend. Too many strawberries may lead to stomach troubles.
+Strawberries have a sweet taste because they are rich in sugar. This means they **are to be considered as a treat** for your fluffy friend. Too many strawberries may lead to stomach troubles.
 
 <img src="{{ site.url }}/assets/images/posts/food/strawberries.jpg" alt="strawberries" class="align-right">
 
@@ -27,13 +27,13 @@ As with all fruit, portion control is key in order to ensure a healthy diet. As 
 
 # Can Rabbits Eat Strawberry Tops or Leaves?
 
-If you're wondering whether your rabbit can also eat the **strawberry tops** or even the **strawberry leaves** then the answer is yes. **They can actually eat any part of the plant**, just make sure to clean with streaming water before feeding.
+If you're wondering whether your rabbit can also eat the strawberry tops or even the strawberry leaves then the answer is yes. **They can actually eat any part of the plant**, just make sure to clean with streaming water before feeding.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaBWS-M39hM" frameborder="0" allowfullscreen></iframe>
 
 **Conclusion:** bottom line, strawberries are a great occasional treat for your rabbit.
 {: .notice--info}
 
-Do you feed your rabbit tomatoes? Let's us know below.
+Does your rabbit like strawberries? Let's us know by leaving a comment.
 
 ---
