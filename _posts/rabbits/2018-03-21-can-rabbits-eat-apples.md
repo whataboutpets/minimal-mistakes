@@ -1,18 +1,18 @@
 ---
 title: "Can Rabbits Eat Apples?"
 permalink: /:categories/can-rabbits-eat-apples.html
-excerpt: "Can Rabbits Eat Apples? Can you feed the peel or seeds of an apple?"
+excerpt: "Wondering whether your pet rabbit can eat apples? What about the peel or seeds? Read this post to find out if they are healthy and learn some great tips on how to feed them."
 date: 2018-03-21
 last_modified_at: 2018-03-21
 header:
-  teaser: "assets/images/posts/rabbits/can-rabbits-eat-apples-teaser.png"
+  teaser: "assets/images/posts/rabbits/can-rabbits-eat-apples-teaser.jpg"
 categories: [Rabbits]
 tags: [Apple, Eat, Feed, Leaves, Peel, Seeds, Skin]
 published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-apples.png" alt="can rabbits eat apples">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-apples.jpg" alt="can rabbits eat apples" class="title-banner">
 </figure>
 
 An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
@@ -35,7 +35,7 @@ As mentioned keep the portions small. For instance, a couple of slices per rabbi
 
 If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The **apple peel** actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains.
 
-> Tip: Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
+> Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0" allowfullscreen></iframe>
 
@@ -47,9 +47,7 @@ When offering apples, **make sure to remove the seeds**. The reason for this is 
 
 This toxic substance is only present in very small quantities and as such, there is no reason to panic in case your rabbit has accidentally swallowed some seeds. The greater concern would be continuous consumption where the amygdalin was progressively building up in your rabbit's system to the point of reaching toxic levels.
 
-# Conclusion
-
-Yes, rabbits can eat apples and their skin, but not the seeds!
+**Conclusion:** Yes, rabbits can eat apples and their skin, but not the seeds!
 {: .notice--info}
 
 Does your bunny like eating apples? Let us know by leaving a comment below.

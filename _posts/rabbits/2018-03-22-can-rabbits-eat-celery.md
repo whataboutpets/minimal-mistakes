@@ -12,7 +12,7 @@ published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-celery.jpg" alt="can rabbits eat celery">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-celery.jpg" alt="can rabbits eat celery" class="title-banner">
 </figure>
 
 [Celery](https://en.wikipedia.org/wiki/Celery){:target="_blank"} is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition){:target="_blank"}. It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
@@ -33,7 +33,7 @@ As far as portion size is concerned, typically **one stick of celery per bunny**
 
 Most people know celery from grocery stores where most part of the leaves have been chopped off. If you are wondering whether your rabbit can also eat the celery leaves then the answer is yes.
 
-> **try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
+> **Try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vGCjVl3RCKw" frameborder="0" allowfullscreen></iframe>
 
