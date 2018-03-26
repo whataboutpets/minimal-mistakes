@@ -33,7 +33,7 @@ Contrary to what you might think, the peel of a banana is actually edible for bo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmNrEjkQ1Gs" frameborder="0" allowfullscreen></iframe>
 
-**Conclusion:** even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities
+**Conclusion:** even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities.
 {: .notice--info}
 
 Do you sometimes offer your rabbit bananas? Feel free to leave a comment.
