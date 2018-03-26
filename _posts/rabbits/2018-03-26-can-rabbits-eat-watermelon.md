@@ -27,7 +27,9 @@ Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As wate
 
 # Can Rabbits Eat Watermelon Rinds?
 
-Aside from the interior flesh, the **watermelon rind is also safe** for bunnies to eat. When it comes to the watermelon seeds, we haven't come across any reference saying that they are poisonous to rabbits. Just to be on the safe side we advise that you **remove the seeds** before feeding.
+Aside from the interior flesh, the **watermelon rind is also safe** for bunnies to eat. When it comes to the watermelon seeds, we haven't come across any reference saying that they are poisonous to rabbits.
+
+Just to be on the safe side we advise that you **remove the seeds** before feeding.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Njj5jnvn7IA" frameborder="0" allowfullscreen></iframe>
 
