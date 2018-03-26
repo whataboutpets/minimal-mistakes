@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-watermelon-teaser.jpg"
 categories: [Rabbits]
 tags: [Eat, Feed, Peels, Rinds, Watermelon]
-published: false
+published: true
 ---
 
 <figure>
