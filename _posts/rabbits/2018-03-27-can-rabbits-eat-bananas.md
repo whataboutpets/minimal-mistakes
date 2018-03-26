@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Bananas?"
 permalink: /:categories/can-rabbits-eat-bananas.html
-excerpt: "Wondering whether your pet rabbit can eat bananas? What about the peel? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat bananas? What about the peel? Find out if bananas are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-03-27
 last_modified_at: 2018-03-27
 header:

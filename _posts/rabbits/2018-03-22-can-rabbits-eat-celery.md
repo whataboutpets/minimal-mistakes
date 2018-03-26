@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Celery?"
 permalink: /:categories/can-rabbits-eat-celery.html
-excerpt: "Wondering whether your pet rabbit can eat celery? What about the stalks or leaves? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat celery? What about the stalks or leaves? Find out if celery is healthy for your bunny and learn some tips on how to feed it."
 date: 2018-03-22
 last_modified_at: 2018-03-22
 header:

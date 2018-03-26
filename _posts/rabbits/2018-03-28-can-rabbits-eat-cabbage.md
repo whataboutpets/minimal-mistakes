@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Cabbage?"
 permalink: /:categories/can-rabbits-eat-cabbage.html
-excerpt: "Wondering whether your pet rabbit can eat cabbage? What about the peel? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat cabbage? What about the leaves? Find out if cabbage is healthy for your bunny and learn some tips on how to feed it."
 date: 2018-03-28
 last_modified_at: 2018-03-28
 header:

@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Apples?"
 permalink: /:categories/can-rabbits-eat-apples.html
-excerpt: "Wondering whether your pet rabbit can eat apples? What about the peel or seeds? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat apples? What about the peel or seeds? Find out if apples are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-03-21
 last_modified_at: 2018-03-21
 header:

@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Strawberries?"
 permalink: /:categories/can-rabbits-eat-strawberries.html
-excerpt: "Wondering whether your pet rabbit can eat strawberries? What about the stems, vines or leaves? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat strawberries? What about the stems, vines or leaves? Find out if strawberries are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-03-25
 last_modified_at: 2018-03-25
 header:

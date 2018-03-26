@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Watermelon?"
 permalink: /:categories/can-rabbits-eat-watermelon.html
-excerpt: "Wondering whether your pet rabbit can eat watermelon? What about the rind? Read this post to find out if they are healthy and learn some great tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat watermelon? What about the rind? Find out if a watermelon is healthy for your bunny and learn some tips on how to feed it."
 date: 2018-03-26
 last_modified_at: 2018-03-26
 header:
