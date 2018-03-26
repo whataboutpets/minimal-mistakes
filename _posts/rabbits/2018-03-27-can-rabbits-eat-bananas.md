@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-bananas-teaser.jpg"
 categories: [Rabbits]
 tags: [Bananas, Eat, Feed, Peel]
-published: false
+published: true
 ---
 
 <figure>
