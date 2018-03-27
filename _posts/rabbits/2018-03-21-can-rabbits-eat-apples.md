@@ -17,7 +17,7 @@ published: true
 
 An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
 
-We've created an easy to use overview to help you learn more about [what to feed your rabbit]{{{ site.url }}/rabbits/what-do-rabbits-eat.html}. Be sure to check it out!
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html). Be sure to check it out!
 {: .notice--primary}
 
 # Do Rabbits Eat Apples?
