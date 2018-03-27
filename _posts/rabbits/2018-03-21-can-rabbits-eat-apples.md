@@ -40,7 +40,7 @@ If you are wondering whether rabbits can also eat the skin of the apple then the
 
 > Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
 
-<iframe src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0"></iframe>
 
 # Can Rabbits Eat Apple Seeds?
 

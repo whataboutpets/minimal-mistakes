@@ -13,7 +13,7 @@
 
 /*footer*/
 .page__footer {
-  color: #fff !important;
+  color: #fff;
 }
 .page__footer-follow .social-icons .fa {
   color: inherit;
@@ -21,11 +21,11 @@
 
 /*splash*/
 .feature__item .btn {
-  color: #fff !important;
-  background-color: $blue !important;
+  color: #fff;
+  background-color: $blue;
 }
 .feature__item .btn:hover {
-  background-color: $dark-blue !important;
+  background-color: $dark-blue;
   text-decoration: underline
 }
 
@@ -67,7 +67,7 @@ h1.page__title {
   }
   .btn--pinterest {
     background-color: #cb2027;
-    color: #fff !important;
+    color: #fff;
   }
   .btn--pinterest:hover, .btn--pinterest:hover:active {
     background-color: #ad081b;
