@@ -84,10 +84,12 @@ h1.page__title {
   .btn--pinterest:hover, .btn--pinterest:hover:active {
     background-color: #ad081b;
   }
-  .notice--primary {
-    color: #fff !important;
+  .notice--primary {    
     background-color: $blue;
     font-size: 1em !important;
+    a {
+      color: #fff !important;
+    }
   }
   .notice--primary a:link, .notice--primary a:visited, .notice--primary a:hover, .notice--primary a:active {
     color: #fff;
