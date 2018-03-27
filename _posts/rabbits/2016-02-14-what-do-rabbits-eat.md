@@ -5,7 +5,7 @@ excerpt: "An overview of different food items and whether they are healthy for r
 date: 2016-02-14
 modified: 2018-03-21
 header:
-  teaser: /assets/images/rabbits/what-do-rabbits-eat-teaser.jpg
+  teaser: /assets/images/posts/rabbits/what-do-rabbits-eat-teaser.jpg
 pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
 pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.png
 categories: Rabbits
