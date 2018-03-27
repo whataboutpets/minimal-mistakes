@@ -59,20 +59,29 @@ $border-color: mix(#fff, $text-color, 75%) !default;
 h1.page__title {
   font-size: 2em !important;
 }
-figure img.title-banner {
-  margin-top: -40px;
-}
-.fluid-width-video-wrapper {
-  margin-bottom: 20px;
-}
 .page__content {
   h1 {
     margin-top: 70px;
+  }
+  figure img.title-banner {
+    margin-top: -40px;
   }
   a {
     color: $pink !important;
     font-weight: bold;
     text-decoration: underline;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .fluid-width-video-wrapper {
+    margin-bottom: 20px;
+  }
+  .btn--pinterest {
+    background-color: #cb2027;
+  }
+  .btn--pinterest:hover, .btn--pinterest:hover:active {
+    background-color: #ad081b;
   }
   .notice--primary {
     color: #fff !important;

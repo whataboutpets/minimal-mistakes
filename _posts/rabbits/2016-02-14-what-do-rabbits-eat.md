@@ -9,7 +9,7 @@ header:
 pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
 pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.png
 categories: Rabbits
-tags: [Eat, Feed, Rabbit]
+tags: [Advice, Eat, Feed, Rabbit, Tips]
 redirect_from:
   - /what-do-rabbits-eat.html
   - /2016/02/what-do-rabbits-eat.html
@@ -17,16 +17,16 @@ published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/what-do-rabbits-eat.jpg" alt="what do rabbits eat" class="title-banner">
 </figure>
 
 Looking for some healthy treats for your pet rabbit? Or are you **not sure whether your bunny can eat certain types of food**. In order to help you make an informed decision, we have created a list of food items and whether it is a good idea to feed them to rabbits or not.
 
 # What Does a Rabbit Eat?
 
-<img src="{{ site.url }}/assets/images/posts/rabbits/wild-rabbit-eating.jpg" alt="wild rabbit eating" class="align-right">
-
 Before going over the different food items, there are some basic rabbit feeding aspects we need to cover. In general, the best foods for rabbits are those that provide the nutrients, minerals, and vitamins a bunny needs for healthy growth and development. Most of these foods are actually similar to what [wild rabbits will consume on their own](https://en.wikipedia.org/wiki/Rabbit#Diet_and_eating_habits){:target="_blank"} (grass, forbs, and leafy weeds).
+
+<img src="{{ site.url }}/assets/images/posts/rabbits/wild-rabbit-eating.jpg" alt="wild rabbit eating" class="align-right">
 
 The most important item in a rabbit's diet is **fresh hay** (dried grass) and it should be available in **constant and abundant quantities**. Hay will provide your rabbit with the essential fiber to maintain a healthy gut movement. It also helps wearing down a rabbit's teeth which continuously grow.
 
