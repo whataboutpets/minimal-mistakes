@@ -75,10 +75,7 @@ h1.page__title {
   .notice--primary {
     background-color: $blue;
     color: #fff;
-    font-size: 1em;
-    a {
-      color: #fff;
-    }
+    font-size: 1em !important;
   }
   .notice--primary a:link, .notice--primary a:visited, .notice--primary a:hover, .notice--primary a:active {
     color: #fff;
@@ -87,7 +84,7 @@ h1.page__title {
   .notice--info {
     background-color: $blue;
     color: #fff;
-    font-size: 1em;
+    font-size: 1em !important;
     margin-top: 80px;
   }
   .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
