@@ -17,6 +17,9 @@ published: false
 
 [Cabbage](https://en.wikipedia.org/wiki/Cabbage){:target="_blank"} is a multi-layered vegetable, grown for its dense-leaved head. Within the cabbage family, there are three main cultivar groups: **savoy cabbage, red cabbage, and white cabbage**.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Cabbage Leaves?
 
 In addition to dietary fiber, cabbage leaves are a good source of vitamin K and vitamin C.
@@ -29,7 +32,7 @@ We also came across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft
 
 Based on the above, we advise to **include cabbage in your rabbits diet**. Just make sure **to regulary rotate**. If it's the first time, introduce in small amounts and rinse before offering.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GkrcbnM9MTI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkrcbnM9MTI" frameborder="0"></iframe>
 
 **Conclusion:** this was a tricky one, rabbits can eat cabbage leaves but remember to alternate with other greens.
 {: .notice--info}
