@@ -47,7 +47,7 @@ Last but not least we want to stress the importance of providing your rabbit acc
 We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: What can rabbits eat?**
 
 <div class="align-center">
-<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fa fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
+<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
 </div>
 
 <figure>
@@ -78,8 +78,6 @@ If you are looking for information on a specific food item, use the below links 
 | [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Potatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-potatoes---do-not-feed)         |                                                                                              |
 |                                                                                                                 | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
 |                                                                                                                 | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
-
----
 
 ## Final Thoughts
 
