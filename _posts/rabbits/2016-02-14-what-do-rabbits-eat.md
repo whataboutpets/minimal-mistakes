@@ -36,6 +36,8 @@ As a general rule of thumb, any leafy green that is safe for a human or a horse 
 
 **Rabbit pellets** provide a concentrated source of nutrients, vitamins, and minerals that a rabbit might not get if only fed hay and vegetables. However, only a **small amount** of pellets is needed to assure a healthy rabbit. Make sure to use good quality pellets and avoid muesli-style mixes.
 
+<img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-eating-flower.jpg" alt="rabbit eating flower" class="align-left">
+
 **Fruits** are to be **considered as treats** and should be **offered in very limited quantities**. As a general rule no more than 1 tablespoon per 2 lbs (=1 kg) of body weight per day. While fruit is a source of minerals and vitamins, it also contains a lot of natural sugars. Feeding your bunny too much fruit might lead to intestinal problems in the short term, as well as abnormal weight gain or other health problems in the long term.
 
 Last but not least we want to stress the importance of providing your rabbit access to **fresh drinking water** all day round. If a rabbit is deprived of water, ingested food becomes dry and difficult to push through. This, in turn, can lead to a condition known as [ileus](https://en.wikipedia.org/wiki/Ileus){:target="_blank"}, which can be life-threatening if not recognized and treated.
@@ -44,7 +46,7 @@ Last but not least we want to stress the importance of providing your rabbit acc
 
 *Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a rabbit a certain type of food, our best advice is to **just not do it**. While doing our research, we have tried to come up with a list of lots of alternatives. If you know of other food items that your rabbit really enjoys let us know in the comments section below.
 
-We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: What can rabbits eat?**
+We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic that answers the question: What do rabbits eat?**
 
 <div class="align-center">
 <a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
@@ -81,7 +83,9 @@ If you are looking for information on a specific food item, use the below links 
 
 ## Final Thoughts
 
-This wraps up our list on what rabbits can eat. What are your experiences with feeding bunnies? Any food item we missed that you like to see covered. Thanks for leaving a comment below.
+This wraps up our list on what rabbits can eat. What are your experiences with feeding bunnies? Any food item we missed that you like to see covered.
+
+Thanks for leaving a comment below.
 
 ## A Few Sources
 * [http://www.medirabbit.com/EN/Food/Food_main.htm](http://www.medirabbit.com/EN/Food/Food_main.htm){:target="_blank"}
