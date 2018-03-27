@@ -6,3 +6,95 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* ==========================================================================
+   WhatAboutPets custom CSS
+   ========================================================================== */
+
+/*footer*/
+.page__footer {
+  color: #fff !important;
+}
+.page__footer-follow .social-icons .fa {
+  color: inherit;
+}
+
+/*splash*/
+.feature__item .btn {
+  color: #fff !important;
+  background-color: $blue !important;
+}
+.feature__item .btn:hover {
+  background-color: $dark-blue !important;
+  text-decoration: underline
+}
+
+/*breadcrumbs*/
+.breadcrumbs .current {
+  color: $grey;
+  font-weight: normal;
+}
+
+/*pages*/
+.h2-margin-top {
+  margin-top: 0px;
+}
+.align-center {
+  text-align: center;
+}
+
+/*post*/
+h1.page__title {
+  font-size: 2em !important;
+}
+.page__content {
+  h1 {
+    margin-top: 70px;
+  }
+  figure img.title-banner {
+    margin-top: -40px;
+  }
+  a {
+    color: $pink !important;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .fluid-width-video-wrapper {
+    margin-bottom: 20px;
+  }
+  .btn--pinterest {
+    background-color: #cb2027;
+    color: #fff !important;
+  }
+  .btn--pinterest:hover, .btn--pinterest:hover:active {
+    background-color: #ad081b;
+  }
+  .notice--primary {
+    background-color: $blue;
+    color: #fff !important;
+    font-size: 1em !important;
+    a {
+      color: #fff !important;
+    }
+  }
+  .notice--primary a:link, .notice--primary a:visited, .notice--primary a:hover, .notice--primary a:active {
+    color: #fff;
+    text-decoration: underline
+  }
+  .notice--info {
+    background-color: $blue;
+    color: #fff !important;
+    font-size: 1em !important;
+    margin-top: 80px !important;
+  }
+  .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
+    color: #fff;
+    text-decoration: underline
+  }
+  table {
+    font-size: 1em;
+  }
+}
