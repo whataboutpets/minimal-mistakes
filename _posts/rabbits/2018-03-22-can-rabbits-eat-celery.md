@@ -17,7 +17,7 @@ published: true
 
 [Celery](https://en.wikipedia.org/wiki/Celery){:target="_blank"} is a kind of vegetable that [mainly consists of water](https://en.wikipedia.org/wiki/Celery#Nutrition){:target="_blank"}. It is low in calories and is a good source of fiber, vitamin C, potassium, sodium, and calcium.
 
-We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html). Be sure to check it out!
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
 {: .notice--primary}
 
 # Do Rabbits Eat Celery?
@@ -38,7 +38,7 @@ Most people know celery from grocery stores where most part of the leaves have b
 
 > **Try and find a place that sells the celery as a whole**. Your bunny will love the lush dark green celery leaves!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vGCjVl3RCKw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGCjVl3RCKw" frameborder="0"></iframe>
 
 **Conclusion:** Rabbits can have celery and from what we read, many bunnies seem to like it quite a bit.
 {: .notice--info}
