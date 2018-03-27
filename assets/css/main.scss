@@ -81,11 +81,11 @@ h1.page__title {
     color: #fff;
     text-decoration: underline
   }
-  p.notice--info {
+  .notice--info {
     background-color: $blue;
     color: #fff;
     font-size: 1em !important;
-    margin-top: 80px;
+    margin-top: 80px !important;
   }
   .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
     color: #fff;
