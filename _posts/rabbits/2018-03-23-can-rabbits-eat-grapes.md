@@ -17,6 +17,9 @@ published: true
 
 [Grapes](https://en.wikipedia.org/wiki/Grape){:target="_blank"} are grown all over the world and aside from being used for wine production, they are a popular between-meal snack for us humans. They are actually a kind of berry and come in many colors, including green, red, black, yellow, pink, and purple.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Grapes?
 
 Grapes taste sweet as they are **packed with natural sugar**. And because of this, most bunnies will love to eat them. However, as with other fruit, it is important to consider grapes as **occasional treats** that complete a healthy rabbit diet.
@@ -31,7 +34,7 @@ Feeding too many grapes at a time could cause digestive problems with your rabbi
 
 > Grapes are also easy to hand-feed your bunny and allow you to develop a close bond with your pet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UEsI3rMeg24" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UEsI3rMeg24" frameborder="0"></iframe>
 
 **Conclusion:** sure, rabbits can eat grapes as an occasional treat.
 {: .notice--info}
