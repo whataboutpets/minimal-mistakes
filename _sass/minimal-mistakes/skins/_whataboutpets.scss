@@ -62,18 +62,18 @@ h1.page__title {
 figure img.title-banner {
   margin-top: -40px;
 }
-.page__content h1 {
-  margin-top: 70px;
-}
-.page__content a {
-  color: $pink;
-  font-weight: bold;
-  text-decoration: underline;
-}
 .fluid-width-video-wrapper {
   margin-bottom: 20px;
 }
 .page__content {
+  h1 {
+    margin-top: 70px;
+  }
+  a {
+    color: $pink;
+    font-weight: bold;
+    text-decoration: underline;
+  }
   .notice--primary {
     color: #fff;
     background-color: $blue;
