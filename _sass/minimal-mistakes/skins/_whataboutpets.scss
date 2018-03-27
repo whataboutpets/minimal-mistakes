@@ -70,12 +70,12 @@ figure img.title-banner {
     margin-top: 70px;
   }
   a {
-    color: $pink;
+    color: $pink !important;
     font-weight: bold;
     text-decoration: underline;
   }
   .notice--primary {
-    color: #fff;
+    color: #fff !important;
     background-color: $blue;
     font-size: 1em !important;
   }
@@ -85,7 +85,7 @@ figure img.title-banner {
   }
   .notice--info {
     margin-top: 80px !important;
-    color: #fff;
+    color: #fff !important;
     background-color: $blue;
     font-size: 1em !important;
   }
