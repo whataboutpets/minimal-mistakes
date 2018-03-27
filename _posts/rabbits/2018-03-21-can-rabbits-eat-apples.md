@@ -7,7 +7,7 @@ last_modified_at: 2018-03-21
 header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-apples-teaser.jpg"
 categories: [Rabbits]
-tags: [Apple, Eat, Feed, Leaves, Peel, Seeds, Skin]
+tags: [Apple, Eat, Feed, Peel, Seeds, Skin]
 published: true
 ---
 
