@@ -17,6 +17,9 @@ published: true
 
 An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]{{{ site.url }}/rabbits/what-do-rabbits-eat.html}. Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Apples?
 
 Rabbits tend to have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
@@ -29,7 +32,7 @@ If it is the first time you offer an apple to your rabbit, it is best to **intro
 
 Before feeding the apple, make sure to **rinse it with clear running water** in order to remove contaminations. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces.
 
-As mentioned keep the portions small. For instance, a couple of slices per rabbit per day.
+As mentioned keep the portions small. For instance, a **couple of slices per rabbit per day**.
 
 # Can Rabbits Eat Apple Skin?
 
