@@ -78,14 +78,15 @@ h1.page__title {
     margin-bottom: 20px;
   }
   .btn--pinterest {
-    color: #fff !important;
     background-color: #cb2027;
+    color: #fff !important;
   }
   .btn--pinterest:hover, .btn--pinterest:hover:active {
     background-color: #ad081b;
   }
-  .notice--primary {    
+  .notice--primary {
     background-color: $blue;
+    color: #fff !important;
     font-size: 1em !important;
     a {
       color: #fff !important;
@@ -96,13 +97,16 @@ h1.page__title {
     text-decoration: underline
   }
   .notice--info {
-    margin-top: 80px !important;
-    color: #fff !important;
     background-color: $blue;
+    color: #fff !important;
     font-size: 1em !important;
+    margin-top: 80px !important;
   }
   .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
     color: #fff;
     text-decoration: underline
   }
+}
+nav.pagination a.pagination--pager {
+  color: $blue;
 }
