@@ -74,10 +74,10 @@ figure img.title-banner {
   margin-bottom: 20px;
 }
 .page__content {
-  p .notice--primary {
+  .notice--primary {
     color: #fff;
     background-color: $blue;
-    font-size: 1em;
+    font-size: 1em !important;
   }
   .notice--primary a:link, .notice--primary a:visited, .notice--primary a:hover, .notice--primary a:active {
     color: #fff;
@@ -87,7 +87,7 @@ figure img.title-banner {
     margin-top: 80px !important;
     color: #fff;
     background-color: $blue;
-    font-size: 1em;
+    font-size: 1em !important;
   }
   .notice--info a:link, .notice--info a:visited, .notice--info a:hover, .notice--info a:active {
     color: #fff;
