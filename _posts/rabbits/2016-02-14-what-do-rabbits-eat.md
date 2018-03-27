@@ -79,7 +79,7 @@ If you are looking for information on a specific food item, use the below links 
 | [Strawberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-strawberries---in-small-amounts) | [Kale]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-kale---sure)                        |                                                                                              |
 | [Watermelon]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-watermelon---in-small-amounts)     | [Potatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-potatoes---do-not-feed)         |                                                                                              |
 |                                                                                                                 | [Spinach]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-spinach---sure)                  |                                                                                              |
-|                                                                                                                 | [Tomatoes]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-tomatoes---in-small-amounts)    |                                                                                              |
+|                                                                                                                 | [Tomatoes]({{ site.url }}/rabbits/can-rabbits-eat-tomatoes.html)                                           |                                                                                              |
 
 ## Final Thoughts
 
