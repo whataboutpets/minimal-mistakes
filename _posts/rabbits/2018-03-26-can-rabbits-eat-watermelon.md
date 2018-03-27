@@ -17,12 +17,12 @@ published: true
 
 [Watermelons](https://en.wikipedia.org/wiki/Watermelon){:target="_blank"} originally come from Africa and are actually a special kind of berry called [pepo](https://en.wikipedia.org/wiki/Berry_%28botany%29#Modified_berries){:target="_blank"}. They are known for their smooth rind, which is the tough outer skin, usually green with dark green stripes.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Watermelon?
 
 A watermelon is more than 91 percent water. In addition, it also contains a fair amount of sugar. Because of this, watermelon **should be seen as a treat** for your long-eared friend.
-
-We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
-{: .notice--primary}
 
 <img src="{{ site.url }}/assets/images/posts/food/watermelon.jpg" alt="watermelon" class="align-right">
 
