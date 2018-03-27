@@ -21,6 +21,9 @@ published: true
 
 A watermelon is more than 91 percent water. In addition, it also contains a fair amount of sugar. Because of this, watermelon **should be seen as a treat** for your long-eared friend.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 <img src="{{ site.url }}/assets/images/posts/food/watermelon.jpg" alt="watermelon" class="align-right">
 
 Limit portions to about **one inch (= 2.5cm) cubes per rabbit per day**. As watermelon juice is quite sticky, offer pieces they can easily eat in order to avoid their fur getting dirty. When offering for the first time be sure to start with a small amount to see your bunny's reaction.
@@ -31,7 +34,7 @@ Aside from the interior flesh, the **watermelon rind is also safe** for bunnies 
 
 Just to be on the safe side we advise that you **remove the seeds** before feeding.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Njj5jnvn7IA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Njj5jnvn7IA" frameborder="0"></iframe>
 
 **Conclusion:** rabbits can have watermelon but don't let them have too much.
 {: .notice--info}
