@@ -22,13 +22,11 @@ We've created an easy to use overview to help you learn more about [what to feed
 
 # Do Rabbits Eat Cabbage Leaves?
 
-In addition to dietary fiber, cabbage leaves are a good source of vitamin K and vitamin C.
-
-Although they qualify as leafy greens, **cabbages should not be continuously fed to your rabbit**. The reason for this is that [studies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2062672/){:target="_blank"} have shown that feeding rabbits daily rations of cabbage can cause enlargement of the thyroid. This is a large ductless gland in the neck which secretes hormones that regulate growth and development.
+Although they qualify as leafy greens, cabbages should **not be continuously fed to your rabbit**. The reason for this is that [studies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2062672/){:target="_blank"} have shown that feeding rabbits daily rations of cabbage can cause enlargement of the thyroid. This is a large ductless gland in the neck which secretes hormones that regulate growth and development.
 
 <img src="{{ site.url }}/assets/images/posts/food/cabbage.jpg" alt="cabbage" class="align-right">
 
-However, **with normal feeding in which leafy greens are regularly rotated, there is no cause for concern** in feeding this nutritious food.
+However, with **normal feeding in which leafy greens are regularly rotated, there is no cause for concern** in feeding this nutritious food.
 
 We also came across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/124444/Default.aspx){:target="_blank"} that mention cabbage might cause gas with rabbits. This assumption is probably based on the fact that [people often get gas from cruciferous vegetables](https://en.wikipedia.org/wiki/Flatulence#Cause){:target="_blank"} like cabbage. We were not able to find scientific evidence to support this statement in the case of rabbits.
 
