@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-cabbage-teaser.jpg"
 categories: [Rabbits]
 tags: [Cabbage, Eat, Feed, Leaves]
-published: false
+published: true
 ---
 
 <figure>

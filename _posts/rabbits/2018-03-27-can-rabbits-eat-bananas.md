@@ -32,7 +32,9 @@ Offer your bunny **no more than 2 to 3 slices of banana per rabbit per day**. It
 
 # Can Rabbits Eat the Banana Peel?
 
-Contrary to what you might think, the peel of a banana is actually edible for both us humans and your rabbit. Our advice is to **only feed the peel of organic bananas** which are not treated with pesticides. This opposite to [industrial banana farming which is typically pesticide-intensive](http://www.ewg.org/enviroblog/2014/04/bananas){:target="_blank"} as bananas are grown in massive monocultures, without crop rotation.
+Contrary to what you might think, the peel of a banana is actually edible for both us humans and your rabbit.
+
+Our advice is to **only feed the peel of organic bananas** which are not treated with pesticides. This opposite to [industrial banana farming which is typically pesticide-intensive](http://www.ewg.org/enviroblog/2014/04/bananas){:target="_blank"} as bananas are grown in massive monocultures, without crop rotation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmNrEjkQ1Gs" frameborder="0"></iframe>
 
