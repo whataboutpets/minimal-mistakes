@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Cucumbers?"
 permalink: /:categories/can-rabbits-eat-cucumbers.html
-excerpt: "Wondering whether your pet rabbit can eat cucumbers? What about the peel? Find out if oranges are healthy for your bunny and learn some tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat cucumbers? What about the peel? Find out if cucumbers are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-04-01
 last_modified_at: 2018-04-01
 header:
