@@ -17,6 +17,9 @@ published: true
 
 [Cucumber](https://en.wikipedia.org/wiki/Cucumber){:target="_blank"} is a widely cultivated plant in the gourd family. It is a creeping vine that bears fruits that are used as vegetables.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Cucumbers?
 
 Raw cucumber (with peel) is **low on nutritional value** since it consists out of 95% water. The only notable nutrient it supplies in some quantity is vitamin K. 

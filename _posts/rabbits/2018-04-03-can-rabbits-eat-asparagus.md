@@ -17,6 +17,9 @@ published: false
 
 [Kale](https://www.bbcgoodfood.com/glossary/kale){:target="_blank"} is a member of the cabbage family. It's center leaves do not form a head as is the case with headed cabbages. Kale plants can have green or purple leaves and come in two varieties: **kale** (which has smooth leaves), and **curly kale** (which has crinkly leaves).
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Kale?
 
 From a nutrition point of view, kale is composed out of 84% water. It is a **rich source of vitamin A** and also contains a good amount of **calcium**.

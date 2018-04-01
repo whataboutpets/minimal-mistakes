@@ -17,6 +17,9 @@ published: true
 
 [Oranges](https://simple.wikipedia.org/wiki/Orange_(fruit)){:target="_blank"} are a type of citrus fruit. The "sweet orange", which is the kind that is most often eaten today, grew first in Asia but now grows in many other parts of the world. Did you know that the color orange actually takes its name from the fruit?
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Oranges?
 
 Orange pulp is an excellent source of vitamin C. However, unlike us humans who have to get vitamin C through our diet, **rabbits produce their own vitamin C**. On top of that oranges are also [high on sugars](https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals){:target="_blank"} and as such you should present them to your rabbit **only as a treat**.

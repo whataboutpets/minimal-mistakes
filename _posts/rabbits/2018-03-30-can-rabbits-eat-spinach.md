@@ -17,6 +17,9 @@ published: true
 
 [Spinach](https://en.wikipedia.org/wiki/Spinach){:target="_blank"} is a flowering plant native to central and western Asia. Its leaves can be eaten as a vegetable and are a rich source of vitamins, iron, calcium and dietary fiber.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Spinach?
 
 In contrary to most vegetables, spinach has **relatively high levels of oxalic acid**. When fed in large quantities, the salts of oxalic acid can accumulate in the system and cause toxicity over time.

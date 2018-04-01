@@ -19,6 +19,9 @@ published: true
 
 When sold, broccoli is often wrapped in cellophane as it deteriorates faster if it is in contact with the air.
 
+We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
+{: .notice--primary}
+
 # Do Rabbits Eat Broccoli?
 
 Broccoli is an excellent source of vitamin C and K and it also contains moderate amounts of several B vitamins. Because the **flower and stalk parts are higher in starch and sugars** we recommend only offering them in **lesser amounts** to your rabbit.
