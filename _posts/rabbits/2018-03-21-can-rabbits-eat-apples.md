@@ -34,9 +34,9 @@ Before feeding the apple, make sure to **rinse it with clear running water** in 
 
 As mentioned keep the portions small. For instance, a **couple of slices per rabbit per day**.
 
-# Can Rabbits Eat Apple Skin?
+# Can Rabbits Eat Apple Peels?
 
-If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The apple peel actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains.
+If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The peel actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains.
 
 > Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
 
