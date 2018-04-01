@@ -1,13 +1,13 @@
 ---
 title: "Can Rabbits Eat Asparagus?"
 permalink: /:categories/can-rabbits-eat-asparagus.html
-excerpt: "Wondering whether your pet rabbit can eat asparagus? What about the peel? Find out if asparagus is healthy for your bunny and learn some tips on how to feed it."
+excerpt: "Wondering whether your pet rabbit can eat asparagus? Find out if asparagus is healthy for your bunny and learn some tips on how to feed it."
 date: 2018-04-03
 last_modified_at: 2018-04-03
 header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-asparagus-teaser.jpg"
 categories: [Rabbits]
-tags: [Eat, Feed, Kale]
+tags: [Asparagus, Eat, Feed, Stalks, Stems, Tips]
 published: false
 ---
 
@@ -15,28 +15,28 @@ published: false
   <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-asparagus.jpg" alt="can rabbits eat asparagus" class="title-banner">
 </figure>
 
-[Kale](https://www.bbcgoodfood.com/glossary/kale){:target="_blank"} is a member of the cabbage family. It's center leaves do not form a head as is the case with headed cabbages. Kale plants can have green or purple leaves and come in two varieties: **kale** (which has smooth leaves), and **curly kale** (which has crinkly leaves).
+[Asparagus](https://en.wikipedia.org/wiki/Asparagus){:target="_blank"} is a spring vegetable. It is considered a delicacy in the vegetable world and has a distinct, intense savory flavor.
 
 We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
 {: .notice--primary}
 
-# Do Rabbits Eat Kale?
+# Do Rabbits Eat Asparagus?
 
-From a nutrition point of view, kale is composed out of 84% water. It is a **rich source of vitamin A** and also contains a good amount of **calcium**.
+As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories and a good source of dietary fiber.
 
-<img src="{{ site.url }}/assets/images/posts/food/kale.jpg" alt="kale" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/food/asparagus.jpg" alt="asparagus" class="align-right">
 
-There are a number of sources which advice not to feed kale to rabbits because of it's high level of oxalates. [Oxalate](https://en.wikipedia.org/wiki/Oxalate#Occurrence_in_nature){:target="_blank"} occurs in many plants, where it is a waste product of the incomplete oxidation of carbohydrates. If a rabbit consumes large amounts of oxalates then this **could contribute to bladder sludge or other health issues**.
+You can offer your rabbit asparagus but **start with a small amount** if it's the first time feeding. Keep an eye on the stools and if everything looks normal you can add asparagus into the rotation of fresh vegetables that are part of your rabbit's diet.
 
-It looks however that above information is contradicted by one of the most reliable sources on rabbit feeding that actually [mentions](http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/){:target="_blank"} kale as a **leafy green low on oxalates**. In addition, there is a database of [foods analyzed for oxalate content](https://regepi.bwh.harvard.edu/health/Oxalate/files){:target="_blank"} maintained by the Harvard School of Public Health which classifies kale as very low on oxalates.
+There is a chance your bunny might not even like asparagus as it is listed as one of the [plants not usually eaten by rabbits](http://www.imustgarden.com/rabbit-resistant-plants){:target="_blank"}. We found some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/108606/Default.aspx){:target="_blank"} that seem to confirm this statement. As every rabbit is different, just present it with a little bit of asparagus to find out.
 
-Based on the above we see no reason to exclude kale from a rabbit's diet. So if you are looking for a new leafy green or if you have already been feeding kale then there is no reason to be worried. Just make sure to **rotate with other greens on a regular basis** and pay attention to how your bun behaves.
+Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix them in with the leafy greens. Keep portions small, give a couple of pieces per rabbit per day.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l3FZ3aLoDWg" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxncLO1gmek" frameborder="0"></iframe>
 
-**Conclusion:** there is a bit of contradicting information on whether rabbits can eat kale. Based on what we have found there currently seems to be no harm in feeding kale.
+**Conclusion:** rabbits can eat asparagus, they just might not like it that much.
 {: .notice--info}
 
-Do you offer your bunny kale? Let's us know your thoughts.
+Does your bunny like asparagus? Let us know in the comment section below.
 
 ---
