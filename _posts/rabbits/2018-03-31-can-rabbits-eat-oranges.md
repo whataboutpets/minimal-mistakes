@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Oranges?"
 permalink: /:categories/can-rabbits-eat-oranges.html
-excerpt: "Wondering whether your pet rabbit can eat oranges? What about the leaves? Find out if spinach is healthy for your bunny and learn some tips on how to feed it."
+excerpt: "Wondering whether your pet rabbit can eat oranges? What about the peel? Find out if oranges are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-03-30
 last_modified_at: 2018-03-30
 header:
