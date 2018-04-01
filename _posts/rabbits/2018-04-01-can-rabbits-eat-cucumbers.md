@@ -7,7 +7,7 @@ last_modified_at: 2018-04-01
 header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-cucumbers-teaser.jpg"
 categories: [Rabbits]
-tags: [Cucumbers, Eat, Feed, Peel, Skin]
+tags: [Cucumbers, Eat, Feed, Leaves, Peel, Seeds, Skin]
 published: true
 ---
 
