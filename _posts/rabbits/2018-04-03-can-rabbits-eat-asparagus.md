@@ -1,18 +1,18 @@
 ---
-title: "Can Rabbits Eat Kale?"
-permalink: /:categories/can-rabbits-eat-kale.html
-excerpt: "Wondering whether your pet rabbit can eat kale? Find out if kale is healthy for your bunny and learn some tips on how to feed it."
-date: 2018-04-02
-last_modified_at: 2018-04-02
+title: "Can Rabbits Eat Asparagus?"
+permalink: /:categories/can-rabbits-eat-asparagus.html
+excerpt: "Wondering whether your pet rabbit can eat asparagus? What about the peel? Find out if asparagus is healthy for your bunny and learn some tips on how to feed it."
+date: 2018-04-03
+last_modified_at: 2018-04-03
 header:
-  teaser: "assets/images/posts/rabbits/can-rabbits-eat-kale-teaser.jpg"
+  teaser: "assets/images/posts/rabbits/can-rabbits-eat-asparagus-teaser.jpg"
 categories: [Rabbits]
-tags: [Eat, Feed, Kale, Leaves, Stems]
+tags: [Eat, Feed, Kale]
 published: false
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-kale.jpg" alt="can rabbits eat kale" class="title-banner">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-asparagus.jpg" alt="can rabbits eat asparagus" class="title-banner">
 </figure>
 
 [Kale](https://www.bbcgoodfood.com/glossary/kale){:target="_blank"} is a member of the cabbage family. It's center leaves do not form a head as is the case with headed cabbages. Kale plants can have green or purple leaves and come in two varieties: **kale** (which has smooth leaves), and **curly kale** (which has crinkly leaves).
