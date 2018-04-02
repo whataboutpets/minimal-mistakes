@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-kale-teaser.jpg"
 categories: [Rabbits]
 tags: [Eat, Feed, Kale, Leaves, Stems]
-published: false
+published: true
 ---
 
 <figure>
