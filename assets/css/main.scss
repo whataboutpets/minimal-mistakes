@@ -65,6 +65,10 @@ h1.page__title {
   .fluid-width-video-wrapper {
     margin-bottom: 20px;
   }
+  .btn--buy {
+    background-color: #e91e63;
+    vertical-align: middle;
+  }
   .btn--pinterest {
     background-color: #cb2027;
     color: #fff;
@@ -73,7 +77,7 @@ h1.page__title {
     background-color: #ad081b;
   }
   .notice--primary {
-    background-color: $blue;
+    background-color: $green;
     color: #fff;
     font-size: 1em !important;
   }

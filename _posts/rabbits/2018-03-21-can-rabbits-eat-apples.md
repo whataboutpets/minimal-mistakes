@@ -53,6 +53,6 @@ This toxic substance is only present in very small quantities and as such, there
 **Conclusion:** Yes, rabbits can eat apples and their skin, but not the seeds!
 {: .notice--info}
 
-Does your bunny like eating apples? Let us know by leaving a comment below.
+_Does your bunny like eating apples? Let us know by leaving a comment below._
 
 ---
