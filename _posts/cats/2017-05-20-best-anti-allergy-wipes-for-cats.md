@@ -69,7 +69,9 @@ The wipes are not overly wet (more on the dry side) and their size can be consid
 
 This product is made in the USA, as indicated on the package label. It is alcohol-free, safe for all cats and kittens over 6 weeks old. It also does not remove spot-on flea control treatments.
 
-One potential downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result, some wipes may dry out before you finish the container. A small tip here is to keep the entire box in a zip lock bag.
+One potential downside of the product is the packaging. The top latch/button of the box is reported to not always stay closed. As a result, some wipes may dry out before you finish the container.
+
+> A small tip here is to keep the entire box in a zip lock bag.
 
 <div class="align-center">
   <a href="http://amzn.to/2rGSoEL" class="btn btn--x-large btn--buy" target="_blank">Buy on Amazon</a>
@@ -85,7 +87,9 @@ The product has a very mild scent and deodorizes your cat's coat.
 
 The pre-moistened wipes will not leave your kitty sticky or soaking wet and are perfect for wiping down your pet in order to neutralize potential allergens. In addition, the alcohol-free formula will not dry out your cat's skin and coat.
 
-The product is packaged as a roll and comes in a cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases, it is not that easy to get ahold of a center wipe. A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
+The product is packaged as a roll and comes in a cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases, it is not that easy to get ahold of a center wipe.
+
+> A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
 <div class="align-center">
   <a href="http://amzn.to/2r6C3x4" class="btn btn--x-large btn--buy" target="_blank">Buy on Amazon</a>
@@ -95,7 +99,7 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 
 The above cat allergy relief wipes are all excellent products with **high user review scores** on Amazon.
 
-We chose [Burts Bees Dander Reducing Cat Wipes](http://amzn.to/2pZwJeG){:target="_blank"} as the best hypoallergenic cat wipes. Made with natural ingredients and pH balanced especially for cats they are a safe and quick solution for daily removal of potential litter allergens on your kitty's coat.
+We chose <a target="_blank" href="https://www.amazon.com/gp/product/B01CCV8GUA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CCV8GUA&linkCode=as2&tag=whataboutpe0a-20&linkId=90234de7ea7797694bbe9e462d42f874">Burt’s Bees Dander Reducing Grooming Wipes for Cats</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B01CCV8GUA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> as the best hypoallergenic cat wipes. Made with natural ingredients and pH balanced especially for cats they are a safe and quick solution for daily removal of potential litter allergens on your kitty's coat.
 
 As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive, **we recommend you give them a try** and hopefully, they will work out for you and your feline friend.
 {: .notice--info}
