@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-asparagus-teaser.jpg"
 categories: [Rabbits]
 tags: [Asparagus, Eat, Feed, Stalks, Stems, Tips]
-published: false
+published: true
 ---
 
 <figure>
