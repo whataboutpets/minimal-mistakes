@@ -8,13 +8,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="200"
-   viewBox="0 0 300 200"
-   width="300"
+   viewBox="0 0 400 200"
+   width="400"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="switch-cat-litter.svg"
-   inkscape:export-filename="C:\blogs\whataboutpets\images\switch-cat-litter.png"
+   inkscape:export-filename="C:\blogs\whataboutpets\code\whataboutpets\assets\images\posts\cats\switch-cat-litter.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="fill:#000000">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,44 +35,47 @@
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Mend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path4239"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#4e5156;stroke-opacity:1;fill:#4e5156;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
+         style="fill:#4e5156;fill-opacity:1;fill-rule:evenodd;stroke:#4e5156;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Mend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path4221"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.4) rotate(180) translate(10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Lend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path4233"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) rotate(180) translate(1,0)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -90,8 +93,8 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.4583334"
-     inkscape:cx="45.530118"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="278.82821"
      inkscape:cy="57.897503"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
@@ -102,7 +105,7 @@
        orientation="0,1"
        id="guide4148" />
     <sodipodi:guide
-       position="300.20338,126.10169"
+       position="200,230"
        orientation="1,0"
        id="guide4154" />
     <sodipodi:guide
@@ -112,67 +115,83 @@
     <inkscape:grid
        type="xygrid"
        id="grid4204" />
+    <sodipodi:guide
+       position="145,100"
+       orientation="0,1"
+       id="guide4191" />
+    <sodipodi:guide
+       position="100,195"
+       orientation="1,0"
+       id="guide4414" />
+    <sodipodi:guide
+       position="400,240"
+       orientation="1,0"
+       id="guide4416" />
+    <sodipodi:guide
+       position="300,215"
+       orientation="1,0"
+       id="guide4436" />
   </sodipodi:namedview>
   <path
-     style="fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 25.429964,152.62547 C 15.649229,97.243952 21.807054,76.838712 25.176006,50.313447 17.188074,36.513081 27.902019,35.180632 40.276524,34.955224 c 24.429358,-7.485801 50.240073,-3.055649 60.988416,0.101472 13.27839,0.121486 21.55291,4.250085 13.54711,15.102537 5.49588,3.036304 7.92051,92.491287 -0.67546,102.137717 7.79825,13.76391 -1.01227,14.28999 -5.46141,15.41106 -13.154108,1.88806 -26.86594,5.10338 -40.438282,4.82765 C 57.671205,172.321 45.187759,169.46137 36.93543,167.50201 21.5281,170.0328 19.175946,160.7688 25.429964,152.62547 Z"
-     id="rect3366"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccacc" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="69.817467"
-     y="77.559334"
-     id="text4169"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4171"
-       x="69.817467"
-       y="77.559334"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat</tspan><tspan
-       sodipodi:role="line"
-       x="69.817467"
-       y="105.68433"
-       id="tspan4173"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
-       sodipodi:role="line"
-       x="69.817467"
-       y="133.80933"
-       id="tspan4175"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type A</tspan></text>
-  <path
-     style="fill:#009688;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 188.95955,153.7053 c -9.78073,-55.381524 -3.62291,-75.786764 -0.25396,-102.312024 -7.98792,-13.80037 2.72602,-15.13282 15.10052,-15.35823 24.42936,-7.4858 50.24007,-3.05565 60.98842,0.10148 13.27839,0.12148 21.55291,4.25008 13.54711,15.10253 5.49588,3.03631 7.92051,92.491294 -0.67546,102.137724 7.79825,13.76391 -1.01227,14.28999 -5.46141,15.41106 -13.15411,1.88806 -26.86594,5.10338 -40.43829,4.82765 -10.56569,-0.21466 -23.04913,-3.07429 -31.30146,-5.03365 -15.40733,2.53079 -17.75949,-6.73321 -11.50547,-14.87654 z"
+     style="fill:#00bd6c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 250.92047,161.14347 C 238.9956,93.62113 246.50334,68.742624 250.61084,36.402459 c -9.73904,-16.825706 3.32362,-18.450258 18.41088,-18.725083 29.7848,-9.126848 61.25377,-3.725514 74.35838,0.123727 16.1893,0.148111 26.27777,5.181788 16.51693,18.413328 6.7007,3.701934 9.65686,112.767369 -0.82353,124.528499 9.50779,16.78126 -1.23419,17.42266 -6.65867,18.7895 -16.03777,2.30196 -32.75553,6.22215 -49.30323,5.88597 -12.88192,-0.26172 -28.10199,-3.74824 -38.16341,-6.13713 -18.78495,3.08559 -21.65275,-8.20928 -14.02772,-18.1378 z"
      id="rect3366-1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccacc" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="233.34708"
-     y="78.232376"
+     x="304.50433"
+     y="64.151642"
      id="text4169-5"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4171-7"
-       x="233.34708"
-       y="78.232376"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat</tspan><tspan
+       x="310.12933"
+       y="64.151642"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat </tspan><tspan
        sodipodi:role="line"
-       x="233.34708"
-       y="106.35738"
+       x="304.50433"
+       y="101.65164"
        id="tspan4173-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
        sodipodi:role="line"
-       x="233.34708"
-       y="134.48238"
+       x="304.50433"
+       y="139.15164"
        id="tspan4175-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type B</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type B</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#4e5156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-     d="m 132.0339,105 c 17.29809,-12.687223 27.77295,-3.54011 40,0"
+     d="m 179.90605,98.67199 c 17.29809,-12.687219 27.77295,-3.540106 40,0"
      id="path4206"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
+  <path
+     style="fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 40.58491,161.97611 C 28.66004,94.453779 36.16778,69.575269 40.27528,37.235099 c -9.73904,-16.8257 3.32362,-18.45025 18.41088,-18.72508 29.7848,-9.126847 61.25377,-3.72551 74.35838,0.12373 16.1893,0.14811 26.27777,5.18179 16.51693,18.41333 6.7007,3.70193 9.65686,112.767361 -0.82353,124.528491 9.50779,16.78126 -1.23419,17.42266 -6.65867,18.7895 -16.03777,2.30196 -32.75553,6.22215 -49.30323,5.88597 -12.88192,-0.26172 -28.10199,-3.74824 -38.16341,-6.13713 -18.78495,3.08559 -21.65275,-8.20928 -14.02772,-18.1378 z"
+     id="rect3366-1-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccacc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="94.168777"
+     y="64.984283"
+     id="text4169-5-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4171-7-3"
+       x="99.793777"
+       y="64.984283"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat </tspan><tspan
+       sodipodi:role="line"
+       x="94.168777"
+       y="102.48428"
+       id="tspan4173-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
+       sodipodi:role="line"
+       x="94.168777"
+       y="139.98428"
+       id="tspan4175-2-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type B</tspan></text>
 </svg>
