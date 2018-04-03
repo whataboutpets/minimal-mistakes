@@ -41,7 +41,7 @@ In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer
 
 Burts Bees Dander Reducing Cat Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} to moisturize dry skin and reduce flaking.
 
-<img src="{{ site.url }}/assets/images/posts/cats/burts-bees-dander-reducing-cat-wipes.jpg" alt="burts bees dander-reducing-cat-wipes" class="align-left">
+<img src="{{ site.url }}/assets/images/posts/cats/burts-bees-dander-reducing-cat-wipes.jpg" alt="burts bees dander-reducing-cat-wipes" class="align-right">
 
 The wipes are **made with natural ingredients**. They contain no sulfates, colorants or artificial fragrances and are safe for your furry little friend.
 
@@ -61,7 +61,7 @@ We highly recommended this natural made in the USA product for your peace of min
 
 Earthbath All Natural Cat Wipes help to easily wipe away litter dust, dander, dirt and other potential allergens in your furred friend's coat.
 
-<img src="{{ site.url }}/assets/images/posts/cats/earthbath-all-natural-cat-wipes.jpg" alt="earthbath all natural cat wipes" class="align-left">
+<img src="{{ site.url }}/assets/images/posts/cats/earthbath-all-natural-cat-wipes.jpg" alt="earthbath all natural cat wipes" class="align-right">
 
 The wipes do not contain added fragrances, as a result, they are **basically odorless**. In addition, they do not contain parabens, phosphates or phthalates. They are safe for daily use and any residue left behind is completely safe and will not harm your cat.
 
@@ -79,7 +79,7 @@ One potential downside of the product is the packaging. The top latch/button of 
 
 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes claims to neutralize allergens by breaking down the structure of inanimate allergen proteins. This is done by what the manufacturer calls an **allergen blocker complex** which is a proprietary formula that uses aluminum salts to deactivate pet dander.
 
-<img src="{{ site.url }}/assets/images/posts/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg" alt="natures-miracle-just-for-cats-allergen-blocker-cat-wipes" class="align-left">
+<img src="{{ site.url }}/assets/images/posts/cats/natures-miracle-just-for-cats-allergen-blocker-cat-wipes.jpg" alt="natures-miracle-just-for-cats-allergen-blocker-cat-wipes" class="align-right">
 
 The product has a very mild scent and deodorizes your cat's coat.
 
