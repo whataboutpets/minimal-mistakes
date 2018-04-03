@@ -3,7 +3,7 @@ title: "The Best Anti Allergy Wipes for Cats - Reviews and Top Picks"
 permalink: /:categories/best-anti-allergy-wipes-for-cats.html
 excerpt: "A selection of the best hypoallergenic wipes for cats."
 date: 2017-05-20
-last_modified_at: 2018-03-04
+last_modified_at: 2018-04-03
 header:
   teaser: assets/images/posts/cats/best-anti-allergy-wipes-for-cats-teaser.jpg
 categories: Cats
@@ -33,11 +33,11 @@ In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer
 
 | Ranking  | Brand                                                              | Number of Wipes | Editor's Rating                                           |
 |:--------:| ------------------------------------------------------------------ |:---------------:| --------------------------------------------------------- |
-| #1       | [Burt’s Bees Dander Reducing Grooming Wipes for Cats](http://amzn.to/2pZwJeG){:target="_blank"}                      | 50              | ![five stars](/assets/images/posts/icons/rating/five-stars.png) |
+| #1       | [Burt's Bees Dander Reducing Grooming Wipes for Cats](http://amzn.to/2pZwJeG){:target="_blank"}                      | 50              | ![five stars](/assets/images/posts/icons/rating/five-stars.png) |
 | #2       | [Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}                           | 100             | ![four stars](/assets/images/posts/icons/rating/four-stars.png) |
 | #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"} | 25              | ![four stars](/assets/images/posts/icons/rating/four-stars.png) |
 
-# #1 Burt’s Bees Dander Reducing Grooming Wipes for Cats
+# #1 Burt's Bees Dander Reducing Grooming Wipes for Cats
 
 Burts Bees Dander Reducing Cat Wipes are gentle cleansing wipes made with [Aloe Vera](https://en.wikipedia.org/wiki/Aloe_vera){:target="_blank"} to moisturize dry skin and reduce flaking.
 
@@ -52,7 +52,7 @@ The wipes are **pH balanced for cats** as their skin is much less acidic than hu
 We highly recommended this natural made in the USA product for your peace of mind and a happy allergen free cat.
 
 <div class="align-center">
-
+ <a target="_blank" href="https://www.amazon.com/gp/product/B01CCV8GUA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CCV8GUA&linkCode=as2&tag=whataboutpe0a-20&linkId=3379704ca9338a5e82ca22d6f3cb76a4">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B01CCV8GUA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 # [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}
