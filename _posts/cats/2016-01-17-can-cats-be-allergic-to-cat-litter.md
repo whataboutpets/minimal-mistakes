@@ -87,8 +87,8 @@ As for your kitty, give her/him a bath or alternatively wipe the fur with hypoal
 It is important to note that your cat may be allergic to a number of **different allergens that don't all originate from the same source**. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
 {: .notice--info}
 
-_What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy?
+_What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy?_
 
-Thanks for letting us know!_
+_Thanks for letting us know!_
 
 ---
