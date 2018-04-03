@@ -19,7 +19,9 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/cats/can-cat-litter-cause-allergy-symptoms-in-humans.jpg" alt="can cat litter cause allergy symptoms in humans" class="title-banner">
 </figure>
 
-Think you're allergic to your cat? You might be allergic to the cat litter instead. Kitty litter comes in a variety of materials and may even contain additional additives or chemicals. As human allergies are triggered by substances in our surrounding environment, **the cat litter you are using** could be the **cause of the allergic reaction** you are experiencing.
+Think you're allergic to your cat? You might be allergic to the cat litter instead. Kitty litter comes in a variety of materials and may even contain additional additives or chemicals.
+
+As human allergies are triggered by substances in our surrounding environment, **the cat litter you are using** could be the **cause of the allergic reaction** you are experiencing.
 
 # What Are Human Allergies?
 
@@ -33,7 +35,7 @@ Allergies can develop with **any person at any age**. So even if you have been u
 
 In addition, there is believed to be a strong **genetic correlation** in contracting allergies. In other words, if your parents have cat litter allergies, then you are likely to have them also.
 
-What is also interesting to know is that, like people, [cats can also develop allergies to cat litter]({{ site.url }}/can-cats-be-allergic-to-cat-litter.html). The causes, symptoms, and treatment are actually very similar to each other.
+What is also interesting to know is that, like people, [cats can also develop allergies to cat litter]({{ site.url }}/cats/can-cats-be-allergic-to-cat-litter.html). The causes, symptoms, and treatment are actually very similar to each other.
 
 # What Causes an Allergic Reaction to Cat Litter?
 
@@ -69,7 +71,7 @@ In general, these are cat litters that are low on or even have no dust at all. E
 
 **When switching cat litter make sure to do it gradually** by mixing the old litter with the new litter. This will help acclimate your cat to the new feel and smell. Also, bathe your cat or wipe the fur with hypoallergenic wipes so it is free of old litter dust.
 
-If for some reason it is not possible to switch the cat litter you are using, the basic rule is simple: _avoid contact with the litter material_.
+> If for some reason it is not possible to switch the cat litter you are using, the basic rule is simple: avoid contact with the litter material.
 
 Below you can find some general tips on how to achieve this.
 
