@@ -1,26 +1,23 @@
 ---
 title: "Can Ducks Eat Bread?"
 permalink: /:categories/can-ducks-eat-bread.html
-excerpt: "Wondering whether your pet rabbit can eat apples? What about the peel or seeds? Find out if apples are healthy for your bunny and learn some tips on how to feed them."
+excerpt: "Wondering whether ducks can eat bread? Find out if bread crumbs are healthy for ducks."
 date: 2018-04-07
 last_modified_at: 2018-04-07
 header:
-  teaser: "assets/images/posts/rabbits/can-rabbits-eat-apples-teaser.jpg"
+  teaser: "assets/images/posts/ducks/can-ducks-eat-bread-teaser.jpg"
 categories: [Rabbits]
-tags: [Apple, Eat, Feed, Peel, Seeds, Skin]
+tags: [Bread, Crumbs, Eat, Feed]
 published: false
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-apples.jpg" alt="can rabbits eat apples" class="title-banner">
+  <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-bread.jpg" alt="can ducks eat bread" class="title-banner">
 </figure>
 
-An [apple](https://en.wikipedia.org/wiki/Apple){:target="_blank"} is the sweet fruit produced by an apple tree. It originates from Central Asia and has been grown for thousands of years in Asia and Europe. The skin of an apple is generally red, yellow or green.
+[Bread](https://en.wikipedia.org/wiki/Bread){:target="_blank"} is prepared from a dough of flour and water, usually by baking. It has been popular around the world and is one of the oldest artificial foods.
 
-We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
-{: .notice--primary}
-
-# Do Rabbits Eat Apples?
+# Do Ducks Eat Bread?
 
 Rabbits tend to have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
 
