@@ -62,7 +62,7 @@ Allergies to cat litter may also be diagnosed through blood or intradermal testi
 
 # What Causes Your Cat to Be Allergic to Kitty Litter?
 
-Feline allergies to cat litter are caused by one or more ingredients used in the litter. Substances found in kitty litter are typically a combination of the core litter component (clay, crystals/pearls, recycled newspapers, pinewood or whole-kernel corn), optional fragrances and in some cases chemicals that are added to enhance certain characteristics of the litter (clumping, coloring, ...).
+Feline allergies to cat litter are caused by **one or more ingredients used in the litter**. Substances found in kitty litter are typically a combination of the core litter component (clay, crystals/pearls, recycled newspapers, pinewood or whole-kernel corn), optional fragrances and in some cases chemicals that are added to enhance certain characteristics of the litter (clumping, coloring, ...).
 
 <img src="{{ site.url }}/assets/images/posts/cats/cat-sneezing.jpg" alt="cat sneezing" class="align-right">
 
