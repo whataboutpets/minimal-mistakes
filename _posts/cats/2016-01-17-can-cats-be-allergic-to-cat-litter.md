@@ -76,7 +76,9 @@ Scan through the **ingredients list located on your cat litter packaging** as it
 
 The most efficient way to solve your cat's allergies is to remove the allergens from her or his environment. **In the case of cat litter, it means switching to a different type**.
 
-<img src="{{ site.url }}/assets/images/posts/cats/switch-cat-litter.png" alt="switch cat litter">
+<figure>
+  <img src="{{ site.url }}/assets/images/posts/cats/switch-cat-litter.png" alt="switch cat litter">
+</figure>
 
 When switching kitty litter, try to get a [hypoallergenic type](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"}. This typically means a litter that has low to no dust and that is unscented.
 

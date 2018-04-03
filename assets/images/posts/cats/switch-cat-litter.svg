@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="200"
+   viewBox="0 0 300 200"
+   width="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="switch-cat-litter.svg"
+   inkscape:export-filename="C:\blogs\whataboutpets\images\switch-cat-litter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="fill:#000000">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4239"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#4e5156;stroke-opacity:1;fill:#4e5156;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4221"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4233"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview10"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.4583334"
+     inkscape:cx="45.530118"
+     inkscape:cy="57.897503"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       position="338.03389,199.72881"
+       orientation="0,1"
+       id="guide4148" />
+    <sodipodi:guide
+       position="300.20338,126.10169"
+       orientation="1,0"
+       id="guide4154" />
+    <sodipodi:guide
+       position="-0.40677965,226.57627"
+       orientation="1,0"
+       id="guide3343" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4204" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#2196f3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 25.429964,152.62547 C 15.649229,97.243952 21.807054,76.838712 25.176006,50.313447 17.188074,36.513081 27.902019,35.180632 40.276524,34.955224 c 24.429358,-7.485801 50.240073,-3.055649 60.988416,0.101472 13.27839,0.121486 21.55291,4.250085 13.54711,15.102537 5.49588,3.036304 7.92051,92.491287 -0.67546,102.137717 7.79825,13.76391 -1.01227,14.28999 -5.46141,15.41106 -13.154108,1.88806 -26.86594,5.10338 -40.438282,4.82765 C 57.671205,172.321 45.187759,169.46137 36.93543,167.50201 21.5281,170.0328 19.175946,160.7688 25.429964,152.62547 Z"
+     id="rect3366"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccacc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="69.817467"
+     y="77.559334"
+     id="text4169"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4171"
+       x="69.817467"
+       y="77.559334"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat</tspan><tspan
+       sodipodi:role="line"
+       x="69.817467"
+       y="105.68433"
+       id="tspan4173"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
+       sodipodi:role="line"
+       x="69.817467"
+       y="133.80933"
+       id="tspan4175"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type A</tspan></text>
+  <path
+     style="fill:#009688;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 188.95955,153.7053 c -9.78073,-55.381524 -3.62291,-75.786764 -0.25396,-102.312024 -7.98792,-13.80037 2.72602,-15.13282 15.10052,-15.35823 24.42936,-7.4858 50.24007,-3.05565 60.98842,0.10148 13.27839,0.12148 21.55291,4.25008 13.54711,15.10253 5.49588,3.03631 7.92051,92.491294 -0.67546,102.137724 7.79825,13.76391 -1.01227,14.28999 -5.46141,15.41106 -13.15411,1.88806 -26.86594,5.10338 -40.43829,4.82765 -10.56569,-0.21466 -23.04913,-3.07429 -31.30146,-5.03365 -15.40733,2.53079 -17.75949,-6.73321 -11.50547,-14.87654 z"
+     id="rect3366-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccacc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="233.34708"
+     y="78.232376"
+     id="text4169-5"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4171-7"
+       x="233.34708"
+       y="78.232376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Cat</tspan><tspan
+       sodipodi:role="line"
+       x="233.34708"
+       y="106.35738"
+       id="tspan4173-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Litter</tspan><tspan
+       sodipodi:role="line"
+       x="233.34708"
+       y="134.48238"
+       id="tspan4175-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#ffffff">Type B</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#4e5156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 132.0339,105 c 17.29809,-12.687223 27.77295,-3.54011 40,0"
+     id="path4206"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>
