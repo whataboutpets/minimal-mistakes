@@ -39,6 +39,6 @@ However, we are not able to conclude that by default the tomato plant is toxic f
 **Conclusion:** to sum up, yes rabbits can eat tomatoes, but only the ripe ones and in small amounts.
 {: .notice--info}
 
-Do you feed your rabbit tomatoes? Let's us know below.
+_Do you feed your rabbit tomatoes? Let's us know below._
 
 ---

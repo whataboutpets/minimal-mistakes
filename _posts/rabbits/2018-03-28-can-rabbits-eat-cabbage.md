@@ -39,6 +39,6 @@ Based on the above, we advise to **include cabbage in your rabbits diet**. Just 
 **Conclusion:** this was a tricky one, rabbits can eat cabbage leaves but remember to alternate with other greens.
 {: .notice--info}
 
-Does your bunny eat cabbage? Let us know your experience in the comment section below.
+_Does your bunny eat cabbage? Let us know your experience in the comment section below._
 
 ---

@@ -41,6 +41,6 @@ Our advice is to **only feed the peel of organic bananas** which are not treated
 **Conclusion:** even though your bunny will most likely go banana's over this treat, be careful to only offer it in very limited quantities.
 {: .notice--info}
 
-Do you sometimes offer your rabbit bananas? Feel free to leave a comment.
+_Do you sometimes offer your rabbit bananas? Feel free to leave a comment._
 
 ---

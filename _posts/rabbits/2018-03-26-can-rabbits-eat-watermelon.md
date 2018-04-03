@@ -39,6 +39,6 @@ Just to be on the safe side we advise that you **remove the seeds** before feedi
 **Conclusion:** rabbits can have watermelon but don't let them have too much.
 {: .notice--info}
 
-Have you ever given watermelon to your rabbit? We're curious to find out.
+_Have you ever given watermelon to your rabbit? We're curious to find out._
 
 ---

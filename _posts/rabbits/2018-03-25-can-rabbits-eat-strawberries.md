@@ -37,6 +37,6 @@ If you're wondering whether your rabbit can also eat the strawberry tops or even
 **Conclusion:** bottom line, strawberries are a great occasional treat for your rabbit.
 {: .notice--info}
 
-Does your rabbit like strawberries? Let's us know by leaving a comment.
+_Does your rabbit like strawberries? Let's us know by leaving a comment._
 
 ---

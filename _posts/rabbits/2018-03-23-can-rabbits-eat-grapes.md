@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Grapes?"
 permalink: /:categories/can-rabbits-eat-grapes.html
-excerpt: "Wondering whether your pet rabbit can eat grapes? Find out if grapes are healthy for your bunnyand learn some tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat grapes? Find out if grapes are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-03-23
 last_modified_at: 2018-03-23
 header:
@@ -39,6 +39,6 @@ Feeding too many grapes at a time could cause digestive problems with your rabbi
 **Conclusion:** sure, rabbits can eat grapes as an occasional treat.
 {: .notice--info}
 
-What your favorite way of feeding grapes to your rabbit? We'd love to hear from you.
+_What's your favorite way of feeding grapes to your rabbit? We'd love to hear from you._
 
 ---
