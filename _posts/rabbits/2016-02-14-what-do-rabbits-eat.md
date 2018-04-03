@@ -51,7 +51,7 @@ _While doing our research, we have tried to come up with a list of lots of alter
 We'll dive into the details below, but to help you get an overview we've also put everything in a **helpful infographic** that answers the question: What do rabbits eat?
 
 <div class="align-center">
-<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.pinterest-infographic | absolute_url }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
+<a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url | url_encode }}&media={{ page.pinterest-infographic | absolute_url | url_encode }}&description={{ page.title }}" class="btn btn--x-large btn--pinterest" title="Pin on Pinterest" target="_blank"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span>Pin on Pinterest</span></a>
 </div>
 
 <figure>
@@ -75,7 +75,7 @@ If you are looking for information on a specific food item, use the below links 
 
 | Fruits                                                                                                          | Vegetables                                                                                                 | Other                                                                                        |
 |:--------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |
-| [Apples]({{ site.url }}/rabbits/can-rabbits-eat-apples.html)                                                    | [Asparagus]({{ site.url }}/rabbits/can-rabbits-eat-asparagus.html                                          | [Bread]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bread---do-not-feed) |
+| [Apples]({{ site.url }}/rabbits/can-rabbits-eat-apples.html)                                                    | [Asparagus]({{ site.url }}/rabbits/can-rabbits-eat-asparagus.html)                                         | [Bread]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-bread---do-not-feed) |
 | [Bananas]({{ site.url }}/rabbits/can-rabbits-eat-bananas.html)                                                  | [Broccoli]({{ site.url }}/rabbits/can-rabbits-eat-broccoli.html)                                           |                                                                                              |
 | [Blueberries]({{ site.url }}/rabbits/what-do-rabbits-eat.html#can-rabbits-eat-blueberries---in-small-amounts)   | [Cabbage]({{ site.url }}/rabbits/can-rabbits-eat-cabbage.html)                                             |                                                                                              |
 | [Grapes]({{ site.url }}/rabbits/can-rabbits-eat-grapes.html)                                                    | [Celery]({{ site.url }}/rabbits/can-rabbits-eat-celery.html)                                               |                                                                                              |
