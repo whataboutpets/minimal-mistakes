@@ -74,7 +74,7 @@ One potential downside of the product is the packaging. The top latch/button of 
 > A small tip here is to keep the entire box in a zip lock bag.
 
 <div class="align-center">
-  <a target="_blank" href="https://www.amazon.com/gp/product/B001ANBV7W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANBV7W&linkCode=as2&tag=whataboutpe0a-20&linkId=14632b84a2fa3626ca940dc480376e32">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B001ANBV7W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a class="btn btn--x-large btn--buy" target="_blank" href="https://www.amazon.com/gp/product/B001ANBV7W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001ANBV7W&linkCode=as2&tag=whataboutpe0a-20&linkId=14632b84a2fa3626ca940dc480376e32">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B001ANBV7W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ## #3 Nature's Miracle Just for Cats Allergen Blocker Cat Wipes
@@ -92,7 +92,7 @@ The product is packaged as a roll and comes in a cylindrical container. The wipe
 > A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
 <div class="align-center">
-  <a target="_blank" href="https://www.amazon.com/gp/product/B011803MRI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011803MRI&linkCode=as2&tag=whataboutpe0a-20&linkId=aaece7b27d81033f1c450e9b6a20e8db">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B011803MRI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a class="btn btn--x-large btn--buy" target="_blank" href="https://www.amazon.com/gp/product/B011803MRI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011803MRI&linkCode=as2&tag=whataboutpe0a-20&linkId=aaece7b27d81033f1c450e9b6a20e8db">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B011803MRI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 # Conclusion
