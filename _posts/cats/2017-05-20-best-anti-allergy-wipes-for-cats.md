@@ -52,7 +52,7 @@ The wipes are **pH balanced for cats** as their skin is much less acidic than hu
 We highly recommended this natural made in the USA product for your peace of mind and a happy allergen free cat.
 
 <div class="align-center">
-  <a target="_blank" href="https://www.amazon.com/gp/product/B01CCV8GUA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CCV8GUA&linkCode=as2&tag=whataboutpe0a-20&linkId=3379704ca9338a5e82ca22d6f3cb76a4">Buy on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=whataboutpe0a-20&l=am2&o=1&a=B01CCV8GUA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 </div>
 
 # [#2 Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}
