@@ -66,7 +66,7 @@ Feline allergies to cat litter are caused by one or more ingredients used in the
 
 <img src="{{ site.url }}/assets/images/posts/cats/cat-sneezing.jpg" alt="cat sneezing" class="align-right">
 
-Cat litters most know for causing allergic reactions with cats are those based on **clay**. The reason for this is that clay based litters typically create a lot of dust and, as it happens, dust is a well-known allergen.
+Cat litters most know for causing allergic reactions with cats are those based on **clay**. The reason for this is that clay-based litters typically create a lot of dust and, as it happens, dust is a well-known allergen.
 
 **Fragrances** are also added to cat litter in order to help control odor problems. Unfortunately, these fragrances are themselves a potential allergen to which your cat could react.
 
@@ -76,7 +76,7 @@ Scan through the **ingredients list located on your cat litter packaging** as it
 
 The most efficient way to solve your cat's allergies is to remove the allergens from her or his environment. **In the case of cat litter, it means switching to a different type**.
 
-<img src="{{ site.url }}/assets/images/posts/cats/switch-cat-litter.png" alt="switch cat litter">
+<img src="{{ site.url }}/assets/images/posts/cats/switch-cat-litter.png" alt="switch cat litter" class="align-center">
 
 When switching kitty litter, try to get a [hypoallergenic type](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"}. This typically means a litter that has low to no dust and that is unscented.
 
