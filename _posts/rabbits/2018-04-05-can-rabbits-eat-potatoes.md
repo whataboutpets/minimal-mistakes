@@ -24,7 +24,7 @@ We've created an easy to use overview to help you learn more about [what to feed
 
 A rabbit's digestive system is specialized for consuming large amounts of plants which are rich in fiber and low in fat. As a result, food types high in carbohydrates, like for example potatoes, **are likely to cause digestive upset**. When fed often, they may even lead to more serious health problems.
 
-<img src="{{ site.url }}/assets/images/posts/food/blueberries.jpg" alt="blueberries" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/food/potatoes.jpg" alt="potatoes" class="align-right">
 
 Feeding a little bit of potato isn't necessarily harmful to a rabbit. That being said it doesn't really have a positive impact on their diet either. As such we **recommend opting for other more beneficial treats**.
 
