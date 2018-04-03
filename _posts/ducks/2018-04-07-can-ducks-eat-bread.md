@@ -19,37 +19,21 @@ published: false
 
 # Do Ducks Eat Bread?
 
-Rabbits tend to have a taste for sweet food and will really like to eat fresh fruit as occasional treats. Apples can be considered as a **safe and harmless fruit choice** for rabbits.
+This is the most searched, but also one of the most debated questions we have encountered. And you might be surprised to see that we advise against feeding ducks bread.
 
-They are, however [high in calories](https://en.wikipedia.org/wiki/Apple#Nutrition){:target="_blank"} as they contain lots of sugar, so make sure to **keep the quantity of this treat to a minimum**. Note that if your rabbit already has a weight problem, it is best to avoid feeding any type of fruit, including apples.
+<img src="{{ site.url }}/assets/images/posts/food/bread.jpg" alt="bread" class="align-right">
 
-<img src="{{ site.url }}/assets/images/posts/food/apples.jpg" alt="apples" class="align-right">
+After all, haven't we all seen people giving leftover bread crumbs to ducks at a local river or pond. Chances are you've even done this yourself. So why is bread bad for ducks?
 
-If it is the first time you offer an apple to your rabbit, it is best to **introduce the new food slowly** in order to allow the digestive system to adjust. Leave a couple of days between offering another apple and keep a watch on the stools. If you see the droppings get soft, stop the introduction and try again after some time.
+Bread is actually a good source of carbohydrates but other than that it offers **little nutritional value** for ducks. Eating a lot of bread will make a duck overweight and can even lead to malnutrition. Offered in extreme moderation, bread is not harmful to ducks but especially for wild ducks that moderation is very hard to judge.
 
-Before feeding the apple, make sure to **rinse it with clear running water** in order to remove contaminations. A good way to serve the apple to your rabbit is by cutting it up into smaller pieces.
+Feeding ducks bread can also lead to a number of other problems. Uneaten bread in water can cause **algal blooms**, which in turn [can affect water life](https://en.wikipedia.org/wiki/Algal_bloom#Freshwater_algal_blooms){:target="_blank"} and cause plants and fish to die off. Moldy decayed bread can lead to **diseases** among ducks that in some cases can even be fatal.
 
-As mentioned keep the portions small. For instance, a **couple of slices per rabbit per day**.
+Young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
 
-# Can Rabbits Eat Apple Peels?
-
-If you are wondering whether rabbits can also eat the skin of the apple then the answer is yes. The peel actually [packs most of the fibers and vitamins](http://www.huffingtonpost.com/2014/02/19/never-peel-apple_n_4791328.html){:target="_blank"} that an apple contains.
-
-> Next time you are making an apple pie, don't throw away those skins but keep them as a treat.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hpIXMkC91rI" frameborder="0"></iframe>
-
-# Can Rabbits Eat Apple Seeds?
-
-When offering apples to your bunny, **make sure to remove the seeds**. The reason for this is that apple seeds contain [amygdalin](https://en.wikipedia.org/wiki/Apple#Toxicity_of_seeds){:target="_blank"}, a sugar and cyanide compound.
-
-<img src="{{ site.url }}/assets/images/posts/food/apple-seeds.jpg" alt="apple seeds" class="align-right">
-
-This toxic substance is only present in very small quantities and as such, there is no reason to panic in case your rabbit has accidentally swallowed some seeds. The greater concern would be continuous consumption where the amygdalin was progressively building up in your rabbit's system to the point of reaching toxic levels.
-
-**Conclusion:** Yes, rabbits can eat apples and their skin, but not the seeds!
+**Conclusion:** our advice is to **not offer ducks bread** and opt for healthier alternatives.
 {: .notice--info}
 
-_Does your bunny like eating apples? Let us know by leaving a comment below._
+_Do you know some good alternatives for feeding ducks? Let us know in the comment section below._
 
 ---
