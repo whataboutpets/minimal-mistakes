@@ -6,8 +6,7 @@ date: 2016-02-14
 last_modified_at: 2018-03-21
 header:
   teaser: /assets/images/posts/rabbits/what-do-rabbits-eat-teaser.jpg
-pinterest: assets/images/rabbits/what-do-rabbits-eat.jpg
-pinterest-infographic: /assets/images/rabbits/what-do-rabbits-eat-infographic.png
+pinterest-infographic: /assets/images/posts/rabbits/what-do-rabbits-eat-infographic.png
 categories: Rabbits
 tags: [Advice, Eat, Feed, Rabbit, Tips]
 redirect_from:
@@ -55,7 +54,7 @@ We'll dive into the details below, but to help you get an overview we've also pu
 </div>
 
 <figure>
-  <img src="{{ site.url }}/assets/images/rabbits/what-do-rabbits-eat-infographic.png" alt="what do rabbits eat infographic">
+  <img src="{{ site.url }}/assets/images/posts/rabbits/what-do-rabbits-eat-infographic.png" alt="what do rabbits eat infographic">
 </figure>
 
 ## Share this Infographic on Your Site
