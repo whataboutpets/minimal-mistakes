@@ -20,7 +20,7 @@ published: true
 
 Like people, **our feline friends can also develop allergies**. And like people, the source of these allergies can be pretty much anything in their surrounding environment.
 
-After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: "Can my cat be allergic to litter?"
+After you have eliminated the allergy sources that typically spring to mind (pollen from plants or food), chances are you are staring at the kitty litter and are asking yourself the following question: _"Can my cat be allergic to litter?"_
 
 # What Are Cat Litter Allergies?
 
@@ -87,6 +87,8 @@ As for your kitty, give her/him a bath or alternatively wipe the fur with hypoal
 It is important to note that your cat may be allergic to a number of **different allergens that don't all originate from the same source**. So even after having switched to a litter that no longer causes allergies, it could be that another source, for example, the food or the cleaning product you use, still contains certain allergens to which your cat reacts.
 {: .notice--info}
 
-_What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy? Thanks for letting us know!_
+_What is your experience with cat litter? Any symptoms we might have left out that could help other cat owners identify litter allergy?
+
+Thanks for letting us know!_
 
 ---
