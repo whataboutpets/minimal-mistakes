@@ -22,7 +22,7 @@ We've created an easy to use overview to help you learn more about [what to feed
 
 # Do Rabbits Eat Asparagus?
 
-As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories and a good source of dietary fiber.
+As with a lot of vegetables, water makes up 93% of asparagus's composition. Other than that it is low in calories it is also a good source of dietary fiber.
 
 <img src="{{ site.url }}/assets/images/posts/food/asparagus.jpg" alt="asparagus" class="align-right">
 
