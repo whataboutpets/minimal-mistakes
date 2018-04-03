@@ -35,6 +35,6 @@ When picking spinach, select the lighter looking leaves as darker leaves indicat
 **Conclusion:** rabbits can eat spinach but make sure to not combine with other greens high on oxalates and rotate frequently.
 {: .notice--info}
 
-Do you feed your bunny spinach from time to time? Feel free to share your experience.
+_Do you feed your bunny spinach from time to time? Feel free to share your experience._
 
 ---

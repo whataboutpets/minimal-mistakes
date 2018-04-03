@@ -37,6 +37,6 @@ Based on the above we see no reason to exclude kale from a rabbit's diet. So if 
 **Conclusion:** there is a bit of contradicting information on whether rabbits can eat kale. Based on what we have found there currently seems to be no harm in feeding kale.
 {: .notice--info}
 
-Do you offer your bunny kale? Let's us know your thoughts.
+_Do you offer your bunny kale? Let's us know your thoughts._
 
 ---

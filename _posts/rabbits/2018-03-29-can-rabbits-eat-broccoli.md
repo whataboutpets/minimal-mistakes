@@ -47,6 +47,6 @@ Taking into account that the amount of calcium in broccoli leaves is still relat
 **Conclusion:** yes, rabbits can have broccoli, just not too much.
 {: .notice--info}
 
-What's your experience with feeding broccoli to your rabbit? Let's us know in the comments section.
+_What's your experience with feeding broccoli to your rabbit? Let's us know in the comments section._
 
 ---
