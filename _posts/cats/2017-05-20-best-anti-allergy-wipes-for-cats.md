@@ -81,7 +81,7 @@ Nature's Miracle Just for Cats Allergen Blocker Cat Wipes claims to neutralize a
 
 The product has a very mild scent and deodorizes your cat's coat.
 
-The pre-moistened wipes will not leave your kitty sticky or soaking wet and are perfect for wiping down your pet in order to neutralize potential allergens. In addition, the alcohol-Free formula will not dry out your cat's skin and coat.
+The pre-moistened wipes will not leave your kitty sticky or soaking wet and are perfect for wiping down your pet in order to neutralize potential allergens. In addition, the alcohol-free formula will not dry out your cat's skin and coat.
 
 The product is packaged as a roll and comes in a cylindrical container. The wipes are fed from the center of the roll through a dispenser but in some cases, it is not that easy to get ahold of a center wipe. A solution is then to open the canister and pull the wipe from the outside roll but this kind of defeats the purpose of the dispenser feature.
 
