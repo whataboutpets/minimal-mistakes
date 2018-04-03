@@ -33,7 +33,7 @@ In contrast to regular pet wipes, **hypoallergenic wipes typically contain fewer
 
 | Ranking  | Brand                                                              | Number of Wipes | Editor's Rating                                           |
 |:--------:| ------------------------------------------------------------------ |:---------------:| --------------------------------------------------------- |
-| #1       | <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=whataboutpe0a-20&marketplace=amazon&region=US&placement=B01CCV8GUA&asins=B01CCV8GUA&linkId=3aef817da087f66438bfaa4f821543aa&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=ff6090&bg_color=ffffff"></iframe>                      | 50              | ![five stars](/assets/images/posts/icons/rating/five-stars.png) |
+| #1       | [Burt's Bees Dander Reducing Grooming Wipes for Cats](http://amzn.to/2pZwJeG){:target="_blank"}                      | 50              | ![five stars](/assets/images/posts/icons/rating/five-stars.png) |
 | #2       | [Earthbath All Natural Cat Wipes](http://amzn.to/2rGSoEL){:target="_blank"}                           | 100             | ![four stars](/assets/images/posts/icons/rating/four-stars.png) |
 | #3       | [Nature's Miracle Just for Cats Allergen Blocker Cat Wipes](http://amzn.to/2r6C3x4){:target="_blank"} | 25              | ![four stars](/assets/images/posts/icons/rating/four-stars.png) |
 
