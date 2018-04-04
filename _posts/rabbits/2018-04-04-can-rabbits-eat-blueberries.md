@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-blueberries-teaser.jpg"
 categories: [Rabbits]
 tags: [Blueberries, Eat, Feed]
-published: false
+published: true
 ---
 
 <figure>
