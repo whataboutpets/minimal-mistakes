@@ -30,7 +30,9 @@ Because of the higher sugar content, blueberries should be considered as **treat
 
 **Don't feed frozen blueberries** as cold food is likely to upset your rabbit's digestive system.
 
-Give the blueberries a good rub under running water in order to remove potential contaminations. Keep portions small and offer **only a couple of berries per day**.
+Give the blueberries a good rub under running water in order to remove potential contaminations.
+
+Keep portions small and offer **only a couple of berries per day**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOfGgy8kqdc" frameborder="0"></iframe>
 
