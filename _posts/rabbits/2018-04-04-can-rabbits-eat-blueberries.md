@@ -34,6 +34,8 @@ Keep portions small and offer **only a couple of berries per day**.
 
 **Don't feed frozen blueberries** as cold food is likely to upset your rabbit's digestive system.
 
+<img src="{{ site.url }}/assets/images/posts/food/blueberries-frozen.jpg" alt="blueberries frozen" class="align-right">
+
 **Don't feed dried blueberries** as they will **contain higher amounts of sugar** compared to fresh blueberries. This is because the drying process removes water, which concentrates the sugar. In some cases, dried variants will even have additional sugar added to them in order to enhance the taste and prolong conservation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOfGgy8kqdc" frameborder="0"></iframe>
