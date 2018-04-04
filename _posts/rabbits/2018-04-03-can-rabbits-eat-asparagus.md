@@ -30,7 +30,7 @@ You can offer your rabbit asparagus but **start with a small amount** if it's th
 
 There is a chance your bunny might not even like asparagus as it is listed as one of the [plants not usually eaten by rabbits](http://www.imustgarden.com/rabbit-resistant-plants){:target="_blank"}. We found some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/108606/Default.aspx){:target="_blank"} that seem to confirm this statement. As every rabbit is different, just present it with a little bit of asparagus to find out.
 
-Before serving, give the asparagus a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix them in with the leafy greens. Keep portions small, give a couple of pieces per rabbit per day.
+Before serving, give the asparagus stems a good rinse under running water. Then cut or snap the stalk into 1 inch (=2.5cm) pieces and mix them in with the leafy greens. Keep portions small, give a **couple of pieces per rabbit per day**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FxncLO1gmek" frameborder="0"></iframe>
 
