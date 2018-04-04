@@ -15,12 +15,14 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/rabbits/can-rabbits-eat-blueberries.jpg" alt="can rabbits eat blueberries" class="title-banner">
 </figure>
 
-[Blueberries](https://en.wikipedia.org/wiki/Blueberry){:target="_blank"} are flowering plants with indigo-colored berries that have a sweet taste when mature. Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
+[Blueberries](https://en.wikipedia.org/wiki/Blueberry){:target="_blank"} are flowering plants with indigo-colored berries that have a sweet taste when mature.
 
 We've created an easy to use overview to help you learn more about [what to feed your rabbit]({{ site.url }}/rabbits/what-do-rabbits-eat.html#what-can-a-rabbit-eat-list). Be sure to check it out!
 {: .notice--primary}
 
 # Do Rabbits Eat Blueberries?
+
+Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
 
 Because of the higher sugar content, blueberries should be considered as **treats** and only be given to rabbits in small amounts. Keep an eye on how your rabbit reacts the first time you offer them.
 
