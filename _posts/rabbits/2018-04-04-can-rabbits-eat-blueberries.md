@@ -1,13 +1,13 @@
 ---
 title: "Can Rabbits Eat Blueberries?"
 permalink: /:categories/can-rabbits-eat-blueberries.html
-excerpt: "Wondering whether your pet rabbit can eat blueberries? Find out if blueberries are healthy for your bunny and learn some tips on how to feed them."
+excerpt: "Wondering whether your pet rabbit can eat blueberries? What if they are forzen or dried? Find out if blueberries are healthy for your bunny and learn some tips on how to feed them."
 date: 2018-04-04
 last_modified_at: 2018-04-04
 header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-blueberries-teaser.jpg"
 categories: [Rabbits]
-tags: [Blueberries, Eat, Feed]
+tags: [Blueberries, Dried, Eat, Feed, Frozen]
 published: true
 ---
 
