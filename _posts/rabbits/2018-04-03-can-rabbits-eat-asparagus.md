@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Asparagus?"
 permalink: /:categories/can-rabbits-eat-asparagus.html
-excerpt: "Wondering whether your pet rabbit can eat asparagus? Find out if asparagus is healthy for your bunny and learn some tips on how to feed it."
+excerpt: "Do you want to know whether your pet rabbit can eat asparagus? Learn if asparagus is healthy for your bunny and discover some tips on how to feed it."
 date: 2018-04-03
 last_modified_at: 2018-04-03
 header:
