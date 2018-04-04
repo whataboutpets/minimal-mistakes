@@ -24,13 +24,13 @@ We've created an easy to use overview to help you learn more about [what to feed
 
 Blueberries mainly consist out of water, some small amounts of nutrients and **sugar**.
 
-Because of the higher sugar content, blueberries should be considered as **treats** and only be given to rabbits in small amounts. Keep an eye on how your rabbit reacts the first time you offer them.
-
 <img src="{{ site.url }}/assets/images/posts/food/blueberries.jpg" alt="blueberries" class="align-right">
+
+Because of the higher sugar content, blueberries should be considered as **treats** and only be given to rabbits in small amounts. Keep an eye on how your rabbit reacts the first time you offer them.
 
 Give the blueberries a good rub under running water in order to remove potential contaminations.
 
-Keep portions small and offer **only a couple of berries per day**.
+Keep portions small and offer only **a couple of berries per day**.
 
 # Can Rabbits Eat Frozen or Dried Blueberries ?
 
