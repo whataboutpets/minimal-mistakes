@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Potatoes?"
 permalink: /:categories/can-rabbits-eat-potatoes.html
-excerpt: "Wondering whether your pet rabbit can eat potatoes? What about the peel? Find out if potatoes are healthy for your bunny."
+excerpt: "Are you curious whether your pet rabbit can eat potatoes? What about the peel? Learn if potatoes are healthy for your bunny."
 date: 2018-04-05
 last_modified_at: 2018-04-05
 header:
@@ -32,7 +32,9 @@ We did come across some [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/
 
 # Can Rabbits Eat Sweet Potatoes?
 
-If you are wondering if rabbits can eat **sweet potatoes**, then the answer is that we also **advise against it**. Even though sweet potatoes are only distantly related to the potato and do not belong to the nightshade family, they are still packed with [carbohydrates](https://en.wikipedia.org/wiki/Sweet_potato#Nutrient_content){:target="_blank"} and contain more sugars than potatoes.
+If you are wondering if rabbits can eat **sweet potatoes**, then the answer is that we also **advise against it**.
+
+Even though sweet potatoes are only distantly related to the potato and do not belong to the nightshade family, they are still packed with [carbohydrates](https://en.wikipedia.org/wiki/Sweet_potato#Nutrient_content){:target="_blank"} and contain more sugars than potatoes.
 
 **Conclusion:** our advice is to not feed potatoes as there are plenty of other healthier treats you can offer your bunny.
 {: .notice--info}
