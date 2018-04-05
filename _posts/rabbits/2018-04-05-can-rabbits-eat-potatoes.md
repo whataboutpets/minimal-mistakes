@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-potatoes-teaser.jpg"
 categories: [Rabbits]
 tags: [Eat, Feed, Skin, Peel, Potatoes, Sweet]
-published: false
+published: true
 ---
 
 <figure>
