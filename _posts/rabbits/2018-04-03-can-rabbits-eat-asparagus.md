@@ -37,6 +37,6 @@ Before serving, give the asparagus stems a good rinse under running water. Then 
 **Conclusion:** rabbits can eat asparagus, they just might not like it that much.
 {: .notice--info}
 
-_Does your bunny like asparagus? Let us know in the comment section below._
+_Does your bunny like asparagus? Leave a message in the comment section._
 
 ---

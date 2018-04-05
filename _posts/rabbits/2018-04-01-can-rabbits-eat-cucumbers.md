@@ -22,11 +22,13 @@ We've created an easy to use overview to help you learn more about [what to feed
 
 # Do Rabbits Eat Cucumbers?
 
-Raw cucumber (with peel) is **low on nutritional value** since it consists out of 95% water. The only notable nutrient it supplies in some quantity is vitamin K. 
+Raw cucumber (with peel) is **low on nutritional value** since it consists out of 95% water.
 
 <img src="{{ site.url }}/assets/images/posts/food/cucumbers.jpg" alt="cucumbers" class="align-right">
 
-**Rabbits can eat the peel, leaves, and seeds** of the cucumber plant. When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider a couple of slices as part of the daily fresh vegetables.
+**Rabbits can eat the peel, leaves, and seeds** of the cucumber plant.
+
+When serving, first rinse under some running water and then cut into smaller slices. In terms of portions, consider **a couple of slices** as part of the daily fresh vegetables.
 
 > There is a **good change your bunny won't even like cucumbers**. It is listed as one of the [vegetables rabbits will not eat](https://gardening.stackexchange.com/questions/14929/what-vegetable-fruits-plants-will-rabbits-not-eat){:target="_blank"}. This is backed by a number of [accounts](http://www.binkybunny.com/FORUM/tabid/54/aft/138420/Default.aspx){:target="_blank"} we found where owners mentioned their rabbit avoids cucumber altogether.
 
@@ -35,6 +37,6 @@ Raw cucumber (with peel) is **low on nutritional value** since it consists out o
 **Conclusion:** it's fine for rabbits to eat cucumbers. However, chances are your bunny might not like them.
 {: .notice--info}
 
-_What your experience with offering cucumber to your rabbit? We're curious to find out._
+_What is your experience with offering cucumber to your rabbit? We're curious to find out._
 
 ---
