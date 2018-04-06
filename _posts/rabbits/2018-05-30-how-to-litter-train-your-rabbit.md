@@ -5,12 +5,17 @@ excerpt: "Want to learn how to potty train a bunny? Discover some usefull tips o
 date: 2018-04-06
 last_modified_at: 2018-04-06
 header:
-  teaser: /assets/images/posts/rabbits/how-to-litter-train-your-rabbit.jpg
+  teaser: /assets/images/posts/rabbits/how-to-litter-train-your-rabbit-teaser.jpg
 pinterest-infographic: /assets/images/posts/rabbits/how-to-litter-train-your-rabbit-infographic.png
 categories: [Rabbits]
 tags: [Advice, Box, Cage, Hutch, Litter, Poop, Rabbit, Tips, Train]
 published: true
 ---
+
+<figure>
+  <img src="{{ site.url }}/assets/images/posts/rabbits/how-to-litter-train-your-rabbit.jpg" alt="how to litter train your rabbit" class="title-banner">
+</figure>
+
 You might be surprised to hear that **rabbits can be easily trained to use a litter box**. Actually, bunnies are pretty clean animals by nature. As such they make for wonderful indoor companions.
 
 Basically, bunnies have their own preferred corners for eliminating, it is up to you to find them and put the litter tray there.
