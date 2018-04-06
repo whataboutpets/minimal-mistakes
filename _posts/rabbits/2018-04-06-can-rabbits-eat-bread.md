@@ -1,7 +1,7 @@
 ---
 title: "Can Rabbits Eat Bread?"
 permalink: /:categories/can-rabbits-eat-bread.html
-excerpt: "Wondering whether your pet rabbit can eat bread? Find out if bread is healthy for your bunny."
+excerpt: "Do you want to know if your pet rabbit can eat bread? Find out if bread is healthy for your bunny."
 date: 2018-04-06
 last_modified_at: 2018-04-06
 header:
@@ -33,6 +33,6 @@ Technically, yes, rabbits can eat bread and a quick Internet search reveals a nu
 **Conclusion:** rabbits can eat bread but they shouldn't.
 {: .notice--info}
 
-What do you think about feeding bread to bunnies? Let us know down below.
+_What do you think about feeding bread to bunnies? Let us know down below._
 
 ---
