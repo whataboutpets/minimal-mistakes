@@ -36,6 +36,8 @@ This also means that if you have a baby rabbit you will probably need to put in 
 
 This might sound like a bit of unusual advice but **rabbits that are neutered or spayed are easier to litter train**.
 
+<img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-scratching.jpg" alt="rabbit scratching" class="align-right">
+
 The reason for this is that when bunnies reach the age of 4-6 months, they will generally begin marking their territory as hormones start to become active.
 
 If you see that your pet rabbit all of a sudden starts pooping/spraying everywhere it can be linked to **territorial behavior**. Spaying/neutering can help in order reduce these feelings and increase the likelihood of using the litter box.
