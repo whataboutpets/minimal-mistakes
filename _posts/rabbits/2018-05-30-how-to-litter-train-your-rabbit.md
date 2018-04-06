@@ -54,29 +54,31 @@ Begin by keeping your rabbit in a generous cage or hutch. You can even use a pen
 
 Place a litter box in a corner of the cage. If you have a running space add one or more boxes. Keep an eye one where your rabbit urinates and if it is in a place that does not contain a box, move an existing box to that location.
 
-You can also gently herd your rabbit back to a litter tray if you see the tail being lifted in a corner where there is no box.
+You can help establish the habit by gently herding your rabbit back to a litter tray if you see the tail being lifted in a corner where there is no box.
 
 > A **small amount of hay in the litter box** can help to attract your bunny and spend time there. Most rabbits like eating on their tray and some even sleep there.
 
-# Sticking To A Few Preferred Spots
+# Sticking to a Few Preferred Spots
 
-Typically most rabbits will choose a **limited number of preferred spots** for eliminating. So you basically you need to find where your rabbit enjoys to deposit their urine and most of its poops and put a litter box there.
+Typically most rabbits will choose a **limited number of preferred spots** for eliminating. So you basically you need to find where your rabbit enjoys to deposit urine and most of its poops and put a litter box there.
 
 > Usually bunnies will pick corners so these are good starting locations for placing the litter boxes.
 
-Don't be surprised if your pet rabbit needs to have a couple of litter boxes. Reason for this is that rabbits may eat in one and pee in another. Some will even sleep in their litter tray.
+Don't be surprised if your pet rabbit needs to have a couple of litter boxes. Reason for this is that rabbits may eat in one and pee in another.
 
 # Cages And Pens
 
-A cage is a good way to limit the amount of free space your bunny has when you start litter training. Just **make sure the cage is big enough** to contain your rabbit's food, water, and litter box while still allowing for space to move around and stretch.
+A cage is a good way to limit the amount of free space your bunny has when you start litter training.
 
 <img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-cage.jpg" alt="rabbit cage" class="align-right">
 
+Just **make sure the cage is big enough** to contain your rabbit's food, water, and litter box while still allowing for space to move around and stretch.
+
 If your cage is rather small you can provide a bit of extra running space by using a pen. Make sure to also foresee a litter tray in the pen area.
 
-Corners of the cage or pen are a good place to start when choosing a litter tray location.
+**Corners of the cage or pen** are a good place to start when choosing a litter tray location.
 
-# Choosing The Litter Box And Get More Than One
+# One or More Litter Boxes
 
 When starting the training it is best to **provide a couple of litter boxes**. This will help your long-eared friend in finding its preferred location(s) for eliminating.
 
