@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/rabbits/can-rabbits-eat-bread-teaser.jpg"
 categories: [Rabbits]
 tags: [Bread, Crumbs, Eat, Feed]
-published: false
+published: true
 ---
 
 <figure>
