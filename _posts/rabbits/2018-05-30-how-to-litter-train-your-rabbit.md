@@ -16,7 +16,7 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/rabbits/how-to-litter-train-your-rabbit.jpg" alt="how to litter train your rabbit" class="title-banner">
 </figure>
 
-You might be surprised to hear that **rabbits can be easily trained to use a litter box**. Actually, bunnies are pretty clean animals by nature. As such they make for wonderful indoor companions.
+You might be surprised to hear that **rabbits can be easily trained to use a litter box**. In fact, bunnies are pretty clean animals by nature. As such they make for wonderful indoor companions.
 
 > Basically, bunnies have their own preferred corners for eliminating, it is up to you to find them and put the litter tray there.
 
@@ -26,11 +26,11 @@ We have compiled a number of tips in order to help you get up to speed with litt
 
 You can start to litter train a rabbit at any age.
 
-<img src="{{ site.url }}/assets/images/posts/rabbits/baby-rabbit.jpg" alt="baby rabbit" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-on-carpet.jpg" alt="rabbit on carpet" class="align-right">
 
 Contrary to what you might think it is actually **easier to litter train older rabbits**. The reason for this is that a rabbit's attention span and ability to learn increases as they grow up.
 
-This also means that if you have a baby rabbit you will probably need to put in a little bit more effort.
+> This also means that if you have a baby rabbit you will probably need to put in a little bit more effort.
 
 # Spaying/Neutering Makes a Difference
 
@@ -70,7 +70,7 @@ Don't be surprised if your pet rabbit needs to have a couple of litter boxes. Re
 
 # Cages And Pens
 
-A cage is a good way to limit the amount of free space your bunny has when you start litter training.
+A cage is a good way to **limit the amount of free space** your bunny has when you start litter training.
 
 <img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-cage.jpg" alt="rabbit cage" class="align-right">
 
