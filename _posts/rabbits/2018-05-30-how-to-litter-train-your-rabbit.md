@@ -40,7 +40,7 @@ This might sound like a bit of unusual advice but **rabbits that are neutered or
 
 The reason for this is that when bunnies reach the age of 4-6 months, they will generally begin marking their territory as hormones start to become active.
 
-If you see that your pet rabbit all of a sudden starts pooping/spraying everywhere it can be linked to **territorial behavior**. Spaying/neutering can help in order reduce these feelings and increase the likelihood of using the litter box.
+If you see that your pet rabbit all of a sudden starts pooping/spraying everywhere it can be linked to **territorial behavior**. Spaying/neutering can help in order reduce these feelings and increase the likelihood of using the litter pan.
 
 # Start Small
 
@@ -61,6 +61,8 @@ You can help establish the habit by gently herding your rabbit back to a litter 
 > A **small amount of hay in the litter box** can help to attract your bunny and spend time there. Most rabbits like eating on their tray and some even sleep there.
 
 # Sticking to a Few Preferred Spots
+
+<img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-sitting.jpg" alt="rabbit sitting" class="align-right">
 
 Typically most rabbits will choose a **limited number of preferred spots** for eliminating. So you basically you need to find where your rabbit enjoys to deposit urine and most of its poops and put a litter box there.
 
