@@ -62,9 +62,11 @@ You can help establish the habit by gently herding your rabbit back to a litter 
 
 # Sticking to a Few Preferred Spots
 
+Typically most rabbits will choose a **limited number of preferred spots** for eliminating.
+
 <img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-sitting.jpg" alt="rabbit sitting" class="align-right">
 
-Typically most rabbits will choose a **limited number of preferred spots** for eliminating. So you basically you need to find where your rabbit enjoys to deposit urine and most of its poops and put a litter box there.
+So you basically you need to find where your rabbit enjoys to deposit urine and most of its poops and put a litter box there.
 
 > Usually bunnies will pick corners so these are good starting locations for placing the litter boxes.
 
@@ -85,5 +87,7 @@ If your cage is rather small you can provide a bit of extra running space by usi
 # One or More Litter Boxes
 
 When starting the training it is best to **provide a couple of litter boxes**. This will help your long-eared friend in finding its preferred location(s) for eliminating.
+
+<img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-litter-box.jpg" alt="rabbit litter box" class="align-right">
 
 As rabbits are diggers, they can kick their litter out of the box. In addition, they might back up in the corner so far that they urinate over the edge. Getting a box with higher edges or a cover can help to control these problems.
