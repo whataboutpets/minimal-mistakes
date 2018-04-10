@@ -2,13 +2,13 @@
 title: "Can Ducks Eat Bread?"
 permalink: /:categories/can-ducks-eat-bread.html
 excerpt: "Wondering whether ducks can eat bread? Find out if bread crumbs are healthy for a duck."
-date: 2018-04-07
-last_modified_at: 2018-04-07
+date: 2018-04-10
+last_modified_at: 2018-04-10
 header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-bread-teaser.jpg"
 categories: [Ducks]
 tags: [Bread, Crumbs, Eat, Feed]
-published: false
+published: true
 ---
 
 <figure>
