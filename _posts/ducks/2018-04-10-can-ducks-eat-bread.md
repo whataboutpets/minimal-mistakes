@@ -19,7 +19,7 @@ published: true
 
 # Do Ducks Eat Bread?
 
-This is the most searched, but also one of the most debated questions we have encountered. And you might be surprised to see that we advise against feeding ducks bread.
+This is the most searched, but also one of the most debated questions we have encountered. And you might be surprised to see that we **advise against feeding ducks bread**.
 
 <img src="{{ site.url }}/assets/images/posts/food/bread.jpg" alt="bread" class="align-right">
 
@@ -31,7 +31,7 @@ Feeding ducks bread can also lead to a number of other problems. Uneaten bread i
 
 Young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
 
-**Conclusion:** our advice is to **not offer ducks bread** and opt for healthier alternatives.
+**Conclusion:** our advice is to not offer ducks bread and opt for healthier alternatives.
 {: .notice--info}
 
 _Do you know some alternatives for feeding ducks? Let us know in the comment section below._
