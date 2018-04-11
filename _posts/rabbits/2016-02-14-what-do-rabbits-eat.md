@@ -7,7 +7,7 @@ last_modified_at: 2018-03-21
 header:
   teaser: /assets/images/posts/rabbits/what-do-rabbits-eat-teaser.jpg
 pinterest-infographic: /assets/images/posts/rabbits/what-do-rabbits-eat-infographic.png
-categories: Rabbits
+categories: [Rabbits]
 tags: [Advice, Eat, Feed, Rabbit, Tips]
 redirect_from:
   - /what-do-rabbits-eat.html
