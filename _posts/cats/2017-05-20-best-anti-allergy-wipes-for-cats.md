@@ -104,6 +104,6 @@ We chose <a target="_blank" href="https://www.amazon.com/gp/product/B01CCV8GUA/r
 As allergies are different for each person or cat it's hard to say whether they will bring relief or not. Given the fact that they are not that expensive, **we recommend you give them a try** and hopefully, they will work out for you and your feline friend.
 {: .notice--info}
 
-_What are your experiences with allergy reducing cat wipes? We'd love to hear your feedback!_
+_What are your experiences with allergy reducing cat wipes? Did one of the above suggestions work for you? We'd love to hear your feedback!_
 
 ---
