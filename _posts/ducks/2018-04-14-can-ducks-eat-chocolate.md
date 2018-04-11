@@ -25,11 +25,11 @@ Chocolate contains substances called **theobromine and caffeine** which come fro
 
 Theobromine and caffeine originate from the cacao bean. As a general rule, **the more cacao the chocolate contains** (typically the darker chocolate), **the more dangerous** it is for certain animals.
 
-Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/){:target="_blank"}. But chocolate is also **toxic to livestock like calves, goats and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
+Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/){:target="_blank"}. But chocolate is also **toxic to livestock like calves, goats, and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
 
 **Conclusion:** never feed ducks chocolate!
 {: .notice--info}
 
-_Have you ever offered feeder fish to your duck ? Drop us a line below._
+_Did you know that chocolate should not be fed to ducks? We're curious to find out._
 
 ---
