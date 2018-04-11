@@ -1,9 +1,9 @@
 ---
 title: "Can Ducks Eat Grapes?"
 permalink: /:categories/can-ducks-eat-grapes.html
-excerpt: "Wondering whether ducks can eat grapes? Find out if grapes are healthy for a duck."
-date: 2018-04-09
-last_modified_at: 2018-04-09
+excerpt: "Are you curious whether ducks can eat grapes? Discover if feeding grapes is healthy for a duck."
+date: 2018-04-12
+last_modified_at: 2018-04-12
 header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-grapes-teaser.jpg"
 categories: [Ducks]
@@ -15,7 +15,7 @@ published: false
   <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-grapes.jpg" alt="can ducks eat grapes" class="title-banner">
 </figure>
 
-[Grapes](https://en.wikipedia.org/wiki/Grape){:target="_blank"} are a type of fruit that come in a number of colors. They are grown all over the world and aside being used for wine production they are a popular between-meal snack for us humans.
+[Grapes](https://en.wikipedia.org/wiki/Grape){:target="_blank"} are a type of fruit that come in a number of colors. They are grown all over the world and aside from being used for wine production, they are a popular between-meal snack for us humans.
 
 # Do Ducks Eat Grapes?
 

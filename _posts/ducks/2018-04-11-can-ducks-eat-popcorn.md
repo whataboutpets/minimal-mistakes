@@ -1,7 +1,7 @@
 ---
 title: "Can Ducks Eat Popcorn?"
 permalink: /:categories/can-ducks-eat-popcorn.html
-excerpt: "Do you want to know if ducks can eat popcorn? Learn if popcorn is healthy for a duck."
+excerpt: "Do you want to know if ducks can eat popcorn? Learn if feeding popcorn is healthy for a duck."
 date: 2018-04-11
 last_modified_at: 2018-04-11
 header:
