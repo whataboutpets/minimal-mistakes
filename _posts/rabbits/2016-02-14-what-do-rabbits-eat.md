@@ -3,7 +3,7 @@ title: "What Do Rabbits Eat? - A List on What You Can Feed a Bunny"
 permalink: /:categories/what-do-rabbits-eat.html
 excerpt: "An overview of different food items and whether they are healthy for rabbits or not."
 date: 2016-02-14
-last_modified_at: 2018-03-21
+last_modified_at: 2016-02-14
 header:
   teaser: /assets/images/posts/rabbits/what-do-rabbits-eat-teaser.jpg
 pinterest-infographic: /assets/images/posts/rabbits/what-do-rabbits-eat-infographic.png
