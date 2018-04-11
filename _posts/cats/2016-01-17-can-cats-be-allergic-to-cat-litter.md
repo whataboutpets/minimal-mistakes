@@ -3,7 +3,7 @@ title: "Can Cats Be Allergic to Cat Litter?"
 permalink: /:categories/can-cats-be-allergic-to-cat-litter.html
 excerpt: "Cat litter could be the cause of your cat's allergies, read here why."
 date: 2016-01-17
-modified: 2018-04-03
+modified: 2016-01-17
 header:
   teaser: assets/images/posts/cats/can-cats-be-allergic-to-cat-litter-teaser.jpg
 categories: Cats
