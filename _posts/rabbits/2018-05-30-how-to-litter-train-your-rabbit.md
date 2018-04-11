@@ -94,11 +94,11 @@ As rabbits are diggers, they can kick their litter out of the box. In addition, 
 
 # Cleaning the Litter Tray
 
-The litter box should be cleaned regularly in order to avoid that your rabbit sits in its own urine.
+The litter box should be **cleaned regularly** in order to avoid that your rabbit sits in its own urine.
 
 <img src="{{ site.url }}/assets/images/posts/food/hay.jpg" alt="hay" class="align-right">
 
-The **actual frequency depends** on a number of factors: the **size of the rabbit**, the **size of the litter box** and the current **diet (eating and drinking)**. For example, when it is warmer your bunny will drink more and as a result, urinate more often.
+The actual frequency depends on a number of factors: the **size of the rabbit**, the **size of the litter box** and the **current diet** (eating and drinking). For example, when it is warmer your bunny will drink more and as a result, urinate more often.
 
 Typically you will need to change the litter every other day. For smaller litter boxes you might want to change it every day.
 
