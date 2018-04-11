@@ -27,6 +27,8 @@ After all, haven't we all seen people giving leftover bread crumbs to ducks at a
 
 Bread is actually a good source of carbohydrates but other than that it offers **little nutritional value** for ducks. Eating a lot of bread will make a duck overweight and can even lead to malnutrition. Offered in extreme moderation, bread is not harmful to ducks but especially for wild ducks that moderation is very hard to judge.
 
+# Can Ducks Eat Moldy Bread?
+
 Feeding ducks bread can also lead to a number of other problems. Uneaten bread in water can cause **algal blooms**, which in turn [can affect water life](https://en.wikipedia.org/wiki/Algal_bloom#Freshwater_algal_blooms){:target="_blank"} and cause plants and fish to die off. Moldy decayed bread can lead to **diseases** among ducks that in some cases can even be fatal.
 
 Young ducklings are especially sensitive to **not getting the right nutrition** for healthy growth from a diet of mostly bread.
