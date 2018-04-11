@@ -114,9 +114,4 @@ However, don't hurry this process! If you see that your rabbit starts "forgettin
 
 > If the area of free space becomes big you might need to include extra litter trays.
 
-
-Keep your rabbit confined until you are sure that it is using the tray, then increase its freedom room by room (keeping a sharp eye out for accidents!) until you are confident that your rabbit is consistently using the tray.  If your rabbit pees outside the tray, do not try to punish it, simply clean up the mess with kitchen towel and put this in the tray.  A dilution of white vinegar removes urine safely from most surfaces.
-
-As she gets better trained in her first room, you can increase her space. Don't hurry this process. And if the area becomes very big, or includes a second floor, be sure to include more litterboxes, so as not to confuse her. Remember, as she becomes more confident and uses fewer boxes, you can start to remove some of her early, "training" boxes. Get your rabbit into a daily routine and try not to vary it. Rabbits are very habitual and once a routine is established, they usually prefer to stick with it.
-
 ---
