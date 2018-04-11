@@ -91,3 +91,17 @@ When starting the training it is best to **provide a couple of litter boxes**. T
 <img src="{{ site.url }}/assets/images/posts/rabbits/rabbit-litter-box.jpg" alt="rabbit litter box" class="align-right">
 
 As rabbits are diggers, they can kick their litter out of the box. In addition, they might back up in the corner so far that they urinate over the edge. Getting a box with higher edges or a cover can help to control these problems.
+
+# Cleaning the Litter Tray
+
+The litter box should be cleaned regularly in order to avoid that your rabbit sits in its own urine.
+
+<img src="{{ site.url }}/assets/images/posts/food/hay.jpg" alt="hay" class="align-right">
+
+The **actual frequency depends** on a number of factors: the **size of the rabbit**, the **size of the litter box** and the current **diet (eating and drinking)**. For example, when it is warmer your bunny will drink more and as a result, urinate more often.
+
+Typically you will need to change the litter every other day. For smaller litter boxes you might want to change it every day.
+
+> Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
+
+---
