@@ -19,9 +19,9 @@ published: true
 
 # Do Ducks Eat Grapes?
 
-A grape is a great source of **natural sugar** and a great treat for ducks when given in moderation.
-
 <img src="{{ site.url }}/assets/images/posts/food/grapes.jpg" alt="grapes" class="align-right">
+
+A grape is a great source of **natural sugar** and a great treat for ducks when given in moderation.
 
 Before feeding them to ducks, our advice is to **cut the grapes in half** as this will make consumption easier.
 
