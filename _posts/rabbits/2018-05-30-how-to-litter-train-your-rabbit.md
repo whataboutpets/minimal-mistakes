@@ -110,8 +110,10 @@ The actual frequency depends on a number of factors: the **size of the rabbit**,
 
 Once you see that your bunny has learned to consistently use the litter box(es), you can decide to **gradually offer more space**.
 
+<img src="{{ site.url }}/assets/images/posts/other/large-room.jpg" alt="large room" class="align-right">
+
 However, don't hurry this process! If you see that your rabbit starts "forgetting" to use the box, reduce the free space so that the earlier habit resumes again.
 
-> If the area of free space becomes big you might need to include extra litter trays.
+> If the area in which your rabbit can roam around freely becomes big you might need to include extra litter trays.
 
 ---

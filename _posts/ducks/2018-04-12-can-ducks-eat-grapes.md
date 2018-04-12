@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-grapes-teaser.jpg"
 categories: [Ducks]
 tags: [Eat, Feed, Grapes]
-published: false
+published: true
 ---
 
 <figure>
