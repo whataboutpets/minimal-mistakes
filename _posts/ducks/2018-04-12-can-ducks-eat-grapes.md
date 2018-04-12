@@ -27,7 +27,7 @@ Before feeding them to ducks, our advice is to **cut the grapes in half** as thi
 
 When looking for a healthy alternative to bread, grapes are a good choice for feeding both domesticated and wild ducks.
 
-But remember to combine with other treats and **exercise portion control**!
+Preferably combine the grapes with other treats and **exercise portion control**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mlMBNq5XJQQ" frameborder="0"></iframe>
 
