@@ -23,9 +23,11 @@ Ducks are [omnivorous](https://en.wikipedia.org/wiki/Omnivore){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/posts/food/goldfish.jpg" alt="goldfish" class="align-right">
 
-The fish-eating habits actually depend on the [type of duck](https://en.wikipedia.org/wiki/Duck#Feeding){:target="_blank"}. Dabbling ducks, for example, can only reach underwater without completely submerging and thus limiting their catching ability. Diving ducks and sea ducks can forage deep underwater. There are even a few specialized species that are adapted to catch and swallow large fish.
+The fish-eating habits actually depend on the [type of duck](https://en.wikipedia.org/wiki/Duck#Feeding){:target="_blank"}.
 
-If you are raising ducks you can get live [feeder fish](https://en.wikipedia.org/wiki/Feeder_fish){:target="_blank"} in your local pet store. There are a number of types available ranging from feeder goldfish, minnows, to guppies.
+Dabbling ducks, for example, can only reach underwater without completely submerging and thus limiting their catching ability. Diving ducks and sea ducks can forage deep underwater. There are even a few specialized species that are adapted to catch and swallow large fish.
+
+If you are raising ducks you can get live [feeder fish](https://en.wikipedia.org/wiki/Feeder_fish){:target="_blank"} from your local pet store. There are a number of types available ranging from feeder goldfish, minnows, to guppies.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgGPUSU3NoI" frameborder="0"></iframe>
 
