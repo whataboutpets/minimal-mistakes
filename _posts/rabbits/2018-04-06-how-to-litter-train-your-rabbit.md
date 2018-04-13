@@ -94,6 +94,30 @@ Once your rabbit has gotten into the routine and uses fewer boxes, you can opt t
 
 As rabbits are diggers, they can kick their litter out of the box. In addition, they might back up in the corner so far that they urinate over the edge. Getting a box with higher edges or a cover can help to control these problems.
 
+# Spending Time in the Litter Box
+
+When starting litter training ideally you want to encourage your rabbit to **spend time in the litter box**. This way when your bunny eliminates it will already be in the correct place.
+
+> A great way to get a rabbit to stay in the tray for a while is by filling it with some fresh hay.
+
+In a lot of cases, rabbits will even sleep in their litter box.
+
+# Actively Encouraging Behaviour
+
+Certainly, in the beginning, it is important that you try to actively encourage good behavior.
+
+If you spot your rabbit is about to go outside of the litter box, try to avoid this by gently herding her/him back in one of the available boxes. You can also verbally praise and offer a treat if the tray is used correctly.
+
+Always apply positive reinforcement as you don't want the litter box to seem like punishment.
+
+# Exercise Patience and Persistence
+
+As with most training **patience and persistence** are key. Give your bunny time to develop its litter habits.
+
+Don't get discouraged too soon, some accidents are likely to happen. When they do, make sure to clean up right away as otherwise, you risk that your rabbit starts to associate that spot with going to the toilet.
+
+> Use a spray bottle filled with white vinegar as this is very effective at removing rabbit urine.
+
 # Cleaning the Litter Tray
 
 The litter box should be **cleaned regularly** in order to avoid that your rabbit sits in its own urine.
