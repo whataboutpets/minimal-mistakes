@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-fish-teaser.jpg"
 categories: [Ducks]
 tags: [Eat, Eggs, Feed, Fish, Goldfish]
-published: false
+published: true
 ---
 
 <figure>
