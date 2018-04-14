@@ -108,7 +108,7 @@ In a lot of cases, rabbits will even sleep in their litter box.
 
 Certainly, in the beginning, it is important that you try to **actively encourage good behavior**.
 
-<img src="{{ site.url }}/assets/images/posts/food/well-done.jpg" alt="well-done" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/other/well-done.jpg" alt="well-done" class="align-right">
 
 If you spot your rabbit is about to go outside of the litter box, try to avoid this by gently herding her/him back in one of the available boxes. You can also verbally praise and offer a treat if the tray is used correctly.
 
@@ -118,7 +118,7 @@ If you spot your rabbit is about to go outside of the litter box, try to avoid t
 
 As with most training **patience and persistence** are key. Give your bunny time to develop its litter habits.
 
-<img src="{{ site.url }}/assets/images/posts/food/patience.jpg" alt="patience" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/other/patience.jpg" alt="patience" class="align-right">
 
 Don't get discouraged too soon, some accidents are likely to happen. When they do, make sure to clean up right away as otherwise, you risk that your rabbit starts to associate that spot with going to the toilet.
 
@@ -130,7 +130,7 @@ The litter box should be **cleaned regularly** in order to avoid that your rabbi
 
 > Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
 
-<img src="{{ site.url }}/assets/images/posts/food/newspaper.jpg" alt="newspaper" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/other/newspaper.jpg" alt="newspaper" class="align-right">
 
 Typically you will need to change the litter every other day. For smaller litter boxes you might want to change it every day.
 
