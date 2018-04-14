@@ -98,9 +98,9 @@ As rabbits are diggers, they can kick their litter out of the box. In addition, 
 
 When starting litter training ideally you want to encourage your rabbit to **spend time in the litter box**. This way when your bunny eliminates it will already be in the correct place.
 
-> A great way to get a rabbit to stay in the tray for a while is by filling it with some fresh hay.
-
 <img src="{{ site.url }}/assets/images/posts/food/hay.jpg" alt="hay" class="align-right">
+
+> A great way to get a rabbit to stay in the tray for a while is by filling it with some fresh hay.
 
 In a lot of cases, rabbits will even sleep in their litter box.
 
@@ -128,9 +128,9 @@ Don't get discouraged too soon, some accidents are likely to happen. When they d
 
 The litter box should be **cleaned regularly** in order to avoid that your rabbit sits in its own urine.
 
-> Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
-
 <img src="{{ site.url }}/assets/images/posts/other/newspaper.jpg" alt="newspaper" class="align-right">
+
+> Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
 
 Typically you will need to change the litter every other day. For smaller litter boxes you might want to change it every day.
 
