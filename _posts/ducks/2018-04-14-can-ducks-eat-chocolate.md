@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-chocolate-teaser.jpg"
 categories: [Ducks]
 tags: [Chocolate, Eat, Feed]
-published: false
+published: true
 ---
 
 <figure>
