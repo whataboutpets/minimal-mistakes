@@ -100,6 +100,8 @@ When starting litter training ideally you want to encourage your rabbit to **spe
 
 > A great way to get a rabbit to stay in the tray for a while is by filling it with some fresh hay.
 
+<img src="{{ site.url }}/assets/images/posts/food/hay.jpg" alt="hay" class="align-right">
+
 In a lot of cases, rabbits will even sleep in their litter box.
 
 # Actively Encouraging Behaviour
@@ -126,13 +128,13 @@ Don't get discouraged too soon, some accidents are likely to happen. When they d
 
 The litter box should be **cleaned regularly** in order to avoid that your rabbit sits in its own urine.
 
-<img src="{{ site.url }}/assets/images/posts/food/hay.jpg" alt="hay" class="align-right">
+> Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
+
+<img src="{{ site.url }}/assets/images/posts/food/newspaper.jpg" alt="newspaper" class="align-right">
 
 Typically you will need to change the litter every other day. For smaller litter boxes you might want to change it every day.
 
 The actual frequency depends on a number of factors: the **size of the rabbit**, the **size of the litter box** and the **current diet** (eating and drinking). For example, when it is warmer your bunny will drink more and as a result, urinate more often.
-
-> Place a couple of newspaper sections at the bottom of the box underneath the litter. This helps to absorb the urine and keep the litter and tray clean.
 
 # Increasing Freedom
 
