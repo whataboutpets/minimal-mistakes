@@ -20,8 +20,6 @@ published: true
 
 Ever wondered whether bread is bad for ducks? What about fish, vegetables, fruits, snacks or even food from other pets? In order to help you decide, we have compiled a list of different food items and whether it is a good idea to offer them to ducks or not.
 
-*Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a duck a certain type of food, our best advice is to **just don't do it**. In addition, when doing our research, we noticed that a number of the below items are up for debate. So if you know something we haven't mentioned please let us know in the comments section below.
-
 ## What Does a Duck Eat?
 
 <img src="{{ site.url }}/assets/images/ducks/ducks-eating-seeds.jpg" alt="ducks eating seeds" class="align-right">
@@ -38,7 +36,7 @@ So what can ducks eat? Let's dive into the list!
 
 *Disclaimer*{:.underline}: the list below is by no means exhaustive. **If you're unsure** about feeding a duck a certain type of food, our best advice is to **just not do it**.
 
-_While doing our research, we have tried to come up with a list of lots of alternatives. If you know of other food items that your duck really enjoys let us know in the comments section below._
+_While doing our research, we have tried to come up with a list of alternatives. If you know of other food items that your duck really enjoys let us know in the comments section below._
 
 ## Can Ducks Eat?
 
