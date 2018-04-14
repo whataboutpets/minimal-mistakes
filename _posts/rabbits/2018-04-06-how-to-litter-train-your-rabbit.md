@@ -104,15 +104,19 @@ In a lot of cases, rabbits will even sleep in their litter box.
 
 # Actively Encouraging Behaviour
 
-Certainly, in the beginning, it is important that you try to actively encourage good behavior.
+Certainly, in the beginning, it is important that you try to **actively encourage good behavior**.
+
+<img src="{{ site.url }}/assets/images/posts/food/well-done.jpg" alt="well-done" class="align-right">
 
 If you spot your rabbit is about to go outside of the litter box, try to avoid this by gently herding her/him back in one of the available boxes. You can also verbally praise and offer a treat if the tray is used correctly.
 
-Always apply positive reinforcement as you don't want the litter box to seem like punishment.
+**Always apply positive reinforcement** as you don't want the litter box to seem like punishment.
 
 # Exercise Patience and Persistence
 
 As with most training **patience and persistence** are key. Give your bunny time to develop its litter habits.
+
+<img src="{{ site.url }}/assets/images/posts/food/patience.jpg" alt="patience" class="align-right">
 
 Don't get discouraged too soon, some accidents are likely to happen. When they do, make sure to clean up right away as otherwise, you risk that your rabbit starts to associate that spot with going to the toilet.
 
