@@ -15,13 +15,13 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-rice.jpg" alt="can ducks eat chocolate" class="title-banner">
 </figure>
 
-# Do Ducks Eat Rice?
-
 [Rice](https://en.wikipedia.org/wiki/Rice){:target="_blank"} is the seed of a grass species. It is the [staple food](https://en.wikipedia.org/wiki/Staple_food){:target="_blank"} of over half the world's population and it is consumed especially in Asia.
 
-<img src="{{ site.url }}/assets/images/posts/food/rice-plant.jpg" alt="rice plant" class="align-right">
+# Do Ducks Eat Rice?
 
 Throwing rice at a newly wedded couple has been a long-standing tradition. However more recently we're cautioned not to throw rice as it is harmful to birds that might eat it. Because of this, you might also think that rice is bad for ducks.
+
+<img src="{{ site.url }}/assets/images/posts/food/rice-plant.jpg" alt="rice plant" class="align-right">
 
 The reality is that [rice poses no harm to ducks](http://mentalfloss.com/article/31421/does-wedding-rice-really-make-birds-explode){:target="_blank"}. Wild birds will feed on uncooked rice all the time and many of them depend on rice fields to maintain fat in the winter.
 
