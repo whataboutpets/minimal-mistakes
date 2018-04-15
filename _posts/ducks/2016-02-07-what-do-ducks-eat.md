@@ -47,6 +47,7 @@ If you are looking for information on a specific food item, use the below links 
 | [Grapes]({{ site.url }}/ducks/can-ducks-eat-grapes.html)  | [Fish]({{ site.url }}/ducks/can-ducks-eat-fish.html)  | [Bread]({{ site.url }}/ducks/can-ducks-eat-bread.html)          |
 |                                                           |                                                       | [Chocolate]({{ site.url }}/ducks/can-ducks-eat-chocolate.html)  |
 |                                                           |                                                       | [Popcorn]({{ site.url }}/ducks/can-ducks-eat-popcorn.html)      |
+|                                                           |                                                       | [Rice]({{ site.url }}/ducks/can-ducks-eat-rice.html)            |
 
 ## Final Thoughts
 

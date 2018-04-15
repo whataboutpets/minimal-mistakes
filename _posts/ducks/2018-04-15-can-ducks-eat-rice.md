@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/ducks/can-ducks-eat-rice-teaser.jpg"
 categories: [Ducks]
 tags: [Boiled, Cooked, Dry, Eat, Feed, Raw, Rice, Uncooked]
-published: false
+published: true
 ---
 
 <figure>
