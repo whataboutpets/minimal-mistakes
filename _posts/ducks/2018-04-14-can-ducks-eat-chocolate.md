@@ -15,13 +15,13 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-chocolate.jpg" alt="can ducks eat chocolate" class="title-banner">
 </figure>
 
-# Do Ducks Eat Chocolate?
-
 [Chocolate](https://en.wikipedia.org/wiki/Chocolate){:target="_blank"} is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery){:target="_blank"} or used as a flavoring ingredient in other foods.
 
-<img src="{{ site.url }}/assets/images/posts/food/chocolate.jpg" alt="chocolate" class="align-right">
+# Do Ducks Eat Chocolate?
 
 Chocolate contains substances called **theobromine and caffeine** which come from the cacao bean. The cocoa trees load up the cocoa beans with these substances in order to [protect the cacao bean from being eaten](http://www.amanochocolate.com/articles/how-much-caffeine-is-in-chocolate/){:target="_blank"}. While our human body is capable of detoxifying and removing theobromine and caffeine, to insects and wildlife, these substances can actually be toxic.
+
+<img src="{{ site.url }}/assets/images/posts/food/chocolate.jpg" alt="chocolate" class="align-right">
 
 Theobromine and caffeine originate from the cacao bean. As a general rule, **the more cacao the chocolate contains** (typically the darker chocolate), **the more dangerous** it is for certain animals.
 

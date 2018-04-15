@@ -32,6 +32,6 @@ Rice still in the hull, brown rice, white rice, cooked or uncooked won't hurt du
 **Conclusion:** ducks can eat rice both cooked and uncooked. 
 {: .notice--info}
 
-_Did you know about the throwing rice at a wedding myth? Let us know in the comment section below._
+_Did you know that throwing rice at a wedding being bad for birds was a myth? Let us know in the comment section below._
 
 ---
