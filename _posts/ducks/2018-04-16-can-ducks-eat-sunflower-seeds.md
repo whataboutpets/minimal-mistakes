@@ -1,35 +1,35 @@
 ---
-title: "Can Ducks Eat Rice?"
-permalink: /:categories/can-ducks-eat-rice.html
-excerpt: "Do you want to know if ducks can eat chocolate? Learn if feeding chocolate is healthy for a duck."
-date: 2018-04-14
-last_modified_at: 2018-04-14
+title: "Can Ducks Eat Sunflower Seeds?"
+permalink: /:categories/can-ducks-eat-sunflower-seeds.html
+excerpt: "Wondering whether ducks can eat sunflower seeds? What about the shells? Find out if feeding sunflower seeds is healthy for a duck."
+date: 2018-04-16
+last_modified_at: 2018-04-16
 header:
-  teaser: "assets/images/posts/ducks/can-ducks-eat-chocolate-teaser.jpg"
+  teaser: "assets/images/posts/ducks/can-ducks-eat-sunflower-seeds-teaser.jpg"
 categories: [Ducks]
-tags: [Chocolate, Eat, Feed]
-published: false
+tags: [Eat, Feed, Sunflower Seeds, Shells]
+published: true
 ---
 
 <figure>
-  <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-chocolate.jpg" alt="can ducks eat chocolate" class="title-banner">
+  <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-sunflower-seeds.jpg" alt="can ducks eat sunflower seeds" class="title-banner">
 </figure>
 
-# Do Ducks Eat Chocolate?
+[Sunflower seeds](https://en.wikipedia.org/wiki/Sunflower_seed){:target="_blank"} are the fruit of the sunflower. They are usually classified by the pattern on their shell. Black oil sunflower seeds are usually pressed to extract their oil. Striped sunflower seeds are primarily eaten as a snack.
 
-[Chocolate](https://en.wikipedia.org/wiki/Chocolate){:target="_blank"} is a food preparation which is made from roasted and ground cacao beans. It is typically sweetened and eaten as [confectionery](https://en.wikipedia.org/wiki/Confectionery){:target="_blank"} or used as a flavoring ingredient in other foods.
+# Do Ducks Eat Sunflower Seeds?
 
-<img src="{{ site.url }}/assets/images/posts/food/chocolate.jpg" alt="chocolate" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/food/sunflower-seeds.jpg" alt="sunflower seeds" class="align-right">
 
-Chocolate contains substances called **theobromine and caffeine** which come from the cacao bean. The cocoa trees load up the cocoa beans with these substances in order to [protect the cacao bean from being eaten](http://www.amanochocolate.com/articles/how-much-caffeine-is-in-chocolate/){:target="_blank"}. While our human body is capable of detoxifying and removing theobromine and caffeine, to insects and wildlife, these substances can actually be toxic.
+Ducks can eat both black oil and striped sunflower seeds and it doesn't matter if they still have their shells.
 
-Theobromine and caffeine originate from the cacao bean. As a general rule, **the more cacao the chocolate contains** (typically the darker chocolate), **the more dangerous** it is for certain animals.
+When buying, just make sure to get ones that don't have any salt added to them.
 
-Dogs and cats are well known pets that are susceptible to [chocolate poisoning](http://askdrlouise.com/blog/the-dark-side-of-chocolate/){:target="_blank"}. But chocolate is also **toxic to livestock like calves, goats, and ducks**. In a first stage, the digestive system is affected, leading to vomiting and diarrhea. As the condition progresses, the central nervous system is impacted, first causing seizures and eventually death.
+If you're looking to make your own homemade duck feed checkout following [receipe which also includes sunflower seeds](http://www.beksbackyard.com/2013/04/how-to-make-your-own-homemade-duck-feed.html?m=1){:target="_blank"}.
 
-**Conclusion:** never feed ducks chocolate!
+**Conclusion:** you can feed ducks sunflowers seeds both in-shell or dehulled.
 {: .notice--info}
 
-_Did you know that chocolate should not be fed to ducks? We're curious to find out._
+_Do you sometimes offer sunflower seeds to ducks? Let us know in the comment section below._
 
 ---

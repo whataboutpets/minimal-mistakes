@@ -42,12 +42,12 @@ _While doing our research, we have tried to come up with a list of alternatives.
 
 If you are looking for information on a specific food item, use the below links in order to quickly jump to the corresponding page.
 
-| Plants                                                    | Animals                                               | Other                                                           |
-|:--------------------------------------------------------- |:----------------------------------------------------- |:--------------------------------------------------------------- |
-| [Grapes]({{ site.url }}/ducks/can-ducks-eat-grapes.html)  | [Fish]({{ site.url }}/ducks/can-ducks-eat-fish.html)  | [Bread]({{ site.url }}/ducks/can-ducks-eat-bread.html)          |
-|                                                           |                                                       | [Chocolate]({{ site.url }}/ducks/can-ducks-eat-chocolate.html)  |
-|                                                           |                                                       | [Popcorn]({{ site.url }}/ducks/can-ducks-eat-popcorn.html)      |
-|                                                           |                                                       | [Rice]({{ site.url }}/ducks/can-ducks-eat-rice.html)            |
+| Plants                                                                      | Animals                                               | Other                                                           |
+|:--------------------------------------------------------------------------- |:----------------------------------------------------- |:--------------------------------------------------------------- |
+| [Grapes]({{ site.url }}/ducks/can-ducks-eat-grapes.html)                    | [Fish]({{ site.url }}/ducks/can-ducks-eat-fish.html)  | [Bread]({{ site.url }}/ducks/can-ducks-eat-bread.html)          |
+| [Sunflower Seeds]({{ site.url }}/ducks/can-ducks-eat-sunflower-seeds.html)  |                                                       | [Chocolate]({{ site.url }}/ducks/can-ducks-eat-chocolate.html)  |
+|                                                                             |                                                       | [Popcorn]({{ site.url }}/ducks/can-ducks-eat-popcorn.html)      |
+|                                                                             |                                                       | [Rice]({{ site.url }}/ducks/can-ducks-eat-rice.html)            |
 
 ## Final Thoughts
 
