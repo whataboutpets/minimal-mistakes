@@ -15,7 +15,9 @@ published: true
   <img src="{{ site.url }}/assets/images/posts/ducks/can-ducks-eat-sunflower-seeds.jpg" alt="can ducks eat sunflower seeds" class="title-banner">
 </figure>
 
-[Sunflower seeds](https://en.wikipedia.org/wiki/Sunflower_seed){:target="_blank"} are the fruit of the sunflower. They are usually classified by the pattern on their shell. Black oil sunflower seeds are usually pressed to extract their oil. Striped sunflower seeds are primarily eaten as a snack.
+[Sunflower seeds](https://en.wikipedia.org/wiki/Sunflower_seed){:target="_blank"} are the fruit of the sunflower. They are usually classified by the pattern on their shell.
+
+Black oil sunflower seeds are usually pressed to extract their oil. Striped sunflower seeds are primarily eaten as a snack.
 
 # Do Ducks Eat Sunflower Seeds?
 
