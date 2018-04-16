@@ -19,9 +19,9 @@ published: true
 
 # Do Ducks Eat Sunflower Seeds?
 
-<img src="{{ site.url }}/assets/images/posts/food/sunflower-seeds.jpg" alt="sunflower seeds" class="align-right">
-
 Ducks can eat both black oil and striped sunflower seeds and it doesn't matter if they still have their shells.
+
+<img src="{{ site.url }}/assets/images/posts/food/sunflower-seeds.jpg" alt="sunflower seeds" class="align-right">
 
 When buying, just make sure to get ones that don't have any salt added to them.
 
