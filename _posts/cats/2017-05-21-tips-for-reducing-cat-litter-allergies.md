@@ -33,9 +33,9 @@ There are many different types of cat litters on the market, but essentially mos
 
 **Scan through the ingredients list** located on your cat litter packaging. Non-clumping conventional litters are typically made out of clay. If you are using clumping cat litter there is a high chance it is made from granulated [bentonite clay](https://en.wikipedia.org/wiki/Bentonite){:target="_blank"}. These are the types you probably want to avoid. On the other hand, if you are allergic to the biodegradable types you might want to look for a clay-based litter that is very low on dust.
 
-[Biodegradable litters](https://en.wikipedia.org/wiki/Litter_box#Biodegradable_litter) are made from various plant resources, including pine wood pellets, recycled newspaper, corn, wheat, and walnuts. An added advantage that these litters have is that they are much **more friendly to the environment**.
+[Biodegradable litters](https://en.wikipedia.org/wiki/Litter_box#Biodegradable_litter){:target="_blank"} are made from various plant resources, including pine wood pellets, recycled newspaper, corn, wheat, and walnuts. An added advantage that these litters have is that they are much **more friendly to the environment**.
 
-Silica gel litter is often referred to as "crystal litter". The silica used in these products is similar to the beads packed in a permeable bag that are used as a preservative for goods that can be damaged by excess moisture. Because the granules in this type of litter are not fine, they produce a lot less dust.
+Silica gel litter is often referred to as "crystal litter". The [silica](https://en.wikipedia.org/wiki/Silicon_dioxide){:target="_blank"} used in these products is similar to the beads packed in a permeable bag that are used as a preservative for goods that can be damaged by excess moisture. Because the granules in this type of litter are not fine, they produce a lot less dust.
 
 Keep in mind that **switching litter might take some time** as it is typically a process of trial and error. But don't get discouraged as changing litter is one of the best ways to reduce cat litter allergies.
 
@@ -47,7 +47,7 @@ Preferably the **litter box is placed in a well-ventilated area**, but make sure
 
 <img src="{{ site.url }}/assets/images/posts/other/location.jpg" alt="location" class="align-right">
 
-Choose an area like a garage or laundry room that has vents to the outside. On top of keeping dust out, odors can also escape.
+Choose an area like a garage or laundry room that has **vents to the outside**. On top of keeping dust out, odors can also escape.
 
 Make sure to keep the litter tray away from central air intake vents, as these will spread the dust throughout your home. Having the allergens circulating around your house will probably make things worse.
 
@@ -57,9 +57,9 @@ Avoid rooms where you spend a lot of your time or that you frequent a lot. The m
 
 Make sure to change the litter often. Keep the box as clean as possible by washing it down at least once a week. This will reduce allergen buildup.
 
-As cat urine and feces can also contain allergens, scoop at least once or twice a day. It's even better if you can get to it as soon as your kitty has made a deposit. There are self-cleaning litter boxes available that use a sensor to tell when a cat has entered and then left the litter box.
-
 <img src="{{ site.url }}/assets/images/posts/other/repeat.jpg" alt="repeat" class="align-right">
+
+As cat urine and feces can also contain allergens, scoop at least once or twice a day. It's even better if you can get to it as soon as your kitty has made a deposit. There are self-cleaning litter boxes available that use a sensor to tell when a cat has entered and then left the litter box.
 
 Twice a week is a general guideline for replacing litter. Fitting a litter liner in your cat's litter box can help minimize spillage when emptying the box. 
 
