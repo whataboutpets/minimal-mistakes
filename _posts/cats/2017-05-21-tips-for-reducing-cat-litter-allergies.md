@@ -59,6 +59,8 @@ Make sure to change the litter often. Keep the box as clean as possible by washi
 
 As cat urine and feces can also contain allergens, scoop at least once or twice a day. It's even better if you can get to it as soon as your kitty has made a deposit. There are self-cleaning litter boxes available that use a sensor to tell when a cat has entered and then left the litter box.
 
+<img src="{{ site.url }}/assets/images/posts/other/repeat.jpg" alt="repeat" class="align-right">
+
 Twice a week is a general guideline for replacing litter. Fitting a litter liner in your cat's litter box can help minimize spillage when emptying the box. 
 
 Scrub the box every time you change the litter using a mild dish detergent. Be careful when using stronger cleaning products as they can turn a cat off, and in some cases are toxic to cats.
