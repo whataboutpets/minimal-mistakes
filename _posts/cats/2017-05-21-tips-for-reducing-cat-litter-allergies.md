@@ -45,9 +45,9 @@ Keep in mind that **switching litter might take some time** as it is typically a
 
 Preferably the **litter box is placed in a well-ventilated area**, but make sure to avoid highly trafficked areas to reduce exposure to the cat litter.
 
-Choose an area like a garage or laundry room that has vents to the outside. On top of keeping dust out, odors can also escape.
-
 <img src="{{ site.url }}/assets/images/posts/other/location.jpg" alt="location" class="align-right">
+
+Choose an area like a garage or laundry room that has vents to the outside. On top of keeping dust out, odors can also escape.
 
 Make sure to keep the litter tray away from central air intake vents, as these will spread the dust throughout your home. Having the allergens circulating around your house will probably make things worse.
 
@@ -72,6 +72,8 @@ Emptying the litter is not one of the most fun chores to do around the house. Bu
 When your kitty uses the catbox, litter material will inevitably end up on paws and fur as cats instinctively try to cover their feces. Wiping or washing your cat will help keep potential allergens on your feline's fur to a minimum.
 
 Frequent baths wash away cat litter allergens on the coat and skin. Make sure to use a cat-friendly shampoo with no scent, and no additives. Look for one that does not dry out your cat's skin.
+
+<img src="{{ site.url }}/assets/images/posts/other/clean.jpg" alt="clean" class="align-right">
 
 As bathing is typically very stressful for a cat we recommend that you first apply a flower essence blend to reduce your cat's anxiety. If your cat flips out just let go as a frightened, distressed cat will shred or bite you to get free.
 
