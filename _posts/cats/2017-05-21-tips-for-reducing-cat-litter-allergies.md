@@ -55,7 +55,7 @@ Avoid rooms where you spend a lot of your time or that you frequent a lot. The m
 
 # Empty the Cat Litter Frequently
 
-Make sure to change the litter often. Keep the box as clean as possible by washing it down at least once a week. This will reduce allergen buildup.
+Make sure to change the litter often. Keep the box as clean as possible by **washing it down at least once a week**. This will reduce allergen buildup.
 
 <img src="{{ site.url }}/assets/images/posts/other/repeat.jpg" alt="repeat" class="align-right">
 
@@ -63,9 +63,9 @@ As cat urine and feces can also contain allergens, scoop at least once or twice 
 
 Twice a week is a general guideline for replacing litter. Fitting a litter liner in your cat's litter box can help minimize spillage when emptying the box. 
 
-Scrub the box every time you change the litter using a mild dish detergent. Be careful when using stronger cleaning products as they can turn a cat off, and in some cases are toxic to cats.
+Scrub the box every time you change the litter using a mild dish detergent. Be **careful when using stronger cleaning products** as they can turn a cat off, and in some cases are toxic to cats.
 
-If possible, have someone in the household who is not allergic scoop or empty the box. Otherwise using a mask and gloves can help minimize allergic reactions.
+> If possible, have someone in the household who is not allergic scoop or empty the box. Otherwise using a mask and gloves can help minimize allergic reactions.
 
 Emptying the litter is not one of the most fun chores to do around the house. But on the bright side, by regularly changing the cat litter you have the added advantage that the litter box will always smell fresh.
 
@@ -73,13 +73,13 @@ Emptying the litter is not one of the most fun chores to do around the house. Bu
 
 When your kitty uses the catbox, litter material will inevitably end up on paws and fur as cats instinctively try to cover their feces. Wiping or washing your cat will help keep potential allergens on your feline's fur to a minimum.
 
-Frequent baths wash away cat litter allergens on the coat and skin. Make sure to use a cat-friendly shampoo with no scent, and no additives. Look for one that does not dry out your cat's skin.
+**Frequent baths wash away cat litter allergens** on the coat and skin. Make sure to use a cat-friendly shampoo with no scent, and no additives. Look for one that does not dry out your cat's skin.
 
 <img src="{{ site.url }}/assets/images/posts/other/clean.jpg" alt="clean" class="align-right">
 
 As bathing is typically very stressful for a cat we recommend that you first apply a flower essence blend to reduce your cat's anxiety. If your cat flips out just let go as a frightened, distressed cat will shred or bite you to get free.
 
-For felines who prefer not to be rinsed in the tub, cat wipes are a good alternative. They might actually be more effective as they can be used on a daily basis and are less stressful for your cat. Wipe from back of the ears to tail, carefully avoiding eyes.
+For felines who prefer not to be rinsed in the tub, **cat wipes are a good alternative**. They might actually be more effective as they can be used on a daily basis and are less stressful for your cat. Wipe from back of the ears to tail, carefully avoiding eyes.
 
 Note that **washing also applies to your own hands** whenever they have been in contact with the cat litter. Either directly or via your cat's fur.
 
