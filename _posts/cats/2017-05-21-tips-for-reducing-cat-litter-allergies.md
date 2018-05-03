@@ -25,15 +25,15 @@ Are you ready? Here we go.
 
 # Change the Type of Cat Litter
 
-Cat litter comes in a variety of materials. Litter made out of clay will in most cases generate dust which is a well known [allergen](https://en.wikipedia.org/wiki/Allergen). On top of that clay can attract dust mites, another allergen source. Try to **stay clear of these clay-based litters** and go for the [hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic) varieties.
+Cat litter comes in a variety of materials. Litter made out of clay will in most cases generate dust which is a well known [allergen](https://en.wikipedia.org/wiki/Allergen){:target="_blank"}. On top of that clay can attract dust mites, another allergen source. Try to **stay clear of these clay-based litters** and go for the [hypoallergenic](https://en.wikipedia.org/wiki/Hypoallergenic){:target="_blank"} varieties.
 
-There are many different types of cat litters on the market, but essentially most of them fall into three distinct categories: clay-based, silica-based, and biodegradable. The last two tend to produce little to no dust. 
+There are many different types of cat litters on the market, but essentially most of them fall into three distinct categories: **clay-based, silica-based, and biodegradable**. The last two tend to produce little to no dust. 
 
 <img src="{{ site.url }}/assets/images/posts/cats/cat-litter.jpg" alt="cat litter" class="align-right">
 
-Scan through the ingredients list located on your cat litter packaging. Non-clumping conventional litters are typically made out of clay. If you are using clumping cat litter there is a high chance it is made from granulated [bentonite clay](https://en.wikipedia.org/wiki/Bentonite). These are the types you probably want to avoid. On the other hand, if you are allergic to the biodegradable types you might want to look for a clay-based litter that is very low on dust.
+**Scan through the ingredients list** located on your cat litter packaging. Non-clumping conventional litters are typically made out of clay. If you are using clumping cat litter there is a high chance it is made from granulated [bentonite clay](https://en.wikipedia.org/wiki/Bentonite){:target="_blank"}. These are the types you probably want to avoid. On the other hand, if you are allergic to the biodegradable types you might want to look for a clay-based litter that is very low on dust.
 
-[Biodegradable litters](https://en.wikipedia.org/wiki/Litter_box#Biodegradable_litter) are made from various plant resources, including pine wood pellets, recycled newspaper, corn, wheat, and walnuts. An added advantage that these litters have is that they are much more friendly to the environment.
+[Biodegradable litters](https://en.wikipedia.org/wiki/Litter_box#Biodegradable_litter) are made from various plant resources, including pine wood pellets, recycled newspaper, corn, wheat, and walnuts. An added advantage that these litters have is that they are much **more friendly to the environment**.
 
 Silica gel litter is often referred to as "crystal litter". The silica used in these products is similar to the beads packed in a permeable bag that are used as a preservative for goods that can be damaged by excess moisture. Because the granules in this type of litter are not fine, they produce a lot less dust.
 
@@ -79,7 +79,7 @@ As bathing is typically very stressful for a cat we recommend that you first app
 
 For felines who prefer not to be rinsed in the tub, cat wipes are a good alternative. They might actually be more effective as they can be used on a daily basis and are less stressful for your cat. Wipe from back of the ears to tail, carefully avoiding eyes.
 
-Note that washing also applies to your own hands whenever they have been in contact with the cat litter. Either directly or via your cat's fur.
+Note that **washing also applies to your own hands** whenever they have been in contact with the cat litter. Either directly or via your cat's fur.
 
 # Try an Air Purifier
 
