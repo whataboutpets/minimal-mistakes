@@ -87,13 +87,15 @@ Note that **washing also applies to your own hands** whenever they have been in 
 
 As litter dust can occur throughout your home, getting an air purifier for the area that you or your pet are immediately in can actually be a great way to decrease allergens and dust mites.
 
-Even with constant cleaning and vacuuming, it's difficult to keep the air in living spaces clean. An air purifier can help to take on this problem, and effectively get rid of these airborne allergens.
+<img src="{{ site.url }}/assets/images/posts/other/air-purifier.jpg" alt="air purifier" class="align-right">
 
-Make sure to look for a model that comes with a HEPA air filter. These filters trap 99.97% of the dust, dust mites, and other allergens out of the air.
+Even with constant cleaning and vacuuming, it's difficult to keep the air in living spaces clean. An air purifier can help to take on this problem, and effectively **get rid of these airborne allergens**.
+
+Make sure to look for a model that comes with a **HEPA air filter**. These filters trap 99.97% of the dust, dust mites, and other allergens out of the air.
 
 You can buy a free-standing unit or you can also get models that are attached to the heating or cooling system.
 
-Keep in mind that having an air purifier does not mean you can stop cleaning. They clean the air but litter dust can still be attached to the floor and other surfaces.
+Keep in mind that having an air purifier **does not mean you can stop cleaning**. They clean the air but litter dust can still be attached to the floor and other surfaces.
 
 
 
