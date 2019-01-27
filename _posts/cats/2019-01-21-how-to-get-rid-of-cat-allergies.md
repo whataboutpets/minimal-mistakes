@@ -237,9 +237,7 @@ It's a no-brainer.
 
 Get this:
 
-Animal allergens are sticky.
-
-This means that they are difficult to get rid of.
+Animal allergens are really difficult to get rid of.
 
 Think I'm exaggerating?
 
@@ -295,13 +293,19 @@ Odds are that this advice has never crossed your mind.
 
 After prolonged exposure to your cat…
 
-…simply change your clothes.
+…change your clothes.
 
-And to remove all allergens:
+Why?
 
-Give them a wash.
+Pet allergens are really "sticky".
 
-Or even better:
+So they will be all over your clothes.
+
+So how do you remove them?
+
+All you have to do is give them a wash.
+
+In addition to that:
 
 You could wear some old shirt or sweater and then change clothes when done playing with your pet.
 
@@ -309,9 +313,18 @@ You get the idea.
 
 ## 10. Keep up with the Laundry
 
-
-Pet allergens are "sticky," making it easy for people to carry them on their clothes.
-
 ![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
 
-Just make sure the water is at least 130 degrees Fahrenheit.
+*TODO
+
+Following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank"} investigated the effectiveness of laundry to remove cat allergens.
+
+For starters:
+
+Make sure you use detergent solutions.
+
+As they remove more allergens than soap or water alone.
+
+Also, the water temperature needs to be above 80 degrees Fahrenheit.
+
+It really is that simple.
