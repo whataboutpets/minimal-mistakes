@@ -189,7 +189,7 @@ Just make sure you use a shampoo formulated for cats…
 
 ## 5. No Hugging and Kissing
 
-![]({{ site.url }}/assets/images/cats/.jpg)
+![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
 
 Hang onto your seat because:
 
@@ -261,6 +261,8 @@ Want to know a dirty little secret?
 
 Carpets are the primary reservoir of allergens in the home!
 
+*TODO
+
 ## 9. Change Your Clothes
 
 ![clothes]({{ site.url }}/assets/images/cats/clothes.jpg)
@@ -275,10 +277,14 @@ And to remove all allergens:
 
 Give them a wash.
 
-Just make sure the water is at least 130 degrees Fahrenheit.
-
 Or even better.
 
-You could wear some old shirt or smock and then change clothes when done playing with your pet.
+You could wear some old shirt or sweater and then change clothes when done playing with your pet.
 
 You get the idea.
+
+## 10. Keep up with the Laundry
+
+![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
+
+Just make sure the water is at least 130 degrees Fahrenheit.
