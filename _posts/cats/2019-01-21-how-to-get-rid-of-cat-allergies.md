@@ -30,16 +30,16 @@ And here are the strategies you'll learn about in this post:
 * [5. No Hugging and Kissing]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [6. Wash those Hands]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [7. Clean Rigorously and Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [8. Bare Floors and Walls If Possible]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [8. Smooth Floors and Walls If Possible]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [9. Change Your Clothes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
-![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg)
-
 Question:
 
 What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="_blank"}?
+
+![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg)
 
 Here's the deal:
 
@@ -51,11 +51,13 @@ It reacts to harmless proteins that are present in a cat's saliva, urine, and da
 
 Be warned:
 
-*In some cases TODO
+Cat allergy symptoms range from mild to severe.
+
+Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
 
 So what's The cure?
 
-According to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to [avoid contact with cats or the areas where they live](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"}.
+[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact with cats or the areas where they live**.
 
 Removing kitty from your home is often the best treatment.
 
@@ -75,7 +77,7 @@ So here are some strategies on to how to deal with cat allergies and…
 
 OK, I know what you're thinking.
 
-There's no harm in snuggling with your feline friend.
+There's no harm in snuggling with your furry friend.
 
 But consider this:
 
@@ -111,7 +113,7 @@ And you know what?
 
 That just allows an allergic patient to have a constant exposure to that allergen.
 
-Now, wouldn't it be great if you could somehow remove these allergens from the air?
+Now, wouldn't it be great if you could somehow remove allergens from the air?
 
 That's where an air purifier fits in.
 
@@ -135,7 +137,7 @@ And run the cleaner continuously.
 
 The result?
 
-This will reduce the concentration of allergens [up to five to seven-fold](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"}.
+This can reduce the concentration of allergens [up to five to seven-fold](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"}.
 
 Nice!
 
@@ -253,15 +255,37 @@ The moral of this story?
 
 Lather, rinse, repeat.
 
-## 8. Bare Floors and Walls If Possible
+## 8. Smooth Floors and Walls If Possible
 
-![wooden]({{ site.url }}/assets/images/cats/wooden-floor.jpg)
+![wooden floor]({{ site.url }}/assets/images/cats/wooden-floor.jpg)
 
 Want to know a dirty little secret?
 
-Carpets are the primary reservoir of allergens in the home!
+Carpets are the primary reservoir of allergens in a home!
 
-*TODO
+To put it another way:
+
+They can contain [13 times](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} more cat allergens than smooth floors.
+
+But if you're serious about reducing cat allergies:
+
+Replace carpet for wood, tile or linoleum flooring.
+
+Especially try to get rid of wall-to-wall carpets as it's almost impossible to clean them.
+
+If you must have carpets…
+
+…what can you do about it?
+
+Pick out a type with a low pile.
+
+Beyond that make sure you steam clean them frequently.
+
+Or even better, use washable area rugs and clean them in hot water.
+
+All in all:
+
+Get rid of your carpets!
 
 ## 9. Change Your Clothes
 
@@ -277,13 +301,16 @@ And to remove all allergens:
 
 Give them a wash.
 
-Or even better.
+Or even better:
 
 You could wear some old shirt or sweater and then change clothes when done playing with your pet.
 
 You get the idea.
 
 ## 10. Keep up with the Laundry
+
+
+Pet allergens are "sticky," making it easy for people to carry them on their clothes.
 
 ![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
 
