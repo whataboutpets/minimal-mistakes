@@ -30,10 +30,12 @@ And here are the strategies you'll learn about in this post:
 * [5. No Hugging and Kissing]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [6. Wash those Hands]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [7. Clean Rigorously and Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [8. Bare Floors and Walls If Possible]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [9. Change Your Clothes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
-![cat thinking]({{ site.url }}/assets/images/cats/cat-thinking.jpg)
+![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg)
 
 Question:
 
@@ -63,7 +65,9 @@ Let me guess.
 
 No contact or removing is not an option!
 
-So here are some strategies to keep your feline friend around and reduce allergy exposure:
+So here are some strategies on to how to deal with cat allergies and…
+
+…keep your feline friend.
 
 ## 1. Keep out of the Bedroom
 
@@ -87,7 +91,7 @@ Start by washing bedding, pillows and drapes in hot water…
 
 …and from then on keep the bedroom door closed.
 
-In addition to that keep cleaning as it may take weeks before results are noticed.
+Also, keep cleaning as it may take weeks before you notice results.
 
 The bottom line is this:
 
@@ -185,7 +189,7 @@ Just make sure you use a shampoo formulated for cats…
 
 ## 5. No Hugging and Kissing
 
-![bathroom]({{ site.url }}/assets/images/cats/bathroom.jpg)
+![]({{ site.url }}/assets/images/cats/.jpg)
 
 Hang onto your seat because:
 
@@ -227,7 +231,7 @@ It's a no-brainer.
 
 ## 7. Clean Rigorously and Often
 
-![clean]({{ site.url }}/assets/images/cats/clean.jpg)
+![cleaning products]({{ site.url }}/assets/images/cats/cleaning-products.jpg)
 
 Get this:
 
@@ -243,16 +247,38 @@ Allergist Dr. Warner Carr [states that](https://acaai.org/allergies/types/pet-al
 
 This means you need mop the floors, vacuum the rugs, and clean furniture regularly.
 
-Don't forget to also regularly wash walls, tiles and furnaces as dander sticks to these surfaces.
+Don't forget to also regularly wash walls and tiles as allergens also sticks to these surfaces.
 
 The moral of this story?
 
 Lather, rinse, repeat.
 
-## 8. Bare Floors and Walls Are the Best
+## 8. Bare Floors and Walls If Possible
 
 ![wooden]({{ site.url }}/assets/images/cats/wooden-floor.jpg)
 
+Want to know a dirty little secret?
 
+Carpets are the primary reservoir of allergens in the home!
 
-  
+## 9. Change Your Clothes
+
+![clothes]({{ site.url }}/assets/images/cats/clothes.jpg)
+
+Odds are that this advice has never crossed your mind.
+
+After prolonged exposure to your cat…
+
+…simply change your clothes.
+
+And to remove all allergens:
+
+Give them a wash.
+
+Just make sure the water is at least 130 degrees Fahrenheit.
+
+Or even better.
+
+You could wear some old shirt or smock and then change clothes when done playing with your pet.
+
+You get the idea.
