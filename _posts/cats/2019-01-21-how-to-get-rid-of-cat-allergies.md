@@ -32,6 +32,11 @@ And here are the strategies you'll learn about in this post:
 * [7. Clean Rigorously and Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [8. Smooth Floors and Walls If Possible]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [9. Change Your Clothes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [10. Keep up with the Laundry]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [11. Cover Vents]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [12. Brush]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [13. Keep Outside]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [14. Allergy shots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -328,3 +333,62 @@ As they remove more allergens than soap or water alone.
 Also, the water temperature needs to be above 80 degrees Fahrenheit.
 
 It really is that simple.
+
+## 11. Cover Vents
+
+*TODO
+
+## 12. Brush
+
+*TODO
+
+## 13. Keep Outside
+
+*TODO
+
+## 14. Allergy Shots
+
+![syringe]({{ site.url }}/assets/images/cats/syringe.jpg)
+
+*What if I told you that TODO.
+
+Sounds crazy right…
+
+But just keep reading and I'll explain.
+
+Allergy immunotherapy works by exposing the body to minute amounts of an allergen.
+
+The point?
+
+It helps the body build up an immunity or tolerance to the allergen.
+
+Get this:
+
+There are two common types of immunotherapy:
+
+1. Allergy shots
+2. Sublingual immunotherapy (SLIT)
+
+Allergy shots involve giving injections of allergens in an increasing dose over time.
+
+In the case of SLIT, patients are given small doses of an allergen under the tongue.
+
+Bottom line:
+
+You progressively become less sensitive to the allergen.
+
+A word of caution:
+
+Treatment must always be under observation from a medical professional.
+
+*TODO sever reaction
+
+Allergy shots have a proven track record as an effective form of long-term treatment.
+
+Some people will develop complete immunity to cat allergies.
+
+On the other hand, sometimes there is no relief at all.
+
+Will it work for you?
+
+Talk to your allergist about your options for immunotherapy.
