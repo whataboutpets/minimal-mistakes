@@ -6,7 +6,7 @@ excerpt: "30 insanely actionable tips on how to deal with cat allergies."
 last_modified_at: 2019-01-29
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
-categories: [Cats]
+categories: Cats
 tags: [Allergy, Cat, Tips]
 published: true
 ---
