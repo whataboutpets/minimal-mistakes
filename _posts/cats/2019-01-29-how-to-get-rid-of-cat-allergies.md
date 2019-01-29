@@ -6,9 +6,9 @@ date: 2019-01-29
 last_modified_at: 2019-01-29
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
-categories: Cats
+categories: [Cats]
 tags: [Allergy, Cat, Tips]
-published: true
+published: false
 ---
 
 ![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
@@ -207,7 +207,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 ## 5. No Hugging and Kissing
 
-![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
+![kitten]({{ site.url }}/assets/images/cats/kitten.jpg)
 
 Hang onto your seat because:
 
@@ -465,3 +465,5 @@ Will it work for you?
 *Talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
+
+![cat food]({{ site.url }}/assets/images/cats/cat-food.jpg)
