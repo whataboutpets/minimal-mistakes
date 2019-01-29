@@ -178,7 +178,11 @@ These are specially designed to prevent outflow of the contents (including pet a
 
 News flash:
 
-*Cats and water aren't known to be best friends
+Cats have a complex relationship with water.
+
+[According](https://www.petmd.com/cat/behavior/pet-myths-do-cats-really-hate-water){:target="_blank"} to Dr. Katy Nelson they are averse to getting wet.
+
+> Cats do a nice job of bathing themselves—they don't need you to come along and supplement that for them.
 
 But bear with me.
 
@@ -193,6 +197,10 @@ Sounds good, right?
 Just make sure you use a shampoo formulated for cats…
 
 …and stop if your feline friend gets traumatized by the experience.
+
+Want to know more about how to bathe your cat?
+
+Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Cat){:target="_blank"}.
 
 ## 5. No Hugging and Kissing
 
@@ -330,7 +338,7 @@ Make sure you use detergent solutions.
 
 As they remove more allergens than soap or water alone.
 
-Also, the water temperature needs to be above 80 degrees Fahrenheit.
+Also, the water temperature needs to be above 130 degrees Fahrenheit.
 
 It really is that simple.
 
@@ -342,23 +350,60 @@ Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_b
 
 Then this is important:
 
-You see, these systems can make your allergies worse as they can spread allergens throughout the entire house.
+You see, these systems can spread allergens throughout the entire house.
 
+Not good!
 
+So what can you do about it?
 
+You start by making sure that bedroom vents are covered with dense filtering material like cheesecloth.
 
+Similarly cover vents in other rooms.
+
+Beyond that you could consider to install a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}.
+
+This involves installing an air cleaning device in the ductwork of your home.
+
+Bottom line:
+
+Avoid those allergens from being blow around.
 
 ## 12. Brush
 
 ![brush]({{ site.url }}/assets/images/cats/brush.jpg)
 
-*TODO
+Question:
+
+Is cat hair an allergen?
+
+Nope.
+
+However, it can collect dander, urine and saliva.
+
+On top of that it can also carry other allergens like dust and pollen.
+
+Do you see where we're going with this?
+
+Basically have someone without a pet allergy regularly brush your furry friend.
+
+And remember:
+
+Make sure to do this outside!
+
+Above all avoid grooming your pet if you have animal allergies.
+
+If you must groom them…
+
+…be sure to wear a disposable dust mask.
 
 ## 13. Keep Outside
 
 ![cat outside]({{ site.url }}/assets/images/cats/cat-outside.jpg)
 
 *TODO
+
+
+
 
 ## 14. Allergy Shots
 
