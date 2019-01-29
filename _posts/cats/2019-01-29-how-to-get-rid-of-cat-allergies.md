@@ -467,3 +467,25 @@ Will it work for you?
 ## 15. Offer a Balanced Diet
 
 ![cat food]({{ site.url }}/assets/images/cats/cat-food.jpg)
+
+Believe it or not, but what your cat eats is also important.
+
+Animals that eat a balanced diet…
+
+…will have healthier skin.
+
+And the best part?
+
+This can prevent dry skin and excess shedding, resulting in fewer allergens.
+
+So go ahead and speak with your veterinarian about feeding the right food.
+
+## 16. Choose the Right Furniture
+
+![chairs]({{ site.url }}/assets/images/cats/chairs.jpg)
+
+Big news:
+
+You are possibly sitting on the biggest hotbed of allergens while reading this post.
+
+Don’t believe me?
