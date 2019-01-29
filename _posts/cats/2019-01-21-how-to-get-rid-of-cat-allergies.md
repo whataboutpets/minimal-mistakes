@@ -336,13 +336,27 @@ It really is that simple.
 
 ## 11. Cover Vents
 
-*TODO
+![vent]({{ site.url }}/assets/images/cats/vent.jpg)
+
+Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank"} system at home that pushes air through ducts?
+
+Then this is important:
+
+You see, these systems can make your allergies worse as they can spread allergens throughout the entire house.
+
+
+
+
 
 ## 12. Brush
+
+![brush]({{ site.url }}/assets/images/cats/brush.jpg)
 
 *TODO
 
 ## 13. Keep Outside
+
+![cat outside]({{ site.url }}/assets/images/cats/cat-outside.jpg)
 
 *TODO
 
@@ -391,4 +405,4 @@ On the other hand, sometimes there is no relief at all.
 
 Will it work for you?
 
-Talk to your allergist about your options for immunotherapy.
+*Talk to your allergist about your options for immunotherapy.
