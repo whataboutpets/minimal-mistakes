@@ -2,13 +2,13 @@
 title: "How to Get Rid of Cat Allergies Permanently: 30 Actionable Tips"
 permalink: /how-to-get-rid-of-cat-allergies.html
 excerpt: "30 insanely actionable tips on how to deal with cat allergies."
- date: 2019-01-21
-last_modified_at: 2019-01-21
+ date: 2019-01-29
+last_modified_at: 2019-01-29
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
-published: false
+published: true
 ---
 
 ![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
@@ -37,6 +37,9 @@ And here are the strategies you'll learn about in this post:
 * [12. Brush]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [13. Keep Outside]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [14. Allergy shots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [15. Offer a Balanced Diet]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [16. Choose the Right Furniture]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [17. Hypoallergenic Breeds?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -400,10 +403,19 @@ If you must groom them…
 
 ![cat outside]({{ site.url }}/assets/images/cats/cat-outside.jpg)
 
-*TODO
+I can't stress this enough:
 
+A way to deal with cat allergies is avoidance.
 
+So, a possible solution might be to keep kitty outside.
 
+At least for most part of the day.
+
+This will cut down on allergen exposure in your home.
+
+Note:
+
+Make sure your cat is safe outside.
 
 ## 14. Allergy Shots
 
@@ -451,3 +463,5 @@ On the other hand, sometimes there is no relief at all.
 Will it work for you?
 
 *Talk to your allergist about your options for immunotherapy.
+
+## 15. Offer a Balanced Diet
