@@ -39,7 +39,12 @@ And here are the strategies you'll learn about in this post:
 * [14. Allergy shots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [15. Offer a Balanced Diet]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [16. Choose the Right Furniture]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [17. Hypoallergenic Breeds?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [17. Allergy-free Cats?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [18. Medication]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [19. Get Hypoallergenic Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [20. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [21. Go for a Clutter Free House]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [22. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -502,7 +507,7 @@ Cover upholstered chairs with towels and sheets so you can wash them on a regula
 
 Or even better, go for leather and vinyl as upholstery choice.
 
-## 17. Hypoallergenic Breeds?
+## 17. Allergy-free Cats?
 
 ![sphynx cat]({{ site.url }}/assets/images/cats/sphynx-cat.jpg)
 
@@ -510,6 +515,40 @@ News flash:
 
 A truly "hypoallergenic" cat does not exist!
 
-[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the AAFA all cats produce allergens.
+[According](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} to The Ohio State University College of Veterinary Medicine:
 
-All cats produce allergens and studies have not shown that cats can be hypoallergenic.
+> All cats produce allergens.
+
+That being said:
+
+The types and amount of allergen produced can vary significantly between individual cats.
+
+Also people may react more severely to one particular cat over another.
+
+But here's the interesting thing:
+
+Differences in allergen production are not related to the length of hair or breed of cat.
+
+Bottom line:
+
+All cats produce allergens, but some cats may produce more or less than others.
+
+## 18. Medication
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 19. Get Hypoallergenic Bedding
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 20. Use Wipes
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 21. Go for a Clutter Free House
+
+![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
+
+## 22. Sleeping Spots
+
+![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
