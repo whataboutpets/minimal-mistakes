@@ -486,6 +486,30 @@ So go ahead and speak with your veterinarian about feeding the right food.
 
 Big news:
 
-You are possibly sitting on the biggest hotbed of allergens while reading this post.
+You are possibly sitting on a hotbed of allergens while reading this post.
 
-Don’t believe me?
+Let me explain:
+
+Fabric sofas or arm chairs trap a lot of allergens.
+
+To top it off they are difficult to thoroughly clean.
+
+So what can you do about it?
+
+First, keep kitty off the furniture.
+
+Cover upholstered chairs with towels and sheets so you can wash them on a regular basis.
+
+Or even better, go for leather and vinyl as upholstery choice.
+
+## 17. Hypoallergenic Breeds?
+
+![sphynx cat]({{ site.url }}/assets/images/cats/sphynx-cat.jpg)
+
+News flash:
+
+A truly "hypoallergenic" cat does not exist!
+
+[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the AAFA all cats produce allergens.
+
+All cats produce allergens and studies have not shown that cats can be hypoallergenic.
