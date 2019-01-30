@@ -41,10 +41,12 @@ And here are the strategies you'll learn about in this post:
 * [16. Choose the Right Furniture]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [17. Allergy-free Cats?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [18. Medication]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [19. Get Hypoallergenic Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [20. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [21. Go for a Clutter Free House]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [22. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [19. Numbers Do Matter]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [20. Get Some Help]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [21. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [22. Go for a Clutter Free House]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [23. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [24. Go for Hypoallergenic Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -535,20 +537,42 @@ All cats produce allergens, but some cats may produce more or less than others.
 
 ## 18. Medication
 
+![medication]({{ site.url }}/assets/images/cats/medication.jpg)
+
+## 19. Numbers Do Matter
+
+![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
+
+Question:
+
+Owning a high number of cats doesn't really make your allergies worse right?
+
+Wrong!
+
+The American College of Allergy, Asthma and Immunology (ACAAI) states that:
+
+Homes with more than one cat have higher levels of cat allergens.
+
+So it's better to stick to one furry friend.
+
+It's pretty obvious once you think about it.
+
+## 20. Get Hypoallergenic Bedding
+
 ![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
 
-## 19. Get Hypoallergenic Bedding
+## 21. Get Some Help
 
 ![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
 
-## 20. Use Wipes
+## 22. Use Wipes
 
 ![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
 
-## 21. Go for a Clutter Free House
+## 23. Go for a Clutter Free House
 
 ![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
 
-## 22. Sleeping Spots
+## 24. Sleeping Spots
 
 ![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
