@@ -2,8 +2,8 @@
 title: "How to Get Rid of Cat Allergies Permanently: 30 Actionable Tips"
 permalink: /how-to-get-rid-of-cat-allergies.html
 excerpt: "30 insanely actionable tips on how to deal with cat allergies."
-date: 2019-01-29
-last_modified_at: 2019-01-29
+date: 2019-02-05
+last_modified_at: 2019-02-05
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
@@ -43,10 +43,16 @@ And here are the strategies you'll learn about in this post:
 * [18. Medication]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [19. Numbers Do Matter]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [20. Get Some Help]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [21. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [22. Go for a Clutter Free House]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [23. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [24. Pick Allergy-Proof Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [21. Pick Allergy-Proof Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [22. Make Some Rooms off Limits]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [23. Go for a Clutter Free Home]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [24. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [25. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [26. Spray Allergens Away]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [27. Vapor Steam]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [28. Mind the Litter]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [29. Spay or Neuter]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [30. Get Tested]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -70,7 +76,7 @@ It reacts to harmless proteins that are present in a cat's saliva, urine, and da
 
 So, what's the cure?
 
-[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact with cats or the areas where they live**.
+[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact** with cats or the areas where they live.
 
 Removing kitty from your home is often the best treatment.
 
@@ -94,9 +100,9 @@ There's no harm in snuggling with your furry friend.
 
 But consider this:
 
-You spend from one-third to one-half of your time in the bedroom.
+You spend [at least one-third](https://www.sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0){:target="_blank"} of your time in the bedroom.
 
-That's [minimum eight hours every day](https://www.sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0){:target="_blank"} that you expose yourself to potential allergens!
+That's minimum eight hours every day that you expose yourself to potential allergens!
 
 So here's the deal:
 
@@ -116,7 +122,7 @@ Keep kitty out of the bedroom.
 
 ![dandelion]({{ site.url }}/assets/images/cats/dandelion.jpg)
 
-Allergist Dr. Dana Wallace [states that](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"}:
+Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
 > Of all the pollen, and mold, and animal dander, dust mites that we have studied, the cat dander is absolutely the smallest dander.
 
@@ -124,11 +130,11 @@ What that means is that allergen remains airborne for at least 30 minutes after 
 
 And you know what?
 
-That just allows an allergic patient to have a constant exposure to that allergen.
+That just allows an allergic patient to have a constant exposure.
 
 Now, wouldn't it be great if you could somehow remove allergens from the air?
 
-That's where an air purifier fits in.
+That's where an **air purifier** fits in.
 
 These mechanical filters draw in dirty air…
 
@@ -582,7 +588,11 @@ In a nutshell:
 
 Stick to one furry friend.
 
-## 20. Get Hypoallergenic Bedding
+## 20. Get Some Help
+
+![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
+
+## 21. Pick Allergy-Proof Bedding
 
 ![pillows]({{ site.url }}/assets/images/cats/pillows.jpg)
 
@@ -613,23 +623,7 @@ Beyond that, make sure you regularly wash your bedding to prevent allergens from
 
 In addition to that, change your sheets at least once a week.
 
-## 21. Get Some Help
-
-![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
-
-## 22. Use Wipes
-
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
-
-## 23. Go for a Clutter Free House
-
-![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
-
-## 24. Sleeping Spots
-
-![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
-
-## 25. Make Some Rooms off Limits
+## 22. Make Some Rooms off Limits
 
 ![padlock]({{ site.url }}/assets/images/cats/padlock.jpg)
 
@@ -646,3 +640,35 @@ Or in other words: keep your furry friend out of the bedroom or other areas wher
 *Text from DR blabla
 
 Restricting kitty to a certain room or area will also make it easier to keep up with cleaning efforts.
+
+## 23. Go for a Clutter Free Home
+
+![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
+
+## 24. Sleeping Spots
+
+![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
+
+## 25. Use Wipes
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 26. Spray Allergens Away
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 27. Vapor Steam
+
+![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
+
+## 28. Mind the Litter
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 29. Spay or Neuter
+
+![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+
+## 30. Get Tested
+
+![test tubes]({{ site.url }}/assets/images/cats/test-tubes.jpg)
