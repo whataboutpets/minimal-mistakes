@@ -30,7 +30,7 @@ And here are the strategies you'll learn about in this post:
 * [5. No Hugging and Kissing]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [6. Wash those Hands]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [7. Clean Rigorously and Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [8. Smooth Floors and Walls If Possible]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [8. Smooth Floors and Walls]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [9. Change Your Clothes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [10. Keep up with the Laundry]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [11. Cover Vents]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
@@ -39,14 +39,14 @@ And here are the strategies you'll learn about in this post:
 * [14. Allergy shots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [15. Offer a Balanced Diet]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [16. Choose the Right Furniture]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [17. Allergy-free Cats?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [17. Allergy-Free Cats?]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [18. Medication]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [19. Numbers Do Matter]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [20. Get Some Help]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [21. Use Wipes]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [22. Go for a Clutter Free House]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [23. Sleeping Spots]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
-* [24. Go for Hypoallergenic Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [24. Pick Allergy-Proof Bedding]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 
 Before we dive into the list.
 
@@ -58,19 +58,17 @@ What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="
 
 Here's the deal:
 
-The job of our immune system is to find foreign substances, such as viruses and bacteria, and get rid of them.
+The job of our immune system is to find foreign substances…
+
+(such as viruses and bacteria)
+
+…and get rid of them.
 
 People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
-Be warned:
-
-Cat allergy symptoms range from mild to severe.
-
-Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
-
-So what's The cure?
+So, what's the cure?
 
 [According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact with cats or the areas where they live**.
 
@@ -102,7 +100,7 @@ That's [minimum eight hours every day](https://www.sleepfoundation.org/excessive
 
 So here's the deal:
 
-You need to make your bedroom a cat-free space.
+You need to **make your bedroom a cat-free space**.
 
 Start by washing bedding, pillows and drapes in hot water…
 
@@ -276,7 +274,7 @@ The moral of this story?
 
 Lather, rinse, repeat.
 
-## 8. Smooth Floors and Walls If Possible
+## 8. Smooth Floors and Walls
 
 ![wooden floor]({{ site.url }}/assets/images/cats/wooden-floor.jpg)
 
@@ -539,6 +537,31 @@ All cats produce allergens, but some cats may produce more or less than others.
 
 ![medication]({{ site.url }}/assets/images/cats/medication.jpg)
 
+Question:
+
+Can medication help?
+
+Well, there are in fact many options when it comes to cat allergies.
+
+Let see exactly how this works:
+
+There are basically three types of medication:
+1. Natural remedies
+2. Over the counter medication
+3. Prescription based medication
+
+*todo natural
+
+*According to Dr???:
+
+Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
+
+Like everything else, medication can work for some and do nothing for others.
+
+And remember:
+
+In all cases, you should always check with your doctor or allergist before embarking on a new medical treatment.
+
 ## 19. Numbers Do Matter
 
 ![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
@@ -549,21 +572,50 @@ Owning a high number of cats doesn't really make your allergies worse right?
 
 Wrong!
 
-The American College of Allergy, Asthma and Immunology (ACAAI) states that:
+The American College of Allergy, Asthma and Immunology (ACAAI) [states](){:target="_blank"} that:
 
 Homes with more than one cat have higher levels of cat allergens.
 
-So it's better to stick to one furry friend.
-
 It's pretty obvious once you think about it.
+
+In a nutshell:
+
+Stick to one furry friend.
 
 ## 20. Get Hypoallergenic Bedding
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+![pillows]({{ site.url }}/assets/images/cats/pillows.jpg)
+
+Here's the deal:
+
+You spend about one-third of your day in bed.
+
+So, I can't stress this enough:
+
+Your bedroom needs to be a cat-free space.
+
+But what if that's not an option for you?
+
+Well, there's a way to make it harder for allergens to get into the various objects that make up your bed.
+
+How?
+
+You could get hypoallergenic (allergy-proof) bedding and covers that are made from materials that act as a barrier against allergens.
+
+*(link AFFA?)
+
+*TODO
+
+Mattress: mattress pad or encasement
+Pillow: coverings Sheets:
+
+Beyond that, make sure you regularly wash your bedding to prevent allergens from accumulating.
+
+In addition to that, change your sheets at least once a week.
 
 ## 21. Get Some Help
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
 
 ## 22. Use Wipes
 
@@ -576,3 +628,21 @@ It's pretty obvious once you think about it.
 ## 24. Sleeping Spots
 
 ![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
+
+## 25. Make Some Rooms off Limits
+
+![padlock]({{ site.url }}/assets/images/cats/padlock.jpg)
+
+Fact:
+
+Airborne cat allergen levels have been found to be much higher in rooms where cats are physically present.
+
+Do you see where we're going with this?
+
+Designate "cat-free" spaces in your home.
+
+Or in other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
+
+*Text from DR blabla
+
+Restricting kitty to a certain room or area will also make it easier to keep up with cleaning efforts.
