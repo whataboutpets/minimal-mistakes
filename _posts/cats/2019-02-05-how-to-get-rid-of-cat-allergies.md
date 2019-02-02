@@ -661,15 +661,15 @@ Restricting kitty to a certain room or area will also make it easier to keep up 
 
 ## 26. Spray Allergens Away
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
 
 ## 27. Vapor Steam
 
-![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
+![steam]({{ site.url }}/assets/images/cats/steam.jpg)
 
 ## 28. Mind the Litter
 
-![cat litter]({{ site.url }}/assets/images/cats/cat-litter.jpg)
+![cat in kitchen]({{ site.url }}/assets/images/cats/cat-in-kitchen.jpg)
 
 ## 29. Spay or Neuter
 
