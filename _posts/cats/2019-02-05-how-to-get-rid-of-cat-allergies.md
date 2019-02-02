@@ -672,3 +672,35 @@ Restricting kitty to a certain room or area will also make it easier to keep up 
 ## 30. Get Tested
 
 ![test tubes]({{ site.url }}/assets/images/cats/test-tubes.jpg)
+
+This is important:
+
+When dealing with allergies always try to look at the bigger picture.
+
+For example:
+
+It could be that you are having an allergic reaction to dust or pollen in your cat's coat. In those cases, the allergy is not to the cat.
+
+Another example:
+
+You might be able to tolerate contact with kitty in winter. But when spring arrives, all the allergies combined may prove unbearable.
+
+What it means is this:
+
+Don't give up to soon. Keep searching until you find what works for you and your feline friend.
+
+And isn't that what you want?
+
+Finally, here are some links that can help you find an allergist:
+* [ACAAI - Find an Allergist](https://acaai.org/locate-an-allergist){:target="_blank"}
+* [AAAAI - Find an Allergist / Immunologist](http://allergist.aaaai.org/find/){:target="_blank"}
+
+## Anything I Missed?
+
+Now I'd like to hear from you.
+
+Did I miss one of your favorite ways to deal with cat allergies?
+
+Or maybe you have a question about something.
+
+Either way, let me know by leaving a comment below right now.
