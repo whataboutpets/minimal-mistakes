@@ -637,7 +637,13 @@ Designate "cat-free" spaces in your home.
 
 Or in other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
 
-*Text from DR blabla
+[According](https://www.youtube.com/watch?v=7OWAO5nnR9A&feature=youtu.be&t=43){:target="_blank"} to Allergist Dr. Dana Wallace:
+
+The ideal situation is one where the cat has it's private room where it lives most of the time.
+
+This really significantly reduces the exposure of dander to the rest of the house.
+
+To top it off:
 
 Restricting kitty to a certain room or area will also make it easier to keep up with cleaning efforts.
 
@@ -663,11 +669,23 @@ Restricting kitty to a certain room or area will also make it easier to keep up 
 
 ## 28. Mind the Litter
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+![cat litter]({{ site.url }}/assets/images/cats/cat-litter.jpg)
 
 ## 29. Spay or Neuter
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+![cat lying down]({{ site.url }}/assets/images/cats/cat-lying-down.jpg)
+
+Get this:
+
+Spaying or neutering your cat will [improve their health](https://pets.webmd.com/reasons-spay-neuter-pet){:target="_blank"}.
+
+But it doesn't stop there.
+
+The Ohio State University College of Veterinary Medicine [advises](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} to spay or neuter your cat, as this decreases allergen production.
+
+On the other hand following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank"} that data about the effect of neutering a cat is inconsistent.
+
+*TODO
 
 ## 30. Get Tested
 
@@ -685,9 +703,9 @@ Another example:
 
 You might be able to tolerate contact with kitty in winter. But when spring arrives, all the allergies combined may prove unbearable.
 
-What it means is this:
+My point is this:
 
-Don't give up to soon. Keep searching until you find what works for you and your feline friend.
+Don't give up to soon. Keep searching until you find what works for both you and your feline friend.
 
 And isn't that what you want?
 
