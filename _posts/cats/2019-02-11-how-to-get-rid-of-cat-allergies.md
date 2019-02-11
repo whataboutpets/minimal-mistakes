@@ -618,7 +618,21 @@ Stick to one furry friend.
 
 ![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
 
+Let's face it:
 
+Solving a problem is always easier if you get some help.
+
+So what am I talking about?
+
+Have someone who doesn't have allergies brush or wash your cat.
+
+Similarly, chores like cleaning the litter box or cage are best done by someone without a pet allergy.
+
+This way you don't inhale the allergens.
+
+It's easier than you think.
+
+Just ask for help.
 
 ## 21. Pick Allergy-Proof Bedding
 
@@ -634,18 +648,11 @@ Your bedroom needs to be a cat-free space.
 
 But what if that's not an option for you?
 
-Well, there's a way to make it harder for allergens to get into the various objects that make up your bed.
+Well, there's a way to make it harder for allergens to get into the various parts that make up your bed.
 
 How?
 
 You could get hypoallergenic (allergy-proof) bedding and covers that are made from materials that act as a barrier against allergens.
-
-*(link AFFA?)
-
-*TODO
-
-Mattress: mattress pad or encasement
-Pillow: coverings Sheets:
 
 Beyond that, make sure you regularly wash your bedding to prevent allergens from accumulating.
 
@@ -675,9 +682,17 @@ To top it off:
 
 Restricting kitty to a certain room or area will also make it easier to keep up with cleaning efforts.
 
+In a word: great!
+
 ## 23. Go for a Clutter Free Home
 
 ![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
+
+
+
+Get rid of decorative scented candles, potpourri, and plug-in air fresheners. All of these are notorious for exacerbating allergy symptoms.
+
+
 
 ## 24. Sleeping Spots
 
