@@ -74,7 +74,15 @@ People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
-The cure?
+A word of caution:
+
+Cat allergy symptoms range from mild to severe.
+
+Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
+
+The question is:
+
+What's the cure?
 
 [According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact** with cats or the areas where they live.
 
@@ -448,19 +456,21 @@ Make sure your cat is safe outside.
 
 ![syringe]({{ site.url }}/assets/images/cats/syringe.jpg)
 
-*What if I told you that TODO.
+What if I told you that one way to treat your allergies…
 
-Sounds crazy right…
+…is to expose yourself to cat allergens.
+
+Sounds crazy right!
+
+(and contrary to everything I said so far)
 
 But just keep reading and I'll explain.
 
-Allergy immunotherapy works by exposing the body to minute amounts of an allergen.
+[Allergy immunotherapy](https://www.webmd.com/allergies/allergy-shots#1){:target="_blank"} works by exposing the body to minute amounts of an allergen.
 
 The point?
 
 It helps the body build up an immunity or tolerance to the allergen.
-
-Get this:
 
 There are two common types of immunotherapy:
 
@@ -471,31 +481,29 @@ Allergy shots involve giving injections of allergens in an increasing dose over 
 
 In the case of SLIT, patients are given small doses of an allergen under the tongue.
 
-Bottom line:
-
-You progressively become less sensitive to the allergen.
+The goal is that you progressively become less sensitive to the allergen.
 
 A word of caution:
 
-Treatment must always be under observation from a medical professional.
+Treatment must always be under observation of a medical professional.
 
-*TODO sever reaction
+Bottom line:
 
 Allergy shots have a proven track record as an effective form of long-term treatment.
 
-Some people will develop complete immunity to cat allergies.
+Some people will develop complete immunity to cat allergies. Others may find no relief at all.
 
-On the other hand, sometimes there is no relief at all.
+Will they work for you?
 
-Will it work for you?
-
-*Talk to your allergist about your options for immunotherapy.
+The first thing to do is talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
 
 ![cat food]({{ site.url }}/assets/images/cats/cat-food.jpg)
 
 Believe it or not, but what your cat eats is also important.
+
+Why is that?
 
 Animals that eat a balanced diet…
 
@@ -505,7 +513,9 @@ And the best part?
 
 This can prevent dry skin and excess shedding, resulting in fewer allergens.
 
-So go ahead and speak with your veterinarian about feeding the right food.
+Great!
+
+Go ahead and speak with your veterinarian about feeding your feline friend the right food.
 
 ## 16. Choose the Right Furniture
 
@@ -513,7 +523,7 @@ So go ahead and speak with your veterinarian about feeding the right food.
 
 Big news:
 
-You are possibly sitting on a hotbed of allergens while reading this post.
+You are possibly sitting on a hotbed of allergens while reading this post!
 
 Let me explain:
 
@@ -523,7 +533,11 @@ To top it off they are difficult to thoroughly clean.
 
 So what can you do about it?
 
-First, keep kitty off the furniture.
+Well, keep kitty off the furniture…
+
+Sounds easy enough, right?
+
+But if that doesn't work:
 
 Cover upholstered chairs with towels and sheets so you can wash them on a regular basis.
 
@@ -551,9 +565,9 @@ But here's the interesting thing:
 
 Differences in allergen production are not related to the length of hair or breed of cat.
 
-Bottom line:
+Put another way:
 
-All cats produce allergens, but some cats may produce more or less than others.
+All cats produce allergens, but some cats may produce less or more than others.
 
 ## 18. Medication
 
@@ -563,38 +577,34 @@ Question:
 
 Can medication help?
 
-Well, there are in fact many options when it comes to cat allergies.
-
-Let see exactly how this works:
+Well, there are some options that allow you to control cat allergy symptoms.
 
 There are basically three types of medication:
 1. Natural remedies
 2. Over the counter medication
 3. Prescription based medication
 
-*todo natural
+To be clear: medication can work for some and do nothing for others.
 
-*According to Dr???:
+In addition:
+
+[According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy#Tab3){:target="_blank"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
 
 Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
 
-Like everything else, medication can work for some and do nothing for others.
+A quick word of warning:
 
-And remember:
-
-In all cases, you should always check with your doctor or allergist before embarking on a new medical treatment.
+You should always check with your doctor or allergist before embarking on a new medical treatment.
 
 ## 19. Numbers Do Matter
 
 ![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
 
-Question:
-
 Owning a high number of cats doesn't really make your allergies worse right?
 
 Wrong!
 
-The American College of Allergy, Asthma and Immunology (ACAAI) [states](){:target="_blank"} that:
+The American College of Allergy, Asthma and Immunology (ACAAI) [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
 Homes with more than one cat have higher levels of cat allergens.
 
@@ -607,6 +617,8 @@ Stick to one furry friend.
 ## 20. Get Some Help
 
 ![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
+
+
 
 ## 21. Pick Allergy-Proof Bedding
 
@@ -682,6 +694,21 @@ Restricting kitty to a certain room or area will also make it easier to keep up 
 ## 27. Vapor Steam
 
 ![steam]({{ site.url }}/assets/images/cats/steam.jpg)
+
+Remember:
+
+*Carpets and upholstered furniture are a definite no-no.
+
+*Your best bet is to replace or remove them.
+
+But if this is not an option…
+
+What can you do?
+
+Above all, you need clean them regularly to keep the number of allergens as low as possible.
+
+Use a vapor steam cleaner
+Link to site
 
 ## 28. Mind the Litter
 
