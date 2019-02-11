@@ -178,13 +178,15 @@ At this point you are not removing the allergens…
 
 Making allergies worse!
 
-So, what's the answer?
+What's the answer?
 
 You want to get a high-efficiency vacuum cleaner.
 
 These are specially designed to prevent outflow of the contents (including pet allergens) that have been swept up.
 
-*TODO
+In short:
+
+Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
@@ -238,7 +240,7 @@ You should try not to hug and kiss your feline friend.
 
 In addition to that, have someone who isn't allergic take care of the washing and brushing.
 
-This might be a difficult one to keep doing.
+This might be a difficult one to stick to.
 
 The choice is yours.
 
@@ -328,7 +330,7 @@ Pet allergens are really "sticky".
 
 So they will be all over your clothes.
 
-So how do you remove them?
+How do you remove them?
 
 All you have to do is give them a wash.
 
@@ -342,9 +344,23 @@ You get the idea.
 
 ![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
 
-*TODO
+Get this:
+
+Your clothes or bedding might not look dirty…
+
+…you still need to wash them frequently.
+
+How's that?
+
+As allergens are microscopic in size, you are not able to see them.
+
+That said:
+
+A thorough wash will get rid of them.
 
 Following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank"} investigated the effectiveness of laundry to remove cat allergens.
+
+The result?
 
 For starters:
 
@@ -352,7 +368,7 @@ Make sure you use detergent solutions.
 
 As they remove more allergens than soap or water alone.
 
-Also, the water temperature needs to be above 130 degrees Fahrenheit.
+Also, the water temperature needs to be above 130 degrees Fahrenheit for maximum results.
 
 It really is that simple.
 
@@ -380,7 +396,7 @@ This involves installing an air cleaning device in the ductwork of your home.
 
 Bottom line:
 
-Avoid those allergens from being blow around.
+Avoid those allergens from being blow around the house.
 
 ## 12. Brush
 
