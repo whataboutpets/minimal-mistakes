@@ -1,9 +1,9 @@
 ---
 title: "How to Get Rid of Cat Allergies Permanently: 30 Actionable Tips"
-permalink: /how-to-get-rid-of-cat-allergies.html
+permalink: /get-rid-of-cat-allergies.html
 excerpt: "30 insanely actionable tips on how to deal with cat allergies."
-date: 2019-02-05
-last_modified_at: 2019-02-05
+date: 2019-02-11
+last_modified_at: 2019-02-11
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
@@ -74,7 +74,7 @@ People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
-So, what's the cure?
+The cure?
 
 [According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact** with cats or the areas where they live.
 
@@ -104,7 +104,7 @@ You spend [at least one-third](https://www.sleepfoundation.org/excessivesleepine
 
 That's minimum eight hours every day that you expose yourself to potential allergens!
 
-So here's the deal:
+Here's the deal:
 
 You need to **make your bedroom a cat-free space**.
 
@@ -148,7 +148,7 @@ But remember this:
 
 You need to get an air purifier with a HEPA filter.
 
-These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank"} the size of animal allergens from the air.
+These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank"} the size of animal allergens.
 
 All you have to do is place the purifier in the room where you or your cat spend most of your time.
 
