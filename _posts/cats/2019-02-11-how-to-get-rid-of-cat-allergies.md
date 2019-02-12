@@ -838,7 +838,9 @@ The Ohio State University College of Veterinary Medicine [advises](https://vet.o
 
 On the other hand following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank"} that data about the effect of neutering a cat is inconsistent.
 
-*TODO
+And now?
+
+Check with your veterinarian what is best for your feline friend.
 
 ## 30. Get Tested
 
