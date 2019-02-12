@@ -810,9 +810,19 @@ Listen:
 
 Cat allergen is found in urine.
 
-At this point you probably realize that the litter box should be off-limits to an allergy sufferer.
+At this point you probably realize that the litter box is a prime source of allergens.
 
+So here's the deal:
 
+Keep the box in a separate room and clean it regularly.
+
+Wear gloves and a dust mask when cleaning, and handle the task outside whenever possible.
+
+Or even better ask someone who is not allergic to change the litter.
+
+And that was just the beginning…
+
+…but that's for another post.
 
 ## 29. Spay or Neuter
 
