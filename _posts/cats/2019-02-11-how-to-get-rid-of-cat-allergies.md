@@ -806,6 +806,12 @@ The choice is yours.
 
 ![cat in kitchen]({{ site.url }}/assets/images/cats/cat-in-kitchen.jpg)
 
+Listen:
+
+Cat allergen is found in urine.
+
+At this point you probably realize that the litter box should be off-limits to an allergy sufferer.
+
 
 
 ## 29. Spay or Neuter
