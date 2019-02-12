@@ -688,23 +688,75 @@ In a word: great!
 
 ![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
 
+One way to manage the allergen levels in your home…
 
+…is to clean often.
 
-Get rid of decorative scented candles, potpourri, and plug-in air fresheners. All of these are notorious for exacerbating allergy symptoms.
+Now wouldn't it be great if this was easy?
 
+Here's how:
 
+Make sure you keep ornaments and knickknacks to a minimum.
+
+If you have kids: store toys, games and stuffed animals in plastic bins.
+
+Finally, restrict smaller objects to an organized junk drawer.
+
+That's it. Now you'll be able to clean in record time.
 
 ## 24. Sleeping Spots
 
 ![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
 
+Check this out:
+
+Cats usually sleep for about 16 hours a day, on and off.
+
+But that's not all: they often prefer to [rotate their chosen sleeping area](https://www.cats.org.uk/cats-and-sleep){:target="_blank"}.
+
+These means a lot of dander will accumulate in those sleeping spots.
+
+Now here's the big idea:
+
+You want to get washable pet bedding…
+
+…so you can easily clean away those allergens!
+
+If your feline friend likes to snooze on your furniture, get some washable slipcovers.
+
+Or simply place some towels in the favorite sleeping spots, and wash them once a week.
+
+It couldn't be easier.
+
 ## 25. Use Wipes
 
 ![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
 
+It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank"} and it usually goes like this:
+
+Your cat becomes highly agitated or even aggressive when bathed.
+
+Too bad.
+
+This means a bath is not an option to remove those sticky allergens.
+
+Luckily there's another way for you to clean your furry friends coat:
+
+Hypo-allergenic pet wipes.
+
+You simply brush these wipes over your cat's fur in order to reduce allergens.
+
+The good news is you can use them daily or as often as you wish.
+
+To top it of they likely are less stressful for felines who prefer not to be rubbed in the tub.
+
+Awesome!
+
 ## 26. Spray Allergens Away
 
 ![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
+
+
 
 ## 27. Vapor Steam
 
