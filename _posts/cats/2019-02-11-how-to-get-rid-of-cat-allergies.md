@@ -756,7 +756,23 @@ Awesome!
 
 ![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
 
+Imagine for a moment that there was a convenient way to deactivate cat allergens…
 
+…just by using a spray.
+
+Can this really be true?
+
+The fact of the matter is that there are anti-allergen sprays available.
+
+Some of them you apply to you kitty's coat.
+
+Others you use on carpeting, upholstered furniture, and your mattress to render allergens harmless.
+
+They contain ingredients that break down the structure of allergen proteins.
+
+Sounds impressive, right?
+
+Give them a try.
 
 ## 27. Vapor Steam
 
@@ -764,9 +780,9 @@ Awesome!
 
 Remember:
 
-*Carpets and upholstered furniture are a definite no-no.
+Carpets and upholstered furniture are a definite no-no.
 
-*Your best bet is to replace or remove them.
+One of the best ways to manage your cat allergies is to replace or remove them.
 
 But if this is not an option…
 
