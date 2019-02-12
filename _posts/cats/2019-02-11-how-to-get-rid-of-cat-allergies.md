@@ -780,22 +780,33 @@ Give them a try.
 
 Remember:
 
-Carpets and upholstered furniture are a definite no-no.
+Carpets and upholstered furniture are the main reservoir of allergens in your home.
 
-One of the best ways to manage your cat allergies is to replace or remove them.
+If you can: replace or remove them.
 
 But if this is not an option…
 
-What can you do?
+What do you do?
 
-Above all, you need clean them regularly to keep the number of allergens as low as possible.
+In short, you need clean them regularly.
 
-Use a vapor steam cleaner
-Link to site
+You can vacuum the surface…
+
+…but for a vigorous clean you can use a [vapor steam cleaner](https://en.wikipedia.org/wiki/Vapor_steam_cleaner){:target="_blank"}.
+
+These cleaning appliances use steam to clean, and are extremely helpful in killing off cat proteins/dander, which ​are embedded in your carpets and upholstery.
+
+To top it off steam cleaners provide a chemical-free way of cleaning.
+
+You can get your own device or contact certified [professional cleaning services](https://www.asthmaandallergyfriendly.com/USA/professional-cleaning-services){:target="_blank"}.
+
+The choice is yours.
 
 ## 28. Mind the Litter
 
 ![cat in kitchen]({{ site.url }}/assets/images/cats/cat-in-kitchen.jpg)
+
+
 
 ## 29. Spay or Neuter
 
