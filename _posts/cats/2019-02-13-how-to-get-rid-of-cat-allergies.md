@@ -23,16 +23,16 @@ Ready?
 
 And here are the strategies you'll learn about in this post:
 
-* [#1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
-* [#2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
-* [#3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
-* [#4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#5. No Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
+* [2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
+* [3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
+* [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [5. No Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -80,7 +80,7 @@ Cat allergy symptoms range from mild to severe.
 
 Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
 
-The question is:
+So:
 
 What's the cure?
 
@@ -88,7 +88,7 @@ What's the cure?
 
 Removing kitty from your home is often the best treatment.
 
-Let me guess.
+Let me guess…
 
 ![cat covering eyes]({{ site.url }}/assets/images/cats/cat-covering-eyes.jpg)
 

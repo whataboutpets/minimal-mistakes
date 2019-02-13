@@ -26,15 +26,17 @@ $link-color-visited: #FF4081 !default;
   margin-top: 10px !important;
 }
 
-.page__content p {
-  font-size: 0.9em !important;
+.page__content {
+  p {
+    font-size: 0.9em !important;
     line-height: 1.4em !important;
-}
-
-.page__content li {
-  font-size: 0.9em !important;
-}
-
-ul li {
-  margin-bottom: 0px !important;
+  }
+  ul li {
+    font-size: 0.9em !important;
+    margin-bottom: 0px !important;
+  }
+  h2 {
+    color: #222222;
+    font-size: 1.2em !important;
+  }
 }
