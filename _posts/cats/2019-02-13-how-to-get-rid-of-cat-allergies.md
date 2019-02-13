@@ -26,8 +26,8 @@ And here are the strategies you'll learn about in this post:
 * [1. Keep OUT of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
 * [3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
-* [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [5. No Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#4. Time for a Bath)
+* [5. NO Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#5-no-hugging-and-kissing)
 * [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -74,13 +74,13 @@ People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
-<div class="notice--warning">
-<p>A word of caution:</p>
+<blockquote>
+A word of caution:
 
-<p>Cat allergy symptoms range from mild to severe.</p>
+Cat allergy symptoms range from mild to severe.
 
-<p>Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.</p>
-</div>
+Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
+</blockquote>
 
 So:
 
@@ -224,7 +224,7 @@ Want to know more about how to bathe your cat?
 
 Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Cat){:target="_blank"}.
 
-## 5. No Hugging and Kissing
+## 5. NO Hugging and Kissing
 
 ![kitten]({{ site.url }}/assets/images/cats/kitten.jpg)
 
@@ -238,7 +238,7 @@ The best treatment for pet allergies is to avoid contact.
 
 And guess what?
 
-The [highest concentration](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} of allergens on a cat's body is found on the face and neck.
+The [highest concentration](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} of allergens on a cat's body is found on the **face and neck**.
 
 What this means:
 
@@ -246,7 +246,7 @@ You should try not to hug and kiss your feline friend.
 
 In addition to that, have someone who isn't allergic take care of the washing and brushing.
 
-This might be a difficult one to stick to.
+This might be a difficult one to stick to…
 
 The choice is yours.
 
