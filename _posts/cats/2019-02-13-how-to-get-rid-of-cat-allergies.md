@@ -23,7 +23,7 @@ Ready?
 
 And here are the strategies you'll learn about in this post:
 
-* [1. Keep out of the Bedroom]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
+* [1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [2. Clean the Air]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [3. Vacuum Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [4. Time for a Bath]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)

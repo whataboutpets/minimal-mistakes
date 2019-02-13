@@ -11,13 +11,17 @@ $background-color: #e4e2dd !default;
 
 /* Body */
 $text-color: #383838 !default;
-$link-color: #ff6090 !default;
-$link-color-hover: #ff6090 !default;
-$link-color-visited: #ff6090 !default;
+$link-color: #FF4081 !default;
+$link-color-hover: #FF4081 !default;
+$link-color-visited: #FF4081 !default;
 
 /* Post */
 .page__title {
   color: #444444;
   font-size: 1.6em !important;
   margin-top: 10px !important;
+}
+
+.page__content {
+  font-size: 0.9em !important;
 }
