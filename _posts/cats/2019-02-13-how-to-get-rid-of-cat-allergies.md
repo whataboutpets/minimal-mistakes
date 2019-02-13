@@ -31,9 +31,9 @@ And here are the strategies you'll learn about in this post:
 * [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#6-wash-those-hands)
 * [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#7-clean-rigorously-and-often)
 * [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#8-smooth-floors-and-walls)
-* [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#9-change-your-clothes)
+* [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#10. Keep up with the Laundry)
+* [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -294,7 +294,7 @@ Lather, rinse, repeat.
 
 Want to know a dirty little secret?
 
-Carpets are the primary reservoir of allergens in a home!
+Carpets are the **primary reservoir of allergens** in a home!
 
 To put it another way:
 
@@ -310,7 +310,7 @@ If you must have carpets…
 
 …what can you do about it?
 
-Pick out a type with a low pile.
+Pick out a type with a **low pile**.
 
 Beyond that make sure you steam clean them regularly.
 
@@ -338,7 +338,7 @@ So they will be all over your clothes.
 
 How do you remove them?
 
-All you have to do is give them a wash.
+All you have to do is **give them a wash**.
 
 In addition to that:
 
