@@ -79,7 +79,7 @@ It reacts to harmless proteins that are present in a cat's saliva, urine, and da
 
 <p>Cat allergy symptoms range from mild to severe.</p>
 
-<p>Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.</p>
+<p>Seek medical help immediately in case of a severe reaction!</p>
 </blockquote>
 
 So:
@@ -280,7 +280,7 @@ Allergist Dr. Warner Carr [states](https://acaai.org/allergies/types/pet-allergy
 
 > Even if you remove a cat from a home, you clean all the walls down, do the laundry, do the draperies, it still takes six months for the level of cat protein to get down to normal.
 
-This means you need mop the floors, vacuum the rugs, and clean furniture regularly.
+This means you need mop the floors, vacuum the rugs, and clean furniture **frequently**.
 
 Don't forget to also wash walls and tiles as allergens also sticks to these surfaces.
 
@@ -312,7 +312,7 @@ If you must have carpets…
 
 Pick out a type with a low pile.
 
-Beyond that make sure you steam clean them frequently.
+Beyond that make sure you steam clean them regularly.
 
 Or even better, use washable area rugs and clean them in hot water.
 
