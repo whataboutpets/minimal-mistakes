@@ -2,13 +2,13 @@
 title: "How to Get Rid of Cat Allergies Permanently: 30 Actionable Tips"
 permalink: /get-rid-of-cat-allergies.html
 excerpt: "30 insanely actionable tips on how to deal with cat allergies."
-date: 2019-02-11
-last_modified_at: 2019-02-11
+date: 2019-02-13
+last_modified_at: 2019-02-13
 header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
-published: false
+published: true
 ---
 
 ![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
