@@ -15,7 +15,7 @@ published: true
 
 This is the most complete list of cat allergy remedies on the Web. Period.
 
-In fact, you'll find 30 actionable tips and tricks on this page.
+In fact, you'll find **30** actionable tips and tricks on this page.
 
 So, if you're looking to get rid of your cat allergies, you'll really enjoy this list.
 
@@ -23,7 +23,7 @@ Ready?
 
 And here are the strategies you'll learn about in this post:
 
-* [1. Keep out of the Bedroom]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
+* [1. Keep out of the Bedroom]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [2. Clean the Air]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [3. Vacuum Often]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
 * [4. Time for a Bath]({{ site.url }}/how-to-get-rid-of-cat-allergies.html#)
@@ -90,7 +90,7 @@ Removing kitty from your home is often the best treatment.
 
 Let me guess.
 
-![cat unhappy]({{ site.url }}/assets/images/cats/cat-unhappy.jpg)
+![cat covering eyes]({{ site.url }}/assets/images/cats/cat-covering-eyes.jpg)
 
 No contact or removing is not an option!
 
@@ -100,7 +100,7 @@ So here are some strategies on to how to deal with cat allergies and…
 
 ## 1. Keep out of the Bedroom
 
-![cat on bed sleeping]({{ site.url }}/assets/images/cats/cat-on-bed-sleeping.jpg)
+![cat on bed]({{ site.url }}/assets/images/cats/cat-on-bed.jpg)
 
 OK, I know what you're thinking.
 

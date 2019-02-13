@@ -2,24 +2,18 @@
    WhatAboutPets skin
    ========================================================================== */
 
-/* Colors */
-$blue : #2196f3 !default;
-$dark-blue : #0367B4 !default;
-$green : #00BD6C !default;
-$pink : #ff6090 !default;
-$grey : #9ba1a6 !default;
+/* General */
+$background-color: #e4e2dd !default;
 
-$primary-color : $blue !default;
-$footer-background-color : $blue !default;
+/* Body */
+$text-color: #383838 !default;
+$link-color: #ff6090 !default;
+$link-color-hover: #ff6090 !default;
+$link-color-visited: #ff6090 !default;
 
-$text-color : #444 !default;
-$link-color : $blue !default;
-$link-color-hover : $blue !default;
-$link-color-visited : $blue !default;
-
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-
-$muted-text-color: $text-color !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
+/* Post */
+.page__title {
+  color: #444444;
+  font-size: 1.8em !important;
+  margin-top: 20px !important;
+}
