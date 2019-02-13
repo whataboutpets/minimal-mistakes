@@ -25,7 +25,7 @@ And here are the strategies you'll learn about in this post:
 
 * [#1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [#2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
-* [#3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
 * [#4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#5. No Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#)

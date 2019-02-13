@@ -18,15 +18,19 @@ $link-color-visited: #FF4081 !default;
 /* Post */
 .page__title {
   color: #444444;
-  font-size: 1.5em !important;
+  font-size: 1.6em !important;
   margin-top: 10px !important;
 }
 
 .page__content p {
-  font-size: 0.8em !important;
+  font-size: 0.9em !important;
     line-height: 1.4em !important;
 }
 
+.page__content li {
+  font-size: 0.9em !important;
+}
+
 ul li {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
 }
