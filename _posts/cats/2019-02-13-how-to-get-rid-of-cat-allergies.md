@@ -302,9 +302,7 @@ They can contain [13 times](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/d
 
 But if you're serious about reducing cat allergies:
 
-Replace carpet for wood, tile or linoleum flooring.
-
-Especially try to get rid of wall-to-wall carpets as it's almost impossible to clean them.
+Replace carpet for wood, tile or linoleum flooring. Especially try to get rid of wall-to-wall carpets as it's almost impossible to clean them.
 
 If you must have carpets…
 
@@ -370,11 +368,9 @@ The result?
 
 For starters:
 
-Make sure you use detergent solutions.
+Make sure you **use detergent solutions**. As they remove more allergens than soap or water alone.
 
-As they remove more allergens than soap or water alone.
-
-Also, the water temperature needs to be above 130 degrees Fahrenheit for maximum results.
+Also, the water temperature needs to be **130 degrees Fahrenheit** (or above) for maximum results.
 
 It really is that simple.
 
