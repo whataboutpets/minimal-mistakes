@@ -23,7 +23,7 @@ Ready?
 
 And here are the strategies you'll learn about in this post:
 
-* [1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
+* [1. Keep OUT of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
 * [3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
 * [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -74,11 +74,13 @@ People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
+<div class="notice--warning}">
 A word of caution:
 
 Cat allergy symptoms range from mild to severe.
 
 Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
+</div>
 
 So:
 
@@ -98,13 +100,11 @@ So here are some strategies on to how to deal with cat allergies and…
 
 …keep your feline friend.
 
-## 1. Keep out of the Bedroom
+## 1. Keep OUT of the Bedroom
 
 ![cat on bed]({{ site.url }}/assets/images/cats/cat-on-bed.jpg)
 
-OK, I know what you're thinking.
-
-There's no harm in snuggling with your furry friend.
+OK, I know what you're thinking. There's no harm in snuggling with your furry friend.
 
 But consider this:
 
@@ -120,7 +120,7 @@ Start by washing bedding, pillows and drapes in hot water…
 
 …and from then on keep the bedroom door closed.
 
-Also, keep cleaning as it may take weeks before you notice results.
+Also, keep cleaning as **it may take weeks**  before you notice results.
 
 The bottom line is this:
 
@@ -134,7 +134,7 @@ Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allerg
 
 > Of all the pollen, and mold, and animal dander, dust mites that we have studied, the cat dander is absolutely the smallest dander.
 
-What that means is that allergen remains airborne for at least 30 minutes after you disturb it.
+What that means is that allergen **remains airborne** for at least 30 minutes after you disturb it.
 
 And you know what?
 
@@ -154,13 +154,11 @@ It sounds simple. And it is.
 
 But remember this:
 
-You need to get an air purifier with a HEPA filter.
+You need to get an air purifier with a **HEPA filter**. These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank"} the size of animal allergens.
 
-These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank"} the size of animal allergens.
+All you have to do is place the purifier in the room where you or your cat spend most of your time…
 
-All you have to do is place the purifier in the room where you or your cat spend most of your time.
-
-And run the cleaner continuously.
+…and run the cleaner continuously.
 
 The result?
 
