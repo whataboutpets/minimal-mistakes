@@ -32,7 +32,7 @@ And here are the strategies you'll learn about in this post:
 * [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#7-clean-rigorously-and-often)
 * [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#8-smooth-floors-and-walls)
 * [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#9-change-your-clothes)
-* [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#10. Keep up with the Laundry)
+* [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#10-keep-up-with-the-laundry)
 * [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#)
