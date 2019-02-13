@@ -24,7 +24,7 @@ Ready?
 And here are the strategies you'll learn about in this post:
 
 * [#1. Keep out of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
-* [#2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
 * [#3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#5. No Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -60,7 +60,7 @@ Question:
 
 What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="_blank"}?
 
-![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg)
+![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg){: .lazyload .fade-in}
 
 Here's the deal:
 
