@@ -180,13 +180,13 @@ The only problem?
 
 At this point you are not removing the allergens…
 
-…but stirring them so they become airborne.
+…but stirring them so **they become airborne**.
 
 Making allergies worse!
 
 What's the answer?
 
-You want to get a high-efficiency vacuum cleaner.
+You want to get a **high-efficiency vacuum cleaner**.
 
 These are specially designed to prevent outflow of the contents (including pet allergens) that have been swept up.
 
