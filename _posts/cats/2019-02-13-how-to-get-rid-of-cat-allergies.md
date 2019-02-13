@@ -29,8 +29,8 @@ And here are the strategies you'll learn about in this post:
 * [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#4. Time for a Bath)
 * [5. NO Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#5-no-hugging-and-kissing)
 * [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#6-wash-those-hands)
-* [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#7-clean-rigorously-and-often)
+* [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#8-smooth-floors-and-walls)
 * [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -75,11 +75,11 @@ People with cat allergies have an **over-sensitive immune system**.
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
 <blockquote>
-A word of caution:
+<p>A word of caution:</p>
 
-Cat allergy symptoms range from mild to severe.
+<p>Cat allergy symptoms range from mild to severe.</p>
 
-Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
+<p>Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.</p>
 </blockquote>
 
 So:
@@ -276,13 +276,13 @@ Animal allergens are really difficult to get rid of.
 
 Think I'm exaggerating?
 
-Allergist Dr. Warner Carr [states that](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"}:
+Allergist Dr. Warner Carr [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
 > Even if you remove a cat from a home, you clean all the walls down, do the laundry, do the draperies, it still takes six months for the level of cat protein to get down to normal.
 
 This means you need mop the floors, vacuum the rugs, and clean furniture regularly.
 
-Don't forget to also regularly wash walls and tiles as allergens also sticks to these surfaces.
+Don't forget to also wash walls and tiles as allergens also sticks to these surfaces.
 
 The moral of this story?
 
