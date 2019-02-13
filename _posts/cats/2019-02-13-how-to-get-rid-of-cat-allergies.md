@@ -75,11 +75,11 @@ People with cat allergies have an **over-sensitive immune system**.
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
 <div class="notice--warning">
-A word of caution:
+<p>A word of caution:</p>
 
-Cat allergy symptoms range from mild to severe.
+<p>Cat allergy symptoms range from mild to severe.</p>
 
-Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.
+<p>Seek medical help immediately in case of a [severe reaction](https://www.aafa.org/asthma-symptoms/){:target="_blank"}.</p>
 </div>
 
 So:
@@ -196,7 +196,7 @@ Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
-![bathroom]({{ site.url }}/assets/images/cats/bathroom.jpg)
+![cats in towel]({{ site.url }}/assets/images/cats/cats-in-towel.jpg)
 
 News flash:
 
@@ -208,7 +208,7 @@ Cats have a complex relationship with water.
 
 But bear with me.
 
-Giving your kitty a bath once a week can help getting rid of your allergies.
+Giving your kitty **a bath once a week** can help getting rid of your allergies.
 
 Fact:
 
