@@ -28,7 +28,7 @@ And here are the strategies you'll learn about in this post:
 * [3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
 * [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#4. Time for a Bath)
 * [5. NO Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#5-no-hugging-and-kissing)
-* [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#6-wash-those-hands)
 * [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -226,7 +226,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 ## 5. NO Hugging and Kissing
 
-![kitten]({{ site.url }}/assets/images/cats/kitten.jpg)
+![kitten in bowl]({{ site.url }}/assets/images/cats/kitten-in-bowl.jpg)
 
 Hang onto your seat because:
 
@@ -258,7 +258,7 @@ Good news:
 
 This is one of the simplest tricks on the list.
 
-The first thing you do after you touch or handle kitty:
+The first thing you do after you **touch or handle** kitty:
 
 You wash your hands.
 
