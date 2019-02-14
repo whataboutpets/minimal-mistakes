@@ -2,22 +2,55 @@
    WhatAboutPets skin
    ========================================================================== */
 
+/* Colors */
+$primairy-color: #2196F3 !default;
+$accent-color: #FF4081 !default;
+$masthead-text: #FFFFFF !default;
+
 /* General */
-$background-color: #e4e2dd !default;
+$background-color: #E4E2DD;
 
 #main{
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 a {
   text-decoration: none;
 }
 
+/* Masthead */
+.masthead__inner-wrap {
+  padding-bottom: 0.5em !important;
+  padding-top: 0.5em !important;
+}
+.masthead, .greedy-nav {
+  background: $primairy-color !important;
+}
+
+$masthead-link-color: $masthead-text !default;
+$masthead-link-color-hover: $masthead-text !default;
+
+.greedy-nav .visible-links a:before {
+  background-color: transparent !important;
+}
+.search__toggle, .greedy-nav__toggle {
+  color: $masthead-text !important;
+}
+.greedy-nav__toggle {
+  background-color: $primairy-color !important;
+}
+.greedy-nav .hidden-links {
+  background-color: $primairy-color !important;
+}
+.greedy-nav .hidden-links a:hover {
+  background-color: $primairy-color !important;
+}
+
 /* Body */
 $text-color: #383838 !default;
-$link-color: #FF4081 !default;
-$link-color-hover: #FF4081 !default;
-$link-color-visited: #FF4081 !default;
+$link-color: $accent-color !default;
+$link-color-hover: $accent-color !default;
+$link-color-visited: $accent-color !default;
 
 /* Post */
 .page__title {
@@ -41,6 +74,6 @@ $link-color-visited: #FF4081 !default;
     text-align: center;
   }
   blockquote {
-    border-left-color: #FF4081;
+    border-left-color: $accent-color;
   }
 }
