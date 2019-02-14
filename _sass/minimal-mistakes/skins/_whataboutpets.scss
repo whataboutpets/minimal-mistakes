@@ -4,8 +4,10 @@
 
 /* Colors */
 $primairy-color: #2196F3 !default;
+$primairy-color-light: #77BEF5 !default;
 $accent-color: #FF4081 !default;
 $masthead-text: #FFFFFF !default;
+$footer-text: #FFFFFF !default;
 
 /* General */
 $background-color: #E4E2DD;
@@ -44,6 +46,16 @@ $masthead-link-color-hover: $masthead-text !default;
 }
 .greedy-nav .hidden-links a:hover {
   background-color: $primairy-color !important;
+}
+
+/* Footer */
+$footer-background-color: $primairy-color !default;
+
+.page__footer-follow {
+  color: $footer-text;
+}
+.page__footer-copyright {
+  color: $primairy-color-light;
 }
 
 /* Body */
