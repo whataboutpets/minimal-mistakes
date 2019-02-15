@@ -8,7 +8,7 @@ main:
     url: https://whataboutpets.github.io/ducks/
   - title: "Contact"
     url: https://whataboutpets.github.io/contact
-  - title: "Terms and Policies"
+  - title: "Terms"
     url: https://whataboutpets.github.io/terms/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
