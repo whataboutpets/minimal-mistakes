@@ -90,3 +90,11 @@ $link-color-visited: $accent-color !default;
     border-left-color: $accent-color;
   }
 }
+
+/* Archives */
+.archive__item-title a {
+  color: #383838 !important;
+}
+.archive__subtitle {
+  color: #BDBDBD;
+}
