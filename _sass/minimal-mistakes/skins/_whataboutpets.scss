@@ -16,7 +16,6 @@ $background-color: #E4E2DD;
 #main{
   background-color: #FFFFFF;
 }
-
 a {
   text-decoration: none;
 }
@@ -59,6 +58,14 @@ $footer-background-color: $primairy-color !default;
 .page__footer-copyright {
   color: $footer-text;
   text-align: center;
+}
+
+/* Index */
+.page__hero--overlay .page__title, .page__hero--overlay .page__lead, .page__hero--overlay .btn {
+  text-shadow: none !important;
+}
+.page__hero--overlay .page__title {
+  font-size: 3em !important;
 }
 
 /* Body */
