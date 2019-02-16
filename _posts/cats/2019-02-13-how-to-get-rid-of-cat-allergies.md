@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
-published: true
+published: false
 ---
 
 ![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
@@ -86,7 +86,7 @@ So:
 
 What's the cure?
 
-[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA) the best treatment is to **avoid contact** with cats or the areas where they live.
+[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA), the best treatment is to **avoid contact** with cats or the areas where they live.
 
 Removing kitty from your home is often the best treatment.
 
@@ -110,13 +110,13 @@ But consider this:
 
 You spend [at least one-third](https://www.sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0){:target="_blank"} of your time in the bedroom.
 
-That's minimum eight hours every day that you expose yourself to potential allergens!
+That's a minimum of eight hours every day that you expose yourself to potential allergens!
 
 Here's the deal:
 
 You need to **make your bedroom a cat-free space**.
 
-Start by washing bedding, pillows and drapes in hot water…
+Start by washing bedding, pillows, and drapes in hot water…
 
 …and from then on keep the bedroom door closed.
 
@@ -138,7 +138,7 @@ What that means is that allergen **remains airborne** for at least 30 minutes af
 
 And you know what?
 
-That just allows an allergic patient to have a constant exposure.
+That just allows an allergic patient to have constant exposure.
 
 Now, wouldn't it be great if you could somehow remove allergens from the air?
 
@@ -178,7 +178,7 @@ So, you vacuum and sweep regularly.
 
 The only problem?
 
-At this point you are not removing the allergens…
+At this point, you are not removing the allergens…
 
 …but stirring them so **they become airborne**.
 
@@ -202,17 +202,17 @@ News flash:
 
 Cats have a complex relationship with water.
 
-[According](https://www.petmd.com/cat/behavior/pet-myths-do-cats-really-hate-water){:target="_blank"} to Dr. Katy Nelson they are averse to getting wet.
+[According](https://www.petmd.com/cat/behavior/pet-myths-do-cats-really-hate-water){:target="_blank"} to Dr. Katy Nelson, they are averse to getting wet.
 
 > Cats do a nice job of bathing themselves—they don't need you to come along and supplement that for them.
 
 But bear with me.
 
-Giving your kitty **a bath once a week** can help getting rid of your allergies.
+Giving your kitty **a bath once a week** can help you in getting rid of your allergies.
 
 Fact:
 
-There are test that [indicate](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} that a bath can decrease the concentration of allergen by up to 84 percent.
+There are tests that [indicate](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} that a bath can decrease the concentration of allergen by up to 84 percent.
 
 Sounds good, right?
 
@@ -230,7 +230,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 Hang onto your seat because:
 
-Your probably not going to like this one…
+You're probably not going to like this one…
 
 Fact:
 
@@ -280,9 +280,9 @@ Allergist Dr. Warner Carr [states](https://acaai.org/allergies/types/pet-allergy
 
 > Even if you remove a cat from a home, you clean all the walls down, do the laundry, do the draperies, it still takes six months for the level of cat protein to get down to normal.
 
-This means you need mop the floors, vacuum the rugs, and clean furniture **frequently**.
+This means you need to mop the floors, vacuum the rugs, and clean furniture **frequently**.
 
-Don't forget to also wash walls and tiles as allergens also sticks to these surfaces.
+Don't forget to also wash walls and tiles as allergens also stick to these surfaces.
 
 The moral of this story?
 
@@ -362,7 +362,7 @@ That said:
 
 A thorough wash will get rid of them.
 
-Following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank"} investigated the effectiveness of laundry to remove cat allergens.
+The following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank"} investigated the effectiveness of laundry to remove cat allergens.
 
 The result?
 
