@@ -1,14 +1,12 @@
 ---
-permalink: /terms/
-title: "Terms and Policies"
-excerpt: "whataboutpets.com terms & conditions, privacy policy and license."
+permalink: /privacy-notice
+title: "Privacy Notice"
 date: 2016-01-10
-modified: 2017-05-21
+modified: 2019-02-16
 share: false
 author: false
+comments: false
 ---
-
-## Privacy Policy
 
 At WhatAboutPets.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -55,7 +53,7 @@ What this means for you:
 * We do not let the compensation we receive influence the content, topics, posts, or opinions expressed on this website.
 * We respect and value our readers too much to write anything other than our own genuine and objective opinions and advice.
 
-Just like this website, our Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+Just like this website, our Privacy Notice is a work in progress. As the revenue streams evolve, so will this page.
 
 ## License
 

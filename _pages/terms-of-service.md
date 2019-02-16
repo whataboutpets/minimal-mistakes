@@ -5,9 +5,8 @@ date: 2016-01-10
 modified: 2019-02-16
 share: false
 author: false
+comments: false
 ---
-
-## Basic Terms of Use
 
 Welcome to WhatAboutPets.com. By using one of our websites ("Site"), you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our Privacy Notice govern the relationship between you and "WhatAboutPets", provider of the Site, in your use of the Site. The terms "Provider" or "us" or "we" refer to the owner of the Site, WhatAboutPets. The term "you" refers to the user or viewer of our Site.
 
@@ -15,7 +14,7 @@ The use of the Site is subject to the following terms of use:
 
 1. The content of the pages of the Site and information available on the Site is for your general information and use only. It is subject to change without notice.
 2. Your use of any information or materials on the Provider Site is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this Site meet your specific requirements.
-3. Additionally, by accessing and using our Site, you agree to be bound by the terms found in our Privacy Notice which can be accessed by the following [link]().
+3. Additionally, by accessing and using our Site, you agree to be bound by the terms found in our Privacy Notice which can be accessed by the following [link]({{ site.url }}/privacy-notice).
 4. The trademarks, logos and service marks ("Marks") displayed on the Site are the property of Provider and/or other parties. You are prohibited from using any Marks for any purpose including, but not limited to use as metatags on other pages or Sites on the World Wide Web without the written permission of Provider or such third party which may own the Marks. All information and content located on the Site is protected by copyright. You are prohibited from modifying, copying, distributing, transmitting, displaying, publishing, selling, licensing, creating derivative works or using any Content available on or through the Site for commercial or public purposes. Unauthorized use of the Provider Site may give rise to a claim for damages and/or be a criminal offense.
 5. This Site may provide links to other Sites by allowing you to leave this Site to access third-party material or by bringing third-party material into this Site via "inverse" hyperlinks and framing technology (a "Linked Site"). Provider has no discretion to alter, update, or control the content on a linked Site. The fact that Provider has provided a link to a Site is not an endorsement, authorization, sponsorship, or affiliation with respect to such Site, its owners, or its providers. There are inherent risks in relying upon, using or retrieving any information found on the internet, and Provider urges you to make sure you understand these risks before relying upon, using, or retrieving any such information on a linked Site.
 6. Unless otherwise specifically stated, all content, products and services on the Site, or obtained from a Site to which the Site is linked (a "linked Site") are provided to you "AS IS" without warranty of any kind either express or implied including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose, title, non-infringement, security or accuracy.
