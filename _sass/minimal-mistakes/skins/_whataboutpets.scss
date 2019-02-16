@@ -39,7 +39,7 @@ $masthead-link-color-hover: $masthead-text !default;
 .greedy-nav__toggle {
   background-color: $primairy-color !important;
 }
-.greedy-nav .navicon, .greedy-nav .navicon a:before, .greedy-nav .navicon a:after {
+.greedy-nav .navicon, .greedy-nav .navicon:before, .greedy-nav .navicon:after {
   background-color: $masthead-text !important;
 }
 .greedy-nav .hidden-links, .greedy-nav .hidden-links a:hover {
