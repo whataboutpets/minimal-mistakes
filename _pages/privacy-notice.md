@@ -12,7 +12,7 @@ At WhatAboutPets.com, the privacy of our visitors is extremely important. This P
 
 First and foremost, we will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+## Log Files
 
 Like many other websites, WhatAboutPets.com uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
@@ -22,23 +22,23 @@ Like many other websites, WhatAboutPets.com uses log files to help learn about w
 * Referring and exit pages
 * Number of clicks
 
-### Cookies and Web Beacons
+## Cookies and Web Beacons
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. WhatAboutPets.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
 If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Amazon
+### Amazon
 
-Amazon, a third party affiliate marketing network, uses cookies to help make sure we get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon's Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
+Amazon, a third party affiliate marketing network, uses cookies to help make sure we get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon's Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496){:target="_blank"}.
 
-#### Google Adsense
+### Google Adsense
 
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure we get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
+Google Adsense, a third party affiliate marketing network, uses cookies to help make sure we get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182){:target="_blank"}.
 
-#### Google Analytics
+### Google Analytics
 
-Google Analytics is a web analytics tool we use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Google Analytics is a web analytics tool we use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=en){:target="_blank"}.
 
 ## Disclosure Policy
 
@@ -57,8 +57,12 @@ Just like this website, our Privacy Notice is a work in progress. As the revenue
 
 ## License
 
-All original content (e.g. articles, blog posts and illustrations) available on WhatAboutPets.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically, this means you are free to copy and redistribute the material in any medium or format as long as you give appropriate credit and don't use it for commercial purposes without our prior written consent.
+All original content (e.g. articles, blog posts and illustrations) available on WhatAboutPets.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US){:target="_blank"} unless otherwise noted. Basically, this means you are free to copy and redistribute the material in any medium or format as long as you give appropriate credit and don't use it for commercial purposes without our prior written consent.
 
 ## Attribution
 
-When giving credit, link back to the source article attributed to [WhatAboutPets.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own. Thanks!
+When giving credit, link back to the source article attributed to [WhatAboutPets.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own.
+
+## Problems or complaints with Provider's Privacy Notice
+
+We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy notice you may [contact us]({{ site.url }}/contact).
