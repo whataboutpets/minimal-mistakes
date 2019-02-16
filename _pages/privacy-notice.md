@@ -2,7 +2,7 @@
 permalink: /privacy-notice
 title: "Privacy Notice"
 date: 2016-01-10
-modified: 2019-02-16
+last_modified_at: 2019-02-16
 share: false
 author: false
 comments: false
@@ -63,6 +63,6 @@ All original content (e.g. articles, blog posts and illustrations) available on 
 
 When giving credit, link back to the source article attributed to [WhatAboutPets.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own.
 
-## Problems or complaints with Provider's Privacy Notice
+## Problems or Complaints
 
 We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy notice you may [contact us]({{ site.url }}/contact).

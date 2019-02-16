@@ -2,7 +2,7 @@
 permalink: /terms-of-service
 title: "Terms of Service"
 date: 2016-01-10
-modified: 2019-02-16
+last_modified_at: 2019-02-16
 share: false
 author: false
 comments: false
