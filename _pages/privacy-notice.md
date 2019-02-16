@@ -22,7 +22,7 @@ Like many other websites, WhatAboutPets.com uses log files to help learn about w
 * Referring and exit pages
 * Number of clicks
 
-## Cookies and Web Beacons
+## Cookies
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. WhatAboutPets.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
