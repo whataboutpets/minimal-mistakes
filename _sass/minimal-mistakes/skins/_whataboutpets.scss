@@ -33,20 +33,14 @@ a {
 $masthead-link-color: $masthead-text !default;
 $masthead-link-color-hover: $masthead-text !default;
 
-.greedy-nav .visible-links a:before {
-  background-color: transparent !important;
-}
 .search__toggle, .greedy-nav__toggle {
   color: $masthead-text !important;
 }
 .greedy-nav__toggle {
   background-color: $primairy-color !important;
 }
-.greedy-nav .hidden-links {
-  background-color: $primairy-color !important;
-}
-.greedy-nav .hidden-links a:hover {
-  background-color: $primairy-color !important;
+.greedy-nav .navicon {
+  background-color: $masthead-text !important;
 }
 
 /* Footer */
