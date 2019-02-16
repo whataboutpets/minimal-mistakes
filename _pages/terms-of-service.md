@@ -31,3 +31,7 @@ The use of the Site is subject to the following terms of use:
 17. You shall indemnify and hold harmless Provider against any third party claim arising from or related to your use of Provider's services.
 18. Provider may assign this agreement without your consent in whole or in part at its sole discretion.
 19. By continuing to use Site, you represent and warrant that you are 18 years of age or over.
+
+## Disclaimer
+
+WhatAboutPets is not a source for veterinary advice. We try to help users better understand their pets, however the content on this blog is not a substitute for professional veterinary guidance. We are bloggers, not vets.
