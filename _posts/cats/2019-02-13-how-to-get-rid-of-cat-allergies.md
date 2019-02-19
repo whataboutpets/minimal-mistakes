@@ -35,8 +35,8 @@ And here are the strategies you'll learn about in this post:
 * [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#10-keep-up-with-the-laundry)
 * [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#11-cover-vents)
 * [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#12-brush)
-* [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#13-keep-outside)
+* [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#14-allergy-shots)
 * [#15. Offer a Balanced Diet]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -430,9 +430,9 @@ Avoid grooming your pet if you have animal allergies. And if you must groom them
 
 I can't stress this enough:
 
-A way to deal with cat allergies is avoidance.
+The best way to deal with cat allergies is avoidance.
 
-So, a possible solution might be to keep kitty outside.
+So, a possible solution might be to **keep kitty outside**.
 
 At least for most part of the day.
 
@@ -456,7 +456,7 @@ Sounds crazy right!
 
 But just keep reading and I'll explain.
 
-[Allergy immunotherapy](https://www.webmd.com/allergies/allergy-shots#1){:target="_blank"} works by exposing the body to minute amounts of an allergen.
+[Allergy immunotherapy](https://www.webmd.com/allergies/allergy-shots#1){:target="_blank"} works by **exposing the body to minute amounts of an allergen**.
 
 The point?
 
@@ -464,18 +464,12 @@ It helps the body build up an immunity or tolerance to the allergen.
 
 There are two common types of immunotherapy:
 
-1. Allergy shots
-2. Sublingual immunotherapy (SLIT)
+* Allergy shots
+* Sublingual immunotherapy (SLIT)
 
-Allergy shots involve giving injections of allergens in an increasing dose over time.
-
-In the case of SLIT, patients are given small doses of an allergen under the tongue.
+Allergy shots involve giving injections of allergens in an increasing dose over time. In the case of [SLIT](https://acaai.org/allergies/allergy-treatment/allergy-immunotherapy/sublingual-immunotherapy-slit){:target="_blank"}, patients are given small doses of an allergen under the tongue.
 
 The goal is that you progressively become less sensitive to the allergen.
-
-A word of caution:
-
-Treatment must always be under observation of a medical professional.
 
 Bottom line:
 
