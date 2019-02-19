@@ -48,11 +48,11 @@ And here are the strategies you'll learn about in this post:
 * [23. Go for a Clutter Free Home]({{ site.url }}/get-rid-of-cat-allergies.html#23-go-for-a-clutter-free-home)
 * [24. Sleeping Spots]({{ site.url }}/get-rid-of-cat-allergies.html#24-sleeping-spots)
 * [25. Use Wipes]({{ site.url }}/get-rid-of-cat-allergies.html#25-use-wipes)
-* [#26. Spray Allergens Away]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#27. Vapor Steam]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#28. Mind the Litter]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#29. Spay or Neuter]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#30. Get Tested]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [26. Spray Allergens Away]({{ site.url }}/get-rid-of-cat-allergies.html#26-spray-allergens-away)
+* [27. Vapor Steam]({{ site.url }}/get-rid-of-cat-allergies.html#27-vapor-steam)
+* [28. Mind the Litter]({{ site.url }}/get-rid-of-cat-allergies.html#28-mind-the-litter)
+* [29. Spay or Neuter]({{ site.url }}/get-rid-of-cat-allergies.html#29-spay-or-neuter)
+* [30. Get Tested]({{ site.url }}/get-rid-of-cat-allergies.html#30-get-tested)
 
 Before we dive into the list.
 
