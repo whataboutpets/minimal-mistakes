@@ -634,9 +634,11 @@ Well, there's a way to make it harder for allergens to get into the various part
 
 How?
 
-You could get **hypoallergenic** (allergy-proof) bedding and covers** that are made from materials that act as a barrier against allergens.
+You could get **hypoallergenic** (allergy-proof) bedding and covers that are made from materials that act as a barrier against allergens.
 
-In addition to that, change and wash your sheets at least once a week to prevent allergens from accumulating.
+In addition to that:
+
+Change and wash your sheets at least once a week to prevent allergens from accumulating.
 
 ## 22. Make Some Rooms off Limits
 
@@ -650,13 +652,11 @@ Do you see where we're going with this?
 
 **Designate "cat-free" spaces** in your home.
 
-Or in other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
+In other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
 
 [According](https://www.youtube.com/watch?v=7OWAO5nnR9A&feature=youtu.be&t=43){:target="_blank"} to Allergist Dr. Dana Wallace:
 
-The ideal situation is one where the cat has it's private room where it lives most of the time.
-
-This really significantly reduces the exposure of dander to the rest of the house.
+> The ideal situation is one where the cat has it's private room where it lives most of the time. This really significantly reduces the exposure of dander to the rest of the house.
 
 To top it off:
 
@@ -676,13 +676,17 @@ Now wouldn't it be great if this was easy?
 
 Here's how:
 
+Go for a **clutter free** home.
+
 Make sure you keep ornaments and knickknacks to a minimum.
 
-If you have kids: store toys, games and stuffed animals in plastic bins.
+If you have kids, store toys, games and stuffed animals in plastic bins.
 
 Finally, restrict smaller objects to an organized junk drawer.
 
-That's it. Now you'll be able to clean in record time.
+That's it.
+
+Now you'll be able to clean in record time.
 
 ## 24. Sleeping Spots
 
