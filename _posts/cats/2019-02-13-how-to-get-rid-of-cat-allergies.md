@@ -51,7 +51,7 @@ And here are the strategies you'll learn about in this post:
 * [26. Spray Allergens Away]({{ site.url }}/get-rid-of-cat-allergies.html#26-spray-allergens-away)
 * [27. Vapor Steam]({{ site.url }}/get-rid-of-cat-allergies.html#27-vapor-steam)
 * [28. Mind the Litter]({{ site.url }}/get-rid-of-cat-allergies.html#28-mind-the-litter)
-* [29. Spay or Neuter]({{ site.url }}/get-rid-of-cat-allergies.html#29-spay-or-neuter)
+* [29. Spay or Neuter?]({{ site.url }}/get-rid-of-cat-allergies.html#29-spay-or-neuter)
 * [30. Get Tested]({{ site.url }}/get-rid-of-cat-allergies.html#30-get-tested)
 
 Before we dive into the list.
@@ -746,13 +746,13 @@ Imagine for a moment that there was a convenient way to deactivate cat allergens
 
 Can this really be true?
 
-The fact of the matter is that there are anti-allergen sprays available.
+The fact of the matter is that there are **anti-allergen sprays** available.
 
 Some of them you apply to you kitty's coat.
 
 Others you use on carpeting, upholstered furniture, and your mattress to render allergens harmless.
 
-They contain ingredients that break down the structure of allergen proteins.
+These sprays contain ingredients that break down the structure of allergen proteins.
 
 Sounds impressive, right?
 
@@ -772,7 +772,7 @@ But if this is not an option…
 
 What do you do?
 
-In short, you need clean them regularly.
+In short, you need **clean them regularly**.
 
 You can vacuum the surface…
 
@@ -794,7 +794,7 @@ Listen:
 
 Cat allergen is found in urine.
 
-At this point you probably realize that the litter box is a prime source of allergens.
+At this point you probably realize that the **litter box is a prime source of allergens**.
 
 So here's the deal:
 
@@ -808,7 +808,7 @@ And that was just the beginning…
 
 …but that's for another post.
 
-## 29. Spay or Neuter
+## 29. Spay or Neuter?
 
 ![cat lying down]({{ site.url }}/assets/images/cats/cat-lying-down.jpg)
 
