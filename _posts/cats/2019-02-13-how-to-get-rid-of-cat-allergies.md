@@ -656,7 +656,7 @@ In other words: keep your furry friend out of the bedroom or other areas where y
 
 [According](https://www.youtube.com/watch?v=7OWAO5nnR9A&feature=youtu.be&t=43){:target="_blank"} to Allergist Dr. Dana Wallace:
 
-> The ideal situation is one where the cat has it's private room where it lives most of the time. This really significantly reduces the exposure of dander to the rest of the house.
+> The ideal situation is one where the cat has its private room where it lives most of the time. This really significantly reduces the exposure of dander to the rest of the house.
 
 To top it off:
 
@@ -664,7 +664,7 @@ Restricting kitty to a certain room or area will also make it easier to keep up 
 
 In one word: great!
 
-## 23. Go for a Clutter Free Home
+## 23. Go for a Clutter-Free Home
 
 ![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
 
@@ -676,7 +676,7 @@ Now wouldn't it be great if this was easy?
 
 Here's how:
 
-Go for a **clutter free** home.
+Go for a **clutter-free** home.
 
 Make sure you keep ornaments and knickknacks to a minimum.
 
@@ -724,7 +724,7 @@ Too bad.
 
 This means a bath is not an option to remove those sticky allergens.
 
-Luckily there's another way for you to clean your furry friends coat:
+Luckily there's another way for you to clean your furry friend's coat:
 
 Hypo-allergenic **pet wipes**.
 
@@ -732,7 +732,7 @@ You simply brush these wipes over your cat's fur in order to reduce allergens.
 
 The good news is you can use them daily or as often as you wish.
 
-To top it of they are **less stressful** for felines who prefer not to be rubbed in the tub.
+To top it off they are **less stressful** for felines who prefer not to be rubbed in the tub.
 
 Awesome!
 
@@ -748,7 +748,7 @@ Can this really be true?
 
 The fact of the matter is that there are **anti-allergen sprays** available.
 
-Some of them you apply to you kitty's coat.
+Some of them you apply to your kitty's coat.
 
 Others you use on carpeting, upholstered furniture, and your mattress to render allergens harmless.
 
@@ -764,7 +764,7 @@ Give them a try.
 
 Remember:
 
-Carpets and upholstered furniture are the main reservoir of allergens in your home.
+Carpets and upholstered furniture are the main reservoirs of allergens in your home.
 
 If you can: replace or remove them.
 
@@ -772,13 +772,13 @@ But if this is not an option…
 
 What do you do?
 
-In short, you need **clean them regularly**.
+In short, you need to **clean them regularly**.
 
 You can vacuum the surface…
 
 …but for a vigorous clean you can use a [vapor steam cleaner](https://en.wikipedia.org/wiki/Vapor_steam_cleaner){:target="_blank"}.
 
-These cleaning appliances use steam to clean, and are extremely helpful in killing off cat proteins/dander, which ​are embedded in your carpets and upholstery.
+These cleaning appliances use steam to clean and are extremely helpful in killing off cat proteins/dander, which is embedded in your carpets and upholstery.
 
 To top it off steam cleaners provide a chemical-free way of cleaning.
 
@@ -794,7 +794,7 @@ Listen:
 
 Cat allergen is found in urine.
 
-At this point you probably realize that the **litter box is a prime source of allergens**.
+At this point, you probably realize that the **litter box is a prime source of allergens**.
 
 So here's the deal:
 
@@ -820,7 +820,7 @@ But it doesn't stop there.
 
 The Ohio State University College of Veterinary Medicine [advises](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} to spay or neuter your cat, as this decreases allergen production.
 
-On the other hand following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank"} that data about the effect of neutering a cat is inconsistent.
+On the other hand, following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank"} that data about the effect of neutering a cat is inconsistent.
 
 And now?
 
