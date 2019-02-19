@@ -102,7 +102,7 @@ So here are some strategies on to how to deal with cat allergies and…
 
 ## 1. Keep OUT of the Bedroom
 
-![cat on bed]({{ site.url }}/assets/images/cats/cat-on-bed.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-on-bed.jpg" alt="cat on bed">
 
 OK, I know what you're thinking. There's no harm in snuggling with your furry friend.
 
@@ -128,7 +128,7 @@ Keep kitty out of the bedroom.
 
 ## 2. Clean the Air
 
-![dandelion]({{ site.url }}/assets/images/cats/dandelion.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/dandelion.jpg" alt="dandelion">
 
 Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
@@ -168,7 +168,7 @@ Nice!
 
 ## 3. Vacuum Often
 
-![vacuum cleaner]({{ site.url }}/assets/images/cats/vacuum-cleaner.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/vacuum-cleaner.jpg" alt="vacuum cleaner">
 
 Picture this:
 
@@ -196,7 +196,7 @@ Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
-![cats in towel]({{ site.url }}/assets/images/cats/cats-in-towel.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cats-in-towel.jpg" alt="cats in towel">
 
 News flash:
 
@@ -226,7 +226,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 ## 5. NO Hugging and Kissing
 
-![kitten in bowl]({{ site.url }}/assets/images/cats/kitten-in-bowl.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/kitten-in-bowl.jpg" alt="kitten in bowl">
 
 Hang onto your seat because:
 
@@ -252,7 +252,7 @@ The choice is yours.
 
 ## 6. Wash those Hands
 
-![wash hands]({{ site.url }}/assets/images/cats/wash-hands.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/wash-hands.jpg" alt="wash hands">
 
 Good news:
 
@@ -268,7 +268,7 @@ It's a no-brainer.
 
 ## 7. Clean Rigorously and Often
 
-![cleaning products]({{ site.url }}/assets/images/cats/cleaning-products.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cleaning-products.jpg" alt="cleaning products">
 
 Get this:
 
@@ -290,7 +290,7 @@ Lather, rinse, repeat.
 
 ## 8. Smooth Floors and Walls
 
-![wooden floor]({{ site.url }}/assets/images/cats/wooden-floor.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/wooden-floor.jpg" alt="wooden floor">
 
 Want to know a dirty little secret?
 
@@ -320,7 +320,7 @@ Get rid of your carpets!
 
 ## 9. Change Your Clothes
 
-![clothes]({{ site.url }}/assets/images/cats/clothes.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/clothes.jpg" alt="clothes">
 
 Odds are that this advice has never crossed your mind.
 
@@ -346,7 +346,7 @@ You get the idea.
 
 ## 10. Keep up with the Laundry
 
-![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/laundry-machines.jpg" alt="laundry machines">
 
 Check this out:
 
