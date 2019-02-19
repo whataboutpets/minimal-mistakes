@@ -392,7 +392,7 @@ You start by making sure that bedroom **vents are covered** with dense filtering
 
 Similarly cover vents in other rooms.
 
-Beyond that you could consider to install a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}. This involves placing an air cleaning device in the ductwork of your home.
+Beyond that, you could consider installing a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}. This involves placing an air cleaning device in the ductwork of your home.
 
 Bottom line:
 
@@ -408,13 +408,13 @@ Is **cat hair** an allergen?
 
 Nope!
 
-However, it can collect dander, urine and saliva.
+However, it can collect dander, urine, and saliva.
 
-On top of that it can also carry other allergens like dust and pollen.
+On top of that, it can also carry other allergens like dust and pollen.
 
 Do you see where I'm going with this?
 
-Basically have someone without a pet allergy **regularly brush** your furry friend.
+Basically, have someone without a pet allergy **regularly brush** your furry friend.
 
 And remember:
 
@@ -434,7 +434,7 @@ The best way to deal with cat allergies is avoidance.
 
 So, a possible solution might be to **keep kitty outside**.
 
-At least for most part of the day.
+At least for the most part of the day.
 
 This will cut down on allergen exposure in your home.
 
@@ -475,7 +475,7 @@ Bottom line:
 
 Allergy shots have a proven track record as an effective form of long-term treatment.
 
-Some people will develop complete immunity to cat allergies. However others may find no relief at all.
+Some people will develop complete immunity to cat allergies. However, others may find no relief at all.
 
 Will they work for you?
 
@@ -511,7 +511,7 @@ You are possibly sitting on a hotbed of allergens while reading this post!
 
 Let me explain:
 
-Fabric sofas or arm chairs trap a lot of allergens.
+Fabric sofas or armchairs trap a lot of allergens.
 
 To top it off they are difficult to thoroughly clean.
 
@@ -543,7 +543,7 @@ That being said:
 
 The types and amount of allergen produced can vary significantly between individual cats.
 
-Also people may react more severely to one particular cat over another.
+Also, people may react more severely to one particular cat over another.
 
 But here's the interesting thing:
 
