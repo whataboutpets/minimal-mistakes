@@ -62,7 +62,6 @@ What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="
 
 <img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-with-glasses.jpg" alt="cat with glasses">
 
-
 Here's the deal:
 
 The job of our immune system is to find foreign substances…
