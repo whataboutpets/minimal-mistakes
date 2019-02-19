@@ -60,7 +60,8 @@ Question:
 
 What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="_blank"}?
 
-![cat with glasses]({{ site.url }}/assets/images/cats/cat-with-glasses.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-with-glasses.jpg" alt="cat with glasses">
+
 
 Here's the deal:
 
@@ -92,7 +93,7 @@ Removing kitty from your home is often the best treatment.
 
 Let me guess…
 
-![cat covering eyes]({{ site.url }}/assets/images/cats/cat-covering-eyes.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-covering-eyes.jpg" alt="cat covering eyes">
 
 No contact or removing is not an option!
 
