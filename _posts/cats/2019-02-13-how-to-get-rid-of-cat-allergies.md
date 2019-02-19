@@ -33,8 +33,8 @@ And here are the strategies you'll learn about in this post:
 * [8. Smooth Floors and Walls]({{ site.url }}/get-rid-of-cat-allergies.html#8-smooth-floors-and-walls)
 * [9. Change Your Clothes]({{ site.url }}/get-rid-of-cat-allergies.html#9-change-your-clothes)
 * [10. Keep up with the Laundry]({{ site.url }}/get-rid-of-cat-allergies.html#10-keep-up-with-the-laundry)
-* [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#11. Cover Vents]({{ site.url }}/get-rid-of-cat-allergies.html#11-cover-vents)
+* [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#12-brush)
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#15. Offer a Balanced Diet]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -388,13 +388,11 @@ Not good!
 
 So what can you do about it?
 
-You start by making sure that bedroom vents are covered with dense filtering material like cheesecloth.
+You start by making sure that bedroom **vents are covered** with dense filtering material like [cheesecloth](https://en.wikipedia.org/wiki/Cheesecloth){:target="_blank"}.
 
 Similarly cover vents in other rooms.
 
-Beyond that you could consider to install a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}.
-
-This involves installing an air cleaning device in the ductwork of your home.
+Beyond that you could consider to install a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}. This involves placing an air cleaning device in the ductwork of your home.
 
 Bottom line:
 
@@ -406,25 +404,23 @@ Avoid those allergens from being blow around the house.
 
 Question:
 
-Is cat hair an allergen?
+Is **cat hair** an allergen?
 
-Nope.
+Nope!
 
 However, it can collect dander, urine and saliva.
 
 On top of that it can also carry other allergens like dust and pollen.
 
-Do you see where we're going with this?
+Do you see where I'm going with this?
 
-Basically have someone without a pet allergy regularly brush your furry friend.
+Basically have someone without a pet allergy **regularly brush** your furry friend.
 
 And remember:
 
 Make sure to do this outside!
 
-Above all avoid grooming your pet if you have animal allergies.
-
-If you must groom them…
+Avoid grooming your pet if you have animal allergies. And if you must groom them…
 
 …be sure to wear a disposable dust mask.
 
