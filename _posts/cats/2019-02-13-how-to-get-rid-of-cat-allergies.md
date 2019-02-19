@@ -38,9 +38,9 @@ And here are the strategies you'll learn about in this post:
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#13-keep-outside)
 * [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#14-allergy-shots)
 * [#15. Offer a Balanced Diet]({{ site.url }}/get-rid-of-cat-allergies.html#15-offer-a-balanced-diet)
-* [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#16-choose-the-right-furniture)
+* [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#17-allergy-free-cats)
+* [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#18-medication)
 * [#19. Numbers Do Matter]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#20. Get Some Help]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#21. Pick Allergy-Proof Bedding]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -525,7 +525,7 @@ But if that doesn't work:
 
 Cover upholstered chairs with towels and sheets so you can wash them on a regular basis.
 
-Or even better, **go for leather and vinyl as upholstery choice**.
+Or even better, **go for leather and vinyl** as upholstery choice.
 
 ## 17. Allergy-free Cats?
 
@@ -551,7 +551,7 @@ Differences in allergen production are not related to the length of hair or bree
 
 Put another way:
 
-All cats produce allergens, but some cats may produce less or more than others.
+**All cats produce allergens**, but some cats may produce less or more than others.
 
 ## 18. Medication
 
@@ -564,21 +564,19 @@ Can medication help?
 Well, there are some options that allow you to control cat allergy symptoms.
 
 There are basically three types of medication:
-1. Natural remedies
-2. Over the counter medication
-3. Prescription based medication
+* _Natural remedies_
+* _Over the counter medication_
+* _Prescription based medication_
 
 To be clear: medication can work for some and do nothing for others.
 
-In addition:
-
-[According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy#Tab3){:target="_blank"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
+[According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy){:target="_blank"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
 
 Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
 
 A quick word of warning:
 
-You should always check with your doctor or allergist before embarking on a new medical treatment.
+You should **always check with your doctor or allergist** before embarking on a new medical treatment.
 
 ## 19. Numbers Do Matter
 
