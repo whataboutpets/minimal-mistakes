@@ -109,6 +109,12 @@ $link-color-visited: $accent-color !default;
   blockquote {
     border-left-color: $accent-color;
   }
+  .notice--warning {
+    background-color: #F8BBD0;
+    border: 1px solid $accent-color;
+    color: #383838;
+    font-size: 0.9em !important;
+  }
 }
 
 /* Archives */
