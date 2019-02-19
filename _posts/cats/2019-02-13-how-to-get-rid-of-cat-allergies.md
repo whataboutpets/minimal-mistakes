@@ -614,7 +614,7 @@ This way you don't inhale the allergens.
 
 It's easier than you think.
 
-Just ask for help.
+Just ask for help!
 
 ## 21. Pick Allergy-Proof Bedding
 
@@ -680,7 +680,7 @@ Go for a **clutter free** home.
 
 Make sure you keep ornaments and knickknacks to a minimum.
 
-If you have kids, store toys, games and stuffed animals in plastic bins.
+If you have kids: store toys, games and stuffed animals in plastic bins.
 
 Finally, restrict smaller objects to an organized junk drawer.
 
@@ -698,7 +698,7 @@ Cats usually sleep for about 16 hours a day, on and off.
 
 But that's not all: they often prefer to [rotate their chosen sleeping area](https://www.cats.org.uk/cats-and-sleep){:target="_blank"}.
 
-These means a lot of dander will accumulate in those sleeping spots.
+These means a lot of **dander will accumulate** in those sleeping spots.
 
 Now here's the big idea:
 
@@ -726,13 +726,13 @@ This means a bath is not an option to remove those sticky allergens.
 
 Luckily there's another way for you to clean your furry friends coat:
 
-Hypo-allergenic pet wipes.
+Hypo-allergenic **pet wipes**.
 
 You simply brush these wipes over your cat's fur in order to reduce allergens.
 
 The good news is you can use them daily or as often as you wish.
 
-To top it of they likely are less stressful for felines who prefer not to be rubbed in the tub.
+To top it of they are less stressful for felines who prefer not to be rubbed in the tub.
 
 Awesome!
 
