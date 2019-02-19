@@ -738,7 +738,7 @@ Awesome!
 
 ## 26. Spray Allergens Away
 
-![vapor]({{ site.url }}/assets/images/cats/vapor.jpg)
+![spray bottle]({{ site.url }}/assets/images/cats/spray-bottle.jpg)
 
 Imagine for a moment that there was a convenient way to deactivate cat allergens…
 
