@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
-published: false
+published: true
 ---
 
 ![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
@@ -348,7 +348,7 @@ You get the idea.
 
 ![laundry machines]({{ site.url }}/assets/images/cats/laundry-machines.jpg)
 
-Get this:
+Check this out:
 
 Your clothes or bedding might not look dirty…
 
