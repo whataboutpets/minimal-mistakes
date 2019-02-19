@@ -110,10 +110,10 @@ $link-color-visited: $accent-color !default;
     border-left-color: $accent-color;
   }
   .notice--warning {
-    background-color: #F8BBD0;
-    border: 1px solid $accent-color;
+    background-color: #FCE4EC;
+    border: 2px solid $accent-color;
     color: #383838;
-    font-size: 0.9em !important;
+    font-size: 1.0em !important;
   }
 }
 
