@@ -6,6 +6,8 @@ main:
     url: https://whataboutpets.github.io/rabbits/
   - title: "Ducks"
     url: https://whataboutpets.github.io/ducks/
+  - title: "About"
+    url: https://whataboutpets.github.io/about-us
   - title: "Contact"
     url: https://whataboutpets.github.io/contact
   # - title: "About"
