@@ -37,7 +37,7 @@ And here are the strategies you'll learn about in this post:
 * [#12. Brush]({{ site.url }}/get-rid-of-cat-allergies.html#12-brush)
 * [#13. Keep Outside]({{ site.url }}/get-rid-of-cat-allergies.html#13-keep-outside)
 * [#14. Allergy shots]({{ site.url }}/get-rid-of-cat-allergies.html#14-allergy-shots)
-* [#15. Offer a Balanced Diet]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#15. Offer a Balanced Diet]({{ site.url }}/get-rid-of-cat-allergies.html#15-offer-a-balanced-diet)
 * [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -464,12 +464,12 @@ It helps the body build up an immunity or tolerance to the allergen.
 
 There are two common types of immunotherapy:
 
-* Allergy shots
-* Sublingual immunotherapy (SLIT)
+* _Allergy shots_
+* _Sublingual immunotherapy (SLIT)_
 
 Allergy shots involve giving injections of allergens in an increasing dose over time. In the case of [SLIT](https://acaai.org/allergies/allergy-treatment/allergy-immunotherapy/sublingual-immunotherapy-slit){:target="_blank"}, patients are given small doses of an allergen under the tongue.
 
-The goal is that you progressively become less sensitive to the allergen.
+The goal is that you progressively **become less sensitive to the allergen**.
 
 Bottom line:
 
@@ -479,7 +479,7 @@ Some people will develop complete immunity to cat allergies. Others may find no 
 
 Will they work for you?
 
-The first thing to do is talk to your allergist about your options for immunotherapy.
+Talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
 
@@ -491,7 +491,7 @@ Why is that?
 
 Animals that eat a balanced diet…
 
-…will have healthier skin.
+…will have **healthier skin**.
 
 And the best part?
 
