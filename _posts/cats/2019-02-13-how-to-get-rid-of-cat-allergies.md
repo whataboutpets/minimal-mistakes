@@ -43,11 +43,11 @@ And here are the strategies you'll learn about in this post:
 * [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#18-medication)
 * [#19. Numbers DO Matter]({{ site.url }}/get-rid-of-cat-allergies.html#19-numbers-do-matter)
 * [#20. Get Some Help]({{ site.url }}/get-rid-of-cat-allergies.html#20-get-some-help)
-* [#21. Pick Allergy-Proof Bedding]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#22. Make Some Rooms off Limits]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#23. Go for a Clutter Free Home]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#24. Sleeping Spots]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#25. Use Wipes]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#21. Pick Allergy-Proof Bedding]({{ site.url }}/get-rid-of-cat-allergies.html#21-pick-allergy-proof-bedding)
+* [#22. Make Some Rooms off Limits]({{ site.url }}/get-rid-of-cat-allergies.html#22-make-some-rooms-off-limits)
+* [#23. Go for a Clutter Free Home]({{ site.url }}/get-rid-of-cat-allergies.html#23-go-for-a-clutter-free-home)
+* [#24. Sleeping Spots]({{ site.url }}/get-rid-of-cat-allergies.html#24-sleeping-spots)
+* [#25. Use Wipes]({{ site.url }}/get-rid-of-cat-allergies.html#25-use-wipes)
 * [#26. Spray Allergens Away]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#27. Vapor Steam]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#28. Mind the Litter]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -634,15 +634,13 @@ Well, there's a way to make it harder for allergens to get into the various part
 
 How?
 
-You could get hypoallergenic (allergy-proof) bedding and covers that are made from materials that act as a barrier against allergens.
+You could get **hypoallergenic** (allergy-proof) bedding and covers** that are made from materials that act as a barrier against allergens.
 
-Beyond that, make sure you regularly wash your bedding to prevent allergens from accumulating.
-
-In addition to that, change your sheets at least once a week.
+In addition to that, change and wash your sheets at least once a week to prevent allergens from accumulating.
 
 ## 22. Make Some Rooms off Limits
 
-![padlock]({{ site.url }}/assets/images/cats/padlock.jpg)
+![padlocks]({{ site.url }}/assets/images/cats/padlocks.jpg)
 
 Fact:
 
@@ -650,7 +648,7 @@ Airborne cat allergen levels have been found to be much higher in rooms where ca
 
 Do you see where we're going with this?
 
-Designate "cat-free" spaces in your home.
+**Designate "cat-free" spaces** in your home.
 
 Or in other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
 
@@ -664,7 +662,7 @@ To top it off:
 
 Restricting kitty to a certain room or area will also make it easier to keep up with cleaning efforts.
 
-In a word: great!
+In one word: great!
 
 ## 23. Go for a Clutter Free Home
 
