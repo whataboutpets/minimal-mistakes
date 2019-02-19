@@ -74,13 +74,13 @@ People with cat allergies have an **over-sensitive immune system**.
 
 It reacts to harmless proteins that are present in a cat's saliva, urine, and dander (dried flakes of skin).
 
-<blockquote>
+<div class="warning">
 <p>A word of caution:</p>
 
 <p>Cat allergy symptoms range from mild to severe.</p>
 
 <p>Seek medical help immediately in case of a severe reaction!</p>
-</blockquote>
+</div>
 
 So:
 
