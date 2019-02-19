@@ -475,7 +475,7 @@ Bottom line:
 
 Allergy shots have a proven track record as an effective form of long-term treatment.
 
-Some people will develop complete immunity to cat allergies. Others may find no relief at all.
+Some people will develop complete immunity to cat allergies. However others may find no relief at all.
 
 Will they work for you?
 
@@ -503,7 +503,7 @@ Go ahead and speak with your veterinarian about feeding your feline friend the r
 
 ## 16. Choose the Right Furniture
 
-![chairs]({{ site.url }}/assets/images/cats/chairs.jpg)
+![cat on sofa]({{ site.url }}/assets/images/cats/cat-on-sofa.jpg)
 
 Big news:
 
@@ -517,7 +517,7 @@ To top it off they are difficult to thoroughly clean.
 
 So what can you do about it?
 
-Well, keep kitty off the furniture…
+Well, **keep kitty off the furniture**…
 
 Sounds easy enough, right?
 
@@ -525,7 +525,7 @@ But if that doesn't work:
 
 Cover upholstered chairs with towels and sheets so you can wash them on a regular basis.
 
-Or even better, go for leather and vinyl as upholstery choice.
+Or even better, **go for leather and vinyl as upholstery choice**.
 
 ## 17. Allergy-free Cats?
 
