@@ -760,7 +760,7 @@ Give them a try.
 
 ## 27. Vapor Steam
 
-![steam]({{ site.url }}/assets/images/cats/steam.jpg)
+![vapor steam cleaner]({{ site.url }}/assets/images/cats/vapor-steam-cleaner.jpg)
 
 Remember:
 
@@ -788,7 +788,7 @@ The choice is yours.
 
 ## 28. Mind the Litter
 
-![cat in kitchen]({{ site.url }}/assets/images/cats/cat-in-kitchen.jpg)
+![kitten in cat litter box]({{ site.url }}/assets/images/cats/kitten-in-cat-litter-box.jpg)
 
 Listen:
 
@@ -828,7 +828,7 @@ Check with your veterinarian what is best for your feline friend.
 
 ## 30. Get Tested
 
-![test tubes]({{ site.url }}/assets/images/cats/test-tubes.jpg)
+![allergy test]({{ site.url }}/assets/images/cats/allergy-test.jpg)
 
 This is important:
 
