@@ -732,7 +732,7 @@ You simply brush these wipes over your cat's fur in order to reduce allergens.
 
 The good news is you can use them daily or as often as you wish.
 
-To top it of they are less stressful for felines who prefer not to be rubbed in the tub.
+To top it of they are **less stressful** for felines who prefer not to be rubbed in the tub.
 
 Awesome!
 
@@ -832,7 +832,7 @@ Check with your veterinarian what is best for your feline friend.
 
 This is important:
 
-When dealing with allergies always try to look at the bigger picture.
+When dealing with allergies always **try to look at the bigger picture**.
 
 For example:
 
@@ -846,9 +846,9 @@ My point is this:
 
 Don't give up to soon. Keep searching until you find what works for both you and your feline friend.
 
-And isn't that what you want?
+A good way to start is to get tested.
 
-Finally, here are some links that can help you find an allergist:
+Here are some links that can help you find an allergist:
 * [ACAAI - Find an Allergist](https://acaai.org/locate-an-allergist){:target="_blank"}
 * [AAAAI - Find an Allergist / Immunologist](http://allergist.aaaai.org/find/){:target="_blank"}
 
