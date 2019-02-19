@@ -22,4 +22,4 @@ We respect and value our readers too much to write anything other than our own g
 
 Enjoy reading!
 
-The WhatAboutPets team.
+The WhatAboutPets team

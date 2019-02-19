@@ -4,7 +4,7 @@
 
 /* Colors */
 $primairy-color: #2196F3 !default;
-$primairy-color-light: #77BEF5 !default;
+$primairy-color-light: #BBDEFB !default;
 $accent-color: #FF4081 !default;
 $warning-color: #FF4081 !default;
 $masthead-text: #FFFFFF !default;
@@ -21,6 +21,10 @@ a {
 }
 
 /* Masthead */
+.masthead{
+  border-bottom-color: $primairy-color-light;
+}
+
 .masthead__inner-wrap {
   padding-bottom: 0.5em !important;
   padding-top: 0.5em !important;
