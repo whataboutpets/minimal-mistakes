@@ -41,7 +41,7 @@ And here are the strategies you'll learn about in this post:
 * [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#16-choose-the-right-furniture)
 * [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#17-allergy-free-cats)
 * [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#18-medication)
-* [#19. Numbers Do Matter]({{ site.url }}/get-rid-of-cat-allergies.html#19-numbers-do-matter)
+* [#19. Numbers DO Matter]({{ site.url }}/get-rid-of-cat-allergies.html#19-numbers-do-matter)
 * [#20. Get Some Help]({{ site.url }}/get-rid-of-cat-allergies.html#20-get-some-help)
 * [#21. Pick Allergy-Proof Bedding]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#22. Make Some Rooms off Limits]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -578,7 +578,7 @@ A quick word of warning:
 
 You should **always check with your doctor or allergist** before embarking on a new medical treatment.
 
-## 19. Numbers Do Matter
+## 19. Numbers DO Matter
 
 ![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
 
@@ -588,7 +588,7 @@ Wrong!
 
 The American College of Allergy, Asthma and Immunology (ACAAI) [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
-> Homes with more than one cat have **higher levels of cat allergens**.
+> Homes with more than one cat have higher levels of cat allergens.
 
 It's pretty obvious once you think about it.
 
