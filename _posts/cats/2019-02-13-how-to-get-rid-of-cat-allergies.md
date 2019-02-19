@@ -602,7 +602,7 @@ Stick to one furry friend…
 
 Let's face it:
 
-Solving a problem is always easier if you get some help.
+Solving a problem is always easier if you **get some help**.
 
 So what am I talking about?
 
