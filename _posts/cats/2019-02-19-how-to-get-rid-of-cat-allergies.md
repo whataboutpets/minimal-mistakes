@@ -376,7 +376,7 @@ It really is that simple.
 
 ## 11. Cover Vents
 
-![vent]({{ site.url }}/assets/images/cats/vent.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/vent.jpg" alt="vent">
 
 Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank"} system at home that pushes air through ducts?
 
@@ -400,7 +400,7 @@ Avoid those allergens from being blow around the house.
 
 ## 12. Brush
 
-![brush]({{ site.url }}/assets/images/cats/brush.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/pet-brush.jpg" alt="pet brush">
 
 Question:
 
@@ -426,7 +426,7 @@ Avoid grooming your pet if you have animal allergies. And if you must groom them
 
 ## 13. Keep Outside
 
-![cat outside]({{ site.url }}/assets/images/cats/cat-outside.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-outside.jpg" alt="cat outside">
 
 I can't stress this enough:
 
@@ -444,7 +444,7 @@ Make sure your cat is safe outside.
 
 ## 14. Allergy Shots
 
-![syringe]({{ site.url }}/assets/images/cats/syringe.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/syringe.jpg" alt="syringe">
 
 What if I told you that one way to treat your allergies…
 
@@ -483,7 +483,7 @@ Talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
 
-![cat food]({{ site.url }}/assets/images/cats/cat-food.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-food.jpg" alt="cat food">
 
 Believe it or not, but what your cat eats is also important.
 
@@ -503,7 +503,7 @@ Go ahead and speak with your veterinarian about feeding your feline friend the r
 
 ## 16. Choose the Right Furniture
 
-![cat on sofa]({{ site.url }}/assets/images/cats/cat-on-sofa.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-on-sofa.jpg" alt="cat on sofa">
 
 Big news:
 
@@ -529,7 +529,7 @@ Or even better, **go for leather and vinyl** as upholstery choice.
 
 ## 17. Allergy-free Cats?
 
-![sphynx cat]({{ site.url }}/assets/images/cats/sphynx-cat.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/sphynx-cat.jpg" alt="sphynx cat">
 
 News flash:
 
@@ -555,7 +555,7 @@ Put another way:
 
 ## 18. Medication
 
-![medication]({{ site.url }}/assets/images/cats/medication.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/medication.jpg" alt="medication">
 
 Question:
 
@@ -580,7 +580,7 @@ You should **always check with your doctor or allergist** before embarking on a 
 
 ## 19. Numbers DO Matter
 
-![kittens]({{ site.url }}/assets/images/cats/kittens.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/kittens.jpg" alt="kittens">
 
 Owning a high number of cats doesn't really make your allergies worse right?
 
@@ -598,7 +598,7 @@ Stick to one furry friend…
 
 ## 20. Get Some Help
 
-![helping hand]({{ site.url }}/assets/images/cats/helping-hand.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/helping-hand.jpg" alt="helping hand">
 
 Let's face it:
 
@@ -618,7 +618,7 @@ Just ask for help!
 
 ## 21. Pick Allergy-Proof Bedding
 
-![pillows]({{ site.url }}/assets/images/cats/pillows.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/pillows.jpg" alt="pillows">
 
 Here's the deal:
 
@@ -642,7 +642,7 @@ Change and wash your sheets at least once a week to prevent allergens from accum
 
 ## 22. Make Some Rooms off Limits
 
-![padlocks]({{ site.url }}/assets/images/cats/padlocks.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/padlocks.jpg" alt="padlocks">
 
 Fact:
 
@@ -666,7 +666,7 @@ In one word: great!
 
 ## 23. Go for a Clutter-Free Home
 
-![empty room]({{ site.url }}/assets/images/cats/empty-room.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/empty-room.jpg" alt="empty room">
 
 One way to manage the allergen levels in your home…
 
@@ -690,7 +690,7 @@ Now you'll be able to clean in record time.
 
 ## 24. Sleeping Spots
 
-![kitten sleeping]({{ site.url }}/assets/images/cats/kitten-sleeping.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/kitten-sleeping.jpg" alt="kitten sleeping">
 
 Check this out:
 
@@ -714,7 +714,7 @@ It couldn't be easier.
 
 ## 25. Use Wipes
 
-![wet wipes]({{ site.url }}/assets/images/cats/wet-wipes.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/wet-wipes.jpg" alt="wet wipes">
 
 It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank"} and it usually goes like this:
 
@@ -738,7 +738,7 @@ Awesome!
 
 ## 26. Spray Allergens Away
 
-![spray bottle]({{ site.url }}/assets/images/cats/spray-bottle.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/spray-bottle.jpg" alt="spray bottle">
 
 Imagine for a moment that there was a convenient way to deactivate cat allergens…
 
@@ -760,7 +760,7 @@ Give them a try.
 
 ## 27. Vapor Steam
 
-![vapor steam cleaner]({{ site.url }}/assets/images/cats/vapor-steam-cleaner.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/vapor-steam-cleaner.jpg" alt="vapor steam cleaner">
 
 Remember:
 
@@ -788,7 +788,7 @@ The choice is yours.
 
 ## 28. Mind the Litter
 
-![kitten in cat litter box]({{ site.url }}/assets/images/cats/kitten-in-cat-litter-box.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/kitten-in-cat-litter-box.jpg" alt="kitten in cat litter box">
 
 Listen:
 
@@ -810,7 +810,7 @@ And that was just the beginning…
 
 ## 29. Spay or Neuter?
 
-![cat lying down]({{ site.url }}/assets/images/cats/cat-lying-down.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/cat-lying-down.jpg" alt="cat lying down">
 
 Get this:
 
@@ -828,7 +828,7 @@ Check with your veterinarian what is best for your feline friend.
 
 ## 30. Get Tested
 
-![allergy test]({{ site.url }}/assets/images/cats/allergy-test.jpg)
+<img class="lazy" data-src="{{ site.url }}/assets/images/cats/allergy-test.jpg" alt="allergy test">
 
 This is important:
 
