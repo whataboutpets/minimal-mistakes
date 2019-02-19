@@ -41,8 +41,8 @@ And here are the strategies you'll learn about in this post:
 * [#16. Choose the Right Furniture]({{ site.url }}/get-rid-of-cat-allergies.html#16-choose-the-right-furniture)
 * [#17. Allergy-Free Cats?]({{ site.url }}/get-rid-of-cat-allergies.html#17-allergy-free-cats)
 * [#18. Medication]({{ site.url }}/get-rid-of-cat-allergies.html#18-medication)
-* [#19. Numbers Do Matter]({{ site.url }}/get-rid-of-cat-allergies.html#)
-* [#20. Get Some Help]({{ site.url }}/get-rid-of-cat-allergies.html#)
+* [#19. Numbers Do Matter]({{ site.url }}/get-rid-of-cat-allergies.html#19-numbers-do-matter)
+* [#20. Get Some Help]({{ site.url }}/get-rid-of-cat-allergies.html#20-get-some-help)
 * [#21. Pick Allergy-Proof Bedding]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#22. Make Some Rooms off Limits]({{ site.url }}/get-rid-of-cat-allergies.html#)
 * [#23. Go for a Clutter Free Home]({{ site.url }}/get-rid-of-cat-allergies.html#)
@@ -563,7 +563,7 @@ Can medication help?
 
 Well, there are some options that allow you to control cat allergy symptoms.
 
-There are basically three types of medication:
+You basically have **three types of medication**:
 * _Natural remedies_
 * _Over the counter medication_
 * _Prescription based medication_
@@ -572,7 +572,7 @@ To be clear: medication can work for some and do nothing for others.
 
 [According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy){:target="_blank"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
 
-Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
+> Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
 
 A quick word of warning:
 
@@ -588,13 +588,13 @@ Wrong!
 
 The American College of Allergy, Asthma and Immunology (ACAAI) [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
 
-Homes with more than one cat have higher levels of cat allergens.
+> Homes with more than one cat have **higher levels of cat allergens**.
 
 It's pretty obvious once you think about it.
 
 In a nutshell:
 
-Stick to one furry friend.
+Stick to one furry friend…
 
 ## 20. Get Some Help
 
