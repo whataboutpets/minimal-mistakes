@@ -1,7 +1,6 @@
 ---
 permalink: /about-us
 title: "About Us"
-date: 2019-02-17
 share: false
 author: false
 comments: false
