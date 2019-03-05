@@ -32,16 +32,16 @@
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.data.comments[page.slug] | where_exp: 'comment', 'comment[1].replying_to == ""' | sort: 'date' %}
+              {% assign comments = site.data.comments[page.slug] | where_exp: 'item', 'item.replying_to == blank' | sort: 'date' %}
 
               {% for comment in comments %}
                 {% assign index = forloop.index %}
-                {% assign replying_to = comment[1].replying_to | to_integer %}
-                {% assign email = comment[1].email %}
-                {% assign name = comment[1].name %}
-                {% assign url = comment[1].url %}
-                {% assign date = comment[1].date %}
-                {% assign message = comment[1].message %}
+                {% assign replying_to = comment.replying_to | to_integer %}
+                {% assign email = comment.email %}
+                {% assign name = comment.name %}
+                {% assign url = comment.url %}
+                {% assign date = comment.date %}
+                {% assign message = comment.message %}
                 {% include comment.html index=index replying_to=replying_to email=email name=name url=url date=date message=message %}
               {% endfor %}
             {% endif %}
