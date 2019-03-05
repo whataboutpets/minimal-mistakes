@@ -33,7 +33,7 @@
 
 {% for reply in replies %}
   {% assign index       = forloop.index | prepend: '-' | prepend: include.index %}
-  {% assign replying_to = r | to_integer %}
+  {% assign replying_to = replying_to | to_integer %}
   {% assign avatar      = reply.avatar %}
   {% assign email       = reply.email %}
   {% assign name        = reply.name %}
