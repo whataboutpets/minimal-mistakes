@@ -12,7 +12,7 @@
     </h3>
     <p class="comment__date">
       {% if include.date %}
-        {% if include.index %}<a href="#comment{{ include.index }}" itemprop="url">{% endif %}
+        {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
         <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time>
         {% if include.index %}</a>{% endif %}
       {% endif %}
@@ -33,7 +33,7 @@
 
 {% for reply in replies %}
   {% assign index = forloop.index | prepend: '-' | prepend: include.index %}
-  {% assign r = comment.replying_to %}
+  {% assign r = reply.replying_to %}
   {% assign replying_to = r | to_integer %}
   {% assign avatar = reply.avatar %}
   {% assign email = reply.email %}
