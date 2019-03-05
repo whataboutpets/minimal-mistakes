@@ -32,15 +32,17 @@
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.data.comments[page.slug] | sort %}
+              {% assign comments = site.data.comments[page.slug] | where_exp: 'comment', 'comment.replying_to == blank' | sort: 'date' %}
 
               {% for comment in comments %}
+                {% assign index = forloop.index %}
+                {% assign replying_to = comment[1].replying_to | to_integer %}
                 {% assign email = comment[1].email %}
                 {% assign name = comment[1].name %}
                 {% assign url = comment[1].url %}
                 {% assign date = comment[1].date %}
                 {% assign message = comment[1].message %}
-                {% include comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+                {% include comment.html index=index replying_to=replying_to email=email name=name url=url date=date message=message %}
               {% endfor %}
             {% endif %}
           </div>
@@ -74,6 +76,7 @@
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
               </div>
               <div class="form-group hidden" style="display: none;">
+                <input type="hidden" id="comment-parent" name="fields[replying_to]" value="" />
                 <input type="hidden" name="options[slug]" value="{{ page.slug }}">
                 <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
