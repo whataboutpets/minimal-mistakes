@@ -32,14 +32,15 @@
 <!-- {{ replies | inspect }} -->
 
 {% for reply in replies %}
-  {% assign index       = forloop.index | prepend: '-' | prepend: include.index %}
-  {% assign replying_to = replying_to | to_integer %}
-  {% assign avatar      = reply.avatar %}
-  {% assign email       = reply.email %}
-  {% assign name        = reply.name %}
-  {% assign url         = reply.url %}
-  {% assign date        = reply.date %}
-  {% assign message     = reply.message %}
+  {% assign index = forloop.index | prepend: '-' | prepend: include.index %}
+  {% assign r = comment.replying_to %}
+  {% assign replying_to = r | to_integer %}
+  {% assign avatar = reply.avatar %}
+  {% assign email = reply.email %}
+  {% assign name = reply.name %}
+  {% assign url = reply.url %}
+  {% assign date = reply.date %}
+  {% assign message = reply.message %}
 
   {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
 {% endfor %}
