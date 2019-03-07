@@ -133,6 +133,11 @@ $link-color-visited: $accent-color !default;
   }
 }
 
+/* Comments */
+.comment.child {
+  margin-left: 4.5em;
+}
+
 /* Archives */
 .archive__item-title a {
   color: #383838 !important;
