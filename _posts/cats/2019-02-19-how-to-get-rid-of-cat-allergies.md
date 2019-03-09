@@ -376,7 +376,7 @@ It really is that simple.
 
 ## 11. Cover Vents
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/vent.jpg" alt="vent">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.jpg" alt="vent">
 
 Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank" rel="noopener"} system at home that pushes air through ducts?
 
