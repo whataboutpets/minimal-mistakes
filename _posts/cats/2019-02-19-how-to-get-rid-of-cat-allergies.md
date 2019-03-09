@@ -26,7 +26,7 @@ And here are the strategies you'll learn about in this post:
 * [1. Keep OUT of the Bedroom]({{ site.url }}/get-rid-of-cat-allergies.html#1-keep-out-of-the-bedroom)
 * [2. Clean the Air]({{ site.url }}/get-rid-of-cat-allergies.html#2-clean-the-air)
 * [3. Vacuum Often]({{ site.url }}/get-rid-of-cat-allergies.html#3-vacuum-often)
-* [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#4. Time for a Bath)
+* [4. Time for a Bath]({{ site.url }}/get-rid-of-cat-allergies.html#4-time-for-a-bath)
 * [5. NO Hugging and Kissing]({{ site.url }}/get-rid-of-cat-allergies.html#5-no-hugging-and-kissing)
 * [6. Wash those Hands]({{ site.url }}/get-rid-of-cat-allergies.html#6-wash-those-hands)
 * [7. Clean Rigorously and Often]({{ site.url }}/get-rid-of-cat-allergies.html#7-clean-rigorously-and-often)
@@ -128,7 +128,7 @@ Keep kitty out of the bedroom.
 
 ## 2. Clean the Air
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.png" data-src="{{ site.url }}/assets/images/cats/dandelion.jpg" alt="dandelion">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.jpg" alt="dandelion">
 
 Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank" rel="noopener"} that:
 
@@ -168,7 +168,7 @@ Nice!
 
 ## 3. Vacuum Often
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.png" data-src="{{ site.url }}/assets/images/cats/vacuum-cleaner.jpg" alt="vacuum cleaner">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.jpg" alt="vacuum cleaner">
 
 Picture this:
 
@@ -196,7 +196,7 @@ Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.png" data-src="{{ site.url }}/assets/images/cats/cats-in-towel.jpg" alt="cats in towel">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.jpg" alt="cats in towel">
 
 News flash:
 
