@@ -788,7 +788,7 @@ The choice is yours.
 
 ## 28. Mind the Litter
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/kitten-in-cat-litter-box.jpg" alt="kitten in cat litter box">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.jpg" alt="kitten in cat litter box">
 
 Listen:
 
