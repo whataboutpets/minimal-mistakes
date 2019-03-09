@@ -268,7 +268,7 @@ It's a no-brainer.
 
 ## 7. Clean Rigorously and Often
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cleaning-products.jpg" alt="cleaning products">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.jpg" alt="cleaning products">
 
 Get this:
 
@@ -290,7 +290,7 @@ Lather, rinse, repeat.
 
 ## 8. Smooth Floors and Walls
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/wooden-floor.jpg" alt="wooden floor">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.jpg" alt="wooden floor">
 
 Want to know a dirty little secret?
 
@@ -320,7 +320,7 @@ Get rid of your carpets!
 
 ## 9. Change Your Clothes
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/clothes.jpg" alt="clothes">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.jpg" alt="clothes">
 
 Odds are that this advice has never crossed your mind.
 
@@ -346,7 +346,7 @@ You get the idea.
 
 ## 10. Keep up with the Laundry
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/laundry-machines.jpg" alt="laundry machines">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.jpg" alt="laundry machines">
 
 Check this out:
 
