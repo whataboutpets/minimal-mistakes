@@ -128,9 +128,9 @@ Keep kitty out of the bedroom.
 
 ## 2. Clean the Air
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/dandelion.jpg" alt="dandelion">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.png" data-src="{{ site.url }}/assets/images/cats/dandelion.jpg" alt="dandelion">
 
-Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
+Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank" rel="noopener"} that:
 
 > Of all the pollen, and mold, and animal dander, dust mites that we have studied, the cat dander is absolutely the smallest dander.
 
@@ -154,7 +154,7 @@ It sounds simple. And it is.
 
 But remember this:
 
-You need to get an air purifier with a **HEPA filter**. These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank"} the size of animal allergens.
+You need to get an air purifier with a **HEPA filter**. These are filters that are capable of [removing particles](https://en.wikipedia.org/wiki/HEPA){:target="_blank" rel="noopener"} the size of animal allergens.
 
 All you have to do is place the purifier in the room where you or your cat spend most of your time…
 
@@ -162,13 +162,13 @@ All you have to do is place the purifier in the room where you or your cat spend
 
 The result?
 
-This can reduce the concentration of allergens [up to five to seven-fold](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"}.
+This can reduce the concentration of allergens [up to five to seven-fold](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"}.
 
 Nice!
 
 ## 3. Vacuum Often
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/vacuum-cleaner.jpg" alt="vacuum cleaner">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.png" data-src="{{ site.url }}/assets/images/cats/vacuum-cleaner.jpg" alt="vacuum cleaner">
 
 Picture this:
 
@@ -196,13 +196,13 @@ Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cats-in-towel.jpg" alt="cats in towel">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.png" data-src="{{ site.url }}/assets/images/cats/cats-in-towel.jpg" alt="cats in towel">
 
 News flash:
 
 Cats have a complex relationship with water.
 
-[According](https://www.petmd.com/cat/behavior/pet-myths-do-cats-really-hate-water){:target="_blank"} to Dr. Katy Nelson, they are averse to getting wet.
+[According](https://www.petmd.com/cat/behavior/pet-myths-do-cats-really-hate-water){:target="_blank" rel="noopener"} to Dr. Katy Nelson, they are averse to getting wet.
 
 > Cats do a nice job of bathing themselves—they don't need you to come along and supplement that for them.
 
@@ -212,7 +212,7 @@ Giving your kitty **a bath once a week** can help you in getting rid of your all
 
 Fact:
 
-There are tests that [indicate](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} that a bath can decrease the concentration of allergen by up to 84 percent.
+There are tests that [indicate](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"} that a bath can decrease the concentration of allergen by up to 84 percent.
 
 Sounds good, right?
 
@@ -222,7 +222,7 @@ Just make sure you use a shampoo formulated for cats…
 
 Want to know more about how to bathe your cat?
 
-Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Cat){:target="_blank"}.
+Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Cat){:target="_blank" rel="noopener"}.
 
 ## 5. NO Hugging and Kissing
 
@@ -238,7 +238,7 @@ The best treatment for pet allergies is to avoid contact.
 
 And guess what?
 
-The [highest concentration](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} of allergens on a cat's body is found on the **face and neck**.
+The [highest concentration](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"} of allergens on a cat's body is found on the **face and neck**.
 
 What this means:
 
@@ -276,7 +276,7 @@ Animal allergens are really difficult to get rid of.
 
 Think I'm exaggerating?
 
-Allergist Dr. Warner Carr [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
+Allergist Dr. Warner Carr [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank" rel="noopener"} that:
 
 > Even if you remove a cat from a home, you clean all the walls down, do the laundry, do the draperies, it still takes six months for the level of cat protein to get down to normal.
 
@@ -298,7 +298,7 @@ Carpets are the **primary reservoir of allergens** in a home!
 
 To put it another way:
 
-They can contain [13 times](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} more cat allergens than smooth floors.
+They can contain [13 times](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"} more cat allergens than smooth floors.
 
 But if you're serious about reducing cat allergies:
 
@@ -362,7 +362,7 @@ That said:
 
 A thorough wash will get rid of them.
 
-The following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank"} investigated the effectiveness of laundry to remove cat allergens.
+The following [study](https://www.ncbi.nlm.nih.gov/pubmed/11544455){:target="_blank" rel="noopener"} investigated the effectiveness of laundry to remove cat allergens.
 
 The result?
 
@@ -378,7 +378,7 @@ It really is that simple.
 
 <img class="lazyload" data-src="{{ site.url }}/assets/images/cats/vent.jpg" alt="vent">
 
-Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank"} system at home that pushes air through ducts?
+Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank" rel="noopener"} system at home that pushes air through ducts?
 
 Then this is important:
 
@@ -388,11 +388,11 @@ Not good!
 
 So what can you do about it?
 
-You start by making sure that bedroom **vents are covered** with dense filtering material like [cheesecloth](https://en.wikipedia.org/wiki/Cheesecloth){:target="_blank"}.
+You start by making sure that bedroom **vents are covered** with dense filtering material like [cheesecloth](https://en.wikipedia.org/wiki/Cheesecloth){:target="_blank" rel="noopener"}.
 
 Similarly cover vents in other rooms.
 
-Beyond that, you could consider installing a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank"}. This involves placing an air cleaning device in the ductwork of your home.
+Beyond that, you could consider installing a [whole-house air cleaner](https://www.asthmaandallergyfriendly.com/USA/certified-products/whole-home-air-cleaners){:target="_blank" rel="noopener"}. This involves placing an air cleaning device in the ductwork of your home.
 
 Bottom line:
 
@@ -456,7 +456,7 @@ Sounds crazy right!
 
 But just keep reading and I'll explain.
 
-[Allergy immunotherapy](https://www.webmd.com/allergies/allergy-shots#1){:target="_blank"} works by **exposing the body to minute amounts of an allergen**.
+[Allergy immunotherapy](https://www.webmd.com/allergies/allergy-shots#1){:target="_blank" rel="noopener"} works by **exposing the body to minute amounts of an allergen**.
 
 The point?
 
@@ -467,7 +467,7 @@ There are two common types of immunotherapy:
 * _Allergy shots_
 * _Sublingual immunotherapy (SLIT)_
 
-Allergy shots involve giving injections of allergens in an increasing dose over time. In the case of [SLIT](https://acaai.org/allergies/allergy-treatment/allergy-immunotherapy/sublingual-immunotherapy-slit){:target="_blank"}, patients are given small doses of an allergen under the tongue.
+Allergy shots involve giving injections of allergens in an increasing dose over time. In the case of [SLIT](https://acaai.org/allergies/allergy-treatment/allergy-immunotherapy/sublingual-immunotherapy-slit){:target="_blank" rel="noopener"}, patients are given small doses of an allergen under the tongue.
 
 The goal is that you progressively **become less sensitive to the allergen**.
 
@@ -535,7 +535,7 @@ News flash:
 
 A truly "hypoallergenic" cat does not exist!
 
-[According](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} to The Ohio State University College of Veterinary Medicine:
+[According](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"} to The Ohio State University College of Veterinary Medicine:
 
 > All cats produce allergens.
 
@@ -570,7 +570,7 @@ You basically have **three types of medication**:
 
 To be clear: medication can work for some and do nothing for others.
 
-[According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy){:target="_blank"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
+[According](https://www.aaaai.org/conditions-and-treatments/allergies/pet-allergy){:target="_blank" rel="noopener"} to the American Academy of Allergy, Asthma & Immunology (AAAAI):
 
 > Over-the-counter allergy medications may help relieve symptoms, but they are not ideal as a long-term treatment.
 
@@ -586,7 +586,7 @@ Owning a high number of cats doesn't really make your allergies worse right?
 
 Wrong!
 
-The American College of Allergy, Asthma and Immunology (ACAAI) [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank"} that:
+The American College of Allergy, Asthma and Immunology (ACAAI) [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank" rel="noopener"} that:
 
 > Homes with more than one cat have higher levels of cat allergens.
 
@@ -654,7 +654,7 @@ Do you see where we're going with this?
 
 In other words: keep your furry friend out of the bedroom or other areas where you spend a lot of time.
 
-[According](https://www.youtube.com/watch?v=7OWAO5nnR9A&feature=youtu.be&t=43){:target="_blank"} to Allergist Dr. Dana Wallace:
+[According](https://www.youtube.com/watch?v=7OWAO5nnR9A&feature=youtu.be&t=43){:target="_blank" rel="noopener"} to Allergist Dr. Dana Wallace:
 
 > The ideal situation is one where the cat has its private room where it lives most of the time. This really significantly reduces the exposure of dander to the rest of the house.
 
@@ -696,7 +696,7 @@ Check this out:
 
 Cats usually sleep for about 16 hours a day, on and off.
 
-But that's not all: they often prefer to [rotate their chosen sleeping area](https://www.cats.org.uk/cats-and-sleep){:target="_blank"}.
+But that's not all: they often prefer to [rotate their chosen sleeping area](https://www.cats.org.uk/cats-and-sleep){:target="_blank" rel="noopener"}.
 
 These means a lot of **dander will accumulate** in those sleeping spots.
 
@@ -716,7 +716,7 @@ It couldn't be easier.
 
 <img class="lazyload" data-src="{{ site.url }}/assets/images/cats/wet-wipes.jpg" alt="wet wipes">
 
-It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank"} and it usually goes like this:
+It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank" rel="noopener"} and it usually goes like this:
 
 Your cat becomes highly agitated or even aggressive when bathed.
 
@@ -776,13 +776,13 @@ In short, you need to **clean them regularly**.
 
 You can vacuum the surface…
 
-…but for a vigorous clean you can use a [vapor steam cleaner](https://en.wikipedia.org/wiki/Vapor_steam_cleaner){:target="_blank"}.
+…but for a vigorous clean you can use a [vapor steam cleaner](https://en.wikipedia.org/wiki/Vapor_steam_cleaner){:target="_blank" rel="noopener"}.
 
 These cleaning appliances use steam to clean and are extremely helpful in killing off cat proteins/dander, which is embedded in your carpets and upholstery.
 
 To top it off steam cleaners provide a chemical-free way of cleaning.
 
-You can get your own device or contact certified [professional cleaning services](https://www.asthmaandallergyfriendly.com/USA/professional-cleaning-services){:target="_blank"}.
+You can get your own device or contact certified [professional cleaning services](https://www.asthmaandallergyfriendly.com/USA/professional-cleaning-services){:target="_blank" rel="noopener"}.
 
 The choice is yours.
 
@@ -814,13 +814,13 @@ And that was just the beginning…
 
 Get this:
 
-Spaying or neutering your cat will [improve their health](https://pets.webmd.com/reasons-spay-neuter-pet){:target="_blank"}.
+Spaying or neutering your cat will [improve their health](https://pets.webmd.com/reasons-spay-neuter-pet){:target="_blank" rel="noopener"}.
 
 But it doesn't stop there.
 
-The Ohio State University College of Veterinary Medicine [advises](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank"} to spay or neuter your cat, as this decreases allergen production.
+The Ohio State University College of Veterinary Medicine [advises](https://vet.osu.edu/sites/vet.osu.edu/files/legacy/documents/pdf/education/mph-vph/allergic%20to%20your%20cat.pdf){:target="_blank" rel="noopener"} to spay or neuter your cat, as this decreases allergen production.
 
-On the other hand, following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank"} that data about the effect of neutering a cat is inconsistent.
+On the other hand, following study [states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519933/){:target="_blank" rel="noopener"} that data about the effect of neutering a cat is inconsistent.
 
 And now?
 
@@ -849,8 +849,8 @@ Don't give up to soon. Keep searching until you find what works for both you and
 A good way to start is to get tested.
 
 Here are some links that can help you find an allergist:
-* [ACAAI - Find an Allergist](https://acaai.org/locate-an-allergist){:target="_blank"}
-* [AAAAI - Find an Allergist / Immunologist](http://allergist.aaaai.org/find/){:target="_blank"}
+* [ACAAI - Find an Allergist](https://acaai.org/locate-an-allergist){:target="_blank" rel="noopener"}
+* [AAAAI - Find an Allergist / Immunologist](http://allergist.aaaai.org/find/){:target="_blank" rel="noopener"}
 
 ## Anything I Missed?
 
