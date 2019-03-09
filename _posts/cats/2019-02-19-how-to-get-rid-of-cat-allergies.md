@@ -760,7 +760,7 @@ Give them a try.
 
 ## 27. Vapor Steam
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/vapor-steam-cleaner.jpg" alt="vapor steam cleaner">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.jpg" alt="vapor steam cleaner">
 
 Remember:
 
