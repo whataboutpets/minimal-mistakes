@@ -529,7 +529,7 @@ Or even better, **go for leather and vinyl** as upholstery choice.
 
 ## 17. Allergy-free Cats?
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/sphynx-cat.jpg" alt="sphynx cat">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.jpg" alt="sphynx cat">
 
 News flash:
 
@@ -555,7 +555,7 @@ Put another way:
 
 ## 18. Medication
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/medication.jpg" alt="medication">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.jpg" alt="medication">
 
 Question:
 
@@ -580,7 +580,7 @@ You should **always check with your doctor or allergist** before embarking on a 
 
 ## 19. Numbers DO Matter
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/kittens.jpg" alt="kittens">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.jpg" alt="kittens">
 
 Owning a high number of cats doesn't really make your allergies worse right?
 
