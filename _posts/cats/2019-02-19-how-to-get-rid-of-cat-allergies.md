@@ -226,7 +226,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 ## 5. NO Hugging and Kissing
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/kitten-in-bowl.jpg" alt="kitten in bowl">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.jpg" alt="kitten in bowl">
 
 Hang onto your seat because:
 
@@ -252,7 +252,7 @@ The choice is yours.
 
 ## 6. Wash those Hands
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/wash-hands.jpg" alt="wash hands">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.jpg" alt="wash hands">
 
 Good news:
 
