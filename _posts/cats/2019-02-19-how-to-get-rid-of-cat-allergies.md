@@ -400,7 +400,7 @@ Avoid those allergens from being blow around the house.
 
 ## 12. Brush
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/pet-brush.jpg" alt="pet brush">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.jpg" alt="pet brush">
 
 Question:
 
@@ -426,7 +426,7 @@ Avoid grooming your pet if you have animal allergies. And if you must groom them
 
 ## 13. Keep Outside
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-outside.jpg" alt="cat outside">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.jpg" alt="cat outside">
 
 I can't stress this enough:
 
@@ -444,7 +444,7 @@ Make sure your cat is safe outside.
 
 ## 14. Allergy Shots
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/syringe.jpg" alt="syringe">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.jpg" alt="syringe">
 
 What if I told you that one way to treat your allergies…
 
@@ -483,7 +483,7 @@ Talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-food.jpg" alt="cat food">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.jpg" alt="cat food">
 
 Believe it or not, but what your cat eats is also important.
 
@@ -503,7 +503,7 @@ Go ahead and speak with your veterinarian about feeding your feline friend the r
 
 ## 16. Choose the Right Furniture
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-on-sofa.jpg" alt="cat on sofa">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.jpg" alt="cat on sofa">
 
 Big news:
 
