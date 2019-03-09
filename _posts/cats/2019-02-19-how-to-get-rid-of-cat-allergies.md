@@ -810,7 +810,7 @@ And that was just the beginning…
 
 ## 29. Spay or Neuter?
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-lying-down.jpg" alt="cat lying down">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.jpg" alt="cat lying down">
 
 Get this:
 
@@ -828,7 +828,7 @@ Check with your veterinarian what is best for your feline friend.
 
 ## 30. Get Tested
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/allergy-test.jpg" alt="allergy test">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.jpg" alt="allergy test">
 
 This is important:
 
