@@ -690,7 +690,7 @@ Now you'll be able to clean in record time.
 
 ## 24. Sleeping Spots
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/kitten-sleeping.jpg" alt="kitten sleeping">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.jpg" alt="kitten sleeping">
 
 Check this out:
 
