@@ -598,7 +598,7 @@ Stick to one furry friend…
 
 ## 20. Get Some Help
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/helping-hand.jpg" alt="helping hand">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.jpg" alt="helping hand">
 
 Let's face it:
 
@@ -618,7 +618,7 @@ Just ask for help!
 
 ## 21. Pick Allergy-Proof Bedding
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/pillows.jpg" alt="pillows">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.jpg" alt="pillows">
 
 Here's the deal:
 
@@ -642,7 +642,7 @@ Change and wash your sheets at least once a week to prevent allergens from accum
 
 ## 22. Make Some Rooms off Limits
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/padlocks.jpg" alt="padlocks">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.jpg" alt="padlocks">
 
 Fact:
 
@@ -666,7 +666,7 @@ In one word: great!
 
 ## 23. Go for a Clutter-Free Home
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/empty-room.jpg" alt="empty room">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.jpg" alt="empty room">
 
 One way to manage the allergen levels in your home…
 
