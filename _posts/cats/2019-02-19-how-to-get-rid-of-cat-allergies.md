@@ -714,7 +714,7 @@ It couldn't be easier.
 
 ## 25. Use Wipes
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/wet-wipes.jpg" alt="wet wipes">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.jpg" alt="wet wipes">
 
 It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank" rel="noopener"} and it usually goes like this:
 
@@ -738,7 +738,7 @@ Awesome!
 
 ## 26. Spray Allergens Away
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/spray-bottle.jpg" alt="spray bottle">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.jpg" alt="spray bottle">
 
 Imagine for a moment that there was a convenient way to deactivate cat allergens…
 
