@@ -3,15 +3,15 @@ title: "How to Get Rid of Cat Allergies Permanently: 30 Actionable Tips"
 permalink: /get-rid-of-cat-allergies.html
 excerpt: "30 insanely actionable tips on how to deal with cat allergies."
 date: 2019-02-19
-last_modified_at: 2019-02-19
+last_modified_at: 2019-03-09
 header:
-  teaser: "assets/images/cats/how-to-get-rid-of-cat-allergies.png"
+  teaser: "assets/images/cats/get-rid-of-cat-allergies/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
 published: true
 ---
 
-![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
+![how to get rid of cat allergies]({{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/how-to-get-rid-of-cat-allergies.png){: .align-right .title-image}
 
 This is the most complete list of cat allergy remedies on the Web. Period.
 
@@ -60,7 +60,7 @@ Question:
 
 What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="_blank" rel="noopener"}?
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-with-glasses.jpg" alt="cat with glasses">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.jpg" alt="cat with glasses">
 
 Here's the deal:
 
@@ -86,13 +86,13 @@ So:
 
 What's the cure?
 
-[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank"} to the Asthma and Allergy Foundation of America (AAFA), the best treatment is to **avoid contact** with cats or the areas where they live.
+[According](https://www.aafa.org/pet-dog-cat-allergies){:target="_blank" rel="noopener"} to the Asthma and Allergy Foundation of America (AAFA), the best treatment is to **avoid contact** with cats or the areas where they live.
 
 Removing kitty from your home is often the best treatment.
 
 Let me guess…
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-covering-eyes.jpg" alt="cat covering eyes">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.jpg" alt="cat covering eyes">
 
 No contact or removing is not an option!
 
@@ -102,13 +102,13 @@ So here are some strategies on to how to deal with cat allergies and…
 
 ## 1. Keep OUT of the Bedroom
 
-<img class="lazyload" data-src="{{ site.url }}/assets/images/cats/cat-on-bed.jpg" alt="cat on bed">
+<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.jpg" alt="cat on bed">
 
 OK, I know what you're thinking. There's no harm in snuggling with your furry friend.
 
 But consider this:
 
-You spend [at least one-third](https://www.sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0){:target="_blank"} of your time in the bedroom.
+You spend [at least one-third](https://www.sleepfoundation.org/excessivesleepiness/content/how-much-sleep-do-we-really-need-0){:target="_blank" rel="noopener"} of your time in the bedroom.
 
 That's a minimum of eight hours every day that you expose yourself to potential allergens!
 
