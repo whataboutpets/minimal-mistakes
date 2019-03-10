@@ -148,3 +148,11 @@ $link-color-visited: $accent-color !default;
 .archive__subtitle {
   color: #BDBDBD;
 }
+
+/* Share Post */
+.share-post {
+  position: fixed;
+  right: 0px;
+  top: 300px;
+  z-index: 1;
+}
