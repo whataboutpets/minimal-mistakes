@@ -8,6 +8,7 @@ header:
   teaser: "assets/images/cats/get-rid-of-cat-allergies/how-to-get-rid-of-cat-allergies.png"
 categories: [Cats]
 tags: [Allergy, Cat, Tips]
+classes: wide
 published: true
 ---
 
