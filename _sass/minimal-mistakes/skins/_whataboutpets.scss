@@ -149,6 +149,15 @@ $link-color-visited: $accent-color !default;
   color: #BDBDBD;
 }
 
+.desktop-visible {
+  display:none;
+}
+@media only (min-width: 960px) {
+  .desktop-visible {
+    display: block;
+  }
+}
+
 /* Share Post */
 .social-sidebar {
   position: fixed;
@@ -160,15 +169,15 @@ $link-color-visited: $accent-color !default;
     display: block;
     height: 70px;
     width: 50px;
-    padding-top: 15px;
+    padding-top: 17px;
   }
 }
-.social-sidebar a.twitter {
+.social a.twitter {
   background-color: #38A1F3;
   color: #FFFFFF;
   text-align: center;
 }
-.social-sidebar a.facebook {
+.social a.facebook {
   background-color: #4267b2;
   color: #FFFFFF;
   text-align: center;
