@@ -92,7 +92,7 @@ Removing kitty from your home is often the best treatment.
 
 Let me guess…
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.jpg" alt="cat covering eyes">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-covering-eyes.jpg" alt="cat covering eyes">
 
 No contact or removing is not an option!
 
@@ -102,7 +102,7 @@ So here are some strategies on to how to deal with cat allergies and…
 
 ## 1. Keep OUT of the Bedroom
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.jpg" alt="cat on bed">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-bed.jpg" alt="cat on bed">
 
 OK, I know what you're thinking. There's no harm in snuggling with your furry friend.
 
@@ -128,7 +128,7 @@ Keep kitty out of the bedroom.
 
 ## 2. Clean the Air
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.jpg" alt="dandelion">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/dandelion.jpg" alt="dandelion">
 
 Allergist Dr. Dana Wallace [states](https://acaai.org/allergies/types/pet-allergy#section-1){:target="_blank" rel="noopener"} that:
 
@@ -168,7 +168,7 @@ Nice!
 
 ## 3. Vacuum Often
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.jpg" alt="vacuum cleaner">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vacuum-cleaner.jpg" alt="vacuum cleaner">
 
 Picture this:
 
@@ -196,7 +196,7 @@ Vacuum often and make sure you use a vacuum cleaner that traps allergens.
 
 ## 4. Time for a Bath
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.jpg" alt="cats in towel">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cats-in-towel.jpg" alt="cats in towel">
 
 News flash:
 
@@ -226,7 +226,7 @@ Check out this [veterinarian-approved advice](https://www.wikihow.com/Bathe-a-Ca
 
 ## 5. NO Hugging and Kissing
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.jpg" alt="kitten in bowl">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-bowl.jpg" alt="kitten in bowl">
 
 Hang onto your seat because:
 
@@ -252,7 +252,7 @@ The choice is yours.
 
 ## 6. Wash those Hands
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.jpg" alt="wash hands">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wash-hands.jpg" alt="wash hands">
 
 Good news:
 
@@ -268,7 +268,7 @@ It's a no-brainer.
 
 ## 7. Clean Rigorously and Often
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.jpg" alt="cleaning products">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cleaning-products.jpg" alt="cleaning products">
 
 Get this:
 
@@ -290,7 +290,7 @@ Lather, rinse, repeat.
 
 ## 8. Smooth Floors and Walls
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.jpg" alt="wooden floor">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wooden-floor.jpg" alt="wooden floor">
 
 Want to know a dirty little secret?
 
@@ -320,7 +320,7 @@ Get rid of your carpets!
 
 ## 9. Change Your Clothes
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.jpg" alt="clothes">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/clothes.jpg" alt="clothes">
 
 Odds are that this advice has never crossed your mind.
 
@@ -346,7 +346,7 @@ You get the idea.
 
 ## 10. Keep up with the Laundry
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.jpg" alt="laundry machines">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/laundry-machines.jpg" alt="laundry machines">
 
 Check this out:
 
@@ -376,7 +376,7 @@ It really is that simple.
 
 ## 11. Cover Vents
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.jpg" alt="vent">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vent.jpg" alt="vent">
 
 Do you have a [forced-air](https://en.wikipedia.org/wiki/Forced-air){:target="_blank" rel="noopener"} system at home that pushes air through ducts?
 
@@ -400,7 +400,7 @@ Avoid those allergens from being blow around the house.
 
 ## 12. Brush
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.jpg" alt="pet brush">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pet-brush.jpg" alt="pet brush">
 
 Question:
 
@@ -426,7 +426,7 @@ Avoid grooming your pet if you have animal allergies. And if you must groom them
 
 ## 13. Keep Outside
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.jpg" alt="cat outside">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-outside.jpg" alt="cat outside">
 
 I can't stress this enough:
 
@@ -444,7 +444,7 @@ Make sure your cat is safe outside.
 
 ## 14. Allergy Shots
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.jpg" alt="syringe">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/syringe.jpg" alt="syringe">
 
 What if I told you that one way to treat your allergies…
 
@@ -483,7 +483,7 @@ Talk to your allergist about your options for immunotherapy.
 
 ## 15. Offer a Balanced Diet
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.jpg" alt="cat food">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-food.jpg" alt="cat food">
 
 Believe it or not, but what your cat eats is also important.
 
@@ -503,7 +503,7 @@ Go ahead and speak with your veterinarian about feeding your feline friend the r
 
 ## 16. Choose the Right Furniture
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.jpg" alt="cat on sofa">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-on-sofa.jpg" alt="cat on sofa">
 
 Big news:
 
@@ -529,7 +529,7 @@ Or even better, **go for leather and vinyl** as upholstery choice.
 
 ## 17. Allergy-free Cats?
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.jpg" alt="sphynx cat">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/sphynx-cat.jpg" alt="sphynx cat">
 
 News flash:
 
@@ -555,7 +555,7 @@ Put another way:
 
 ## 18. Medication
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.jpg" alt="medication">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/medication.jpg" alt="medication">
 
 Question:
 
@@ -580,7 +580,7 @@ You should **always check with your doctor or allergist** before embarking on a 
 
 ## 19. Numbers DO Matter
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.jpg" alt="kittens">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kittens.jpg" alt="kittens">
 
 Owning a high number of cats doesn't really make your allergies worse right?
 
@@ -598,7 +598,7 @@ Stick to one furry friend…
 
 ## 20. Get Some Help
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.jpg" alt="helping hand">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/helping-hand.jpg" alt="helping hand">
 
 Let's face it:
 
@@ -618,7 +618,7 @@ Just ask for help!
 
 ## 21. Pick Allergy-Proof Bedding
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.jpg" alt="pillows">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/pillows.jpg" alt="pillows">
 
 Here's the deal:
 
@@ -642,7 +642,7 @@ Change and wash your sheets at least once a week to prevent allergens from accum
 
 ## 22. Make Some Rooms off Limits
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.jpg" alt="padlocks">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/padlocks.jpg" alt="padlocks">
 
 Fact:
 
@@ -666,7 +666,7 @@ In one word: great!
 
 ## 23. Go for a Clutter-Free Home
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.jpg" alt="empty room">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/empty-room.jpg" alt="empty room">
 
 One way to manage the allergen levels in your home…
 
@@ -690,7 +690,7 @@ Now you'll be able to clean in record time.
 
 ## 24. Sleeping Spots
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.jpg" alt="kitten sleeping">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-sleeping.jpg" alt="kitten sleeping">
 
 Check this out:
 
@@ -714,7 +714,7 @@ It couldn't be easier.
 
 ## 25. Use Wipes
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.jpg" alt="wet wipes">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/wet-wipes.jpg" alt="wet wipes">
 
 It's a [familiar story](https://www.banfield.com/pet-healthcare/additional-resources/article-library/everyday-care/should-i-bathe-my-cat){:target="_blank" rel="noopener"} and it usually goes like this:
 
@@ -738,7 +738,7 @@ Awesome!
 
 ## 26. Spray Allergens Away
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.jpg" alt="spray bottle">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/spray-bottle.jpg" alt="spray bottle">
 
 Imagine for a moment that there was a convenient way to deactivate cat allergens…
 
@@ -760,7 +760,7 @@ Give them a try.
 
 ## 27. Vapor Steam
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.jpg" alt="vapor steam cleaner">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/vapor-steam-cleaner.jpg" alt="vapor steam cleaner">
 
 Remember:
 
@@ -788,7 +788,7 @@ The choice is yours.
 
 ## 28. Mind the Litter
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.jpg" alt="kitten in cat litter box">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/kitten-in-cat-litter-box.jpg" alt="kitten in cat litter box">
 
 Listen:
 
@@ -810,7 +810,7 @@ And that was just the beginning…
 
 ## 29. Spay or Neuter?
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.jpg" alt="cat lying down">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-lying-down.jpg" alt="cat lying down">
 
 Get this:
 
@@ -828,7 +828,7 @@ Check with your veterinarian what is best for your feline friend.
 
 ## 30. Get Tested
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.jpg" alt="allergy test">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/allergy-test.jpg" alt="allergy test">
 
 This is important:
 
