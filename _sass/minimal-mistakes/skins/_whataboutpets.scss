@@ -153,7 +153,7 @@ $link-color-visited: $accent-color !default;
 .desktop-visible {
   display:none;
 }
-@media (min-width: 960px) {
+@media (min-width: 970px) {
   .desktop-visible {
     display: block;
   }
@@ -161,7 +161,7 @@ $link-color-visited: $accent-color !default;
 .mobile-visible {
   display:none;
 }
-@media (max-width: 959px) {
+@media (max-width: 969px) {
   .mobile-visible {
     display: block;
   }
