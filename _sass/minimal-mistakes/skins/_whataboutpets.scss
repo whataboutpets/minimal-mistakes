@@ -171,7 +171,7 @@ $link-color-visited: $accent-color !default;
   position: fixed;
   right: 0px;
   top: 300px;
-  z-index: 1;
+  z-index: 10;
 
   .share-link {
     display: block;
@@ -185,10 +185,10 @@ $link-color-visited: $accent-color !default;
   bottom: 0px;
   left: 0px;
   right: 0px;
-  z-index: 1;
+  z-index: 10;
 
   .share-link {
-    display: block;
+    display: inline-block;
     height: 40px;
     padding-top: 7px;
     width: 50%;
