@@ -162,10 +162,9 @@ $link-color-visited: $accent-color !default;
 .social-sidebar a.twitter {
   background-color: #38A1F3;
   color: #FFFFFF;
-  padding-bottom: 20px;
-  padding-top: 20px;
-  padding-left: 12px;
-  padding-right: 12px;
+  height: 60px;
+  width: 40px;
+  text-align: center;
 }
 .social-sidebar a.facebook {
   background-color: #4267b2;
