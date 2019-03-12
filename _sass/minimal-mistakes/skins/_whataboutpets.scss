@@ -155,18 +155,20 @@ $link-color-visited: $accent-color !default;
   right: 0px;
   top: 300px;
   z-index: 1;
+
+  .share-link {
+    display: block;
+    height: 60px;
+    width: 50px;
+  }
 }
 .social-sidebar a.twitter {
   background-color: #38A1F3;
   color: #FFFFFF;
-  height: 60px;
-  width: 50px;
   text-align: center;
 }
 .social-sidebar a.facebook {
   background-color: #4267b2;
   color: #FFFFFF;
-  height: 60px;
-  width: 50px;
   text-align: center;
 }
