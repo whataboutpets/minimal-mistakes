@@ -149,6 +149,7 @@ $link-color-visited: $accent-color !default;
   color: #BDBDBD;
 }
 
+/* Share Post */
 .desktop-visible {
   display:none;
 }
@@ -157,8 +158,15 @@ $link-color-visited: $accent-color !default;
     display: block;
   }
 }
+.mobile-visible {
+  display:none;
+}
+@media only (max-width: 959px) {
+  .mobile-visible {
+    display: block;
+  }
+}
 
-/* Share Post */
 .social-sidebar {
   position: fixed;
   right: 0px;
@@ -170,6 +178,19 @@ $link-color-visited: $accent-color !default;
     height: 70px;
     width: 50px;
     padding-top: 17px;
+  }
+}
+.social-footer {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1;
+
+  .share-link {
+    display: inline-block;
+    height: 40px;
+    width: auto;
+    padding-top: 7px;
   }
 }
 .social a.twitter {
