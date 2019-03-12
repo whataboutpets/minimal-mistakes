@@ -182,14 +182,13 @@ $link-color-visited: $accent-color !default;
 }
 .social-footer {
   position: fixed;
-  float: left;
   bottom: 0px;
   left: 0px;
   right: 0px;
   z-index: 10;
 
   .share-link {
-    display: inline-block;
+    float: left;
     height: 40px;
     padding-top: 7px;
     width: 50%;
