@@ -159,6 +159,8 @@ $link-color-visited: $accent-color !default;
 .social-sidebar ul {
   list-style-type: none;
 }
-.social-sidebar li.twitter {
+.social-sidebar a.twitter {
   background-color: #38A1F3;
+  color: #FFFFFF;
+  padding-top: 20px;
 }
