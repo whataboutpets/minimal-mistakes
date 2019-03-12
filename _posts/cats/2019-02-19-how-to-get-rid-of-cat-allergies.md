@@ -60,7 +60,7 @@ Question:
 
 What is a [cat allergy](https://en.wikipedia.org/wiki/Allergy_to_cats){:target="_blank" rel="noopener"}?
 
-<img class="lazyload" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.jpg" alt="cat with glasses">
+<img class="lazyload align-center" src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.png" data-src="{{ site.url }}/assets/images/cats/get-rid-of-cat-allergies/cat-with-glasses.jpg" alt="cat with glasses">
 
 Here's the deal:
 
